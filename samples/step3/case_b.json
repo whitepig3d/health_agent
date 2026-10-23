@@ -1,0 +1,297 @@
+{
+  "schema_version": "step3-input-sample-1.0",
+  "subject_id": "SYNTH-B",
+  "data_kind": "synthetic",
+  "summary_id": "SUM-SYNTH-B",
+  "summary_version": 1,
+  "summary_text": "体重は2024年から2026年に4.0kg減少。原因は未確認。 腹囲は2024年から2026年に4.0cm減少。原因は未確認。 体重・腹囲の減少を確認し、継続できた要因と今後の意向を面談で確認する。 LDLコレステロールについて面談で状況を確認する課題が残るという模擬レビュー設定。診断・階層化は行わない。  生活習慣、服薬、既往歴、運動制限、本人の意向は未確認。",
+  "facts": [
+    {
+      "fact_id": "SYNTH-B-F-weight-1",
+      "subject_id": "SYNTH-B",
+      "metric": "weight",
+      "label": "体重",
+      "date": "2024-09-10",
+      "value": 80.0,
+      "unit": "kg",
+      "source_row_id": "SYNTH-B-ROW-1",
+      "measurement_condition": "同一測定条件の設定"
+    },
+    {
+      "fact_id": "SYNTH-B-F-weight-2",
+      "subject_id": "SYNTH-B",
+      "metric": "weight",
+      "label": "体重",
+      "date": "2025-09-10",
+      "value": 78.0,
+      "unit": "kg",
+      "source_row_id": "SYNTH-B-ROW-2",
+      "measurement_condition": "同一測定条件の設定"
+    },
+    {
+      "fact_id": "SYNTH-B-F-weight-3",
+      "subject_id": "SYNTH-B",
+      "metric": "weight",
+      "label": "体重",
+      "date": "2026-09-10",
+      "value": 76.0,
+      "unit": "kg",
+      "source_row_id": "SYNTH-B-ROW-3",
+      "measurement_condition": "同一測定条件の設定"
+    },
+    {
+      "fact_id": "SYNTH-B-F-waist-1",
+      "subject_id": "SYNTH-B",
+      "metric": "waist",
+      "label": "腹囲",
+      "date": "2024-09-10",
+      "value": 96.0,
+      "unit": "cm",
+      "source_row_id": "SYNTH-B-ROW-1",
+      "measurement_condition": "同一測定条件の設定"
+    },
+    {
+      "fact_id": "SYNTH-B-F-waist-2",
+      "subject_id": "SYNTH-B",
+      "metric": "waist",
+      "label": "腹囲",
+      "date": "2025-09-10",
+      "value": 94.0,
+      "unit": "cm",
+      "source_row_id": "SYNTH-B-ROW-2",
+      "measurement_condition": "同一測定条件の設定"
+    },
+    {
+      "fact_id": "SYNTH-B-F-waist-3",
+      "subject_id": "SYNTH-B",
+      "metric": "waist",
+      "label": "腹囲",
+      "date": "2026-09-10",
+      "value": 92.0,
+      "unit": "cm",
+      "source_row_id": "SYNTH-B-ROW-3",
+      "measurement_condition": "同一測定条件の設定"
+    },
+    {
+      "fact_id": "SYNTH-B-F-ldl_c-1",
+      "subject_id": "SYNTH-B",
+      "metric": "ldl_c",
+      "label": "LDLコレステロール",
+      "date": "2024-09-10",
+      "value": 156,
+      "unit": "mg/dL",
+      "source_row_id": "SYNTH-B-ROW-1",
+      "measurement_condition": "空腹時"
+    },
+    {
+      "fact_id": "SYNTH-B-F-ldl_c-2",
+      "subject_id": "SYNTH-B",
+      "metric": "ldl_c",
+      "label": "LDLコレステロール",
+      "date": "2025-09-10",
+      "value": 152,
+      "unit": "mg/dL",
+      "source_row_id": "SYNTH-B-ROW-2",
+      "measurement_condition": "空腹時"
+    },
+    {
+      "fact_id": "SYNTH-B-F-ldl_c-3",
+      "subject_id": "SYNTH-B",
+      "metric": "ldl_c",
+      "label": "LDLコレステロール",
+      "date": "2026-09-10",
+      "value": 150,
+      "unit": "mg/dL",
+      "source_row_id": "SYNTH-B-ROW-3",
+      "measurement_condition": "空腹時"
+    }
+  ],
+  "trends": [
+    {
+      "trend_id": "SYNTH-B-T-weight",
+      "fact_ids": [
+        "SYNTH-B-F-weight-1",
+        "SYNTH-B-F-weight-3"
+      ],
+      "period": {
+        "from": "2024-09-10",
+        "to": "2026-09-10"
+      },
+      "comparable": true,
+      "delta": -4.0,
+      "unit": "kg",
+      "comparison_reason": "合成データ上、同一項目・単位・測定条件で比較可能と設定",
+      "reviewed_description": "体重は2024年から2026年に4.0kg減少。原因は未確認。"
+    },
+    {
+      "trend_id": "SYNTH-B-T-waist",
+      "fact_ids": [
+        "SYNTH-B-F-waist-1",
+        "SYNTH-B-F-waist-3"
+      ],
+      "period": {
+        "from": "2024-09-10",
+        "to": "2026-09-10"
+      },
+      "comparable": true,
+      "delta": -4.0,
+      "unit": "cm",
+      "comparison_reason": "合成データ上、同一項目・単位・測定条件で比較可能と設定",
+      "reviewed_description": "腹囲は2024年から2026年に4.0cm減少。原因は未確認。"
+    }
+  ],
+  "reviewed_findings": [
+    {
+      "finding_id": "SYNTH-B-R1",
+      "description": "体重・腹囲の減少を確認し、継続できた要因と今後の意向を面談で確認する。",
+      "fact_ids": [
+        "SYNTH-B-F-weight-1",
+        "SYNTH-B-F-weight-2",
+        "SYNTH-B-F-weight-3",
+        "SYNTH-B-F-waist-1",
+        "SYNTH-B-F-waist-2",
+        "SYNTH-B-F-waist-3"
+      ],
+      "importance": null
+    },
+    {
+      "finding_id": "SYNTH-B-R2",
+      "description": "LDLコレステロールについて面談で状況を確認する課題が残るという模擬レビュー設定。診断・階層化は行わない。",
+      "fact_ids": [
+        "SYNTH-B-F-ldl_c-1",
+        "SYNTH-B-F-ldl_c-2",
+        "SYNTH-B-F-ldl_c-3"
+      ],
+      "importance": null
+    }
+  ],
+  "unknowns": [
+    {
+      "unknown_id": "SYNTH-B-U-medication",
+      "topic": "服薬状況",
+      "status": "unconfirmed",
+      "reason": "面談前の入力資料に情報がない"
+    },
+    {
+      "unknown_id": "SYNTH-B-U-history",
+      "topic": "既往歴・治療状況",
+      "status": "unconfirmed",
+      "reason": "面談前の入力資料に情報がない"
+    },
+    {
+      "unknown_id": "SYNTH-B-U-exercise",
+      "topic": "運動制限・身体状況",
+      "status": "unconfirmed",
+      "reason": "面談前の入力資料に情報がない"
+    },
+    {
+      "unknown_id": "SYNTH-B-U-diet",
+      "topic": "食習慣",
+      "status": "unconfirmed",
+      "reason": "面談前の入力資料に情報がない"
+    },
+    {
+      "unknown_id": "SYNTH-B-U-activity",
+      "topic": "身体活動",
+      "status": "unconfirmed",
+      "reason": "面談前の入力資料に情報がない"
+    },
+    {
+      "unknown_id": "SYNTH-B-U-preference",
+      "topic": "本人の意向・実施可能性",
+      "status": "unconfirmed",
+      "reason": "面談前の入力資料に情報がない"
+    }
+  ],
+  "guidance_category": null,
+  "guidance_category_unknown_reason": "提供された指導区分なし。自動階層化は行わない。",
+  "safety_flags": [],
+  "source_rows": [
+    {
+      "source_row_id": "SYNTH-B-ROW-1",
+      "subject_id": "SYNTH-B",
+      "date": "2024-09-10",
+      "data_kind": "synthetic",
+      "measurements": [
+        {
+          "metric": "weight",
+          "value": 80.0,
+          "unit": "kg",
+          "measurement_condition": "同一測定条件の設定"
+        },
+        {
+          "metric": "waist",
+          "value": 96.0,
+          "unit": "cm",
+          "measurement_condition": "同一測定条件の設定"
+        },
+        {
+          "metric": "ldl_c",
+          "value": 156,
+          "unit": "mg/dL",
+          "measurement_condition": "空腹時"
+        }
+      ]
+    },
+    {
+      "source_row_id": "SYNTH-B-ROW-2",
+      "subject_id": "SYNTH-B",
+      "date": "2025-09-10",
+      "data_kind": "synthetic",
+      "measurements": [
+        {
+          "metric": "weight",
+          "value": 78.0,
+          "unit": "kg",
+          "measurement_condition": "同一測定条件の設定"
+        },
+        {
+          "metric": "waist",
+          "value": 94.0,
+          "unit": "cm",
+          "measurement_condition": "同一測定条件の設定"
+        },
+        {
+          "metric": "ldl_c",
+          "value": 152,
+          "unit": "mg/dL",
+          "measurement_condition": "空腹時"
+        }
+      ]
+    },
+    {
+      "source_row_id": "SYNTH-B-ROW-3",
+      "subject_id": "SYNTH-B",
+      "date": "2026-09-10",
+      "data_kind": "synthetic",
+      "measurements": [
+        {
+          "metric": "weight",
+          "value": 76.0,
+          "unit": "kg",
+          "measurement_condition": "同一測定条件の設定"
+        },
+        {
+          "metric": "waist",
+          "value": 92.0,
+          "unit": "cm",
+          "measurement_condition": "同一測定条件の設定"
+        },
+        {
+          "metric": "ldl_c",
+          "value": 150,
+          "unit": "mg/dL",
+          "measurement_condition": "空腹時"
+        }
+      ]
+    }
+  ],
+  "summary_hash": "sha256:0b216b22c4c5c67cdad340dbbf8bbac2e738e51c7e78afccd4697a406da0c952",
+  "approval": {
+    "status": "approved",
+    "reviewer_id": "MOCK-REVIEWER",
+    "approved_at": "2026-10-23T07:00:00+00:00",
+    "approved_hash": "sha256:0b216b22c4c5c67cdad340dbbf8bbac2e738e51c7e78afccd4697a406da0c952",
+    "mode": "mock"
+  }
+}
