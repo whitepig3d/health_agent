@@ -24,3 +24,28 @@ python main.py plan --input runs/demo-a-approved.json --cards examples/demo/evid
 B・Cも同じ手順で、入力ファイル名と出力先を変えて実行できます。再実行時は出力名を変えてください。既存ファイルは上書きされません。
 
 実業務や本番PoCでは、このカードを、原文・適用条件・版を確認した公的資料のカードに置き換えてください。本データでの成功は医学的妥当性や公的根拠に基づく提案の実証にはなりません。
+
+## ローカルGemma 3 4B（Ollama）
+
+[Ollama](https://ollama.com/)をインストールしたマシンで、モデルを取得します。
+
+```bash
+ollama pull gemma3:4b
+# Ollamaアプリ等が起動していない場合、別ターミナルで実行
+ollama serve
+```
+
+同じマシン上で、このリポジトリを使って実行します。Gemini APIキーは不要です。
+
+```bash
+python main.py summary --backend ollama --input examples/demo/input_a.json --output runs/local-a-summary.json
+# JSON本文を確認・修正後に模擬承認
+python main.py approve --input runs/local-a-summary.json --output runs/local-a-approved.json --reviewer demo-reviewer --note 'ローカル合成データの模擬確認'
+python main.py plan --backend ollama --input runs/local-a-approved.json --cards examples/demo/evidence_cards.json --output runs/local-a-plan.json
+```
+
+接続先は固定で `127.0.0.1:11434` です。Pythonをコンテナやリモートの作業環境で動かした場合は、その環境自身への接続になります。手元のOllamaを使う場合はPythonも手元で実行してください。接続不能時にクラウドへ自動切替はしません。
+
+`--local-model gemma3:4b` でモデル名、`--timeout 600` で待機秒数を指定できます。初期値は300秒。コンテキストは16,384、出力上限は4,096トークンです。メモリや速度は実行機器に依存します。モデル取得にはネットワークが必要ですが、取得後の推論はローカルのOllamaを呼びます。
+
+Gemma 3 4Bは設計書のGemma 4 31Bとは別モデルです。出力のモデルIDにも区別して記録します。小さいモデルでは出典やJSON項目が不正になることがあり、その場合は停止します。生成成功や指導内容の妥当性は保証されません。エラー時は入力・根拠・プロンプトを確認し、修正版で再実行してください。

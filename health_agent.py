@@ -43,6 +43,34 @@ class Gemma:
         return text
 
 
+class Ollama:
+    """Loopback-only Ollama adapter; independent of cloud credentials and proxies."""
+    def __init__(self, model='gemma3:4b', timeout=300):
+        require(timeout > 0, 'timeoutは正数が必要')
+        self.model_id = model
+        self.timeout = timeout
+
+    def generate(self, prompt, data_kind):
+        require(data_kind == 'synthetic' or os.getenv('ALLOW_REAL_DATA') == '1',
+                '実データ利用には確認後の ALLOW_REAL_DATA=1 が必要です')
+        request = urllib.request.Request(
+            'http://127.0.0.1:11434/api/chat',
+            data=json.dumps({'model': self.model_id, 'stream': False, 'format': 'json',
+                             'messages': [{'role': 'user', 'content': prompt}],
+                             'options': {'temperature': 0, 'num_ctx': 16384, 'num_predict': 4096}}).encode(),
+            headers={'Content-Type': 'application/json'})
+        # Fixed loopback destination: do not send local prompts through HTTP_PROXY.
+        opener = urllib.request.build_opener(urllib.request.ProxyHandler({}))
+        with opener.open(request, timeout=self.timeout) as response:
+            result = json.load(response)
+        require(not result.get('error'), 'Ollama応答エラー')
+        require(result.get('done') is True and result.get('done_reason') == 'stop',
+                'Ollama生成未完了または出力上限到達')
+        content = result.get('message', {}).get('content')
+        require(isinstance(content, str) and content.strip(), 'Ollama応答本文が空です')
+        return content
+
+
 def header(kind, source, model):
     return dict(artifact_id=str(uuid4()), artifact_type=kind, schema_version='1.0', version=1,
                 subject_id=source['subject_id'], data_kind=source['data_kind'], status='needs_review',
