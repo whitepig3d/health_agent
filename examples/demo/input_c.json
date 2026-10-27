@@ -1,0 +1,83 @@
+{
+  "subject_id": "DEMO-C",
+  "data_kind": "synthetic",
+  "demo_notice": "実在人物に由来しない動作確認用データ。医学的評価用ではない。",
+  "scenario": "体重欠損と血圧測定条件の違いを含む",
+  "exams": [
+    {
+      "subject_id": "DEMO-C",
+      "exam_id": "DEMO-C-EXAM-1",
+      "exam_date": "2024-06-01",
+      "measurements": [
+        {
+          "source_id": "DEMO_C_1_weight",
+          "code": "weight",
+          "value": 73,
+          "unit": "kg",
+          "method": "体重計",
+          "condition": "同一条件（デモ設定）"
+        },
+        {
+          "source_id": "DEMO_C_1_waist",
+          "code": "waist",
+          "value": 89,
+          "unit": "cm",
+          "method": "腹囲測定",
+          "condition": "同一条件（デモ設定）"
+        },
+        {
+          "source_id": "DEMO_C_1_systolic_bp",
+          "code": "systolic_bp",
+          "value": 130,
+          "unit": "mmHg",
+          "method": "血圧計",
+          "condition": "同一条件（デモ設定）"
+        }
+      ]
+    },
+    {
+      "subject_id": "DEMO-C",
+      "exam_id": "DEMO-C-EXAM-2",
+      "exam_date": "2025-06-01",
+      "measurements": [
+        {
+          "source_id": "DEMO_C_2_weight",
+          "code": "weight",
+          "value": null,
+          "unit": "kg",
+          "method": "体重計",
+          "condition": "同一条件（デモ設定）",
+          "missing_reason": "未測定（デモ設定）"
+        },
+        {
+          "source_id": "DEMO_C_2_waist",
+          "code": "waist",
+          "value": 90,
+          "unit": "cm",
+          "method": "腹囲測定",
+          "condition": "同一条件（デモ設定）"
+        },
+        {
+          "source_id": "DEMO_C_2_systolic_bp",
+          "code": "systolic_bp",
+          "value": 132,
+          "unit": "mmHg",
+          "method": "血圧計",
+          "condition": "測定条件が異なる（デモ設定）"
+        }
+      ]
+    }
+  ],
+  "questionnaire": {},
+  "guidance_category": null,
+  "unknowns": [
+    "食生活",
+    "身体活動",
+    "服薬状況",
+    "既往歴・身体活動の制限",
+    "本人の意向"
+  ],
+  "safety_flags": [
+    "身体状況・服薬・運動制限が未確認。具体的な運動量や食事制限を確定しない。"
+  ]
+}

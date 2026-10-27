@@ -1,0 +1,87 @@
+[
+  {
+    "evidence_id": "DEMO_K_GOAL",
+    "title": "【模擬資料】本人の意向の確認",
+    "url": "https://example.invalid/health-agent-demo/goal",
+    "edition": "demo-1.0",
+    "section": "GOAL",
+    "publisher": "デモ作成者（公的機関ではない）",
+    "data_kind": "synthetic",
+    "text": "【動作確認用の創作文章。公的資料からの引用ではありません】面談で本人が気にしていること、取り組みたいことを確認する。行動候補は本人と検討し、合意前に決定済みと記載しない。",
+    "tags": [],
+    "common": true,
+    "conditions": [],
+    "reviewed": true,
+    "review_scope": "デモ接続用のフラグ。業務有識者による医学的承認を意味しません。",
+    "priority": 1
+  },
+  {
+    "evidence_id": "DEMO_K_UNKNOWN",
+    "title": "【模擬資料】未確認情報の扱い",
+    "url": "https://example.invalid/health-agent-demo/unknown",
+    "edition": "demo-1.0",
+    "section": "UNKNOWN",
+    "publisher": "デモ作成者（公的機関ではない）",
+    "data_kind": "synthetic",
+    "text": "【動作確認用の創作文章。公的資料からの引用ではありません】生活習慣や身体状況が不明な場合は確認質問として整理する。情報不足を否定回答として扱わない。",
+    "tags": [],
+    "common": true,
+    "conditions": [],
+    "reviewed": true,
+    "review_scope": "デモ接続用のフラグ。業務有識者による医学的承認を意味しません。",
+    "priority": 2
+  },
+  {
+    "evidence_id": "DEMO_K_WEIGHT",
+    "title": "【模擬資料】体重・腹囲の変化の確認",
+    "url": "https://example.invalid/health-agent-demo/weight",
+    "edition": "demo-1.0",
+    "section": "WEIGHT",
+    "publisher": "デモ作成者（公的機関ではない）",
+    "data_kind": "synthetic",
+    "text": "【動作確認用の創作文章。公的資料からの引用ではありません】体重・腹囲の変化について、測定条件や生活上の変化を面談で確認する。数値の変化だけから食事や運動の原因を断定しない。",
+    "tags": [
+      "weight",
+      "waist"
+    ],
+    "common": false,
+    "conditions": [],
+    "reviewed": true,
+    "review_scope": "デモ接続用のフラグ。業務有識者による医学的承認を意味しません。",
+    "priority": 3
+  },
+  {
+    "evidence_id": "DEMO_K_BP",
+    "title": "【模擬資料】血圧測定状況の確認",
+    "url": "https://example.invalid/health-agent-demo/bp",
+    "edition": "demo-1.0",
+    "section": "BP",
+    "publisher": "デモ作成者（公的機関ではない）",
+    "data_kind": "synthetic",
+    "text": "【動作確認用の創作文章。公的資料からの引用ではありません】血圧の記録について測定状況を確認する。測定条件が異なる記録を単純に改善・悪化と表現しない。診断や服薬変更を提案しない。",
+    "tags": [
+      "systolic_bp"
+    ],
+    "common": false,
+    "conditions": [],
+    "reviewed": true,
+    "review_scope": "デモ接続用のフラグ。業務有識者による医学的承認を意味しません。",
+    "priority": 4
+  },
+  {
+    "evidence_id": "DEMO_K_FOLLOWUP",
+    "title": "【模擬資料】確認方法の相談",
+    "url": "https://example.invalid/health-agent-demo/followup",
+    "edition": "demo-1.0",
+    "section": "FOLLOWUP",
+    "publisher": "デモ作成者（公的機関ではない）",
+    "data_kind": "synthetic",
+    "text": "【動作確認用の創作文章。公的資料からの引用ではありません】候補を検討した後、本人が無理なく記録できる方法と振り返り時期を相談する。頻度や時期が未定なら、未定のまま確認事項に残す。",
+    "tags": [],
+    "common": true,
+    "conditions": [],
+    "reviewed": true,
+    "review_scope": "デモ接続用のフラグ。業務有識者による医学的承認を意味しません。",
+    "priority": 5
+  }
+]
