@@ -1,0 +1,2133 @@
+[
+  {
+    "evidence_id": "PUB_COMMON_01",
+    "document_id": "PROGRAM_BASIC",
+    "title": "本人の気付きと自己決定",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081589.pdf",
+    "edition": "令和6年度版",
+    "retrieved_at": "2026-11-04",
+    "section": "第1章（1）（2）",
+    "page": {
+      "printed": "191",
+      "pdf_1based": [
+        2
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "本人が課題を理解し、自分で行動を選び、健康管理を続けられるよう支援する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "goal_setting"
+    ],
+    "common": true,
+    "priority": 10,
+    "applicability": [
+      "面談準備全般"
+    ],
+    "exclusions": [
+      "本人の合意を得る前の決定事項化"
+    ],
+    "conditions": [
+      "面談準備全般"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "ご自身が気になっている点は何ですか。",
+      "instruction": "合意前の候補として出力する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "28e2193397cee56892091a457d26b67d04ac402cd809a8fa413ae3f70f55854d"
+  },
+  {
+    "evidence_id": "PUB_COMMON_02",
+    "document_id": "PROGRAM_BASIC",
+    "title": "社会的背景への配慮",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081589.pdf",
+    "edition": "令和6年度版",
+    "retrieved_at": "2026-11-04",
+    "section": "第1章（3）",
+    "page": {
+      "printed": "191",
+      "pdf_1based": [
+        2
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "心身の状態と家庭・職場・経済状況を考慮して支援する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "social_context"
+    ],
+    "common": true,
+    "priority": 11,
+    "applicability": [
+      "生活改善を検討する場合"
+    ],
+    "exclusions": [
+      "生活環境を確認せず実行可能と決めつけること"
+    ],
+    "conditions": [
+      "生活改善を検討する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "仕事や家計の面で取り組みを難しくすることはありますか。",
+      "instruction": "背景情報がなければ質問にする。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "d79e1ecdae5922d29c37f1138a75a76fb8c9196acca572cfdde099527e947cb4"
+  },
+  {
+    "evidence_id": "PUB_COMMON_03",
+    "document_id": "PROGRAM_BASIC",
+    "title": "取り組みの継続を支える",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081589.pdf",
+    "edition": "令和6年度版",
+    "retrieved_at": "2026-11-04",
+    "section": "保健指導を実施する際の要点",
+    "page": {
+      "printed": "192",
+      "pdf_1based": [
+        3
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "できている行動を認め、継続に向けた助言や振り返りの機会を設ける。",
+    "text_kind": "author_summary",
+    "tags": [
+      "goal_setting",
+      "followup"
+    ],
+    "common": true,
+    "priority": 12,
+    "applicability": [
+      "継続支援の計画時"
+    ],
+    "exclusions": [
+      "未確認の実績を評価済みと記載すること"
+    ],
+    "conditions": [
+      "継続支援の計画時"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "続けられていることや役立った支援はありますか。",
+      "instruction": "実績確認と支援候補を分ける。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "73407f442303095aafe0295a500d3754abe896612a1e97db2ac27a85c6149553"
+  },
+  {
+    "evidence_id": "PUB_PLAN_01",
+    "document_id": "PROGRAM_IMPL",
+    "title": "経年健診・問診・過去記録の確認",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001206391.pdf",
+    "edition": "令和6年度版（掲載ページ更新表示2025-11-25）",
+    "retrieved_at": "2026-11-04",
+    "section": "3-2（1）②",
+    "page": {
+      "printed": "212",
+      "pdf_1based": [
+        2
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "面談前に経年の健診結果、質問票、過去の保健指導記録を確認する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "assessment"
+    ],
+    "common": true,
+    "priority": 13,
+    "applicability": [
+      "面談準備時"
+    ],
+    "exclusions": [
+      "欠測を正常とみなすこと"
+    ],
+    "conditions": [
+      "面談準備時"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "前回の指導で取り組んだ内容を教えてください。",
+      "instruction": "未提供の過去記録は補完しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "a10618c20190bef8f1f735ba14d4c90c0739a80733c9916bb3868a4300f67574"
+  },
+  {
+    "evidence_id": "PUB_PLAN_02",
+    "document_id": "PROGRAM_IMPL",
+    "title": "生活と意向のアセスメント",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001206391.pdf",
+    "edition": "令和6年度版（掲載ページ更新表示2025-11-25）",
+    "retrieved_at": "2026-11-04",
+    "section": "3-2（3）②",
+    "page": {
+      "printed": "214",
+      "pdf_1based": [
+        4
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "食事・活動・嗜好品に加え、関心や周囲の協力も確認する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "assessment",
+      "readiness"
+    ],
+    "common": true,
+    "priority": 14,
+    "applicability": [
+      "生活習慣を把握する場合"
+    ],
+    "exclusions": [
+      "健診値から生活習慣を推定して確定すること"
+    ],
+    "conditions": [
+      "生活習慣を把握する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "変えたい習慣と、協力を頼める方はいますか。",
+      "instruction": "質問から条件付き候補へつなぐ。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "47749250a34f8a0d3b30dc62e50e4988820a82b3e8c9a872cf21d5be1e7d705c"
+  },
+  {
+    "evidence_id": "PUB_PLAN_03",
+    "document_id": "PROGRAM_IMPL",
+    "title": "具体的で続けられる目標",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001206391.pdf",
+    "edition": "令和6年度版（掲載ページ更新表示2025-11-25）",
+    "retrieved_at": "2026-11-04",
+    "section": "3-2（6）②③",
+    "page": {
+      "printed": "218",
+      "pdf_1based": [
+        8
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "実行・継続できる行動を本人が選び、障害と対処法を一緒に検討する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "goal_setting"
+    ],
+    "common": true,
+    "priority": 15,
+    "applicability": [
+      "本人と目標候補を検討する場合"
+    ],
+    "exclusions": [
+      "希望や自信を確認せず一律の目標を確定すること"
+    ],
+    "conditions": [
+      "本人と目標候補を検討する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "いつなら実行でき、難しい日はどう対応できそうですか。",
+      "instruction": "頻度と時期が未確認なら未定にする。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "21196c22afef50893f61fc0ffbe7b5129bc1e0bec95488c9fab2ddb72ad23650"
+  },
+  {
+    "evidence_id": "PUB_PLAN_04",
+    "document_id": "PROGRAM_IMPL",
+    "title": "記録による振り返り",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001206391.pdf",
+    "edition": "令和6年度版（掲載ページ更新表示2025-11-25）",
+    "retrieved_at": "2026-11-04",
+    "section": "3-2（6）③④",
+    "page": {
+      "printed": "218–219",
+      "pdf_1based": [
+        8,
+        9
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "行動や体重などの記録を振り返りに使い、利用可能な媒体を紹介する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "monitoring",
+      "weight",
+      "waist"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "記録による支援を検討する場合"
+    ],
+    "exclusions": [
+      "全員にアプリ利用や毎日の記録を強制すること"
+    ],
+    "conditions": [
+      "記録による支援を検討する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "紙やアプリなど、負担の少ない記録方法はありますか。",
+      "instruction": "記録方法を候補として示す。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "42c6e81b0640a913dde918397062e8c18f2f3a16c956fbb8cfd9f1acdb969696"
+  },
+  {
+    "evidence_id": "PUB_PLAN_05",
+    "document_id": "PROGRAM_IMPL",
+    "title": "継続支援の方法と頻度",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001206391.pdf",
+    "edition": "令和6年度版（掲載ページ更新表示2025-11-25）",
+    "retrieved_at": "2026-11-04",
+    "section": "3-2（7）①②",
+    "page": {
+      "printed": "219",
+      "pdf_1based": [
+        9
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "本人の負担と希望に合わせ、連絡頻度や支援方法を相談する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "followup"
+    ],
+    "common": true,
+    "priority": 16,
+    "applicability": [
+      "継続支援を予定する場合"
+    ],
+    "exclusions": [
+      "制度上の評価期限と任意の連絡頻度の混同"
+    ],
+    "conditions": [
+      "継続支援を予定する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "どの連絡手段と頻度なら続けられますか。",
+      "instruction": "支援頻度は本人確認前に確定しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "f9a57088cabf0e0d552eae90073de50925c072ce2fdfc2bd4ccd46251e032c47"
+  },
+  {
+    "evidence_id": "PUB_ASK_01",
+    "document_id": "QUESTIONNAIRE",
+    "title": "服薬・既往歴の確認",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001153030.pdf",
+    "edition": "令和6年度版",
+    "retrieved_at": "2026-11-04",
+    "section": "別紙3 質問1–7",
+    "page": {
+      "printed": "77",
+      "pdf_1based": [
+        1
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "降圧薬・血糖関連薬・脂質関連薬の使用や、心血管疾患・腎疾患等の既往を尋ねる。",
+    "text_kind": "author_summary",
+    "tags": [
+      "medication",
+      "history"
+    ],
+    "common": true,
+    "priority": 1,
+    "applicability": [
+      "問診情報が未確認の場合"
+    ],
+    "exclusions": [
+      "未回答を服薬なし・既往なしとみなすこと"
+    ],
+    "conditions": [
+      "問診情報が未確認の場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "現在の治療や薬について教えてください。",
+      "instruction": "薬の開始・中止・変更を提案しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "84d61d52e760b8b5a8a33004c58e1b7ff79ad7722ecf7e97c952ff02c5ee7b03"
+  },
+  {
+    "evidence_id": "PUB_ASK_02",
+    "document_id": "QUESTIONNAIRE",
+    "title": "体重歴と身体活動の確認",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001153030.pdf",
+    "edition": "令和6年度版",
+    "retrieved_at": "2026-11-04",
+    "section": "別紙3 質問9–12",
+    "page": {
+      "printed": "77",
+      "pdf_1based": [
+        1
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "成人後の体重変化と、運動習慣・日常の身体活動を確認する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "weight",
+      "waist",
+      "activity"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "体重や活動の面談時"
+    ],
+    "exclusions": [
+      "質問票の判定用頻度を運動処方へ流用すること"
+    ],
+    "conditions": [
+      "体重や活動の面談時"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "長期の体重変化と普段の活動量を教えてください。",
+      "instruction": "質問票の基準と推奨量を区別する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "5e4ea7c18bfb5d412e02e8e4c345bfc64d3d055a61c12196f82070765d59482b"
+  },
+  {
+    "evidence_id": "PUB_ASK_03",
+    "document_id": "QUESTIONNAIRE",
+    "title": "咀嚼・食事速度・食事時刻",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001153030.pdf",
+    "edition": "令和6年度版",
+    "retrieved_at": "2026-11-04",
+    "section": "別紙3 質問13–17",
+    "page": {
+      "printed": "77–78",
+      "pdf_1based": [
+        1,
+        2
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "かみにくさ、食べる速さ、遅い夕食、間食・甘い飲料、朝食欠食を確認する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "diet",
+      "oral_health",
+      "weight"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "食習慣を把握する場合"
+    ],
+    "exclusions": [
+      "回答前に早食い・欠食があると断定すること"
+    ],
+    "conditions": [
+      "食習慣を把握する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "食べにくさや食事の時刻で困っていることはありますか。",
+      "instruction": "歯や生活時間の制約を含めて確認する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "ed2573b038cfa7aee3ca93784d2f23be35752dc159b53c1ac653c4f0083db7b8"
+  },
+  {
+    "evidence_id": "PUB_ASK_04",
+    "document_id": "QUESTIONNAIRE",
+    "title": "飲酒頻度・量と睡眠休養感",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001153030.pdf",
+    "edition": "令和6年度版",
+    "retrieved_at": "2026-11-04",
+    "section": "別紙3 質問18–20",
+    "page": {
+      "printed": "78",
+      "pdf_1based": [
+        2
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "飲酒の頻度・飲酒日の量と、睡眠で休めている感覚を確認する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "alcohol",
+      "sleep"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "該当する問診が不足する場合"
+    ],
+    "exclusions": [
+      "飲酒日の量と全日平均量の混同"
+    ],
+    "conditions": [
+      "該当する問診が不足する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "飲む日数・種類・量と、睡眠の満足度を教えてください。",
+      "instruction": "未回答は不明のまま残す。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "2e42df6baa488b66084dafffb08c19c1edb8a09dd7b3885e6f7502071152a6a5"
+  },
+  {
+    "evidence_id": "PUB_RESULT_01",
+    "document_id": "FEEDBACK",
+    "title": "経年変化と複数リスク",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001231392.pdf",
+    "edition": "令和6年度版（掲載ページ更新表示2024-03-21）",
+    "retrieved_at": "2026-11-04",
+    "section": "フィードバック文例集の留意点",
+    "page": {
+      "printed": "127",
+      "pdf_1based": [
+        3
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "健診値の推移と複数項目のリスクを踏まえ、重複を整理して説明する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "weight",
+      "waist",
+      "systolic_bp",
+      "diastolic_bp",
+      "hba1c",
+      "ldl_cholesterol"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "承認済みの経年評価がある場合"
+    ],
+    "exclusions": [
+      "測定条件が異なる値の単純比較"
+    ],
+    "conditions": [
+      "承認済みの経年評価がある場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "測定状況や治療状況に変化はありましたか。",
+      "instruction": "承認済み評価を用い、診断は生成しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "b16ea81e809303fe7b5158a5353ad8fdc48f8719d8e7eb650fdf58a98aa598f6"
+  },
+  {
+    "evidence_id": "PUB_RESULT_02",
+    "document_id": "FEEDBACK",
+    "title": "血圧高値の受診確認",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001231392.pdf",
+    "edition": "令和6年度版（掲載ページ更新表示2024-03-21）",
+    "retrieved_at": "2026-11-04",
+    "section": "血圧高値に関するフィードバック文例集",
+    "page": {
+      "printed": "128",
+      "pdf_1based": [
+        4
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "文例では収縮期160以上または拡張期100以上（mmHg）に至急の医療機関受診を促す。",
+    "text_kind": "author_summary",
+    "tags": [
+      "systolic_bp",
+      "diastolic_bp",
+      "referral"
+    ],
+    "common": false,
+    "priority": 1,
+    "applicability": [
+      "健診血圧・単位と有識者の判定が確認済みの場合"
+    ],
+    "exclusions": [
+      "症状を伴う緊急性判断の代用、薬の変更"
+    ],
+    "conditions": [
+      "健診血圧・単位と有識者の判定が確認済みの場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "受診の案内はありましたか。受診は済んでいますか。",
+      "instruction": "承認済み受診注意を優先する。これは閾値判定エンジンではない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "0cc637b6eb586456ef0e849fb03164d9cc8d9f831729310960a8a82775d7b852"
+  },
+  {
+    "evidence_id": "PUB_RESULT_03",
+    "document_id": "FEEDBACK",
+    "title": "腎機能・尿蛋白の受診確認",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001231392.pdf",
+    "edition": "令和6年度版（掲載ページ更新表示2024-03-21）",
+    "retrieved_at": "2026-11-04",
+    "section": "尿蛋白及び血清クレアチニンに関する文例集",
+    "page": {
+      "printed": "153–154",
+      "pdf_1based": [
+        29,
+        30
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "腎機能と尿蛋白を組み合わせて対応する。軽度の異常でも合併リスクにより受診が必要な場合がある。",
+    "text_kind": "author_summary",
+    "tags": [
+      "egfr",
+      "urine_protein",
+      "creatinine",
+      "referral"
+    ],
+    "common": false,
+    "priority": 2,
+    "applicability": [
+      "腎機能・尿蛋白と合併症を有識者が確認する場合"
+    ],
+    "exclusions": [
+      "単一の値でCKDを診断すること、受診不要の自動判定"
+    ],
+    "conditions": [
+      "腎機能・尿蛋白と合併症を有識者が確認する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "腎臓の検査や受診について説明を受けていますか。",
+      "instruction": "詳しい条件は原文の表・脚注を確認し、判定を人へ戻す。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "1e5b23a7ebfc3e7d72d0fa2cd6960688091892bef20b929ecbf36687cb8fccfe"
+  },
+  {
+    "evidence_id": "PUB_WEIGHT_01",
+    "document_id": "WEIGHT_DIET",
+    "title": "減量が必要かの確認",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-009.html",
+    "edition": "閲覧時点版／食事摂取基準2025年版に言及",
+    "retrieved_at": "2026-11-04",
+    "section": "肥満・メタボリックシンドロームを予防する食事とは",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "体重を減らす必要性を先に検討する。目標とする体格は年齢によって異なる。",
+    "text_kind": "author_summary",
+    "tags": [
+      "weight",
+      "waist",
+      "bmi"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "体重管理の候補を検討する場合"
+    ],
+    "exclusions": [
+      "全員への減量、低栄養・やせへの減量助言"
+    ],
+    "conditions": [
+      "体重管理の候補を検討する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "年齢や体調を踏まえ、どのような体重管理を希望しますか。",
+      "instruction": "減量の必要性を有識者に確認する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "fe4551d809e5efc17744e9c6bbd36a9ab56cd080f045a42dcc132bfab178cb8d"
+  },
+  {
+    "evidence_id": "PUB_WEIGHT_02",
+    "document_id": "WEIGHT_DIET",
+    "title": "食事記録で課題を把握",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-009.html",
+    "edition": "閲覧時点版／食事摂取基準2025年版に言及",
+    "retrieved_at": "2026-11-04",
+    "section": "肥満・メタボリックシンドロームを予防する食事とは",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "食べた内容や場面を記録すると、改善点を振り返りやすい。",
+    "text_kind": "author_summary",
+    "tags": [
+      "weight",
+      "waist",
+      "diet"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "食生活を把握したい場合"
+    ],
+    "exclusions": [
+      "記録だけで摂取エネルギーや原因を確定すること"
+    ],
+    "conditions": [
+      "食生活を把握したい場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "食事の写真やメモを残す方法は取り入れられそうですか。",
+      "instruction": "媒体や記録期間は本人と相談する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "886b024171201a1dc39e8b1721b260844e5b7d308e52b0b3efc6ff48a8bd20b6"
+  },
+  {
+    "evidence_id": "PUB_BP_01",
+    "document_id": "BP_DIET",
+    "title": "減塩の具体的な工夫",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-002",
+    "edition": "2026-05-15更新",
+    "retrieved_at": "2026-11-04",
+    "section": "1. 減塩",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "汁を残す、調味料を少量ずつ使う、酸味や香辛料を活用する方法がある。",
+    "text_kind": "author_summary",
+    "tags": [
+      "systolic_bp",
+      "diastolic_bp",
+      "salt"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "食塩摂取の見直しが適切な場合"
+    ],
+    "exclusions": [
+      "食事内容を確認せず過剰摂取と断定すること"
+    ],
+    "conditions": [
+      "食塩摂取の見直しが適切な場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "汁物や調味料を使う場面で変えられそうなことはありますか。",
+      "instruction": "現在の習慣に合う工夫を候補にする。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "10b074fc972a3874f9e41ec449665cc2a119e8f9fe670a671de65df615527acc"
+  },
+  {
+    "evidence_id": "PUB_BP_02",
+    "document_id": "BP_DIET",
+    "title": "予防の食塩目標と治療の区別",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-002",
+    "edition": "2026-05-15更新",
+    "retrieved_at": "2026-11-04",
+    "section": "1. 減塩",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "発症予防の食塩相当量の目標は成人男性7.5g/日未満、女性6.5g/日未満とされる。",
+    "text_kind": "author_summary",
+    "tags": [
+      "systolic_bp",
+      "diastolic_bp",
+      "salt"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "18歳以上の発症予防について説明する場合"
+    ],
+    "exclusions": [
+      "高血圧等の治療目標への置換、全員への同一量の処方"
+    ],
+    "conditions": [
+      "18歳以上の発症予防について説明する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "医療機関から食塩量について指示がありますか。",
+      "instruction": "数値は一般的な予防目標としてのみ説明する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "ad31b290bb8065eddfee1e972b40753752ea9f90119810c568fc31cb964e66c7"
+  },
+  {
+    "evidence_id": "PUB_BP_03",
+    "document_id": "BP_DIET",
+    "title": "野菜・果物と腎疾患への配慮",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-002",
+    "edition": "2026-05-15更新",
+    "retrieved_at": "2026-11-04",
+    "section": "2. カリウムを積極的に摂る",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "野菜・果物はカリウム源となる。腎臓病を指摘されている場合は医師の指示に従う。",
+    "text_kind": "author_summary",
+    "tags": [
+      "systolic_bp",
+      "diastolic_bp",
+      "potassium",
+      "egfr"
+    ],
+    "common": false,
+    "priority": 3,
+    "applicability": [
+      "腎疾患や食事制限の確認後に検討する場合"
+    ],
+    "exclusions": [
+      "腎疾患・カリウム制限が未確認のまま摂取増量すること"
+    ],
+    "conditions": [
+      "腎疾患や食事制限の確認後に検討する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "腎臓病やカリウム制限の指示はありますか。",
+      "instruction": "不明なら増量候補を保留する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "bbbbfee4e44ab4dfeb10bffef3af53f7488d0d16c1d2e0fb4706cce2d2bcc7f0"
+  },
+  {
+    "evidence_id": "PUB_LIPID_01",
+    "document_id": "LIPID_DIET",
+    "title": "脂質の種類と食品選択",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-012",
+    "edition": "2025-05-01更新",
+    "retrieved_at": "2026-11-04",
+    "section": "2. 肉の脂身、動物脂、加工肉、鶏卵の大量摂取を控える",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "肉の脂身やバター等の摂り過ぎに注意し、食品の選び方を見直す。",
+    "text_kind": "author_summary",
+    "tags": [
+      "ldl_cholesterol",
+      "lipid",
+      "diet"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "脂質の改善を目的とする食生活の検討時"
+    ],
+    "exclusions": [
+      "すべての脂質を禁止すること、検査だけで原因を決めること"
+    ],
+    "conditions": [
+      "脂質の改善を目的とする食生活の検討時"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "肉・乳製品・菓子をどの程度食べていますか。",
+      "instruction": "食品の置き換えを個別に検討する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "69c82dfe9829bd0ed8ce9d5c8a109e329de56e150dc8473754179efc7ef2322a"
+  },
+  {
+    "evidence_id": "PUB_LIPID_02",
+    "document_id": "LIPID_DIET",
+    "title": "魚・低脂肪乳製品の選択",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-012",
+    "edition": "2025-05-01更新",
+    "retrieved_at": "2026-11-04",
+    "section": "3. 魚の摂取を増やし、低脂肪乳製品を摂取する",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "魚を取り入れることや、乳製品では低脂肪のものを選ぶことが紹介されている。",
+    "text_kind": "author_summary",
+    "tags": [
+      "ldl_cholesterol",
+      "triglycerides",
+      "lipid",
+      "diet"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "食習慣・アレルギー・食事制限確認後"
+    ],
+    "exclusions": [
+      "サプリメントへの置換、個人への改善保証"
+    ],
+    "conditions": [
+      "食習慣・アレルギー・食事制限確認後"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "魚や乳製品を取り入れられる機会はありますか。",
+      "instruction": "好みや入手しやすさを確認する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "10c55f9e611c6ef76586c739f2258dd20431f313a18a7e16968164be433bd9b2"
+  },
+  {
+    "evidence_id": "PUB_LIPID_03",
+    "document_id": "LIPID_DIET",
+    "title": "食物繊維と食塩・エネルギーへの配慮",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-012",
+    "edition": "2025-05-01更新",
+    "retrieved_at": "2026-11-04",
+    "section": "4. 未精製穀類、野菜、海藻、大豆等",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "未精製穀類・野菜・大豆などを取り入れ、漬物の塩分やナッツの食べ過ぎに注意する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "ldl_cholesterol",
+      "triglycerides",
+      "fiber"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "食事制限と現在の摂取内容確認後"
+    ],
+    "exclusions": [
+      "食品の無制限な追加や全員への同量の推奨"
+    ],
+    "conditions": [
+      "食事制限と現在の摂取内容確認後"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "普段の主食や副菜で変えられそうなものはありますか。",
+      "instruction": "追加だけでなく置き換えを検討する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "dcb365eccf68e2587229f5fa9da9da9b60a0d0b1444c0cb02ba33143cb599719"
+  },
+  {
+    "evidence_id": "PUB_GLUCOSE_01",
+    "document_id": "GLUCOSE_DIET",
+    "title": "食事の組み合わせと個別の量",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-004.html",
+    "edition": "2025-12-15更新",
+    "retrieved_at": "2026-11-04",
+    "section": "食事療法の原則 1. エネルギー",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "主食・主菜・副菜を組み合わせ、エネルギー量は年齢・目標体重・活動量に合わせる。",
+    "text_kind": "author_summary",
+    "tags": [
+      "fasting_glucose",
+      "hba1c",
+      "glucose",
+      "diet"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "糖尿病に関する食事相談の参考として使う場合"
+    ],
+    "exclusions": [
+      "未診断者の診断、情報不足での摂取熱量処方"
+    ],
+    "conditions": [
+      "糖尿病に関する食事相談の参考として使う場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "主治医や管理栄養士から食事量の説明を受けていますか。",
+      "instruction": "治療食の変更は主治医等への確認事項にする。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "fbf27b929e63dc95de62d65b7bf5e409c2e7920324341b66b315b8fd42668099"
+  },
+  {
+    "evidence_id": "PUB_GLUCOSE_02",
+    "document_id": "GLUCOSE_DIET",
+    "title": "甘い飲料・菓子の見直し",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-004.html",
+    "edition": "2025-12-15更新",
+    "retrieved_at": "2026-11-04",
+    "section": "食事療法の原則 2. 炭水化物",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "清涼飲料水や菓子の糖質は吸収が速く、摂り方を控えめにすることが勧められる。",
+    "text_kind": "author_summary",
+    "tags": [
+      "fasting_glucose",
+      "hba1c",
+      "glucose",
+      "diet"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "飲料・間食の摂取状況と治療内容確認後"
+    ],
+    "exclusions": [
+      "糖質の全面禁止、低血糖時の補食への適用"
+    ],
+    "conditions": [
+      "飲料・間食の摂取状況と治療内容確認後"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "普段飲むものや間食の種類・量を教えてください。",
+      "instruction": "嗜好品の見直しとして提案し、治療対応と混同しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "8633059d0713d250ba64a2165fba5b82b96949b72d18189bbbec559ad44af673"
+  },
+  {
+    "evidence_id": "PUB_GLUCOSE_03",
+    "document_id": "GLUCOSE_DIET",
+    "title": "食事の時間・偏りを確認",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-004.html",
+    "edition": "2025-12-15更新",
+    "retrieved_at": "2026-11-04",
+    "section": "望ましい食習慣",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "欠食・まとめ食い・遅い夕食・間食過多を見直し、規則的に食べることが勧められる。",
+    "text_kind": "author_summary",
+    "tags": [
+      "fasting_glucose",
+      "hba1c",
+      "diet"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "勤務形態と治療内容確認後"
+    ],
+    "exclusions": [
+      "交替勤務者等への画一的な時刻指定"
+    ],
+    "conditions": [
+      "勤務形態と治療内容確認後"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "勤務日と休日では食事の時間はどう違いますか。",
+      "instruction": "生活に即した候補にする。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "0547244bf8c736ebfae80335e1f1796374700a92ea45e15b7fbe728ef4167d4e"
+  },
+  {
+    "evidence_id": "PUB_GLUCOSE_04",
+    "document_id": "GLUCOSE_DIET",
+    "title": "腎障害時のたんぱく質",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-004.html",
+    "edition": "2025-12-15更新",
+    "retrieved_at": "2026-11-04",
+    "section": "食事療法の原則 4. たんぱく質",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "たんぱく質は必要な栄養素だが、腎障害では制限が必要な場合があり主治医に相談する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "hba1c",
+      "egfr",
+      "protein"
+    ],
+    "common": false,
+    "priority": 4,
+    "applicability": [
+      "腎障害を伴う食事相談の場合"
+    ],
+    "exclusions": [
+      "腎機能不明時の高たんぱく食推奨や独自の制限"
+    ],
+    "conditions": [
+      "腎障害を伴う食事相談の場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "たんぱく質について医療機関から指示がありますか。",
+      "instruction": "増減量の判断を生成しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "4a1a808c50b6f290e0c9ff0efb3fe5a4f5c9b3ae154edf87553f5031b961492f"
+  },
+  {
+    "evidence_id": "PUB_FIBER_01",
+    "document_id": "FIBER",
+    "title": "主食や食品の工夫",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/food/e-05-001.html",
+    "edition": "2026-02-16更新",
+    "retrieved_at": "2026-11-04",
+    "section": "食物繊維を効率的にとるコツ",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "麦ごはんや全粒小麦パンなど、主食を工夫する方法で食物繊維を取り入れられる。",
+    "text_kind": "author_summary",
+    "tags": [
+      "fiber",
+      "diet"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "食事制限・消化器症状・アレルギー確認後"
+    ],
+    "exclusions": [
+      "本人の摂取量を集団平均から推測すること"
+    ],
+    "conditions": [
+      "食事制限・消化器症状・アレルギー確認後"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "主食の一部を変える方法は続けられそうですか。",
+      "instruction": "食事全体と本人の希望を確認する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "737f19847039601211ef57327b3d09a00ca9093f4bfeed8801a914a127111595"
+  },
+  {
+    "evidence_id": "PUB_ACT_01",
+    "document_id": "ACTIVITY",
+    "title": "今より少しでも活動を増やす",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/exercise/s-00-002.html",
+    "edition": "2024-02-22更新",
+    "retrieved_at": "2026-11-04",
+    "section": "1. 推奨事項",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "個人差を考慮し、可能な活動から少しずつ増やす。",
+    "text_kind": "author_summary",
+    "tags": [
+      "activity",
+      "weight",
+      "waist"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "成人で運動の安全確認が済んでいる場合"
+    ],
+    "exclusions": [
+      "症状や運動制限を無視した増量"
+    ],
+    "conditions": [
+      "成人で運動の安全確認が済んでいる場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "普段の生活で少し体を動かせそうな場面はありますか。",
+      "instruction": "現状と安全確認がなければ質問中心にする。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "87c05cfb2c580911b242d4d817ea2534cb35392dc09a0fce30e8bac89e1490c3"
+  },
+  {
+    "evidence_id": "PUB_ACT_02",
+    "document_id": "ACTIVITY",
+    "title": "成人の身体活動の一般的目安",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/exercise/s-00-002.html",
+    "edition": "2024-02-22更新",
+    "retrieved_at": "2026-11-04",
+    "section": "1. 推奨事項",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "歩行相当以上の身体活動は1日60分以上、約8,000歩以上に相当する目安が示される。",
+    "text_kind": "author_summary",
+    "tags": [
+      "activity"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "成人向け一般情報として強度・体力・健康状態を確認する場合"
+    ],
+    "exclusions": [
+      "全員への即時達成要求、歩数と時間の二重加算"
+    ],
+    "conditions": [
+      "成人向け一般情報として強度・体力・健康状態を確認する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "現在の歩数や活動時間はどのくらいですか。",
+      "instruction": "生活活動を含む目安であり個人の確定目標ではない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "a7d86027bc794e20d99b25cab8db55721eea0449f5a1b6fb08e5a8293d91a80c"
+  },
+  {
+    "evidence_id": "PUB_ACT_03",
+    "document_id": "ACTIVITY",
+    "title": "運動と筋力トレーニング",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/exercise/s-00-002.html",
+    "edition": "2024-02-22更新",
+    "retrieved_at": "2026-11-04",
+    "section": "1. 推奨事項",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "成人では息が弾む程度の運動を週60分以上、筋トレを週2〜3日行う目安が示される。",
+    "text_kind": "author_summary",
+    "tags": [
+      "activity",
+      "resistance_training"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "成人で健康状態・体力と安全性を確認する場合"
+    ],
+    "exclusions": [
+      "基礎疾患・痛み・制限未確認での強度指定"
+    ],
+    "conditions": [
+      "成人で健康状態・体力と安全性を確認する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "運動経験や痛み、医師からの制限はありますか。",
+      "instruction": "身体活動の目安との関係を確認し、一律処方しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "2525d20539601e7f8a70a2c714e0fae319a972af387b0c650e5291ad9ebc28dd"
+  },
+  {
+    "evidence_id": "PUB_ACT_04",
+    "document_id": "ACTIVITY",
+    "title": "長い座位を中断する",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/exercise/s-00-002.html",
+    "edition": "2024-02-22更新",
+    "retrieved_at": "2026-11-04",
+    "section": "1. 推奨事項／4. 座位行動と健康リスク",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "長時間座り続けることを減らし、可能な範囲でこまめに動く。",
+    "text_kind": "author_summary",
+    "tags": [
+      "sedentary",
+      "activity"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "安全に動ける方法を検討する場合"
+    ],
+    "exclusions": [
+      "立位が困難な人への起立の強制"
+    ],
+    "conditions": [
+      "安全に動ける方法を検討する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "仕事中などに短く体を動かす機会はありますか。",
+      "instruction": "身体機能と職場の制約に合わせる。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "72386fa583a5556aa7f3dae1e0605d23d7416c8975a4f14a49d196e8b9ffdec5"
+  },
+  {
+    "evidence_id": "PUB_SAFE_01",
+    "document_id": "ACTIVITY_SAFE",
+    "title": "運動前の健康・服薬確認",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/exercise/s-00-008",
+    "edition": "2024-03-19更新",
+    "retrieved_at": "2026-11-04",
+    "section": "3. 具体的な注意事項・確認事項 2",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "運動開始前に基礎疾患、内服薬、身体活動量、目的と内容を確認する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "activity",
+      "medication",
+      "safety"
+    ],
+    "common": false,
+    "priority": 1,
+    "applicability": [
+      "運動候補を提示する前"
+    ],
+    "exclusions": [
+      "未確認情報を問題なしと扱うこと"
+    ],
+    "conditions": [
+      "運動候補を提示する前"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "持病や服薬、運動で悪化する痛みはありますか。",
+      "instruction": "確認が残れば強度・量の確定を保留する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "f687230101176934c26a4eb3b3805d2116bf4e5f96319418ba39add6c9efb296"
+  },
+  {
+    "evidence_id": "PUB_SAFE_02",
+    "document_id": "ACTIVITY_SAFE",
+    "title": "運動中の体調変化",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/exercise/s-00-008",
+    "edition": "2024-03-19更新",
+    "retrieved_at": "2026-11-04",
+    "section": "3. 具体的な注意事項・確認事項 4",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "運動中に胸痛、めまい、冷や汗など普段と違う不調が出た場合は中止する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "activity",
+      "safety"
+    ],
+    "common": false,
+    "priority": 2,
+    "applicability": [
+      "運動時の注意を説明する場合"
+    ],
+    "exclusions": [
+      "中止だけで医療対応の必要性を否定すること"
+    ],
+    "conditions": [
+      "運動時の注意を説明する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "運動中に体調が悪くなった経験はありますか。",
+      "instruction": "症状がある場合は専門職の判断へつなぐ。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "749fdf142a93f243bc30b5078b2005df9e2355ee5b537e9524b8da084db72369"
+  },
+  {
+    "evidence_id": "PUB_OLDER_01",
+    "document_id": "ACTIVITY_OLDER",
+    "title": "高齢者の活動量は個別に調整",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/exercise/s-00-004",
+    "edition": "ガイド2023準拠／閲覧時点版",
+    "retrieved_at": "2026-11-04",
+    "section": "1. 推奨事項",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "高齢者には歩行相当以上を1日40分以上（約6,000歩）の目安があるが、未達でも活動に意義がある。",
+    "text_kind": "author_summary",
+    "tags": [
+      "activity",
+      "older_adult"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "高齢者の身体機能・健康状態を確認する場合"
+    ],
+    "exclusions": [
+      "年齢だけで成人版と機械的に切り替えること"
+    ],
+    "conditions": [
+      "高齢者の身体機能・健康状態を確認する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "歩行や日常動作で困っていることはありますか。",
+      "instruction": "体力に合わせて有識者が適用する資料を選ぶ。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "9353c03dfc227ea573c0515a9cba368c37c3bb20f60743d4a3070de1811bac4f"
+  },
+  {
+    "evidence_id": "PUB_OLDER_02",
+    "document_id": "ACTIVITY_OLDER",
+    "title": "多要素の運動と転倒配慮",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://kennet.mhlw.go.jp/information/information/exercise/s-00-004",
+    "edition": "ガイド2023準拠／閲覧時点版",
+    "retrieved_at": "2026-11-04",
+    "section": "1. 推奨事項",
+    "page": null,
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "筋力・バランス・柔軟性を含む運動が推奨され、身体機能が低下した人では転倒に注意する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "activity",
+      "older_adult",
+      "safety"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "高齢者の安全な運動方法を検討する場合"
+    ],
+    "exclusions": [
+      "転倒リスクを確認せず単独運動を指示すること"
+    ],
+    "conditions": [
+      "高齢者の安全な運動方法を検討する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "転倒したことや、ふらつくことはありますか。",
+      "instruction": "支援環境を確認して候補化する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "5b7cf326ac06a8c354e7782a76918f488b145b301b0760deba14b81fe7f9c3d0"
+  },
+  {
+    "evidence_id": "PUB_ALC_01",
+    "document_id": "ALCOHOL",
+    "title": "純アルコール量を把握",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/12200000/001211974.pdf",
+    "edition": "令和6年公表版",
+    "retrieved_at": "2026-11-04",
+    "section": "4（1）飲酒量の把握の仕方",
+    "page": {
+      "printed": "3",
+      "pdf_1based": [
+        3
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "純アルコール量gは飲料量ml×度数/100×0.8で計算する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "alcohol"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "飲料の量と度数が確認できる場合"
+    ],
+    "exclusions": [
+      "度数・量が不明な飲料の推定値を事実として扱うこと"
+    ],
+    "conditions": [
+      "飲料の量と度数が確認できる場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "飲料の量と表示されている度数を教えてください。",
+      "instruction": "計算はコード側で行い、飲酒日の量と平均を区別する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "2802e703e53da2d5b8a4e19c242b563b87caeb3b06439aa2fc78fc60cc2e1acf"
+  },
+  {
+    "evidence_id": "PUB_ALC_02",
+    "document_id": "ALCOHOL",
+    "title": "リスク量は許容量ではない",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/12200000/001211974.pdf",
+    "edition": "令和6年公表版",
+    "retrieved_at": "2026-11-04",
+    "section": "4（2）飲酒量と健康リスク",
+    "page": {
+      "printed": "3–4",
+      "pdf_1based": [
+        3,
+        4
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "男性40g・女性20g/日という政策上の指標は、個人の許容量を示さない。少量でもリスクはある。",
+    "text_kind": "author_summary",
+    "tags": [
+      "alcohol"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "飲酒リスクの説明時"
+    ],
+    "exclusions": [
+      "指標未満なら安全という説明、飲まない人への飲酒推奨"
+    ],
+    "conditions": [
+      "飲酒リスクの説明時"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "飲酒について医師から説明を受けていますか。",
+      "instruction": "安全な飲酒量を断定しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "e73eeef1130f63a400aad7968132a95e291d35645bdb3ce37dc1d8a4e7b6854d"
+  },
+  {
+    "evidence_id": "PUB_ALC_03",
+    "document_id": "ALCOHOL",
+    "title": "飲酒習慣を見直す方法",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/12200000/001211974.pdf",
+    "edition": "令和6年公表版",
+    "retrieved_at": "2026-11-04",
+    "section": "4（3）②〜⑤",
+    "page": {
+      "printed": "4–5",
+      "pdf_1based": [
+        4,
+        5
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "あらかじめ量を決める、水を挟む、飲まない日を作るなどの方法が示される。",
+    "text_kind": "author_summary",
+    "tags": [
+      "alcohol"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "基礎疾患等がない成人を中心とした情報。依存・離脱リスク等を確認する場合"
+    ],
+    "exclusions": [
+      "依存が疑われる人への自己判断の断酒指示"
+    ],
+    "conditions": [
+      "基礎疾患等がない成人を中心とした情報。依存・離脱リスク等を確認する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "量を決めて飲めますか。減らすと体調が変わりますか。",
+      "instruction": "依存や離脱が疑われれば医療相談を優先する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "9f293f31d57edd3d56d7560f87e07d3b85a0e7222eaf5856a435de3d33d6165b"
+  },
+  {
+    "evidence_id": "PUB_SMOKE_01",
+    "document_id": "SMOKING",
+    "title": "喫煙状況の確認と短時間支援",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081632.pdf",
+    "edition": "令和6年度版プログラム別添1",
+    "retrieved_at": "2026-11-04",
+    "section": "1. 健診・保健指導での禁煙支援",
+    "page": {
+      "printed": "1–2",
+      "pdf_1based": [
+        1,
+        2
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "肥満やリスクの大小によらず喫煙者に禁煙支援を行い、状況の把握と助言を組み合わせる。",
+    "text_kind": "author_summary",
+    "tags": [
+      "smoking"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "喫煙が確認された場合"
+    ],
+    "exclusions": [
+      "非肥満を理由に禁煙支援を不要とすること"
+    ],
+    "conditions": [
+      "喫煙が確認された場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "現在の喫煙状況と禁煙へのお気持ちを教えてください。",
+      "instruction": "喫煙を未確認の対象者に断定しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "d2d95f6699a0fcef0b6e254660762e707cfac94920ab499761f5a62e11b5a45f"
+  },
+  {
+    "evidence_id": "PUB_SMOKE_02",
+    "document_id": "SMOKING",
+    "title": "準備状況に応じた禁煙支援",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081632.pdf",
+    "edition": "令和6年度版プログラム別添1",
+    "retrieved_at": "2026-11-04",
+    "section": "1. ABR方式・ABC方式",
+    "page": {
+      "printed": "2",
+      "pdf_1based": [
+        2
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "禁煙の準備がある人には開始日の検討、困難への対処、医療機関の紹介などを行う。",
+    "text_kind": "author_summary",
+    "tags": [
+      "smoking",
+      "readiness"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "禁煙意向・準備状況を確認した場合"
+    ],
+    "exclusions": [
+      "合意前の禁煙開始日の確定、薬剤の処方"
+    ],
+    "conditions": [
+      "禁煙意向・準備状況を確認した場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "禁煙を始める時期や、困りそうな場面はありますか。",
+      "instruction": "相談先の利用を候補にする。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "049681131c6b4da96c472030000a85337771c7ad116076208df28f94e62c47c9"
+  },
+  {
+    "evidence_id": "PUB_SMOKE_03",
+    "document_id": "SMOKING",
+    "title": "受動喫煙への情報提供",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081632.pdf",
+    "edition": "令和6年度版プログラム別添1",
+    "retrieved_at": "2026-11-04",
+    "section": "2. 受動喫煙に関する情報提供",
+    "page": {
+      "printed": "4",
+      "pdf_1based": [
+        4
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "喫煙状況にかかわらず、受動喫煙の健康影響と回避について情報提供する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "smoking",
+      "passive_smoking"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "生活環境の聞き取り時"
+    ],
+    "exclusions": [
+      "本人が喫煙者と決めつけること"
+    ],
+    "conditions": [
+      "生活環境の聞き取り時"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "家庭や職場でたばこの煙に触れることはありますか。",
+      "instruction": "環境の確認質問として使用する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "96b99e515c669652c3e47c90a9ccacbe9ade1eeba99af0e91f922401d6920615"
+  },
+  {
+    "evidence_id": "PUB_SLEEP_01",
+    "document_id": "SLEEP",
+    "title": "睡眠時間と休養感",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/001305530.pdf",
+    "edition": "令和6年2月",
+    "retrieved_at": "2026-11-04",
+    "section": "3（1）成人版",
+    "page": {
+      "printed": "11",
+      "pdf_1based": [
+        13
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "成人は6時間以上の睡眠確保を目安としつつ、個人差や日中の眠気、休養感で調整する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "sleep"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "成人向けの睡眠相談時"
+    ],
+    "exclusions": [
+      "6時間眠れば必ず十分という説明、高齢者への一律適用"
+    ],
+    "conditions": [
+      "成人向けの睡眠相談時"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "何時間眠り、日中の眠気や休めた感覚はどうですか。",
+      "instruction": "時間だけで問題なしと判定しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "a6f47ed6aa96dab10df1e4a2405c6df4bc04ab5f99e49506a3b4ab0c2e7e5bee"
+  },
+  {
+    "evidence_id": "PUB_SLEEP_02",
+    "document_id": "SLEEP",
+    "title": "カフェインの量と時刻",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/001305530.pdf",
+    "edition": "令和6年2月",
+    "retrieved_at": "2026-11-04",
+    "section": "4（3）睡眠と嗜好品について",
+    "page": {
+      "printed": "30–31",
+      "pdf_1based": [
+        32,
+        33
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "カフェインは量と摂取時刻が睡眠に影響し、夕方以降は控えることが勧められる。",
+    "text_kind": "author_summary",
+    "tags": [
+      "sleep",
+      "caffeine"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "摂取内容と就業・睡眠時間を確認する場合"
+    ],
+    "exclusions": [
+      "個人差を無視した安全量の断定"
+    ],
+    "conditions": [
+      "摂取内容と就業・睡眠時間を確認する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "コーヒーやお茶等をいつ、どれくらい飲みますか。",
+      "instruction": "睡眠との関係を確認する質問に使う。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "718f1031d11a46418b81d970ff931937ba08de661ee4674a6f6c41a8e3f93072"
+  },
+  {
+    "evidence_id": "PUB_SLEEP_03",
+    "document_id": "SLEEP",
+    "title": "寝酒と医療相談",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/001305530.pdf",
+    "edition": "令和6年2月",
+    "retrieved_at": "2026-11-04",
+    "section": "4（3）Q&A",
+    "page": {
+      "printed": "32",
+      "pdf_1based": [
+        34
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "寝酒は睡眠に悪影響を及ぼす。毎日の寝酒を急にやめると離脱性の不眠が生じる場合がある。",
+    "text_kind": "author_summary",
+    "tags": [
+      "sleep",
+      "alcohol"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "寝酒が確認された場合"
+    ],
+    "exclusions": [
+      "離脱リスクを無視した自己流の断酒指示"
+    ],
+    "conditions": [
+      "寝酒が確認された場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "眠るために飲みますか。減らすと眠れない等はありますか。",
+      "instruction": "医療機関に相談する候補を優先する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "cd259718347b4549373038930f7454f9ae58b2e85623123691708a57b3347752"
+  },
+  {
+    "evidence_id": "PUB_SLEEP_04",
+    "document_id": "SLEEP",
+    "title": "交替制勤務への配慮",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/001305530.pdf",
+    "edition": "令和6年2月",
+    "retrieved_at": "2026-11-04",
+    "section": "4（6）就業形態（交替制勤務）と睡眠の課題",
+    "page": {
+      "printed": "42",
+      "pdf_1based": [
+        44
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "交替制勤務では一般的な対策が合わない場合がある。生活に支障が続く場合は受診を勧める。",
+    "text_kind": "author_summary",
+    "tags": [
+      "sleep",
+      "shift_work"
+    ],
+    "common": false,
+    "priority": 50,
+    "applicability": [
+      "夜勤・交替勤務が確認された場合"
+    ],
+    "exclusions": [
+      "日勤者と同じ就寝・起床時刻の強制"
+    ],
+    "conditions": [
+      "夜勤・交替勤務が確認された場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "勤務の変化と、睡眠や仕事中の眠気で困ることはありますか。",
+      "instruction": "就業背景を記録し、有識者による個別検討につなぐ。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "cdc792c79131be878f032b99be09ca9ca8b7bba08166a7a6d1ead09c7cb682af"
+  },
+  {
+    "evidence_id": "PUB_NONOBESE_01",
+    "document_id": "NON_OBESE",
+    "title": "非肥満でも血圧リスクに対応",
+    "publisher": "厚生労働省（e-ヘルスネット掲載記事を含む）",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081635.pdf",
+    "edition": "令和6年度版プログラム別添3",
+    "retrieved_at": "2026-11-04",
+    "section": "危険因子ごとの生活習慣改善の要点 1. 血圧",
+    "page": {
+      "printed": "1–2",
+      "pdf_1based": [
+        1,
+        2
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "非肥満の血圧高値でも減塩等を検討する。要医療の腎機能障害ではカリウム増量より受診を優先する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "systolic_bp",
+      "diastolic_bp",
+      "non_obese"
+    ],
+    "common": false,
+    "priority": 5,
+    "applicability": [
+      "特定保健指導対象外の非肥満者への参考情報として扱う場合"
+    ],
+    "exclusions": [
+      "制度上の対象資格の自動付与、肥満者向け減量の流用"
+    ],
+    "conditions": [
+      "特定保健指導対象外の非肥満者への参考情報として扱う場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "血圧や腎機能について受診の案内はありましたか。",
+      "instruction": "制度区分と医学的支援の必要性を分ける。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "868061388d651a923380fe4b815f183494cf9553313d311597a2a123d22a1770"
+  }
+]
