@@ -2129,5 +2129,336 @@
     },
     "source_file_sha256": null,
     "card_sha256": "868061388d651a923380fe4b815f183494cf9553313d311597a2a123d22a1770"
+  },
+  {
+    "evidence_id": "PUB_HANDBOOK_01",
+    "document_id": "HANDBOOK43",
+    "title": "服薬による対象確認",
+    "publisher": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/content/12400000/001496685.pdf",
+    "edition": "第4.3版（2026年3月9日）",
+    "retrieved_at": "2026-11-05",
+    "section": "2-1①④",
+    "page": {
+      "printed": "14–15",
+      "pdf_1based": [
+        19,
+        20
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "糖尿病・高血圧症・脂質異常症の治療薬服用者は対象から除く。質問票の誤記には再確認等の手続がある。",
+    "text_kind": "author_summary",
+    "tags": [
+      "medication",
+      "eligibility"
+    ],
+    "common": false,
+    "priority": 30,
+    "applicability": [
+      "対象者の抽出時。服薬内容・時点と保険者の確認手続を確認する"
+    ],
+    "exclusions": [
+      "薬名だけで自動除外すること、治療や他の支援を不要とすること"
+    ],
+    "conditions": [
+      "対象者の抽出時。服薬内容・時点と保険者の確認手続を確認する"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "服薬状況と対象区分を保険者に確認しましたか。",
+      "instruction": "対象判定を人へ戻す。ASK_01を制度面で補足。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "340b4f4e2f6288424938133bb52a62e2583db26bda207e731abc9b52cfc9ccad"
+  },
+  {
+    "evidence_id": "PUB_HANDBOOK_02",
+    "document_id": "HANDBOOK43",
+    "title": "支援計画とAI案の区別",
+    "publisher": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/content/12400000/001496685.pdf",
+    "edition": "第4.3版（2026年3月9日）",
+    "retrieved_at": "2026-11-05",
+    "section": "2-7-1①",
+    "page": {
+      "printed": "22",
+      "pdf_1based": [
+        27
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "積極的支援の支援計画は、本人が選んだ行動を継続するための介入・支援をまとめる。",
+    "text_kind": "author_summary",
+    "tags": [
+      "goal_setting",
+      "support_plan"
+    ],
+    "common": false,
+    "priority": 30,
+    "applicability": [
+      "積極的支援の計画準備時"
+    ],
+    "exclusions": [
+      "AIの未合意案を正式な支援計画と扱うこと"
+    ],
+    "conditions": [
+      "積極的支援の計画準備時"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "本人が選択した目標と必要な支援は確認できていますか。",
+      "instruction": "PLAN_03と併用し、未合意の案であることを維持する。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "82a18cbb16289ea88ede58361c6c7f3c9dab39a6f98afa52251e3ee08c4d0d81"
+  },
+  {
+    "evidence_id": "PUB_HANDBOOK_03",
+    "document_id": "HANDBOOK43",
+    "title": "分割面接での暫定計画",
+    "publisher": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/content/12400000/001496685.pdf",
+    "edition": "第4.3版（2026年3月9日）",
+    "retrieved_at": "2026-11-05",
+    "section": "2-7-2②",
+    "page": {
+      "printed": "23",
+      "pdf_1based": [
+        28
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "結果未確定時の分割面接は条件付きで可能。結果が揃い医師が判断した後、専門職が本人と計画を完成する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "assessment",
+      "provisional_plan"
+    ],
+    "common": false,
+    "priority": 30,
+    "applicability": [
+      "健診後1週間以内の分割実施。2回目は1回目から遅くとも3か月以内。資格・服薬確認も必要"
+    ],
+    "exclusions": [
+      "単なる入力欠測を分割実施とみなすこと、AIによる計画確定"
+    ],
+    "conditions": [
+      "健診後1週間以内の分割実施。2回目は1回目から遅くとも3か月以内。資格・服薬確認も必要"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "正式な分割実施ですか。残る結果と2回目の日程は何ですか。",
+      "instruction": "現行の承認済み要約必須条件を緩めるカードではない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "b4f7afe85499762d2f19789eb594f95d98c09a00b93d58ac780a572c92d5d21a"
+  },
+  {
+    "evidence_id": "PUB_HANDBOOK_04",
+    "document_id": "HANDBOOK43",
+    "title": "実績評価の起算日",
+    "publisher": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/content/12400000/001496685.pdf",
+    "edition": "第4.3版（2026年3月9日）",
+    "retrieved_at": "2026-11-05",
+    "section": "2-8-1／2-7-2②",
+    "page": {
+      "printed": "23、27",
+      "pdf_1based": [
+        28,
+        32
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "実績評価は初回面接から3か月以上経過後。分割時は2回目を起点とする。",
+    "text_kind": "author_summary",
+    "tags": [
+      "followup",
+      "evaluation"
+    ],
+    "common": false,
+    "priority": 30,
+    "applicability": [
+      "実施形態・支援区分・計画策定日が確認済み。積極的支援では継続支援終了も確認"
+    ],
+    "exclusions": [
+      "任意の連絡頻度との混同、期間経過だけで完了とすること"
+    ],
+    "conditions": [
+      "実施形態・支援区分・計画策定日が確認済み。積極的支援では継続支援終了も確認"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "評価の起算日と必要な支援の終了予定日は確認済みですか。",
+      "instruction": "PLAN_05の連絡頻度と制度上の評価予定を分ける。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "bc4ecc6adab2382cbecad47114dbaae87abf323cd922d3d8bd9cbb8b01aa9511"
+  },
+  {
+    "evidence_id": "PUB_HANDBOOK_05",
+    "document_id": "HANDBOOK43",
+    "title": "個人記録と報告データ",
+    "publisher": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/content/12400000/001496685.pdf",
+    "edition": "第4.3版（2026年3月9日）",
+    "retrieved_at": "2026-11-05",
+    "section": "2-7-1②③",
+    "page": {
+      "printed": "22–23",
+      "pdf_1based": [
+        27,
+        28
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "様式例の必要事項は記録し、決済・実績報告に必要な項目は電子データ化する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "recordkeeping"
+    ],
+    "common": false,
+    "priority": 30,
+    "applicability": [
+      "記録・連携項目を設計する場合"
+    ],
+    "exclusions": [
+      "AI要約だけで正式記録・報告要件を満たすとみなすこと"
+    ],
+    "conditions": [
+      "記録・連携項目を設計する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "契約上の提出物と必須記録項目は確認済みですか。",
+      "instruction": "実行前の業務設計用。現行JSONを報告様式と混同しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "5eafc17d8e92ed579c661609c46a22f455839d3f5bead6ee46aee2491a56852e"
+  },
+  {
+    "evidence_id": "PUB_HANDBOOK_06",
+    "document_id": "HANDBOOK43",
+    "title": "異なる機関による支援の連携",
+    "publisher": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/content/12400000/001496685.pdf",
+    "edition": "第4.3版（2026年3月9日）",
+    "retrieved_at": "2026-11-05",
+    "section": "2-8-2",
+    "page": {
+      "printed": "27",
+      "pdf_1based": [
+        32
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "異なる機関での実施には保険者の総括管理と情報共有が必要で、調整責任者を置く。",
+    "text_kind": "author_summary",
+    "tags": [
+      "coordination",
+      "followup"
+    ],
+    "common": false,
+    "priority": 30,
+    "applicability": [
+      "複数機関で初回面接・評価等を分担する場合"
+    ],
+    "exclusions": [
+      "別チームの存在だけで制度要件充足とすること"
+    ],
+    "conditions": [
+      "複数機関で初回面接・評価等を分担する場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "調整責任者と共有する計画・評価情報は決まっていますか。",
+      "instruction": "チーム間の入力契約の確認に使う。個人への行動目標にはしない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "ca6aa76cd973e6847a9a34571badd0bf5d4ffdbf47d924995056b151f5468704"
+  },
+  {
+    "evidence_id": "PUB_HANDBOOK_07",
+    "document_id": "HANDBOOK43",
+    "title": "動機付け支援の評価方法",
+    "publisher": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/content/12400000/001496685.pdf",
+    "edition": "第4.3版（2026年3月9日）",
+    "retrieved_at": "2026-11-05",
+    "section": "2-4③",
+    "page": {
+      "printed": "18",
+      "pdf_1based": [
+        23
+      ]
+    },
+    "excerpt": null,
+    "excerpt_note": "原文転載はせず、下記textに作成者の要約を記載。原文はURLとsection/pageで照合。",
+    "text": "動機付け支援の通信による評価は双方向で行い、目標達成や生活・身体の変化を確認する。",
+    "text_kind": "author_summary",
+    "tags": [
+      "evaluation",
+      "followup"
+    ],
+    "common": false,
+    "priority": 30,
+    "applicability": [
+      "動機付け支援の評価計画を作る場合"
+    ],
+    "exclusions": [
+      "一方向の通知やAI生成だけを実績評価とすること"
+    ],
+    "conditions": [
+      "動機付け支援の評価計画を作る場合"
+    ],
+    "reviewed": false,
+    "review_status": "pending_expert_review",
+    "review_scope": "出典本文の閲覧確認のみ。医学的妥当性・対象者への適用承認を意味しない。",
+    "reviewer_id": null,
+    "reviewed_at": null,
+    "agent_usage": {
+      "confirmation_question": "本人から評価に必要な情報を得る方法は何ですか。",
+      "instruction": "評価予定の確認に用い、専門職による評価を代行しない。",
+      "origin": "作成者による実装上の提案（原文引用ではない）"
+    },
+    "source_file_sha256": null,
+    "card_sha256": "2621a80d563cf355730f938032c4255085e4b8464d55dab8d8d6c1d5dd5e1361"
   }
 ]

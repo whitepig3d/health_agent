@@ -206,5 +206,19 @@
     "source_file_sha256": null,
     "source_file_status": "原ファイル未保存。原本バイト列のハッシュは未取得。",
     "verification_status": "該当本文確認済み／業務有識者による内容・適用条件レビュー未実施"
+  },
+  {
+    "document_id": "HANDBOOK43",
+    "title": "特定健康診査・特定保健指導の円滑な実施に向けた手引き（第4.3版）",
+    "publisher": "厚生労働省",
+    "url": "https://www.mhlw.go.jp/content/12400000/001496685.pdf",
+    "edition": "第4.3版（2026年3月9日）",
+    "format": "pdf",
+    "retrieved_at": "2026-11-05",
+    "retrieval_method": "Web閲覧ツールの本文抽出で該当箇所を確認",
+    "source_file_sha256": null,
+    "source_file_status": "原ファイル未保存。原本バイト列のハッシュは未取得。",
+    "verification_status": "該当本文確認済み／業務有識者による内容・適用条件レビュー未実施",
+    "landing_url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html"
   }
 ]
