@@ -1,0 +1,746 @@
+[
+  {
+    "line": 0,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "75"
+  },
+  {
+    "line": 1,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 3）"
+  },
+  {
+    "line": 2,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "別紙１"
+  },
+  {
+    "line": 3,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "特定健診（高齢者医療確保法）の項目と労働安全衛生法・学校保健安全法との比較"
+  },
+  {
+    "line": 4,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "項目名 高齢者医療確保法 労働安全衛生法 学校保健安全法"
+  },
+  {
+    "line": 5,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "既往歴 ○ ○"
+  },
+  {
+    "line": 6,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "服薬歴 ○ ※"
+  },
+  {
+    "line": 7,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "喫煙歴 ○ ※"
+  },
+  {
+    "line": 8,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "業務歴 ○"
+  },
+  {
+    "line": 9,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "自覚症状 ○ ○"
+  },
+  {
+    "line": 10,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "他覚症状 ○ ○"
+  },
+  {
+    "line": 11,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "身体計測"
+  },
+  {
+    "line": 12,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "身長 ○ ○ ○"
+  },
+  {
+    "line": 13,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "体重 ○ ○ ○"
+  },
+  {
+    "line": 14,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "腹囲 ○ ○ ○"
+  },
+  {
+    "line": 15,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ＢＭＩ ○ ○ ○"
+  },
+  {
+    "line": 16,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "血圧 血圧（収縮期/拡張期） ○ ○ ○"
+  },
+  {
+    "line": 17,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "肝機能検査"
+  },
+  {
+    "line": 18,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "AST（GOT） ○ ○ ○"
+  },
+  {
+    "line": 19,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ALT（GPT） ○ ○ ○"
+  },
+  {
+    "line": 20,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "γ-GT（γ-GTP） ○ ○ ○"
+  },
+  {
+    "line": 21,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "血中脂質検査"
+  },
+  {
+    "line": 22,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "空腹時中性脂肪 ● ● ●"
+  },
+  {
+    "line": 23,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "随時中性脂肪 ● ● ●"
+  },
+  {
+    "line": 24,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ＨＤＬコレステロール ○ ○ ○"
+  },
+  {
+    "line": 25,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ＬＤＬコレステロール ○ ○ ○ (Non-HDL コレステロール)"
+  },
+  {
+    "line": 26,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "血糖検査"
+  },
+  {
+    "line": 27,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "空腹時血糖 ● ● ●"
+  },
+  {
+    "line": 28,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ＨｂＡ１ｃ ● ● ●"
+  },
+  {
+    "line": 29,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "随時血糖 ● ● ●"
+  },
+  {
+    "line": 30,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "尿検査"
+  },
+  {
+    "line": 31,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "尿糖 ○ ○ ○"
+  },
+  {
+    "line": 32,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "尿蛋白 ○ ○ ○"
+  },
+  {
+    "line": 33,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "血液学検査"
+  },
+  {
+    "line": 34,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "(貧血検査)"
+  },
+  {
+    "line": 35,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ヘマトクリット値 □"
+  },
+  {
+    "line": 36,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "血色素量［ヘモグロビン値］ □ ○ ○"
+  },
+  {
+    "line": 37,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "赤血球数 □ ○ ○"
+  },
+  {
+    "line": 38,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "その他"
+  },
+  {
+    "line": 39,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "心電図 □ ○ ○"
+  },
+  {
+    "line": 40,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "眼底検査 □"
+  },
+  {
+    "line": 41,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "血清クレアチニン（eGFR） □ □"
+  },
+  {
+    "line": 42,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "視力 ○ ○"
+  },
+  {
+    "line": 43,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "聴力 ○ ○"
+  },
+  {
+    "line": 44,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "胸部エックス線検査 ○ ○"
+  },
+  {
+    "line": 45,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "喀痰検査 □ □"
+  },
+  {
+    "line": 46,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "胃の疾病及び異常の有無 ○"
+  },
+  {
+    "line": 47,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "医師の判断"
+  },
+  {
+    "line": 48,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "医師の診断（判定） ○ ○ ○"
+  },
+  {
+    "line": 49,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "医師の意見 ○ ○"
+  },
+  {
+    "line": 50,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○…必須項目、□…医師の判断に基づき選択的に実施する項目、●…いずれかの項目の実施で可"
+  },
+  {
+    "line": 51,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注：労働安全衛生法及び学校保健安全法の定期健康診断は、40 歳以上における取扱いについて記載している。また学校保健安全法の定期"
+  },
+  {
+    "line": 52,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "健康診断は、学校の職員を対象とする。※…必須ではないが、聴取の実施について協力依頼注 13）"
+  },
+  {
+    "line": 53,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 1）空腹時中性脂肪又は随時中性脂肪の判定のため、採血時間（食後）の情報は必須入力項目とする。"
+  },
+  {
+    "line": 54,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注２）やむを得ず空腹時以外に採血を行った場合は、随時中性脂肪により検査を行うことを可とする。"
+  },
+  {
+    "line": 55,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注３）空腹時中性脂肪又は随時中性脂肪が 400mg/dl 以上又は食後採血の場合は、LDL コレステロールに代えて Non-HDL コレステロー"
+  },
+  {
+    "line": 56,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ル（総コレステロールから HDL コレステロールを除いたもの）で評価を行うことができる。"
+  },
+  {
+    "line": 57,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注４）やむを得ず空腹時以外に採血を行い、HbA1c（NGSP 値）を測定しない場合は、食直後（食事開始時から 3.5 時間未満）を除き随"
+  },
+  {
+    "line": 58,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "時血糖により血糖検査を行うことを可とする。"
+  },
+  {
+    "line": 59,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注５）医師が必要でないと認めるときは省略可。"
+  },
+  {
+    "line": 60,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注６）以下の者については医師が必要でないと認めるときは省略可。１妊娠中の女性そのほかの者であって、その腹囲が内臓脂肪の蓄積を"
+  },
+  {
+    "line": 61,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "反映していないと判断されたもの ２BMI（次の算式により算出したものをいう。以下同じ。）が 20 未満である者 BMI=体重（kg）／身長"
+  },
+  {
+    "line": 62,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（ｍ）２ ３自ら腹囲を測定し、その値を申告した者（BMI が 22 未満の者に限る。）"
+  },
+  {
+    "line": 63,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注７）算出可。"
+  },
+  {
+    "line": 64,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注８）医師が必要と認めた場合には実施することが望ましい項目。"
+  },
+  {
+    "line": 65,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注９）胸部エックス線検査により病変及び結核発病のおそれがないと判断された者について医師が必要でないと認めるときは省略可。"
+  },
+  {
+    "line": 66,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注１０）必須項目ではないが、その他の疾病及び異常の有無の発見や診断項目の省略に際して、問診等を行うことが想定される。"
+  },
+  {
+    "line": 67,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注１１）胸部エックス線検査により、病変の発見されたもの、及びその疑いのある者、結核患者並びに結核発病の恐れがあると診断されている者に対しては、"
+  },
+  {
+    "line": 68,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "胸部エックス線検査及び喀痰検査を行い、さらに必要に応じ聴診、打診、その他必要な検査を行う。"
+  },
+  {
+    "line": 69,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注１２）妊娠中の女性職員については検査項目から除くものとし、妊娠可能年齢にある女性職員については、問診等を行った上で、医師が検査対象とするか否"
+  },
+  {
+    "line": 70,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "かを決定する。"
+  },
+  {
+    "line": 71,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 13）「定期健康診断等及び特定健康診査等の実施に関する協力依頼について（令和５年３月３１日）（基発０３３１第１０号・保発０３３１第５号）」"
+  },
+  {
+    "line": 72,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000161103.html）"
+  },
+  {
+    "line": 73,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 5） 注 5）"
+  },
+  {
+    "line": 74,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 6） 注 6）"
+  },
+  {
+    "line": 75,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 1） 注 1）"
+  },
+  {
+    "line": 76,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 1）注２） 注 1）注２）"
+  },
+  {
+    "line": 77,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 3）"
+  },
+  {
+    "line": 78,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 4） 注 4）"
+  },
+  {
+    "line": 79,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 8）"
+  },
+  {
+    "line": 80,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 9） 注 11）"
+  },
+  {
+    "line": 81,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 12）"
+  },
+  {
+    "line": 82,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 7） 注 7）"
+  },
+  {
+    "line": 83,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 10）"
+  },
+  {
+    "line": 84,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "注 10）"
+  },
+  {
+    "line": 85,
+    "pdf_page": 1,
+    "pdf_page_end": 2,
+    "text": "注 10）76"
+  },
+  {
+    "line": 86,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "別紙２"
+  },
+  {
+    "line": 87,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "「詳細な健診」項目について"
+  },
+  {
+    "line": 88,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "以下の判定基準に該当する者のうち、医師が必要と認める者については、詳細"
+  },
+  {
+    "line": 89,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "な健診を実施する（基準に該当した者全てに対して当該健診を実施することは"
+  },
+  {
+    "line": 90,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "適当ではなく、受診者の性別、年齢等を踏まえ、医師が個別に判断する必要があ"
+  },
+  {
+    "line": 91,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "る）。その際、健診機関の医師は、当該健診を必要と判断した理由を保険者へ示"
+  },
+  {
+    "line": 92,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "すとともに、受診者に説明すること。"
+  },
+  {
+    "line": 93,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "なお、ほかの医療機関において実施された最近の検査結果が明らかで、再度検"
+  },
+  {
+    "line": 94,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "査を行う必要がないと判断される者、現に糖尿病、高血圧症、脂質異常症、虚血"
+  },
+  {
+    "line": 95,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "性心疾患、脳血管疾患等の疾患により医療機関において管理されている者につ"
+  },
+  {
+    "line": 96,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "いては、必ずしも詳細な健診を行う必要はなく、現在の症状等を踏まえ、医師が"
+  },
+  {
+    "line": 97,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "個別に判断する必要がある。また、健康診査の結果から、直ちに医療機関を受診"
+  },
+  {
+    "line": 98,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "する必要があると判断された者については、確実な受診勧奨を行い、医療機関に"
+  },
+  {
+    "line": 99,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "おいて、診療報酬により必要な検査を実施する。"
+  },
+  {
+    "line": 100,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（１）12 誘導心電図"
+  },
+  {
+    "line": 101,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ 当該年度の健診結果等において、収縮期血圧が 140mmHg 以上若しくは拡"
+  },
+  {
+    "line": 102,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "張期血圧が 90mmHg 以上の者又は問診等において不整脈が疑われる者"
+  },
+  {
+    "line": 103,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（２）眼底検査"
+  },
+  {
+    "line": 104,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ 当該年度の健診結果等において、①血圧が以下の a、b のうちいずれかの基"
+  },
+  {
+    "line": 105,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "準又は②血糖の値が a、b、c のうちいずれかの基準に該当した者"
+  },
+  {
+    "line": 106,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "① 血圧 a 収縮期血圧 140mmHg 以上"
+  },
+  {
+    "line": 107,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "b 拡張期血圧 90mmHg 以上"
+  },
+  {
+    "line": 108,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "② 血糖 a 空腹時血糖 126mg/dl 以上"
+  },
+  {
+    "line": 109,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "b HbA1c（NGSP） ６.５%以上"
+  },
+  {
+    "line": 110,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "c 随時血糖 126mg/dl 以上"
+  },
+  {
+    "line": 111,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（３）貧血検査"
+  },
+  {
+    "line": 112,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ 貧血の既往歴を有する者又は視診等で貧血が疑われる者"
+  },
+  {
+    "line": 113,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（４）血清クレアチニン検査"
+  },
+  {
+    "line": 114,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ 当該年度の健診結果等において、①血圧が以下のa、bのうちいずれかの基準"
+  },
+  {
+    "line": 115,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "又は②血糖の値がa、b、cのうちいずれかの基準に該当した者"
+  },
+  {
+    "line": 116,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "① 血圧 a 収縮期血圧 130ｍｍＨｇ以上"
+  },
+  {
+    "line": 117,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "b 拡張期血圧 85ｍｍＨｇ以上"
+  },
+  {
+    "line": 118,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "② 血糖 a 空腹時血糖 100mg/dl以上"
+  },
+  {
+    "line": 119,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "b HbA1c（NGSP） ５.６%以上"
+  },
+  {
+    "line": 120,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "c 随時血糖 100mg/dl以上"
+  },
+  {
+    "line": 121,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "眼底検査は、当該年度の特定健康診査の結果等のうち、（２）①のうち a、b のいずれの血圧の基準にも該当せず、"
+  },
+  {
+    "line": 122,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "かつ当該年度の血糖検査の結果を確認することができない場合においては、前年度の特定健康診査の結果等におい"
+  },
+  {
+    "line": 123,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "て、血糖検査の結果が（２）②のうち a、b、c のいずれかの基準に該当した者も含む。"
+  }
+]

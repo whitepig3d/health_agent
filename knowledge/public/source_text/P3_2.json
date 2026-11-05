@@ -1,0 +1,2132 @@
+[
+  {
+    "line": 0,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "197"
+  },
+  {
+    "line": 1,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "第２章 保健事業（保健指導）計画の作成"
+  },
+  {
+    "line": 2,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "２－１ 保健事業（保健指導）計画作成の進め方"
+  },
+  {
+    "line": 3,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "保健事業（保健指導）計画の作成は、次のような流れで行う。"
+  },
+  {
+    "line": 4,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "① 国の制度、ガイドライン、国民健康・栄養調査の調査結果等から保健事業を"
+  },
+  {
+    "line": 5,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "進める上で、全体の方向性を考える。"
+  },
+  {
+    "line": 6,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "② 各種データから集団全体の分析と個人、保健事業の単位の分析を行い、その"
+  },
+  {
+    "line": 7,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "集団における優先すべき健康課題を明確にする。"
+  },
+  {
+    "line": 8,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "③ ②において明らかになった健康課題を解決するために、優先順位を考慮した"
+  },
+  {
+    "line": 9,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "上で、保健事業（保健指導）目標として達成すべき目標や数値目標を設定す"
+  },
+  {
+    "line": 10,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "る。"
+  },
+  {
+    "line": 11,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "④ ③において設定した目標を具体的に達成するために、保健事業（保健指導）"
+  },
+  {
+    "line": 12,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "の方法、実施、評価について計画を作成する。"
+  },
+  {
+    "line": 13,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "※ ここでいう保健事業計画とは、各地方公共団体、保険者において、関連する"
+  },
+  {
+    "line": 14,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "法律に基づいた保健事業全般における計画を想定している。なお、特定健康"
+  },
+  {
+    "line": 15,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "診査等実施計画、データヘルス計画等の作成においても参考にされたい。"
+  },
+  {
+    "line": 16,
+    "pdf_page": 1,
+    "pdf_page_end": 2,
+    "text": "※ 図１の保健事業（保健指導）計画作成の進め方を参照。198"
+  },
+  {
+    "line": 17,
+    "pdf_page": 2,
+    "pdf_page_end": 3,
+    "text": "図１ 保健事業（保健指導）計画作成の進め方199"
+  },
+  {
+    "line": 18,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "２－２ 保健事業（保健指導）計画作成に当たっての現状分析と分析"
+  },
+  {
+    "line": 19,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "結果の整理"
+  },
+  {
+    "line": 20,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "（１）分析が必要な理由"
+  },
+  {
+    "line": 21,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "保健事業（保健指導）計画を作成するためには、まず、現状を正確に把握し分"
+  },
+  {
+    "line": 22,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "析することが重要である。"
+  },
+  {
+    "line": 23,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "第一の理由としては、対象者の所属する地域・職域等の集団全体の健康課題を"
+  },
+  {
+    "line": 24,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "分析することにより、その集団においてどのような生活習慣病対策に焦点を当"
+  },
+  {
+    "line": 25,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "てるのかということと、優先すべき健康課題を把握し、保健事業全体の目標を設"
+  },
+  {
+    "line": 26,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "定するためである。このことは、ハイリスクアプローチとポピュレーションアプ"
+  },
+  {
+    "line": 27,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ローチ全てを含んだ生活習慣病対策の全体像を見据え、社会資源を有効に活用"
+  },
+  {
+    "line": 28,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "しながら保健事業を組み立てていくことにつながる。また、社会保障制度が持続"
+  },
+  {
+    "line": 29,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "可能となるよう、生活習慣病有病者や予備群の割合や、医療費を分析することに"
+  },
+  {
+    "line": 30,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "より医療費の増大の原因を明らかにしたり、健診データやレセプトデータと介"
+  },
+  {
+    "line": 31,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "護保険データ（要介護度データ等）との突合を行うことにより要介護状態に至る"
+  },
+  {
+    "line": 32,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "要因を解明したりすることが重要となる。"
+  },
+  {
+    "line": 33,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "第二の理由として、対象者の的確な把握を行うことにより、対象者に合った効"
+  },
+  {
+    "line": 34,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "果的・効率的な保健事業（保健指導）を行うことが挙げられる。さらに、保健指"
+  },
+  {
+    "line": 35,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "導対象者数を概算することができるため、投入する人的資源や予算を計画する"
+  },
+  {
+    "line": 36,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ことができる。また、反対に、決められた予算の中で効率的に保健指導を行う計"
+  },
+  {
+    "line": 37,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "画（支援方法、優先順位等の検討）を作成することができる。"
+  },
+  {
+    "line": 38,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "これらを踏まえて、ＰＤＣＡサイクルに沿った保健事業を展開することが求"
+  },
+  {
+    "line": 39,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "められる。"
+  },
+  {
+    "line": 40,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "（２）分析すべき項目"
+  },
+  {
+    "line": 41,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "現状分析は、実施している保健事業全体の効果を把握するための「集団全体の"
+  },
+  {
+    "line": 42,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "分析」と保健指導を受けた一人ひとりの効果を把握するための「個人単位の分"
+  },
+  {
+    "line": 43,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "析」、様々に実施している保健指導から各保健指導の効果を把握する「保健事業"
+  },
+  {
+    "line": 44,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "の単位の分析」から実施する。「集団全体の分析」、「個人単位の分析」、「保"
+  },
+  {
+    "line": 45,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "健事業の単位の分析」は密接な関係があるため、計画作成に当たっては情報の共"
+  },
+  {
+    "line": 46,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "有化を図らなければならない。"
+  },
+  {
+    "line": 47,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "集団全体の分析項目としては、①健診結果等の変化、生活習慣病の有病率、医"
+  },
+  {
+    "line": 48,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "療費の変化、要介護認定の状況、死亡率等の健康課題を把握するための項目、②"
+  },
+  {
+    "line": 49,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "健診受診率、保健指導対象者のうちの保健指導を実施した者の割合等の効果的"
+  },
+  {
+    "line": 50,
+    "pdf_page": 3,
+    "pdf_page_end": 4,
+    "text": "な保健事業（保健指導）を実施しているかどうかを判断する項目、③保健・医療200"
+  },
+  {
+    "line": 51,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "提供体制、保健指導実施者に対する研修体制と研修実施状況等の効果的な保健"
+  },
+  {
+    "line": 52,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "活動を実施できる体制にあるのかどうかを判断するための項目等が挙げられる。"
+  },
+  {
+    "line": 53,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "個人、保健事業の単位の分析項目としては、①個人単位での健康度を把握する"
+  },
+  {
+    "line": 54,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ための項目、②保健事業（保健指導）対象者把握のための項目、③保健事業（保"
+  },
+  {
+    "line": 55,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "健指導）の効果を把握するための項目等が挙げられる。"
+  },
+  {
+    "line": 56,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "平成 20 年度以降は特定健診データの蓄積、更にはレセプトデータの電子化"
+  },
+  {
+    "line": 57,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "等の推進もあり、健康課題の分析や集団としての保健事業評価が実施しやすく"
+  },
+  {
+    "line": 58,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "なってきている。国や都道府県、国保中央会等の公表する全国・都道府県別、市"
+  },
+  {
+    "line": 59,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "町村別データと、各保険者等におけるデータの比較等により、集団の特性を明ら"
+  },
+  {
+    "line": 60,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "かにしたり、数値の経年変化を追跡することにより、保健事業の目標設定や修正、"
+  },
+  {
+    "line": 61,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "進捗管理を行うことが可能となっている。"
+  },
+  {
+    "line": 62,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "なお、表 1「集団全体の分析項目」と表２「個人、保健事業の単位の分析項目」"
+  },
+  {
+    "line": 63,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "を参考として例示する。"
+  },
+  {
+    "line": 64,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（３）分析の方法と保健事業（保健指導）計画への活用"
+  },
+  {
+    "line": 65,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "現状分析に当たっては、基準の統一、比較可能性等に留意して行う必要がある。"
+  },
+  {
+    "line": 66,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "また、分析結果については、医療費、対象の属性、環境等の観点から更に解析を"
+  },
+  {
+    "line": 67,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "行い、その結果を整理する。そして、対象集団の健康課題、保健指導の効果が期"
+  },
+  {
+    "line": 68,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "待される対象者集団及び方法等を明らかにして、その課題解決に向けた保健事"
+  },
+  {
+    "line": 69,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "業（保健指導）計画を策定するための基礎資料を作成する。"
+  },
+  {
+    "line": 70,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "基礎資料には、次のような分析結果を整理することが考えられる（第４編第３"
+  },
+  {
+    "line": 71,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "章参照）。"
+  },
+  {
+    "line": 72,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "① 「医療費等の負担の大きい疾病等の分析」（参考様式１～２、参考様式１－"
+  },
+  {
+    "line": 73,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "２、参考様式２－１、参考様式２－２、参考様式３－１～６）"
+  },
+  {
+    "line": 74,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "重点的に対策を行うべき病態や生活習慣を選定する。ほかに、人工透析導"
+  },
+  {
+    "line": 75,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "入原因疾患等の分析も健康課題の抽出に役立つ。"
+  },
+  {
+    "line": 76,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "② 「医療費増加率、有所見率の増加が著しい疾病等の分析」（参考様式１～２、"
+  },
+  {
+    "line": 77,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "参考様式１－２、参考様式２－１、参考様式２－２、参考様式３－１～６）"
+  },
+  {
+    "line": 78,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "背景にある要因（生活習慣、環境の変化等）を考察し、重点的に適正化を"
+  },
+  {
+    "line": 79,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "図るための計画を立案する。"
+  },
+  {
+    "line": 80,
+    "pdf_page": 4,
+    "pdf_page_end": 5,
+    "text": "③ 「属性ごとの分析」201"
+  },
+  {
+    "line": 81,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "優先的に対象とすべき性別・年代を選定し、対象となるそれぞれの属性（働"
+  },
+  {
+    "line": 82,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "き盛り（管理職、営業職等）、育児中の親等）に受け入れやすい保健事業を"
+  },
+  {
+    "line": 83,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "計画する。"
+  },
+  {
+    "line": 84,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "④ 「環境（地域・職域）ごとの分析」"
+  },
+  {
+    "line": 85,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "重点的に対策を行うべき対象を選定し、その地域・職場の共通の生活習慣"
+  },
+  {
+    "line": 86,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "に関連する問題についてはポピュレーションアプローチの視点も含めて計画"
+  },
+  {
+    "line": 87,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "を作成する。なお、職域の分析に当たっては、職場全体の分析だけではなく、"
+  },
+  {
+    "line": 88,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "例えば夜勤従事者や在宅勤務者等、勤務形態や業務内容に応じた分析も考慮"
+  },
+  {
+    "line": 89,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "に入れる。"
+  },
+  {
+    "line": 90,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "⑤ 「ストラクチャー（構造）、プロセス（過程）、アウトプット（事業実施量）、"
+  },
+  {
+    "line": 91,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "アウトカム（結果）の分析」"
+  },
+  {
+    "line": 92,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ストラクチャー（構造）、プロセス（過程）、アウトプット（事業実施量）、"
+  },
+  {
+    "line": 93,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "アウトカム（結果）のそれぞれについて分析し、更に関連性について分析す"
+  },
+  {
+    "line": 94,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "る。保健事業の実施により、健康課題の改善が図られているかどうかを検討"
+  },
+  {
+    "line": 95,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "する。不十分な場合には保健事業の見直し、又は他の影響する要因について"
+  },
+  {
+    "line": 96,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "分析する（第３編第４章参照）。"
+  },
+  {
+    "line": 97,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "なお、市町村においては、死因、平均寿命、健康寿命や要介護原因疾患（性"
+  },
+  {
+    "line": 98,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "別・年齢別）等について、国保部門・衛生部門・介護保険部門の担当が保有"
+  },
+  {
+    "line": 99,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "している各種データ、例えば、ＫＤＢシステムの活用は、自地域の状況把握"
+  },
+  {
+    "line": 100,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "や他自治体との比較が可能となる。このように各部門が所有するデータを統"
+  },
+  {
+    "line": 101,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "合して分析・評価することにより、保健事業全体を俯瞰した戦略の検討及び"
+  },
+  {
+    "line": 102,
+    "pdf_page": 5,
+    "pdf_page_end": 6,
+    "text": "体制整備に資することができる。202"
+  },
+  {
+    "line": 103,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "表１ 集団全体の分析項目（例）"
+  },
+  {
+    "line": 104,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "(*)：市町村においては、要介護原因疾患（性別・年齢別）等について、国保部門・衛生部門・介護部門の担当が合同し"
+  },
+  {
+    "line": 105,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "て分析・評価することが望ましい項目"
+  },
+  {
+    "line": 106,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "把握の時期"
+  },
+  {
+    "line": 107,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "計画作成時から"
+  },
+  {
+    "line": 108,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "把握可能"
+  },
+  {
+    "line": 109,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "事業実施後に把"
+  },
+  {
+    "line": 110,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "握可能"
+  },
+  {
+    "line": 111,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "事業の最終的な"
+  },
+  {
+    "line": 112,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "評価で把握可能"
+  },
+  {
+    "line": 113,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "① 健康課題把握のための項目"
+  },
+  {
+    "line": 114,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "死亡率 ○"
+  },
+  {
+    "line": 115,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "死亡率の変化 ○"
+  },
+  {
+    "line": 116,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "標準化死亡比 ○"
+  },
+  {
+    "line": 117,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "標準化死亡比の変化 ○"
+  },
+  {
+    "line": 118,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "要介護者等の割合(*) ○"
+  },
+  {
+    "line": 119,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "要介護者等の割合の変化(*) ○"
+  },
+  {
+    "line": 120,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "要介護状態の原因疾患(*) ○ （○） ○"
+  },
+  {
+    "line": 121,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "レセプト ○"
+  },
+  {
+    "line": 122,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "(特に生活習慣病関連医療費･疾患名) ○"
+  },
+  {
+    "line": 123,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "医療費の変化"
+  },
+  {
+    "line": 124,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "生活習慣病の患者数 ○"
+  },
+  {
+    "line": 125,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "健診結果等の変化 （○） ○"
+  },
+  {
+    "line": 126,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "生活習慣の状況 （○） ○"
+  },
+  {
+    "line": 127,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "生活習慣の変化 ○"
+  },
+  {
+    "line": 128,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "その他分析に必要な項目"
+  },
+  {
+    "line": 129,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "② 効果的な保健事業（保健指導）の実施状況を判断するための項目"
+  },
+  {
+    "line": 130,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "保健指導対象者のうち、「動機付け支援」、「積極的"
+  },
+  {
+    "line": 131,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "支援」を実施した者の割合"
+  },
+  {
+    "line": 132,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "○"
+  },
+  {
+    "line": 133,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "保健指導を実施した者のうち、行動変容の"
+  },
+  {
+    "line": 134,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ステージ（準備状態）が改善した者の割合"
+  },
+  {
+    "line": 135,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "○"
+  },
+  {
+    "line": 136,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "生活習慣病により高額医療費を受けている者の割合 （○）"
+  },
+  {
+    "line": 137,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "生活習慣病により長期入院している者の割合 （○）"
+  },
+  {
+    "line": 138,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "人工透析を受けている者の割合 （○）"
+  },
+  {
+    "line": 139,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "受診勧奨された対象者のうち、保健指導又は治療"
+  },
+  {
+    "line": 140,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "を受けた者の割合"
+  },
+  {
+    "line": 141,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "（○） ○"
+  },
+  {
+    "line": 142,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "生活習慣病の治療中断者の割合 （○） ○"
+  },
+  {
+    "line": 143,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "効果的で常に運営可能な内容の提供状況 （○） ○"
+  },
+  {
+    "line": 144,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "生 活 習 慣 改 善 指 導 を 希 望 す る 者 の効果的な"
+  },
+  {
+    "line": 145,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "保健事業へのアクセス状況"
+  },
+  {
+    "line": 146,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "○"
+  },
+  {
+    "line": 147,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "その他分析に必要な項目"
+  },
+  {
+    "line": 148,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "③ 効果的な保健事業（保健指導）を実施できる体制であるかどうかを判断するための項目"
+  },
+  {
+    "line": 149,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "保健･医療提供体制(人的資源、施設等) （○） ○"
+  },
+  {
+    "line": 150,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "保健指導実施者に対する研修体制と研修実施状況 （○） ○"
+  },
+  {
+    "line": 151,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "保健指導のための支援材料等の開発 （○） ○"
+  },
+  {
+    "line": 152,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "活用可能な社会資源の状況 （○） ○"
+  },
+  {
+    "line": 153,
+    "pdf_page": 6,
+    "pdf_page_end": 7,
+    "text": "その他分析に必要な項目203"
+  },
+  {
+    "line": 154,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "表２ 個人、保健事業の単位の分析項目（例）"
+  },
+  {
+    "line": 155,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "把握の時期"
+  },
+  {
+    "line": 156,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "計 画作成 時"
+  },
+  {
+    "line": 157,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "か ら把握 可"
+  },
+  {
+    "line": 158,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "能"
+  },
+  {
+    "line": 159,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "事 業実 施後"
+  },
+  {
+    "line": 160,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "に把握可能"
+  },
+  {
+    "line": 161,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "事 業 の 最 終"
+  },
+  {
+    "line": 162,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "的 な 評 価 で"
+  },
+  {
+    "line": 163,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "把握可能"
+  },
+  {
+    "line": 164,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "① 個人単位での健康度を把握するための項目"
+  },
+  {
+    "line": 165,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "壮年期死亡や重篤な疾患を起こした事例 （○） ○"
+  },
+  {
+    "line": 166,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "その他分析に必要な項目"
+  },
+  {
+    "line": 167,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "② 保健事業（保健指導）対象者把握のための項目"
+  },
+  {
+    "line": 168,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "「健診結果等リスク判定表」に基づく生活習慣"
+  },
+  {
+    "line": 169,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "病リスクごとの対象者数"
+  },
+  {
+    "line": 170,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（○） ○"
+  },
+  {
+    "line": 171,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "保健指導対象者数（「動機付け支援」、「積極的"
+  },
+  {
+    "line": 172,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "支援」、「特定保健指導非対象者」）"
+  },
+  {
+    "line": 173,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（○） ○"
+  },
+  {
+    "line": 174,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "その他分析に必要な項目"
+  },
+  {
+    "line": 175,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "③ これまでの保健事業（保健指導）の効果の項目"
+  },
+  {
+    "line": 176,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（集団全体）"
+  },
+  {
+    "line": 177,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "生活習慣改善の意欲等主観的な指標の変化 （○）"
+  },
+  {
+    "line": 178,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "生活習慣の変化 （○）"
+  },
+  {
+    "line": 179,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "健診結果の変化 （○）"
+  },
+  {
+    "line": 180,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "医療費の変化 （○）"
+  },
+  {
+    "line": 181,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "その他分析に必要な項目"
+  },
+  {
+    "line": 182,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（事業）"
+  },
+  {
+    "line": 183,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "医療費に対する効果 ○"
+  },
+  {
+    "line": 184,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "苦情・トラブルの件数、対応状況 ○"
+  },
+  {
+    "line": 185,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "費用対効果 （○） ○"
+  },
+  {
+    "line": 186,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "委託件数 ○"
+  },
+  {
+    "line": 187,
+    "pdf_page": 7,
+    "pdf_page_end": 8,
+    "text": "その他分析に必要な項目204"
+  },
+  {
+    "line": 188,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "２－３ 保健事業（保健指導）の目標設定"
+  },
+  {
+    "line": 189,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "（１）保健事業全体の目標設定"
+  },
+  {
+    "line": 190,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "保健事業の目標設定は、前節の現状分析に基づき優先課題を掲げるものであ"
+  },
+  {
+    "line": 191,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "るが、保険者の保健事業に対する考え方を示すという意味もあり、どのような目"
+  },
+  {
+    "line": 192,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "標を掲げるかは、重要な判断を要するものである。"
+  },
+  {
+    "line": 193,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "優先課題は生活習慣病の有病者や予備群を減少させることに寄与するもので"
+  },
+  {
+    "line": 194,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "あることは前提であるが、保険者としての集団全体の健康課題の特徴を健診デ"
+  },
+  {
+    "line": 195,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "ータ、レセプトデータ、介護保険データ等に基づく現状分析から明らかにし、そ"
+  },
+  {
+    "line": 196,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "の課題のうち、生活習慣病対策に最も効果が期待できる課題を重点的に対応す"
+  },
+  {
+    "line": 197,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "べき課題として目標に掲げる必要がある。"
+  },
+  {
+    "line": 198,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "優先課題のうち目標として掲げる内容の選定は、目標を達成するための現実"
+  },
+  {
+    "line": 199,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "的な手段が明らかであることや、そのための費用、人的資源、組織の保健事業の"
+  },
+  {
+    "line": 200,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "実施体制が可能であるか等、総合的に判断し、目標を設定することが必要である。"
+  },
+  {
+    "line": 201,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "平成 20 年度に特定健診・特定保健指導制度が開始されてから収集・蓄積され"
+  },
+  {
+    "line": 202,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "た健診や保健指導のデータの分析結果を踏まえ、保健事業全体の目標を変えて"
+  },
+  {
+    "line": 203,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "いくことも必要である。"
+  },
+  {
+    "line": 204,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "また、目標は抽象的な内容ではなく、例えば「糖尿病の有病者を○％（※ポイ"
+  },
+  {
+    "line": 205,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "ント減少）とする」等、できる限り数値目標とし、事業終了後の評価ができる目"
+  },
+  {
+    "line": 206,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "標を設定することが必要である。"
+  },
+  {
+    "line": 207,
+    "pdf_page": 8,
+    "pdf_page_end": 9,
+    "text": "以下（２）及び（３）に特定保健指導における例を示す。205"
+  },
+  {
+    "line": 208,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "（２）特定保健指導レベルごとの目標設定"
+  },
+  {
+    "line": 209,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "保険者は、40 歳から 74 歳までの全対象者のうち、特定保健指導対象者の階"
+  },
+  {
+    "line": 210,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "層化を行い、保健指導レベル別対象者数の概数を算出して、特定保健指導に係る"
+  },
+  {
+    "line": 211,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "事業全体のボリュームを把握し、対象者数の目標を設定する。具体的には、全対"
+  },
+  {
+    "line": 212,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "象者から生活習慣病による服薬中の者を除いた対象について、前年度の健診結"
+  },
+  {
+    "line": 213,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "果を判定基準に投入、各保健指導レベル別の対象人数の概数を算出する。"
+  },
+  {
+    "line": 214,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "特定保健指導を実施するにあたり、「動機付け支援」、「積極的支援」、「特"
+  },
+  {
+    "line": 215,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "定保健指導の非対象者」の各保健指導レベルについては、例えば下記を参考に目"
+  },
+  {
+    "line": 216,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "標を設定する必要がある。数値目標は、健診結果の変化、アンケート調査等に基"
+  },
+  {
+    "line": 217,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "づき、保険者ごとに全体の数値目標を設定するとともに、性別・年代別等、条件"
+  },
+  {
+    "line": 218,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "別に設定するものとする。なお、治療中の者について、医療機関又は産業医から"
+  },
+  {
+    "line": 219,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "の紹介がある場合は、かかりつけの医師又は産業医と連携を図り、その指導を踏"
+  },
+  {
+    "line": 220,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "まえて特定保健指導を実施する。また、治療を中断している者については、医療"
+  },
+  {
+    "line": 221,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "機関への受診勧奨を行う必要がある。"
+  },
+  {
+    "line": 222,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "① 「動機付け支援レベル」の対象者"
+  },
+  {
+    "line": 223,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○ 特定保健指導を利用した者の翌年度の健診結果が改善するか、又は悪化しな"
+  },
+  {
+    "line": 224,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "い。"
+  },
+  {
+    "line": 225,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○ 腹囲及び体重の減少をめざす。"
+  },
+  {
+    "line": 226,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○ 保健指導レベルが改善する者を○％とする。"
+  },
+  {
+    "line": 227,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○ 特定保健指導実施率が○％（＊ポイント向上）となる。"
+  },
+  {
+    "line": 228,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "② 「積極的支援レベル」の対象者"
+  },
+  {
+    "line": 229,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○ 特定保健指導を利用した者の翌年度の健診結果が改善するか、又は悪化しな"
+  },
+  {
+    "line": 230,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "い。"
+  },
+  {
+    "line": 231,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○ 腹囲 2cm かつ体重 2kg の減少をめざす。"
+  },
+  {
+    "line": 232,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○ 設定した行動変容の目標一つ以上を 2 か月以上継続する者を○％とする。"
+  },
+  {
+    "line": 233,
+    "pdf_page": 9,
+    "pdf_page_end": 10,
+    "text": "○ 禁煙指導後の禁煙達成率を○％とする。206"
+  },
+  {
+    "line": 234,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 検査結果の異常一つと喫煙がリスクとなっている者に対しては、禁煙支援を"
+  },
+  {
+    "line": 235,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "強化し、禁煙につなげる。"
+  },
+  {
+    "line": 236,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 保健指導レベルが改善する者を○％とする。"
+  },
+  {
+    "line": 237,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 「医療機関への受診勧奨」レベルへの移行率を○％以下とする。"
+  },
+  {
+    "line": 238,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 特定保健指導実施率が○％（＊ポイント向上）となる。"
+  },
+  {
+    "line": 239,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "③ 特定保健指導非対象者"
+  },
+  {
+    "line": 240,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "階層化の結果、特定保健指導の対象とならない者は、表３のア～エに分類する"
+  },
+  {
+    "line": 241,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "ことができる。"
+  },
+  {
+    "line": 242,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "特定保健指導非対象者については、保険者が行う法定報告の義務はないが、健"
+  },
+  {
+    "line": 243,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "康寿命の延伸やメタボリックシンドローム該当者・予備群の減少や医療費適正"
+  },
+  {
+    "line": 244,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "化に資するため、各保険者等は下記の指標を参考にして目標を設定することが"
+  },
+  {
+    "line": 245,
+    "pdf_page": 10,
+    "pdf_page_end": 11,
+    "text": "望ましい。207"
+  },
+  {
+    "line": 246,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "表３ 特定保健指導非対象者の目標設定（例）"
+  },
+  {
+    "line": 247,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "分類 目標設定の指標（参考）"
+  },
+  {
+    "line": 248,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "ア"
+  },
+  {
+    "line": 249,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "検査データの異常がほとんど"
+  },
+  {
+    "line": 250,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "なく、生活習慣も問題がない"
+  },
+  {
+    "line": 251,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "者"
+  },
+  {
+    "line": 252,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "・健診結果を正常範囲のまま維持し、悪化しない。"
+  },
+  {
+    "line": 253,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "・「動機付け支援」、「積極的支援」対象への移行率"
+  },
+  {
+    "line": 254,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "を○％以下とする。"
+  },
+  {
+    "line": 255,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "イ"
+  },
+  {
+    "line": 256,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "検査データの異常はほとんど"
+  },
+  {
+    "line": 257,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "ないが、喫煙、食生活・身体活"
+  },
+  {
+    "line": 258,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "動などの生活習慣の問題があ"
+  },
+  {
+    "line": 259,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "る者"
+  },
+  {
+    "line": 260,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "・健診結果が悪化しない。"
+  },
+  {
+    "line": 261,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "・生活習慣の問題点を自覚し、生活習慣が一つでも"
+  },
+  {
+    "line": 262,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "改善する。"
+  },
+  {
+    "line": 263,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "ウ"
+  },
+  {
+    "line": 264,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "検査データでは保健指導判定"
+  },
+  {
+    "line": 265,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "値以上であるが、肥満がない"
+  },
+  {
+    "line": 266,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "ため特定保健指導の対象とは"
+  },
+  {
+    "line": 267,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "ならない者"
+  },
+  {
+    "line": 268,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "・○％の健診結果が改善する。"
+  },
+  {
+    "line": 269,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "・保健指導実施率が○％向上する。"
+  },
+  {
+    "line": 270,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "エ"
+  },
+  {
+    "line": 271,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "服薬中であるために、特定保"
+  },
+  {
+    "line": 272,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "健指導の対象とはならない者"
+  },
+  {
+    "line": 273,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "・喫煙習慣などの生活習慣の問題が改善する。"
+  },
+  {
+    "line": 274,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "・治療が継続している。"
+  },
+  {
+    "line": 275,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "・生活習慣病のコントロールが良好である者の増"
+  },
+  {
+    "line": 276,
+    "pdf_page": 11,
+    "pdf_page_end": 12,
+    "text": "加(又はコントロール不良者の割合の減少)。208"
+  },
+  {
+    "line": 277,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "（３）特定保健指導の対象者の優先順位に係る基本的な考え方"
+  },
+  {
+    "line": 278,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "特定保健指導は、基本的には階層化によって対象者になった全員を対象に実"
+  },
+  {
+    "line": 279,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施する。一方で生活習慣病の有病者や予備群を減少させるためには、効果的・効"
+  },
+  {
+    "line": 280,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "率的な保健指導の実施が必要である。そのため、健診データやレセプトデータを"
+  },
+  {
+    "line": 281,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "分析し、介入できる対象を選定して優先順位をつけることも必要である。例えば、"
+  },
+  {
+    "line": 282,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "特定保健指導の対象者の優先順位のつけ方としては、以下の方法が考えられる。"
+  },
+  {
+    "line": 283,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "○ 年齢が比較的若い対象者"
+  },
+  {
+    "line": 284,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "○ 健診結果に基づく保健指導レベルが動機付け支援レベルから積極的支援レ"
+  },
+  {
+    "line": 285,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ベルに移行する等、健診結果が前年度と比較して悪化し、より綿密な保健指"
+  },
+  {
+    "line": 286,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "導が必要になった対象者"
+  },
+  {
+    "line": 287,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "○ 第２編第２章別紙３の標準的な質問票（８～20 番）の回答により、生活習"
+  },
+  {
+    "line": 288,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "慣改善の必要性が高いと認められる対象者"
+  },
+  {
+    "line": 289,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "○ これまでに、積極的支援及び動機付け支援の対象者であったにもかかわらず"
+  },
+  {
+    "line": 290,
+    "pdf_page": 12,
+    "pdf_page_end": 13,
+    "text": "保健指導を受けなかった対象者209"
+  },
+  {
+    "line": 291,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "２－４ 保健事業（保健指導）計画の作成"
+  },
+  {
+    "line": 292,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "目標を達成するために、保健指導全体、実施、評価について具体的な計画を作"
+  },
+  {
+    "line": 293,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "成することが望ましい。"
+  },
+  {
+    "line": 294,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "（１）保健指導全体の計画"
+  },
+  {
+    "line": 295,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "保健指導レベル別の具体的な方法、保健指導実施者、支援材料、記録方法、実"
+  },
+  {
+    "line": 296,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "施場所、保健指導実施者への研修等を検討する。これらの状況や既存の社会資源"
+  },
+  {
+    "line": 297,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "等を総合的に判断して、外部委託の必要性について検討する。"
+  },
+  {
+    "line": 298,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "また、前年度までの評価（実施状況・効果・問題点等）を踏まえ、より効果的"
+  },
+  {
+    "line": 299,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "で波及性、継続性のある内容となるよう心がける。さらに、保健指導全体の計画"
+  },
+  {
+    "line": 300,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "に当たっては、これまでの計画を踏襲するのではなく、評価結果を反映し、より"
+  },
+  {
+    "line": 301,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "よいものを作成することをめざす。"
+  },
+  {
+    "line": 302,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "（２）実施体制に関する計画"
+  },
+  {
+    "line": 303,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "実施の計画については、健診から保健指導まで円滑に実施できるように保健"
+  },
+  {
+    "line": 304,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "指導の進め方、実施体制、広報の方法等に留意して作成することが必要である。"
+  },
+  {
+    "line": 305,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "また、実施計画に合わせて予算を計上し、確定した予算に合わせ、実施計画の見"
+  },
+  {
+    "line": 306,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "直し、対象者の選定方法の見直しを行う。"
+  },
+  {
+    "line": 307,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "① 情報提供・保健指導の進め方"
+  },
+  {
+    "line": 308,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "「情報提供」、「動機付け支援」及び「積極的支援」の初回面接は、健診結果"
+  },
+  {
+    "line": 309,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "の返却時にあわせて実施したり、健診受診から初回面接までの期間を短縮する"
+  },
+  {
+    "line": 310,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "ように努める等、対象者の負担を軽減し、モチベーションを維持しながら参加し"
+  },
+  {
+    "line": 311,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "やすくなる方法を計画する。"
+  },
+  {
+    "line": 312,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "特に、「動機付け支援」や「積極的支援」の初回面接については、健診当日か"
+  },
+  {
+    "line": 313,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "ら 1 週間以内の早期介入が重要であり、対象者の性別・年代・職業、生活環境"
+  },
+  {
+    "line": 314,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "等の社会背景を考慮し、参加しやすい時間帯、場所等を設定することや対象者が"
+  },
+  {
+    "line": 315,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "関心を持つような方法を考慮する。また、職域においては事業所の協力が不可欠"
+  },
+  {
+    "line": 316,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "であるため、事業所の協力を得られるよう普段から関係づくりを意識する。"
+  },
+  {
+    "line": 317,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "② 実施体制"
+  },
+  {
+    "line": 318,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "保健指導の実施に当たっては、多様なニーズに応じ、効果・効率を考え、最適"
+  },
+  {
+    "line": 319,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "な実施体制を検討する。"
+  },
+  {
+    "line": 320,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "保健指導に関わる関係者会議を定期的に行い、支援方法の標準化、安全管理、"
+  },
+  {
+    "line": 321,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "支援媒体、支援材料、記録や個人情報の管理方法等を徹底する。特定保健指導の"
+  },
+  {
+    "line": 322,
+    "pdf_page": 13,
+    "pdf_page_end": 14,
+    "text": "早期介入が対象者の行動変容を促す上で重要であるため、健診から保健指導ま210"
+  },
+  {
+    "line": 323,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "での作業工程を検討し、健診実施日から保健指導までの期間を短縮することに"
+  },
+  {
+    "line": 324,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "努力すべきである。"
+  },
+  {
+    "line": 325,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "外部講師や外部機関と連携して事業を実施するときには、事業の目的と評価"
+  },
+  {
+    "line": 326,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "方法、対象者の状況等を十分に理解してもらうよう、事前の調整を十分に行う。"
+  },
+  {
+    "line": 327,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "また、実際の対象者の情報についても共有化しておくことが重要である。"
+  },
+  {
+    "line": 328,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "職域では、保健指導を実施する上で、事業主の協力や事業主との連携（コラボ"
+  },
+  {
+    "line": 329,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "ヘルス）が重要になることから、実施体制を整える際には、健康管理推進委員会"
+  },
+  {
+    "line": 330,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "等を活用し、分析データ等を用いて事業主の理解を求め、コラボヘルスの第一歩"
+  },
+  {
+    "line": 331,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "として望ましい措置として、例えば就業時間内に保健指導を実施する等、保健指"
+  },
+  {
+    "line": 332,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "導を受けやすい職場環境を整備することが求められる。"
+  },
+  {
+    "line": 333,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "③ 周知方法"
+  },
+  {
+    "line": 334,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "健診・保健指導の在り方や保健指導の目的、内容、効果等について、健診・保"
+  },
+  {
+    "line": 335,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "健指導対象者に十分周知しておく。また、地域住民や職員等被保険者全員への周"
+  },
+  {
+    "line": 336,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "知がポピュレーションアプローチとしての意味合いも持つことを考慮して効果"
+  },
+  {
+    "line": 337,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "的に行う。さらに、保健指導対象者が積極的に参加できるよう、対象者の属性に"
+  },
+  {
+    "line": 338,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "合わせた実施方法を検討する。特に被扶養者については、直接被扶養者へ情報提"
+  },
+  {
+    "line": 339,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "供する等、周知が徹底されるように配慮することが望ましい。"
+  },
+  {
+    "line": 340,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "また、職域では、事業所の協力を得ることが有効であるため、経済・労働分野"
+  },
+  {
+    "line": 341,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "等の行政及び団体等と連携し、事業主が労働者の健康づくりに積極的に取組む"
+  },
+  {
+    "line": 342,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "ことは、労働者の生産性の向上の寄与や組織の活性化等をもたらし、結果的に経"
+  },
+  {
+    "line": 343,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "営に寄与する等の例を示して健診や保健指導の重要性の理解を促す。"
+  },
+  {
+    "line": 344,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "なお、個々の対象者に対する計画については、第３編第２章に記載する内容を"
+  },
+  {
+    "line": 345,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "踏まえ、個別に計画を作成する。"
+  },
+  {
+    "line": 346,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "（３）評価計画"
+  },
+  {
+    "line": 347,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "生活習慣病予備群等に対する保健指導の効果を明確に示していくためには、"
+  },
+  {
+    "line": 348,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "保健指導をＰＤＣＡサイクルとして捉え、計画から見直し・改善までのプロセス"
+  },
+  {
+    "line": 349,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "を継続することによって、よりよい成果をあげていくことが期待できる。"
+  },
+  {
+    "line": 350,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "このため、評価の目的、方法、基準、時期、評価者、評価結果の活用法につい"
+  },
+  {
+    "line": 351,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "て、計画の段階から明確にしておく。ストラクチャー（構造）やプロセス（過程）、"
+  },
+  {
+    "line": 352,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "アウトプット（事業実施量）やアウトカム（結果）の目標を設定し、より具体的"
+  },
+  {
+    "line": 353,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "に作成する。また、評価計画については、企画部門及び保健事業部門の両者で作"
+  },
+  {
+    "line": 354,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "成・共有し、評価結果のうち、公表するものを明確にしておく。"
+  }
+]

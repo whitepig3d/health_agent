@@ -1,0 +1,386 @@
+[
+  {
+    "line": 0,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "-1-"
+  },
+  {
+    "line": 1,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 集合契約における基本的な自己負担額の算定方法の例（支払基金の場合）"
+  },
+  {
+    "line": 2,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": ""
+  },
+  {
+    "line": 3,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "①負担なし ０"
+  },
+  {
+    "line": 4,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "②定額負担"
+  },
+  {
+    "line": 5,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価＞定額負担金額の時 定額負担金額"
+  },
+  {
+    "line": 6,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価≦定額負担金額の時 単価"
+  },
+  {
+    "line": 7,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "③定率負担 単価×定率"
+  },
+  {
+    "line": 8,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（１円未満の端数は四捨五入）"
+  },
+  {
+    "line": 9,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "④保険者負"
+  },
+  {
+    "line": 10,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "担上限額"
+  },
+  {
+    "line": 11,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価＞保険者負担上限額の時 単価－保険者負担上限額"
+  },
+  {
+    "line": 12,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価≦保険者負担上限額の時 ０"
+  },
+  {
+    "line": 13,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "⑤定額負担"
+  },
+  {
+    "line": 14,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＋保険者負"
+  },
+  {
+    "line": 15,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "担上限額"
+  },
+  {
+    "line": 16,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価＞定"
+  },
+  {
+    "line": 17,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "額負担金"
+  },
+  {
+    "line": 18,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "額の時"
+  },
+  {
+    "line": 19,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価－定額負担金額＞保険"
+  },
+  {
+    "line": 20,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "者負担上限額の時 単価－保険者負担上限額"
+  },
+  {
+    "line": 21,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価－定額負担金額≦保険"
+  },
+  {
+    "line": 22,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "者負担上限額の時 定額負担金額"
+  },
+  {
+    "line": 23,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価≦定額負担金額の時 単価"
+  },
+  {
+    "line": 24,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "⑥定率負担"
+  },
+  {
+    "line": 25,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＋保険者上"
+  },
+  {
+    "line": 26,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "限額"
+  },
+  {
+    "line": 27,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価－（単価×定率（１円未満の端数は"
+  },
+  {
+    "line": 28,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "四捨五入））＞保険者負担上限額の時 単価－保険者負担上限額"
+  },
+  {
+    "line": 29,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価－（単価×定率（１円未満の端数は"
+  },
+  {
+    "line": 30,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "四捨五入））≦保険者負担上限額の時"
+  },
+  {
+    "line": 31,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "単価×定率（１円未満の端数は"
+  },
+  {
+    "line": 32,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "四捨五入）"
+  },
+  {
+    "line": 33,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "(注)受診券・利用券の印字設定ルールに基づき、特定健康診査の場合は①～④のみ。⑤⑥は人間ドックや"
+  },
+  {
+    "line": 34,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "特定保健指導の場合のみ設定できることとなっている。"
+  },
+  {
+    "line": 35,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "資料：支払基金ホームページ「特定健診・特定保健指導請求金額計算方法」"
+  },
+  {
+    "line": 36,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（https://www.ssk.or.jp/datahealth/tokuteikenshin/tokuteijoho/index.files/keisan_280701.pdf）"
+  },
+  {
+    "line": 37,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 決済時に想定されるケースとその取扱い"
+  },
+  {
+    "line": 38,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": ""
+  },
+  {
+    "line": 39,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "想定されるケース 取扱い"
+  },
+  {
+    "line": 40,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "健診・保健指導機関において、受診券（利用券）の確認とオン"
+  },
+  {
+    "line": 41,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ライン資格確認等による保険資格確認を実施しなかった場合"
+  },
+  {
+    "line": 42,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（加入者が受診券又はマイナ保険証等を忘れてきた場合に"
+  },
+  {
+    "line": 43,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "おいて、当該機関の判断で受診を認めた場合等）"
+  },
+  {
+    "line": 44,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "当該機関の責任・負担と"
+  },
+  {
+    "line": 45,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "し、医療保険者からは支払"
+  },
+  {
+    "line": 46,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "わない（機関は全額を受診"
+  },
+  {
+    "line": 47,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "者（利用者）に請求）。"
+  },
+  {
+    "line": 48,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "健診・保健指導機関において、受診券等に記載された内容と"
+  },
+  {
+    "line": 49,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "異なる検査・請求を行った場合（記載されていない上乗せ検"
+  },
+  {
+    "line": 50,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "査を行い、その費用の一部を請求した場合等）"
+  },
+  {
+    "line": 51,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "健診・保健指導機関において、受診券（利用券）を十分に確"
+  },
+  {
+    "line": 52,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "認し、オンライン資格確認等による保険資格確認を実施した"
+  },
+  {
+    "line": 53,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "が、不正なものとは見抜けず、そのいずれかが不正なもので"
+  },
+  {
+    "line": 54,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "あった場合（資格喪失していたものの医療保険者が回収して"
+  },
+  {
+    "line": 55,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "いなかった場合や、精巧に偽造されたものであった場合等）"
+  },
+  {
+    "line": 56,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "医療保険者の責任・負担と"
+  },
+  {
+    "line": 57,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "し、医療保険者は定められ"
+  },
+  {
+    "line": 58,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "た費用を機関に支払い、医"
+  },
+  {
+    "line": 59,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "療保険者が受診者（利用"
+  },
+  {
+    "line": 60,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "者）に請求。"
+  },
+  {
+    "line": 61,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "(注)医療保険者の責任・負担となるには、健診・保健指導機関における事前の十分な確認が前提。簡易コピ"
+  },
+  {
+    "line": 62,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ー等本物ではないと容易に判別できるにもかかわらず見落とした場合は機関の責任・負担となる。"
+  },
+  {
+    "line": 63,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "付属資料１－６：集合契約における請求・決済の例"
+  }
+]

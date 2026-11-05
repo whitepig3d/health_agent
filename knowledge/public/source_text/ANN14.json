@@ -1,0 +1,2474 @@
+[
+  {
+    "line": 0,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "-1-"
+  },
+  {
+    "line": 1,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "集合契約における標準的な契約書の例（代表保険者と地域医師会との場合）"
+  },
+  {
+    "line": 2,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "このひな型は、関係者間で、被用者保険による集合契約 B(各市町村における国保の実施機関との契約)におい"
+  },
+  {
+    "line": 3,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "て使用することとされているものであり（なお集合契約 A(被用者保険の集団と実施機関の全国団体との契約)にお"
+  },
+  {
+    "line": 4,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "いてもこれを準用）、その他の集合契約（市町村国保と地域医師会との契約を含む）や市町村国保等各保険者が実"
+  },
+  {
+    "line": 5,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "施機関と個別に契約する場合は、必ずしもこのひな型にとらわれる必要はなく、当事者間で自由に定められたい。"
+  },
+  {
+    "line": 6,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "契約番号：●●●●●●"
+  },
+  {
+    "line": 7,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "令和●年度特定健康診査・特定保健指導委託契約書"
+  },
+  {
+    "line": 8,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "高齢者の医療の確保に関する法律（昭和 57 年法律第 80 号。以下「法」という。）に基づき実"
+  },
+  {
+    "line": 9,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "施する、特定健康診査（糖尿病その他の政令で定める生活習慣病に関する健康診査をいう。以"
+  },
+  {
+    "line": 10,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "下同じ。）及び特定保健指導（特定健康診査の結果により健康の保持に努める必要がある者とし"
+  },
+  {
+    "line": 11,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "て厚生労働省令で定めるものに対し、保健指導に関する専門的知識及び技術を有する者として"
+  },
+  {
+    "line": 12,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "厚生労働省令で定めるものが行う保健指導をいう。以下同じ。）について、●●●健康保険組合"
+  },
+  {
+    "line": 13,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ほか別紙委託元保険者一覧表に示す医療保険者（以下「甲」という。）と社団法人●●市（●●"
+  },
+  {
+    "line": 14,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "県）医師会（以下「乙」という。）との間に、次の条項により委託契約を締結する。"
+  },
+  {
+    "line": 15,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（総 則）"
+  },
+  {
+    "line": 16,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "第１条 甲は、特定健康診査及び特定保健指導を乙に委託し、乙はこれを受託するものとする。"
+  },
+  {
+    "line": 17,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（委託業務）"
+  },
+  {
+    "line": 18,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "第２条 甲が乙に委託する業務の内容は、「特定健康診査及び特定保健指導の実施に関する基準"
+  },
+  {
+    "line": 19,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（平成 19 年厚生労働省令第 157 号。以下「実施基準」という。）」に基づき、別紙健診等内容表"
+  },
+  {
+    "line": 20,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "のとおりとする。"
+  },
+  {
+    "line": 21,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "２ 業務は、乙の会員の医療機関（以下「実施機関」という。別紙実施機関一覧表のとおり）"
+  },
+  {
+    "line": 22,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "で行うものとする。"
+  },
+  {
+    "line": 23,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "３ 特定健康診査において、乙若しくは実施機関は、終了後速やかに、法第 23 条の規定に基づ"
+  },
+  {
+    "line": 24,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "く特定健康診査受診結果通知表を作成し、受診した者に通知するものとする。なお通知に当た"
+  },
+  {
+    "line": 25,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "っては、実施基準第 3 条に基づき、特定健康診査受診結果通知表と併せて、受診した者が自ら"
+  },
+  {
+    "line": 26,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "の健康状態を自覚し生活習慣の重要性に対する関心と理解を深めるために必要な情報を提供す"
+  },
+  {
+    "line": 27,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "るものとする。"
+  },
+  {
+    "line": 28,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "４ 特定健康診査及び特定保健指導の実施結果については、実施機関が厚生労働省の定める電"
+  },
+  {
+    "line": 29,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "子的標準様式に基づく電子データとして作成し、取りまとめ、甲の委託を受けて決済を代行す"
+  },
+  {
+    "line": 30,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "る機関（以下「代行機関」という。被用者保険の場合は社会保険診療報酬支払基金、市町村国"
+  },
+  {
+    "line": 31,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "保や国保組合の場合は各都道府県の国民健康保険団体連合会とする。）への送付を行うものとす"
+  },
+  {
+    "line": 32,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "る。"
+  },
+  {
+    "line": 33,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（対象者）"
+  },
+  {
+    "line": 34,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "第３条 実施機関は、特定健康診査を実施する場合には、(a)実施機関に対して甲の発行する特"
+  },
+  {
+    "line": 35,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "定健康診査受診券を提示した上で、(b)次の各号のいずれかの方法（以下これらの方法を個別に"
+  },
+  {
+    "line": 36,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "「オンライン資格確認等」という。）により実施機関から保険資格の確認を受けた者（任意継続"
+  },
+  {
+    "line": 37,
+    "pdf_page": 1,
+    "pdf_page_end": 2,
+    "text": "付属資料１－４：集合契約における標準的な契約書の例-2-"
+  },
+  {
+    "line": 38,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "被保険者及びその被扶養者、特例退職被保険者及びその被扶養者を含む。）を対象とするものと"
+  },
+  {
+    "line": 39,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "し、有効期限等券面の内容を十分に確認の上、実施するものとする。"
+  },
+  {
+    "line": 40,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（１）オンライン資格確認（マイナ保険証を読み取る際に、顔認証付きカードリーダーを用い"
+  },
+  {
+    "line": 41,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "る場合の他、パソコンやスマートフォン等の端末を用いる場合を含む。）"
+  },
+  {
+    "line": 42,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（２）マイナポータルを用いて医療保険の被保険者資格情報を表示した端末の画面の確認"
+  },
+  {
+    "line": 43,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（３）マイナ保険証及び保険者から被保険者に対して送付される「資格情報のお知らせ」と題"
+  },
+  {
+    "line": 44,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "する書面の確認"
+  },
+  {
+    "line": 45,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（４）保険者が発行する有効期限内の資格確認書の確認"
+  },
+  {
+    "line": 46,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "２ 実施機関は、特定保健指導を実施する場合には、(a)実施機関に対して甲の発行する特定保"
+  },
+  {
+    "line": 47,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "健指導利用券又は特定健診当日に初回面接を行う場合のセット券（以下「特定保健指導利用券"
+  },
+  {
+    "line": 48,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "等」という。）を提示し、(b)オンライン資格確認等により実施機関から保険資格の確認を受け"
+  },
+  {
+    "line": 49,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "た者（任意継続被保険者及びその被扶養者、特例退職被保険者及びその被扶養者を含む。）を対"
+  },
+  {
+    "line": 50,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "象とするものとし、特定保健指導開始日及び有効期限等券面の内容を十分に確認の上、実施す"
+  },
+  {
+    "line": 51,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "るものとする。"
+  },
+  {
+    "line": 52,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（契約期間）"
+  },
+  {
+    "line": 53,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "第４条 この契約の有効期間は、●年 4 月 1 日から●年 3 月 31 日までとする。"
+  },
+  {
+    "line": 54,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "２ 特定保健指導については、実施機関が、前項の有効期間内に実施した特定健康診査の結果"
+  },
+  {
+    "line": 55,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "に基づく指導を行う対象者に限り、当該指導の終了（実績評価を行う完了のみならず、脱落や"
+  },
+  {
+    "line": 56,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "資格喪失による途中終了も含む）する日までを有効期間とする。"
+  },
+  {
+    "line": 57,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（委託料）"
+  },
+  {
+    "line": 58,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "第５条 委託料は、●●市が乙と定めた委託料の単価を参考とし、別紙内訳書のとおりとする。"
+  },
+  {
+    "line": 59,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（委託料の請求）"
+  },
+  {
+    "line": 60,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "第６条 乙若しくは実施機関は、特定健康診査については実施後速やかに受診者に結果を通知"
+  },
+  {
+    "line": 61,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "した後に、特定保健指導については行動計画を策定する初回面接終了後及び計画の実績評価（計"
+  },
+  {
+    "line": 62,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "画策定日から３ヶ月以上経過後に行う評価）終了後に、それぞれ遅滞なくその結果を取りまと"
+  },
+  {
+    "line": 63,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "め、前条の委託料のうち特定健康診査受診券若しくは特定保健指導利用券等の券面に示された"
+  },
+  {
+    "line": 64,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "受診者あるいは利用者の自己負担分を差し引いた金額（以下「請求額」という。）について、別"
+  },
+  {
+    "line": 65,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "紙内訳書に定める支払条件に基づき、代行機関に請求するものとする。"
+  },
+  {
+    "line": 66,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "２ 実施機関が特定健康診査あるいは特定保健指導の実施委託に関する集合的な契約を締結し"
+  },
+  {
+    "line": 67,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "ている他の契約とりまとめ機関（全国労働衛生団体連合会等）にも所属し、かつ甲の一部又は"
+  },
+  {
+    "line": 68,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "全部がその（他の契約とりまとめ機関との）集合的な契約にも参加している場合に、他の契約"
+  },
+  {
+    "line": 69,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "に参加している当該甲の加入者である受診者あるいは利用者がその契約に参加している実施機"
+  },
+  {
+    "line": 70,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "関にて特定健康診査あるいは特定保健指導を受診もしくは利用する時の委託料の請求は次のよ"
+  },
+  {
+    "line": 71,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "うに定める。実施内容（特定健康診査の場合は健診項目等、特定保健指導の動機づけ支援の場"
+  },
+  {
+    "line": 72,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "合は実施形態、特定保健指導の積極的支援の場合は実施形態のほか継続的支援における介入回"
+  },
+  {
+    "line": 73,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "数や介入形態等）が他の契約と本契約との間で一致する場合は、本契約が他の契約と比して単"
+  },
+  {
+    "line": 74,
+    "pdf_page": 2,
+    "pdf_page_end": 3,
+    "text": "価が最も低い場合に限って、本契約に定める委託料から所定の自己負担額を差し引いた額を請-3-"
+  },
+  {
+    "line": 75,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "求することとする。また、他の契約の実施内容が本契約の内容と一致しない場合は、実施機関"
+  },
+  {
+    "line": 76,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が受診者あるいは利用者に各契約の実施内容等の相違点を説明の上、受診者あるいは利用者が"
+  },
+  {
+    "line": 77,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "本契約の実施内容等を選択した場合に限り、本契約に定める委託料から所定の自己負担額を差"
+  },
+  {
+    "line": 78,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "し引いた額を請求することとする。"
+  },
+  {
+    "line": 79,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "３ 第 1 項における結果の取りまとめ及び代行機関への送付は、厚生労働省の定める電子的標"
+  },
+  {
+    "line": 80,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "準様式に基づく電子データとして作成し、作成した電子データを格納したファイルを、電子情"
+  },
+  {
+    "line": 81,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "報処理組織（代行機関の使用に係る電子計算機（入出力装置を含む。以下同じ）と実施機関の"
+  },
+  {
+    "line": 82,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "使用に係る電子計算機を電気通信回線で接続した電子情報処理組織をいう。以下同じ。）により、"
+  },
+  {
+    "line": 83,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "実施後その都度送信するか、ファイルを収録した電子媒体（ＦＤ、ＭＯ、若しくはＣＤ－Ｒ）"
+  },
+  {
+    "line": 84,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "を実施月の翌月 5 日までに提出（期限までに必着）する方法を採るものとする。なお、送付の"
+  },
+  {
+    "line": 85,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "期限が土曜日、日曜日及び国民の祝日に当たる場合は、その翌日を期限とする。"
+  },
+  {
+    "line": 86,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "４ 第 1 項の場合において、電子情報処理組織の使用による請求は、代行機関の使用に係る電"
+  },
+  {
+    "line": 87,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "子情報処理組織に備えられたファイルへの記録がなされたときに、代行機関に到達したものと"
+  },
+  {
+    "line": 88,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "みなす。"
+  },
+  {
+    "line": 89,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "５ 特定保健指導においては、第 3 項に定める電子データの送付に加え、特定保健指導の支援"
+  },
+  {
+    "line": 90,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "計画及び実施報告書（厚生労働省にて様式例を公表）、指導過程における各種記録類やワークシ"
+  },
+  {
+    "line": 91,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ート類等についても、甲の一部または全部が実施機関に求めた場合は、これを提出するものと"
+  },
+  {
+    "line": 92,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "する。この場合において、実施機関は甲のうち請求した者へ電子データ又は紙により直接送付"
+  },
+  {
+    "line": 93,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "するものとする。"
+  },
+  {
+    "line": 94,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "（委託料の支払い）"
+  },
+  {
+    "line": 95,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "第７条 甲は、乙若しくは実施機関から前条の請求があった場合は、その内容を点検し、適当"
+  },
+  {
+    "line": 96,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "と認めたときは、前条に定める請求に関わる電子データを受理した月の翌月 21 日（電子情報処"
+  },
+  {
+    "line": 97,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "理組織の使用による場合であって、代行機関が受理した日が 6 日から月末までのものは翌々月"
+  },
+  {
+    "line": 98,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "の 21 日。）を基本として、甲と代行機関との間で定める日に、乙若しくは実施機関に代行機関"
+  },
+  {
+    "line": 99,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "を通じて請求額を支払うものとする。"
+  },
+  {
+    "line": 100,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "２ 甲及び代行機関の点検の結果、結果に関する内容について問題がある場合は、代行機関を"
+  },
+  {
+    "line": 101,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "通じて請求者（乙若しくは実施機関）に返戻を行うものとする。この場合において、既に実施"
+  },
+  {
+    "line": 102,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "機関に支払われた委託料については、当該委託料を支払った保険者又は他の保険者に対し当該"
+  },
+  {
+    "line": 103,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "実施機関が有する委託料に係る債権との代行機関を通じた調整、又は、当該実施機関からの代"
+  },
+  {
+    "line": 104,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "行機関を通じた戻入による調整を行うことができる。"
+  },
+  {
+    "line": 105,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "３ 請求者（乙若しくは実施機関）は前項の返戻を受けた場合において、再度第 6 条第 1 項の"
+  },
+  {
+    "line": 106,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "方法により請求を行うことができる。"
+  },
+  {
+    "line": 107,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "（決済に失敗した場合の取扱い）"
+  },
+  {
+    "line": 108,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "第８条 実施機関が、第３条第１項又は第２項に違反して特定健康診査又は特定保健指導を実"
+  },
+  {
+    "line": 109,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "施した場合は、当該実施機関の責任及び負担で行われるものとし、甲は当該特定健康診査又は"
+  },
+  {
+    "line": 110,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "特定保健指導に係る請求額を支払う義務を負わないものとする。"
+  },
+  {
+    "line": 111,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "２ 実施機関が特定健康診査受診券又は特定保健指導利用券等を確認し、またオンライン資格"
+  },
+  {
+    "line": 112,
+    "pdf_page": 3,
+    "pdf_page_end": 4,
+    "text": "確認等による保険資格の確認を行ったとしても、保険資格がないと判断することができない場-4-"
+  },
+  {
+    "line": 113,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "合には、実際に保険資格がなかったとしても、その者に対する特定健康診査又は特定保健指導"
+  },
+  {
+    "line": 114,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "は甲の費用負担とし、甲は実施機関に対して代行機関を通じて請求額を支払うものとする。"
+  },
+  {
+    "line": 115,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "３ 実施機関において、特定健康診査受診券若しくは特定保健指導利用券等に記載された内容"
+  },
+  {
+    "line": 116,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "と異なる業務・請求を行った場合は、当該実施機関の責任及び負担で行われるものとし、甲は"
+  },
+  {
+    "line": 117,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "当該特定健康診査又は特定保健指導に係る請求額を支払う義務を負わないものとする。"
+  },
+  {
+    "line": 118,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "４ 特定保健指導の積極的支援における期間中に、利用者が資格を喪失した場合は、利用者が"
+  },
+  {
+    "line": 119,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "属していた保険者が実施機関に資格喪失を連絡することにより利用停止とする。この時、実施"
+  },
+  {
+    "line": 120,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "機関は利用停止までの結果に関するデータを代行機関へ送付し、甲は利用停止までの特定保健"
+  },
+  {
+    "line": 121,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "指導の実施実績に応じた費用を代行機関を通じて実施機関に支払うこととする。"
+  },
+  {
+    "line": 122,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "５ 特定保健指導の積極的支援を実施中に、利用者が参加しなくなった（脱落が確定した）場"
+  },
+  {
+    "line": 123,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "合は、甲は、その時点までの特定保健指導の実施実績に応じた費用を代行機関を通じて実施機"
+  },
+  {
+    "line": 124,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "関に支払うこととする。"
+  },
+  {
+    "line": 125,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（再委託の禁止）"
+  },
+  {
+    "line": 126,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "第９条 乙及び実施機関は、甲が乙に委託する業務の全部又は一部を第三者に委託してはなら"
+  },
+  {
+    "line": 127,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ない。ただし、乙あるいは実施機関が、検査機器の不備等により、健診・保健指導機関に関す"
+  },
+  {
+    "line": 128,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "る「運営についての重要事項に関する規程の概要」において血液検査等の実施を委託すること"
+  },
+  {
+    "line": 129,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "を予め明示しており、その明示している内容の範囲において業務の一部を委託する場合には、"
+  },
+  {
+    "line": 130,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "この限りではない。"
+  },
+  {
+    "line": 131,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "２ 前項において実施機関が業務の一部を委託して実施する場合、受診者及び利用者の自己負"
+  },
+  {
+    "line": 132,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "担金の徴収及び第 6 条に規定する委託料の請求は実施機関が一元的に行うこととし、実施機関"
+  },
+  {
+    "line": 133,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "から業務の一部を受託した機関は受託した検査（眼底検査においては判断も含む）のみを行う"
+  },
+  {
+    "line": 134,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ものとする。"
+  },
+  {
+    "line": 135,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（譲渡の禁止）"
+  },
+  {
+    "line": 136,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "第 10 条 乙及び実施機関は、甲が乙に委託する業務の全部又は一部を第三者に譲渡してはなら"
+  },
+  {
+    "line": 137,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ない。"
+  },
+  {
+    "line": 138,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（事故及び損害の責任）"
+  },
+  {
+    "line": 139,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "第 11 条 実施機関が、業務の実施中に生じた事故及びその業務により生じた事故及び損害につ"
+  },
+  {
+    "line": 140,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "いては、甲及び乙に故意又は重過失のない限り、実施機関がその負担と責任において処理に当"
+  },
+  {
+    "line": 141,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "たるものとする。"
+  },
+  {
+    "line": 142,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "２ 前項の場合において、実施機関に故意又は重過失のない限り、その負担と責任について実"
+  },
+  {
+    "line": 143,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "施機関は甲及び乙と協議するものとする。"
+  },
+  {
+    "line": 144,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "３ 前２項の取り決めについては、乙と実施機関との契約等において両者遵守するものとする。"
+  },
+  {
+    "line": 145,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（個人情報の保護）"
+  },
+  {
+    "line": 146,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "第 12 条 乙および実施機関が当該業務を実施するに当たっては、特定健康診査あるいは特定保"
+  },
+  {
+    "line": 147,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "健指導の記録の漏洩を防止すると共に、実施担当者には守秘義務を課す等、関係法令を遵守す"
+  },
+  {
+    "line": 148,
+    "pdf_page": 4,
+    "pdf_page_end": 5,
+    "text": "ることに加え、別紙個人情報取扱注意事項や「医療・介護関係事業者における個人情報の適切-5-"
+  },
+  {
+    "line": 149,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "な取扱いのためのガイダンス」及び各都道府県において定める個人情報の取扱に係る条例等に"
+  },
+  {
+    "line": 150,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "基づき、必要な個人情報保護対策を講じ、上記の事項やガイドライン等を遵守するものとする。"
+  },
+  {
+    "line": 151,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "２ 前項の取り決めについては、乙と実施機関との契約等において両者遵守するものとする。"
+  },
+  {
+    "line": 152,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（業務等の調査等）"
+  },
+  {
+    "line": 153,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "第 13 条 甲は、健診・保健指導機関に関する「重要事項に関する規程の概要」に関する乙及び"
+  },
+  {
+    "line": 154,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "実施機関の公表内容等に関し詳細を確認する等、甲が必要と認めるときは、乙に対し実施機関"
+  },
+  {
+    "line": 155,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "における業務の実施状況等を照会し、調査及び報告を求めることができる。"
+  },
+  {
+    "line": 156,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "２ 甲から前項の照会があった場合、乙は速やかに対応するものとする。"
+  },
+  {
+    "line": 157,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（契約の解除）"
+  },
+  {
+    "line": 158,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "第 14 条 甲または乙は、甲または乙がこの契約に違反した場合は、この契約を解除できるもの"
+  },
+  {
+    "line": 159,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "とする。"
+  },
+  {
+    "line": 160,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "２ 前項に関わらず、甲は、前条の照会結果等から、健診・保健指導機関に関する「重要事項"
+  },
+  {
+    "line": 161,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "に関する規程の概要」に関する乙及び実施機関の公表内容等が事実と異なり、それにより甲に"
+  },
+  {
+    "line": 162,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "大きな影響がある場合は、この契約を解除できるものとする。"
+  },
+  {
+    "line": 163,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（反社会的勢力の排除）"
+  },
+  {
+    "line": 164,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "第 15 条 甲及び乙は、それぞれ相手方に対し次の各号の事項を確約する。"
+  },
+  {
+    "line": 165,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（１）自らが、暴力団、暴力団関係企業、総会屋若しくはこれらに準ずる者又はその構成員（以"
+  },
+  {
+    "line": 166,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "下、総称して「反社会勢力」という。）ではないこと。"
+  },
+  {
+    "line": 167,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（２）自らの役員（業務を遂行する役員、取締役、執行役又はこれらに準ずる者をいう。）が"
+  },
+  {
+    "line": 168,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "反社会的勢力でないこと。"
+  },
+  {
+    "line": 169,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（３）反社会的勢力に自己の名義を利用させ、本契約を締結するものではないこと。"
+  },
+  {
+    "line": 170,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（４）本契約の有効期間内に、自ら又は第三者を利用して、次の行為をしないこと。"
+  },
+  {
+    "line": 171,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ア 相手方に対する脅迫的な言動又は暴力を用いる行為。"
+  },
+  {
+    "line": 172,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "イ 偽計又は威力を用いて相手方の業務を妨害し、又は信用を毀損する行為。"
+  },
+  {
+    "line": 173,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（協 議）"
+  },
+  {
+    "line": 174,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "第 16 条 この契約に定めのない事項が生じたときは、必要に応じて、甲・乙誠意を持って協議"
+  },
+  {
+    "line": 175,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "の上決定するものとする。"
+  },
+  {
+    "line": 176,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "甲及び乙は、この契約を証するため、本契約書２通を作成し、甲・乙記名押印の上、各自 1"
+  },
+  {
+    "line": 177,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "通を保有するものとする。"
+  },
+  {
+    "line": 178,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "●年 4 月 1 日"
+  },
+  {
+    "line": 179,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "委託者（甲）"
+  },
+  {
+    "line": 180,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "●●●健康保険組合ほか○保険者"
+  },
+  {
+    "line": 181,
+    "pdf_page": 5,
+    "pdf_page_end": 6,
+    "text": "契約代表者-6-"
+  },
+  {
+    "line": 182,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "●●●健康保険組合"
+  },
+  {
+    "line": 183,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "（保険者番号 XXXXXXXX）"
+  },
+  {
+    "line": 184,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "●●県●●市●●●１－１－１"
+  },
+  {
+    "line": 185,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "理事長 ● ● ● ●"
+  },
+  {
+    "line": 186,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "受託者（乙）"
+  },
+  {
+    "line": 187,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "社団法人●●市（●●県）医師会"
+  },
+  {
+    "line": 188,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "●●県●●市●●●１－１－１"
+  },
+  {
+    "line": 189,
+    "pdf_page": 6,
+    "pdf_page_end": 7,
+    "text": "会長 ● ● ● ●-7-"
+  },
+  {
+    "line": 190,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "別紙"
+  },
+  {
+    "line": 191,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "健診等内容表"
+  },
+  {
+    "line": 192,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "区分 内容"
+  },
+  {
+    "line": 193,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "特"
+  },
+  {
+    "line": 194,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "定"
+  },
+  {
+    "line": 195,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "健"
+  },
+  {
+    "line": 196,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "康"
+  },
+  {
+    "line": 197,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "診"
+  },
+  {
+    "line": 198,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "査"
+  },
+  {
+    "line": 199,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "※7"
+  },
+  {
+    "line": 200,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "基本的な健診"
+  },
+  {
+    "line": 201,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "の項目"
+  },
+  {
+    "line": 202,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "既往歴の調査(服薬歴及び喫煙習慣の状況に係る調査を含む)※1"
+  },
+  {
+    "line": 203,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "自覚症状及び他覚症状の検査"
+  },
+  {
+    "line": 204,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "身体計測"
+  },
+  {
+    "line": 205,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "身長"
+  },
+  {
+    "line": 206,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "体重"
+  },
+  {
+    "line": 207,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "腹囲"
+  },
+  {
+    "line": 208,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ＢＭＩ"
+  },
+  {
+    "line": 209,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "血圧 収縮期血圧"
+  },
+  {
+    "line": 210,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "拡張期血圧"
+  },
+  {
+    "line": 211,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "血中脂質検査"
+  },
+  {
+    "line": 212,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（中性脂肪はどちらかの項目"
+  },
+  {
+    "line": 213,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "の実施で可）"
+  },
+  {
+    "line": 214,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "空腹時中性脂肪"
+  },
+  {
+    "line": 215,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "随時中性脂肪※2"
+  },
+  {
+    "line": 216,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ＨＤＬ－コレステロール"
+  },
+  {
+    "line": 217,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ＬＤＬ－コレステロール※3"
+  },
+  {
+    "line": 218,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "肝機能検査"
+  },
+  {
+    "line": 219,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ＡＳＴ（ＧＯＴ）"
+  },
+  {
+    "line": 220,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ＡＬＴ（ＧＰＴ）"
+  },
+  {
+    "line": 221,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "γ－ＧＴ（γ－ＧＴＰ）"
+  },
+  {
+    "line": 222,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "血糖検査"
+  },
+  {
+    "line": 223,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（いずれかの項目の実施で可）"
+  },
+  {
+    "line": 224,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "空腹時血糖"
+  },
+  {
+    "line": 225,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ヘモグロビン A 1 c"
+  },
+  {
+    "line": 226,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "随時血糖※4"
+  },
+  {
+    "line": 227,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "尿検査※5"
+  },
+  {
+    "line": 228,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "糖"
+  },
+  {
+    "line": 229,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "蛋白"
+  },
+  {
+    "line": 230,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "詳細な健診の"
+  },
+  {
+    "line": 231,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "項目（医師の判"
+  },
+  {
+    "line": 232,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "断に よ る追加項"
+  },
+  {
+    "line": 233,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "目）※6"
+  },
+  {
+    "line": 234,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "貧血検査"
+  },
+  {
+    "line": 235,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "赤血球数"
+  },
+  {
+    "line": 236,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "血色素量"
+  },
+  {
+    "line": 237,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ヘマトクリット値"
+  },
+  {
+    "line": 238,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "心電図検査"
+  },
+  {
+    "line": 239,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "眼底検査"
+  },
+  {
+    "line": 240,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "血清クレアチニン及び eGFR"
+  },
+  {
+    "line": 241,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "特"
+  },
+  {
+    "line": 242,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "定"
+  },
+  {
+    "line": 243,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "保"
+  },
+  {
+    "line": 244,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "健"
+  },
+  {
+    "line": 245,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "指"
+  },
+  {
+    "line": 246,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "導"
+  },
+  {
+    "line": 247,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "動機付け支援"
+  },
+  {
+    "line": 248,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（標準的な健診・保健指導プログラム【令和６年度版】第３編第３章３－７（４）を参考"
+  },
+  {
+    "line": 249,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "に、実施形態等を定め、この欄に具体的に記述）※単に「プログラムのとおり」等の"
+  },
+  {
+    "line": 250,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "記述は不可。"
+  },
+  {
+    "line": 251,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "積極的支援"
+  },
+  {
+    "line": 252,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "初回面接の形態"
+  },
+  {
+    "line": 253,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "3 ヶ月以上"
+  },
+  {
+    "line": 254,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "の継続的な"
+  },
+  {
+    "line": 255,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "支援"
+  },
+  {
+    "line": 256,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "実施ポイント数"
+  },
+  {
+    "line": 257,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "主な実施形態"
+  },
+  {
+    "line": 258,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "終了時評価の形態"
+  },
+  {
+    "line": 259,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "保険者独自の追加"
+  },
+  {
+    "line": 260,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "健診項目"
+  },
+  {
+    "line": 261,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（集合契約にて合意できる共通の追加項目が設定できる場合は、この欄に具体的"
+  },
+  {
+    "line": 262,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "に記載）"
+  },
+  {
+    "line": 263,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "※1 制度上質問票は必須ではないが、服薬歴や喫煙歴及び既往歴は把握する必要がある。実施機関が服"
+  },
+  {
+    "line": 264,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "薬歴等の把握において質問票を使用する場合には、当該機関にて質問票を準備する。"
+  },
+  {
+    "line": 265,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "※2 やむを得ず空腹時以外に採血を行う場合は、随時中性脂肪により脂質検査を行うことを可とする。"
+  },
+  {
+    "line": 266,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（空腹時とは絶食 10 時間以上とする。）"
+  },
+  {
+    "line": 267,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "※3 空腹時中性脂肪若しくは随時中性脂肪が 400mg/dl 以上である場合又は食後採血の場合は、LDL コ"
+  },
+  {
+    "line": 268,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "レステロールに代えて Non-HDL コレステロール（総コレステロールから HDL コレステロールを除いた"
+  },
+  {
+    "line": 269,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "もの）で評価を行うことができる。"
+  },
+  {
+    "line": 270,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "※4 やむを得ず空腹時以外に採血を行い、HbA1c（NGSP 値）を測定しない場合は、食直後（食事開始時"
+  },
+  {
+    "line": 271,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "から 3.5 時間未満）を除き随時血糖による血糖検査を行うことを可とする。"
+  },
+  {
+    "line": 272,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "※5 生理中の女性や、腎疾患等の基礎疾患があるために排尿障害を有している者に対する尿検査につい"
+  },
+  {
+    "line": 273,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ては、検査不能として実施を行わない場合も認めるものの、その他の項目については全て実施するこ"
+  },
+  {
+    "line": 274,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（標準的な健診・保健指導プログラム【令和６年度"
+  },
+  {
+    "line": 275,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "版】第３編第３章３－７（５）を参考に、実施形態等"
+  },
+  {
+    "line": 276,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "を定め、この欄に具体的に記述）※単に「プログ"
+  },
+  {
+    "line": 277,
+    "pdf_page": 7,
+    "pdf_page_end": 8,
+    "text": "ラムのとおり」等の記述は不可。-8-"
+  },
+  {
+    "line": 278,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "と。実施されなかった場合は完全に実施するまで何度も実施するか、未実施扱いとする(この場合甲か"
+  },
+  {
+    "line": 279,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "ら乙に委託費用は支払われない)。"
+  },
+  {
+    "line": 280,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "※6 詳細な健診の項目（医師の判断による追加項目）を実施する場合は、受診者に十分な説明を行うと"
+  },
+  {
+    "line": 281,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "共に、医療保険者に送付する結果データにおいてその理由を詳述することとする。"
+  },
+  {
+    "line": 282,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "※7 特定健康診査の結果を受診者に通知する際には、結果内容に合わせた、実施基準第 3 条に基づく必"
+  },
+  {
+    "line": 283,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "要な情報を提供するものとする。また、当該結果通知を対面により実施する場合、受診した者と特定"
+  },
+  {
+    "line": 284,
+    "pdf_page": 8,
+    "pdf_page_end": 9,
+    "text": "健康診査の実施後速やかに面談できない場合は郵送により実施するものとする。-9-"
+  },
+  {
+    "line": 285,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "別紙"
+  },
+  {
+    "line": 286,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "内 訳 書"
+  },
+  {
+    "line": 287,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "区分"
+  },
+  {
+    "line": 288,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "１人当たり委託料単価"
+  },
+  {
+    "line": 289,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "（消費税含む） 支払条件※２"
+  },
+  {
+    "line": 290,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "個別健診 集団健診"
+  },
+  {
+    "line": 291,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "特"
+  },
+  {
+    "line": 292,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "定"
+  },
+  {
+    "line": 293,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "健"
+  },
+  {
+    "line": 294,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "康"
+  },
+  {
+    "line": 295,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "診"
+  },
+  {
+    "line": 296,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "査"
+  },
+  {
+    "line": 297,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "※"
+  },
+  {
+    "line": 298,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "１"
+  },
+  {
+    "line": 299,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "基本的な健診の項目 ○,○○○円 ○,○○○円"
+  },
+  {
+    "line": 300,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・健診実施後に一括"
+  },
+  {
+    "line": 301,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "詳 細 な 健"
+  },
+  {
+    "line": 302,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "診の項目"
+  },
+  {
+    "line": 303,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "（医師の判断"
+  },
+  {
+    "line": 304,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "による追加項"
+  },
+  {
+    "line": 305,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "目）"
+  },
+  {
+    "line": 306,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "貧 血 検 査 ○,○○○円 ○,○○○円"
+  },
+  {
+    "line": 307,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "心電図検査 ○,○○○円 ○,○○○円"
+  },
+  {
+    "line": 308,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "眼 底 検 査 ○,○○○円 ○,○○○円"
+  },
+  {
+    "line": 309,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "血清 ク レ ア"
+  },
+  {
+    "line": 310,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "チニン検査"
+  },
+  {
+    "line": 311,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "及び eGFR"
+  },
+  {
+    "line": 312,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○,○○○円 ○,○○○円"
+  },
+  {
+    "line": 313,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "特"
+  },
+  {
+    "line": 314,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "定"
+  },
+  {
+    "line": 315,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "保"
+  },
+  {
+    "line": 316,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "健"
+  },
+  {
+    "line": 317,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "指"
+  },
+  {
+    "line": 318,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "導"
+  },
+  {
+    "line": 319,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "※2"
+  },
+  {
+    "line": 320,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "動機付け支援"
+  },
+  {
+    "line": 321,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "（動機付け支援相当） ○,○○○円"
+  },
+  {
+    "line": 322,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・面接による支援終了後に左記金額"
+  },
+  {
+    "line": 323,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "から初回時に全額徴収する自己負担"
+  },
+  {
+    "line": 324,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "分を差し引いた保険者負担額の 8/10"
+  },
+  {
+    "line": 325,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "を支払※3"
+  },
+  {
+    "line": 326,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "残る 2/10 は実績評価終了後に支払"
+  },
+  {
+    "line": 327,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "積極的支援 ○○,○○○円"
+  },
+  {
+    "line": 328,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・初回時の面接による支援終了後に"
+  },
+  {
+    "line": 329,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "左記金額から初回時に全額徴収する"
+  },
+  {
+    "line": 330,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "自己負担分を差し引いた保険者負担"
+  },
+  {
+    "line": 331,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "額の 4/10 を支払※3"
+  },
+  {
+    "line": 332,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・残る6/10（内訳としては3ヶ月以上の"
+  },
+  {
+    "line": 333,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "継続的な支援が 5/10、実績評価が"
+  },
+  {
+    "line": 334,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "1/10）は実績評価終了後に支払"
+  },
+  {
+    "line": 335,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・3 ヶ月以上の継続的な支援実施中に"
+  },
+  {
+    "line": 336,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "脱落等により終了した場合は、左記金"
+  },
+  {
+    "line": 337,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "額から初回時に全額徴収する自己負"
+  },
+  {
+    "line": 338,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "担分を差し引いた保険者負担額の"
+  },
+  {
+    "line": 339,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "5/10 に実施済みポイント数の割合を"
+  },
+  {
+    "line": 340,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "乗じた金額を支払"
+  },
+  {
+    "line": 341,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "追"
+  },
+  {
+    "line": 342,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "加"
+  },
+  {
+    "line": 343,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "健"
+  },
+  {
+    "line": 344,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "診"
+  },
+  {
+    "line": 345,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "項"
+  },
+  {
+    "line": 346,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "目"
+  },
+  {
+    "line": 347,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "円"
+  },
+  {
+    "line": 348,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "円 ・健診実施後に一括"
+  },
+  {
+    "line": 349,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "円"
+  },
+  {
+    "line": 350,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "※1 委託料単価には、電子的標準様式データの作成、受診者への結果通知や情報提供に要する費用を含"
+  },
+  {
+    "line": 351,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "んだものとする。"
+  },
+  {
+    "line": 352,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "※2 特定保健指導の各回の支払額が分割比率の関係で小数点以下の端数が生じる場合は、四捨五入によ"
+  },
+  {
+    "line": 353,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "り 1 円単位とする。"
+  },
+  {
+    "line": 354,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "※3 初回面接を分割して実施する際、やむを得ず初回分割面接２回目が実施できなかった場合で、実施"
+  },
+  {
+    "line": 355,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "機関が、対象者に初回分割面接１回目を実施する前に初回分割面接２回目を受けるように説明してお"
+  },
+  {
+    "line": 356,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "り、かつ以下のいずれかに該当する場合には、実施機関は「初回未完了」として、全額費用請求がで"
+  },
+  {
+    "line": 357,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "きることとする。"
+  },
+  {
+    "line": 358,
+    "pdf_page": 9,
+    "pdf_page_end": 10,
+    "text": " （実施機関の責により実施出来なかった場合は、費用請求はできない。）-10-"
+  },
+  {
+    "line": 359,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "イ 初回分割面接２回目を実施する前に対象者が資格喪失した場合。"
+  },
+  {
+    "line": 360,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "ロ 初回分割面接２回目を実施するために、電話や文書送付等の方法を用いて、対象者に複数回連絡"
+  },
+  {
+    "line": 361,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "を取ろうと試みたが、連絡がとれなかった場合。なお、実施した連絡等の事蹟は、「特定保健指導情"
+  },
+  {
+    "line": 362,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "報ファイル」の初回面接情報に記載すること。"
+  },
+  {
+    "line": 363,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "※必要に応じて、保険者（健保組合等）に連絡し、協力を求める。"
+  },
+  {
+    "line": 364,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "ハ 初回分割面接１回目を実施後、電話等により対象者と連絡がとれたものの、対象者が初回分割面"
+  },
+  {
+    "line": 365,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "接２回目の実施を拒否した場合。なお、この場合であっても当該電話等において、行動計画を完成"
+  },
+  {
+    "line": 366,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "させる（初回分割面接２回目を終了させる）よう試みること。また、その事蹟は、「特定保健指導情"
+  },
+  {
+    "line": 367,
+    "pdf_page": 10,
+    "pdf_page_end": 11,
+    "text": "報ファイル」の初回面接情報に記載すること。-11-"
+  },
+  {
+    "line": 368,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "別紙"
+  },
+  {
+    "line": 369,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "個人情報取扱注意事項"
+  },
+  {
+    "line": 370,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "１ 基本的事項"
+  },
+  {
+    "line": 371,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "乙及び実施機関は、個人情報の保護の重要性を認識し、この契約による業務の実施に当た"
+  },
+  {
+    "line": 372,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "っては、個人の権利利益を侵害することのないよう、個人情報を適切に取り扱わなければな"
+  },
+  {
+    "line": 373,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "らない。"
+  },
+  {
+    "line": 374,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "２ 秘密の保持"
+  },
+  {
+    "line": 375,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "乙及び実施機関は、この契約による業務に関して知ることができた個人情報をみだりに他"
+  },
+  {
+    "line": 376,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "人に知らせてはならない。この契約が終了し、又は解除された後においても同様とする。"
+  },
+  {
+    "line": 377,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "３ 収集の制限"
+  },
+  {
+    "line": 378,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "(1) 乙及び実施機関は、この契約による業務を処理するために個人情報を収集するときは、"
+  },
+  {
+    "line": 379,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "業務の目的を明確にするとともに、業務の目的を達成するために必要な範囲内で、適法か"
+  },
+  {
+    "line": 380,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "つ公正な手段により行わなければならない。"
+  },
+  {
+    "line": 381,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "(2) 乙及び実施機関は、この契約による業務を処理するため個人情報を収集するときは、本"
+  },
+  {
+    "line": 382,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "人から収集し、本人以外から収集するときは、本人の同意を得た上で収集しなければなら"
+  },
+  {
+    "line": 383,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "ない。"
+  },
+  {
+    "line": 384,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "４ 利用及び提供の制限"
+  },
+  {
+    "line": 385,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "乙及び実施機関は、この契約による業務に関して知り得た個人情報を契約の目的以外の目"
+  },
+  {
+    "line": 386,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "的のために利用し、又は第三者に提供してはならない。"
+  },
+  {
+    "line": 387,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "５ 適正管理"
+  },
+  {
+    "line": 388,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "乙及び実施機関は、この契約による業務に関して知り得た個人情報の漏洩、滅失及びき損"
+  },
+  {
+    "line": 389,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "の防止その他の個人情報の適切な管理のために必要な措置を講じなければならない。"
+  },
+  {
+    "line": 390,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "６ 再委託の禁止"
+  },
+  {
+    "line": 391,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "乙及び実施機関は、この契約による業務を行うための個人情報の処理は、自ら行うものと"
+  },
+  {
+    "line": 392,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "し、第三者にその処理を提供してはならない。ただし、乙及び実施機関が、健診・保健指導"
+  },
+  {
+    "line": 393,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "機関に関する「運営についての重要事項に関する規程の概要」において血液検査等の実施を"
+  },
+  {
+    "line": 394,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "委託することを予め明示しており、その明示している内容の範囲において業務の一部を委託"
+  },
+  {
+    "line": 395,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "する場合には、この限りではない。"
+  },
+  {
+    "line": 396,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "７ 資料等の返還等"
+  },
+  {
+    "line": 397,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "乙及び実施機関は、この契約による業務を処理するために甲から引き渡され、又は乙及び"
+  },
+  {
+    "line": 398,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "実施機関自らが収集し、若しくは作成した個人情報が記録された資料等は、業務完了後直ち"
+  },
+  {
+    "line": 399,
+    "pdf_page": 11,
+    "pdf_page_end": 12,
+    "text": "に甲に返還し、又は引き渡すものとする。ただし、甲が別に指示したときは、その指示に従-12-"
+  },
+  {
+    "line": 400,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "うものとする。"
+  },
+  {
+    "line": 401,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "８ 従事者への周知"
+  },
+  {
+    "line": 402,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "乙及び実施機関は、この契約による業務に従事している者に対して、在職中及び退職後に"
+  },
+  {
+    "line": 403,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "おいて、その業務に関して知ることのできた個人情報を他に漏らしてはならないこと及び契"
+  },
+  {
+    "line": 404,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "約の目的以外の目的に使用してはならないことなど、個人情報の保護に関し必要な事項を周"
+  },
+  {
+    "line": 405,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "知するものとする。"
+  },
+  {
+    "line": 406,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "９ 実地調査"
+  },
+  {
+    "line": 407,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "甲は、必要があると認めるときは、乙及び実施機関がこの契約による業務の執行に当たり"
+  },
+  {
+    "line": 408,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "取り扱っている個人情報の状況について、随時実地に調査することができる。"
+  },
+  {
+    "line": 409,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "１０ 事故報告"
+  },
+  {
+    "line": 410,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "乙及び実施機関は、この契約に違反する事態が生じ、又は生じるおそれがあることを知っ"
+  },
+  {
+    "line": 411,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "たときは、速やかに甲に報告し、甲の指示に従うものとする。"
+  }
+]

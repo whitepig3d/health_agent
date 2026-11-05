@@ -1,0 +1,3200 @@
+[
+  {
+    "line": 0,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "受診券QRコード収録項目"
+  },
+  {
+    "line": 1,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "項"
+  },
+  {
+    "line": 2,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "番"
+  },
+  {
+    "line": 3,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "区分 項目名称 データ"
+  },
+  {
+    "line": 4,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "長"
+  },
+  {
+    "line": 5,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "データ仕様 最大"
+  },
+  {
+    "line": 6,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "バイト"
+  },
+  {
+    "line": 7,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "備考 考え方"
+  },
+  {
+    "line": 8,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "1 － 自動転記対応確認文字、バージョ"
+  },
+  {
+    "line": 9,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ン記号"
+  },
+  {
+    "line": 10,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "半角文字"
+  },
+  {
+    "line": 11,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "“kenshin”＋発"
+  },
+  {
+    "line": 12,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "行年度 西暦下"
+  },
+  {
+    "line": 13,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "２桁"
+  },
+  {
+    "line": 14,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "9 読み取り対象が「受診券である」ことと、バージョン"
+  },
+  {
+    "line": 15,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（有効年度）を読み取り機で判断するための情報。"
+  },
+  {
+    "line": 16,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "自動転記対応確認文字を「kenshin」としたが、任意の"
+  },
+  {
+    "line": 17,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "記号または文字で代替可能（参考：被保険者証は"
+  },
+  {
+    "line": 18,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "「□」）。"
+  },
+  {
+    "line": 19,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "2 受診者のカナ氏名 半角カナ20桁 20 被保険者証ＱＲより文字数を拡張（１４→２０文字）"
+  },
+  {
+    "line": 20,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "被保険者証との突合のため半角カタカナとしている"
+  },
+  {
+    "line": 21,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "が、健診データファイル標準様式では全角カタカナと"
+  },
+  {
+    "line": 22,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "なることから、データファイルへの格納時に全角へ変"
+  },
+  {
+    "line": 23,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "換する必要がある。"
+  },
+  {
+    "line": 24,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "3 性別 半角数字1桁 1 1：男、2：女 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 25,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "4 生年月日 半角数字7桁 7 GYYMMDD（元号/年/月/日）"
+  },
+  {
+    "line": 26,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "G＝1：明治、2：大正、3：昭和、4：平成"
+  },
+  {
+    "line": 27,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "被保険者証ＱＲと同様の仕様"
+  },
+  {
+    "line": 28,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "被保険者証との突合のため和暦としているが、健診"
+  },
+  {
+    "line": 29,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "データファイル標準様式では西暦8桁となることから、"
+  },
+  {
+    "line": 30,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "データファイルへの格納時に西暦へ変換する必要が"
+  },
+  {
+    "line": 31,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ある。"
+  },
+  {
+    "line": 32,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "5 保険者情報 保険者番号 半角数字8桁 8"
+  },
+  {
+    "line": 33,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "6 受診券整理番号 半角数字11桁 11 YYS********（西暦下2桁/種別番号1桁/個人番号8"
+  },
+  {
+    "line": 34,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "桁）"
+  },
+  {
+    "line": 35,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "［S（種別番号）］"
+  },
+  {
+    "line": 36,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "1：特定健康診査"
+  },
+  {
+    "line": 37,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "5：特定健康診査・特定保健指導（セット券）"
+  },
+  {
+    "line": 38,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "3桁目は、1又は5。"
+  },
+  {
+    "line": 39,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "「年度＋種別番号＋個人番号8桁」より、数字11桁。"
+  },
+  {
+    "line": 40,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "7 交付年月日 半角数字8桁 8 YYYYMMDD（西暦年/月/日）"
+  },
+  {
+    "line": 41,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "8 有効期限 半角数字8桁 8 YYYYMMDD（西暦年/月/日）"
+  },
+  {
+    "line": 42,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "9 健診内容区分 半角数字1桁 1 1：特定健診のみ、2：その他健診項目あり"
+  },
+  {
+    "line": 43,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "10 事業主健診の有無 半角数字1桁 1 1：労働者としての事業主健診の実施も含んでいる"
+  },
+  {
+    "line": 44,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "2：含んでいない（被扶養者として受診）"
+  },
+  {
+    "line": 45,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "健診を労働者として受診するのか、被扶養者として受"
+  },
+  {
+    "line": 46,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "診するのかを区別し、生活機能評価との同時実施時"
+  },
+  {
+    "line": 47,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "に重複項目分の費用を差し引くか否かを判別"
+  },
+  {
+    "line": 48,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "11 特定健診(基本部分)の負担区分 半角数字1桁 1 1：受診者は負担なし、2：受診者は定額負担、3：受診"
+  },
+  {
+    "line": 49,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "者は定率負担、4:保険者は定額負担"
+  },
+  {
+    "line": 50,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "特定健診の「基本的な健診の項目」部分への使用を"
+  },
+  {
+    "line": 51,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "想定"
+  },
+  {
+    "line": 52,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "12 特定健診(基本部分)の負担内容 半角数字6桁 6 「特定健診基本部分の負担区分」＝2～4のときに使"
+  },
+  {
+    "line": 53,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "用。"
+  },
+  {
+    "line": 54,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＝2・4のとき、額"
+  },
+  {
+    "line": 55,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＝3のとき、割合"
+  },
+  {
+    "line": 56,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "を収録。"
+  },
+  {
+    "line": 57,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 58,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "例．負担割合が３３．０２％の場合、「033020」を収録。"
+  },
+  {
+    "line": 59,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "※「1：受診者は負担なし」の場合は「000000」を収録。"
+  },
+  {
+    "line": 60,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "13 特定健診(詳細部分)の負担区分 半角数字1桁 1 1：受診者は負担なし、2：受診者は定額負担、3：受診"
+  },
+  {
+    "line": 61,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "者は定率負担、4:保険者は定額負担"
+  },
+  {
+    "line": 62,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "特定健診の「詳細な健診の項目」部分(医師の判断に"
+  },
+  {
+    "line": 63,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "より実施する項目)への使用を想定"
+  },
+  {
+    "line": 64,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "14 特定健診(詳細部分)の負担内容 半角数字6桁 6 「医師の判断による追加項目の負担区分」＝2～4の"
+  },
+  {
+    "line": 65,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ときに使用。"
+  },
+  {
+    "line": 66,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＝2・4のとき、額"
+  },
+  {
+    "line": 67,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＝3のとき、割合"
+  },
+  {
+    "line": 68,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "を収録。"
+  },
+  {
+    "line": 69,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 70,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "例．負担割合が３割の場合、「030000」を収録。"
+  },
+  {
+    "line": 71,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "※「1：受診者は負担なし」の場合は「000000」を収録。"
+  },
+  {
+    "line": 72,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "15 その他(追加項目)の負担区分 半角数字1桁 1 1：受診者は負担なし、2：受診者は定額負担、3：受診"
+  },
+  {
+    "line": 73,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "者は定率負担、4:保険者は定額負担"
+  },
+  {
+    "line": 74,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "特定健診以外に、保険者が任意で追加する項目へ"
+  },
+  {
+    "line": 75,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "の使用を想定"
+  },
+  {
+    "line": 76,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "16 その他(追加項目)の担内容(負担"
+  },
+  {
+    "line": 77,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "率・負担額)"
+  },
+  {
+    "line": 78,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "半角数字6桁 6 「その他(追加項目)の負担区分」＝2もしくは3の時に"
+  },
+  {
+    "line": 79,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "使用。"
+  },
+  {
+    "line": 80,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＝2のとき、額"
+  },
+  {
+    "line": 81,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＝3のとき、割合"
+  },
+  {
+    "line": 82,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "を収録。"
+  },
+  {
+    "line": 83,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 84,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "例．負担割合が８．６７％の場合、「008670」を収録。"
+  },
+  {
+    "line": 85,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "※「1：受診者は負担なし」の場合は「000000」を収録。"
+  },
+  {
+    "line": 86,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "17 その他(人間ドック)の負担区分 半角数字1桁 1 1：受診者は負担なし、2：受診者は定額負担、3：受診"
+  },
+  {
+    "line": 87,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "者は定率負担、4:保険者は定額負担、5:受診者は保"
+  },
+  {
+    "line": 88,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "険者負担上限額以下の場合定率負担、6:受診者は"
+  },
+  {
+    "line": 89,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "保険者負担上限額以下の場合定額負担"
+  },
+  {
+    "line": 90,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "人間ドック(特定健診含む)への使用を想定"
+  },
+  {
+    "line": 91,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "18 その他(人間ドック)の負担内容(負"
+  },
+  {
+    "line": 92,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "担率・負担額)"
+  },
+  {
+    "line": 93,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "半角数字6桁 6 「その他(人間ドック)の負担区分」＝2から6の時に使"
+  },
+  {
+    "line": 94,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "用。"
+  },
+  {
+    "line": 95,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＝2・4・6のとき、額"
+  },
+  {
+    "line": 96,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＝3・5のとき、割合"
+  },
+  {
+    "line": 97,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "を収録。"
+  },
+  {
+    "line": 98,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 99,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "例．負担割合が８．６７％の場合、「008670」を収録。"
+  },
+  {
+    "line": 100,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "※「1：受診者は負担なし」の場合は「000000」を収録。"
+  },
+  {
+    "line": 101,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "19 その他(人間ドック)の負担内容(保"
+  },
+  {
+    "line": 102,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "険者負担上限額)"
+  },
+  {
+    "line": 103,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "半角数字6桁 6 「その他(人間ドック)の負担区分」＝4もしくは5の時に"
+  },
+  {
+    "line": 104,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "使用(金額を収録)。"
+  },
+  {
+    "line": 105,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 106,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "「その他(人間ドック)の負担区分」＝5の時に、保険者"
+  },
+  {
+    "line": 107,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "負担上限額はこの欄に収録し、上限額以下の場合の"
+  },
+  {
+    "line": 108,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "受診者負担率はNo18に収録。"
+  },
+  {
+    "line": 109,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "20 契約とりまとめ機関区分１ 半角数字1桁 1 1：国保ベース、2：国保ベース＋契約とりまとめ機関、"
+  },
+  {
+    "line": 110,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "3：国保ベース＋契約とりまとめ機関+個別契約、4：契"
+  },
+  {
+    "line": 111,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "約とりまとめ機関、5：契約とりまとめ機関+個別契約、"
+  },
+  {
+    "line": 112,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "6：個別契約のみ"
+  },
+  {
+    "line": 113,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "個別契約では受診券を必ずしも必要としないが、代"
+  },
+  {
+    "line": 114,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "行機関を通じて結果と決済を行う場合は受診券を発"
+  },
+  {
+    "line": 115,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "券。"
+  },
+  {
+    "line": 116,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "21 契約とりまとめ機関区分（全衛連に"
+  },
+  {
+    "line": 117,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "おける受診可否）"
+  },
+  {
+    "line": 118,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、全衛連にて利用が可能で"
+  },
+  {
+    "line": 119,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "あれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 120,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "22 代行機関番号（全衛連の場合） 半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 121,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "た各機関の番号を格納。No21が「0」の場合は空欄で"
+  },
+  {
+    "line": 122,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "可"
+  },
+  {
+    "line": 123,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "23 契約とりまとめ機関区分（結核予防"
+  },
+  {
+    "line": 124,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "会における受診可否）"
+  },
+  {
+    "line": 125,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、結核予防会にて利用が可"
+  },
+  {
+    "line": 126,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "能であれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 127,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "24 代行機関番号（結核予防会の場"
+  },
+  {
+    "line": 128,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "合）"
+  },
+  {
+    "line": 129,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 130,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "た各機関の番号を格納。No23が「0」の場合は空欄で"
+  },
+  {
+    "line": 131,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "可"
+  },
+  {
+    "line": 132,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "25 契約とりまとめ機関区分（人間ドッ"
+  },
+  {
+    "line": 133,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ク学会における受診可否）"
+  },
+  {
+    "line": 134,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、人間ドック学会にて利用"
+  },
+  {
+    "line": 135,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "が可能であれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 136,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "26 代行機関番号（人間ドック学会の場"
+  },
+  {
+    "line": 137,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "合）"
+  },
+  {
+    "line": 138,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 139,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "た各機関の番号を格納。No25が「0」の場合は空欄で"
+  },
+  {
+    "line": 140,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "可"
+  },
+  {
+    "line": 141,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "27 契約とりまとめ機関区分（予防医学"
+  },
+  {
+    "line": 142,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "事業中央会における受診可否）"
+  },
+  {
+    "line": 143,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、予防医学事業中央会にて"
+  },
+  {
+    "line": 144,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "利用が可能であれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 145,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "受診者情報"
+  },
+  {
+    "line": 146,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "集合契約を主に利用する被用者保険が、現状でも協"
+  },
+  {
+    "line": 147,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "約等の締結や、一括委託等を行う等により既存の全"
+  },
+  {
+    "line": 148,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "国ネットワークとして利用できるとりまとめ機関とし"
+  },
+  {
+    "line": 149,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "て、多くの保険者が利用している機関グループにつ"
+  },
+  {
+    "line": 150,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "いて領域を設定。"
+  },
+  {
+    "line": 151,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "これにより全国の多くの機関がカバーされることか"
+  },
+  {
+    "line": 152,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ら、コード化により文字入力等を回避。"
+  },
+  {
+    "line": 153,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "とりまとめ機関が代行機関を兼ねるケースも想定され"
+  },
+  {
+    "line": 154,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ることから、それぞれのとりまとめ機関別での送付先"
+  },
+  {
+    "line": 155,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "を設定（支払基金が入る場合はそれぞれの欄に支払"
+  },
+  {
+    "line": 156,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "基金の番号を入れておく）。"
+  },
+  {
+    "line": 157,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "項目・費用等により選択されたとりまとめ機関により、"
+  },
+  {
+    "line": 158,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "送付先が決定し、データにその機関番号を格納"
+  },
+  {
+    "line": 159,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "※国保ベースのみの場合は送付先代行機関は支払"
+  },
+  {
+    "line": 160,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "基金(支払基金の番号が送付先欄に入る)、個別契約"
+  },
+  {
+    "line": 161,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "固定長"
+  },
+  {
+    "line": 162,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "受診券情報"
+  },
+  {
+    "line": 163,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "付属資料２：QRコード収録項目 赤字は第三期における変更点"
+  },
+  {
+    "line": 164,
+    "pdf_page": 1,
+    "pdf_page_end": 2,
+    "text": "128 代行機関番号（予防医学事業中央"
+  },
+  {
+    "line": 165,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "会の場合）"
+  },
+  {
+    "line": 166,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 167,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "た各機関の番号を格納。No27が「0」の場合は空欄で"
+  },
+  {
+    "line": 168,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "可"
+  },
+  {
+    "line": 169,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "29 契約とりまとめ機関区分（日本総合"
+  },
+  {
+    "line": 170,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "健診医学会における受診可否）"
+  },
+  {
+    "line": 171,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、日本総合健診医学会にて"
+  },
+  {
+    "line": 172,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "利用が可能であれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 173,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "30 代行機関番号（日本総合健診医学"
+  },
+  {
+    "line": 174,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "会の場合）"
+  },
+  {
+    "line": 175,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 176,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "た各機関の番号を格納。No29が「0」の場合は空欄で"
+  },
+  {
+    "line": 177,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "可"
+  },
+  {
+    "line": 178,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "31 契約とりまとめ機関区分（全日本病"
+  },
+  {
+    "line": 179,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "院協会における受診可否）"
+  },
+  {
+    "line": 180,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、全日本病院協会にて利用"
+  },
+  {
+    "line": 181,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "が可能であれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 182,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "32 代行機関番号（全日本病院協会の"
+  },
+  {
+    "line": 183,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "場合）"
+  },
+  {
+    "line": 184,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 185,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "た各機関の番号を格納。No31が「0」の場合は空欄で"
+  },
+  {
+    "line": 186,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "可"
+  },
+  {
+    "line": 187,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "33 契約とりまとめ機関区分（東京都総"
+  },
+  {
+    "line": 188,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "合組合保健施設振興協会における"
+  },
+  {
+    "line": 189,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "受診可否）"
+  },
+  {
+    "line": 190,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、東京都総合組合保健施"
+  },
+  {
+    "line": 191,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "設振興協会にて利用が可能であれば｢1｣、不可なら"
+  },
+  {
+    "line": 192,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "「0」とする。"
+  },
+  {
+    "line": 193,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "34 代行機関番号（東京都総合組合保"
+  },
+  {
+    "line": 194,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "健施設振興協会の場合）"
+  },
+  {
+    "line": 195,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 196,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "た各機関の番号を格納。No33が「0」の場合は空欄で"
+  },
+  {
+    "line": 197,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "可"
+  },
+  {
+    "line": 198,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "35 契約とりまとめ機関区分（その他に"
+  },
+  {
+    "line": 199,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "おける受診可否）"
+  },
+  {
+    "line": 200,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、その他（全衛連、結核予"
+  },
+  {
+    "line": 201,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "防会、人間ドック学会、予防医学事業中央会、日本総"
+  },
+  {
+    "line": 202,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "合健診医学会、全日本病院協会、東京都総合組合"
+  },
+  {
+    "line": 203,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "保健施設振興協会 以外）にて利用が可能であれば｢"
+  },
+  {
+    "line": 204,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 205,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "36 代行機関番号（その他の場合） 半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 206,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "た各機関の番号を格納。No35が「0」の場合は空欄で"
+  },
+  {
+    "line": 207,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "可"
+  },
+  {
+    "line": 208,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "－ （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 209,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "37 保険者名称 可変長 漢字 40 「特定健診データの電子的交換のためのファイル仕"
+  },
+  {
+    "line": 210,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "様（案）」の「特定健診機関名称」と同様にエリア設"
+  },
+  {
+    "line": 211,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "定。"
+  },
+  {
+    "line": 212,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "－ （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 213,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "38 保険者所在地 可変長 漢字 80 「特定健診データの電子的交換のためのファイル仕"
+  },
+  {
+    "line": 214,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "様（案）」の「特定健診機関所在地」と同様にエリア設"
+  },
+  {
+    "line": 215,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "定。"
+  },
+  {
+    "line": 216,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "－ （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 217,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "39 保険者電話番号 可変長 半角英数 15 「特定健診データの電子的交換のためのファイル仕"
+  },
+  {
+    "line": 218,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "様（案）」の「特定健診機関電話番号」と同様にエリア"
+  },
+  {
+    "line": 219,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "設定。"
+  },
+  {
+    "line": 220,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "－ （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 221,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "40 健診内容その他の内容 可変長 漢字 80 「健診内容区分」＝「２：その他あり」のときに使用。そ"
+  },
+  {
+    "line": 222,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "の他欄に記載する追加の健診項目の内容を収録。"
+  },
+  {
+    "line": 223,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "例．「人間ドック」「婦人科健診」など。"
+  },
+  {
+    "line": 224,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "全角40文字。"
+  },
+  {
+    "line": 225,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "－ （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 226,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "41 契約とりまとめ機関区分（除外県） 可変長 半角英数 49 除外(あるいは限定)する都道府県番号を収録する。"
+  },
+  {
+    "line": 227,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "受診可能な県を列記する場合、冒頭に｢+｣を収録す"
+  },
+  {
+    "line": 228,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "る。"
+  },
+  {
+    "line": 229,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "受診対象外となる県を列記する場合、冒頭に｢-｣を収"
+  },
+  {
+    "line": 230,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "録する。"
+  },
+  {
+    "line": 231,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "例．東京都（番号「13」）のみ被扶養者がいる場合に"
+  },
+  {
+    "line": 232,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "は、「+13」を収録する。"
+  },
+  {
+    "line": 233,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "例．東京都（番号「13」）に被扶養者が一人もいない場"
+  },
+  {
+    "line": 234,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "合には、「-13」を収録する。"
+  },
+  {
+    "line": 235,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "例．東京都（番号「13」）、神奈川県（番号「14」）に被扶"
+  },
+  {
+    "line": 236,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "養者が一人もいない場合には、「-1314」を収録する。"
+  },
+  {
+    "line": 237,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "当然ながら、＋と－が混在することはなく、いずれか"
+  },
+  {
+    "line": 238,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "のみとなる。"
+  },
+  {
+    "line": 239,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "－ （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 240,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "42 契約とりまとめ機関名 可変長 漢字 40 契約とりまとめ機関名称を収録する。 「特定健診データの電子的交換のためのファイル仕"
+  },
+  {
+    "line": 241,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "様（案）」の「特定健診機関名称」と同様にエリア設定"
+  },
+  {
+    "line": 242,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "(全角20文字）。"
+  },
+  {
+    "line": 243,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "合計（最大） 491 バイト"
+  },
+  {
+    "line": 244,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（うち、固定長 181 バイト ）"
+  },
+  {
+    "line": 245,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（うち、固定長(区切文字） 6 バイト ）"
+  },
+  {
+    "line": 246,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（うち、可変長 304 バイト ）"
+  },
+  {
+    "line": 247,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "受診券情報"
+  },
+  {
+    "line": 248,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "※「代行機関名」は、入力領域がないこと等からコード化せず"
+  },
+  {
+    "line": 249,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "※「被保険者証の記号・番号」は、利用券の表記より削除"
+  },
+  {
+    "line": 250,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "基金(支払基金の番号が送付先欄に入る)、個別契約"
+  },
+  {
+    "line": 251,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "が優先される場合は送付先は保険者(保険者番号が"
+  },
+  {
+    "line": 252,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "送付先欄に入る)"
+  },
+  {
+    "line": 253,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "上記以外で、複数の契約とりまとめ機関との集合契"
+  },
+  {
+    "line": 254,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "約を利用する場合においても、利用する代行機関の"
+  },
+  {
+    "line": 255,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "数があまりに多くなると保険者の事務負担軽減につ"
+  },
+  {
+    "line": 256,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "ながらないことから、代行機関はできる限り集約・一"
+  },
+  {
+    "line": 257,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "本化を図るのが保険者としての基本的な考え方とな"
+  },
+  {
+    "line": 258,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "るため、機関番号は1箇所分のみとしている。"
+  },
+  {
+    "line": 259,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "個別契約が混じる場合、この欄を使用"
+  },
+  {
+    "line": 260,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "保険者情報"
+  },
+  {
+    "line": 261,
+    "pdf_page": 2,
+    "pdf_page_end": 3,
+    "text": "2利用券ＱＲコード収録項目"
+  },
+  {
+    "line": 262,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "項"
+  },
+  {
+    "line": 263,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "番"
+  },
+  {
+    "line": 264,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "区分 項目名称 データ"
+  },
+  {
+    "line": 265,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "長"
+  },
+  {
+    "line": 266,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "データ仕様 最大"
+  },
+  {
+    "line": 267,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "バイト"
+  },
+  {
+    "line": 268,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "備考 考え方"
+  },
+  {
+    "line": 269,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "1 － 自動転記対応確認文字、バージョ"
+  },
+  {
+    "line": 270,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ン"
+  },
+  {
+    "line": 271,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "記号"
+  },
+  {
+    "line": 272,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "半角文字"
+  },
+  {
+    "line": 273,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "“shidou”＋発"
+  },
+  {
+    "line": 274,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "行"
+  },
+  {
+    "line": 275,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "8 読み取り対象が「利用券である」ことと、バージョン"
+  },
+  {
+    "line": 276,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "（有効年度）を読み取り機で判断するための情報。"
+  },
+  {
+    "line": 277,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "自動転記対応確認文字を「shidou」としたが、任意の"
+  },
+  {
+    "line": 278,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "記号または文字で代替可能（参考：被保険者証は"
+  },
+  {
+    "line": 279,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "「□」）。"
+  },
+  {
+    "line": 280,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "2 利用者のカナ氏名 半角カナ20桁 20 被保険者証ＱＲより文字数を拡張（１４→２０文字）"
+  },
+  {
+    "line": 281,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "被保険者証との突合のため半角カタカナとしている"
+  },
+  {
+    "line": 282,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が、健診データファイル標準様式では全角カタカナと"
+  },
+  {
+    "line": 283,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "なることから、データファイルへの格納時に全角へ変"
+  },
+  {
+    "line": 284,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "換する必要がある。"
+  },
+  {
+    "line": 285,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "3 性別 半角数字1桁 1 1：男、2：女 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 286,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "4 生年月日 半角数字7桁 7 GYYMMDD（元号/年/月/日）"
+  },
+  {
+    "line": 287,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "G＝1：明治、2：大正、3：昭和、4：平成"
+  },
+  {
+    "line": 288,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "被保険者証ＱＲと同様の仕様"
+  },
+  {
+    "line": 289,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "被保険者証との突合のため和暦としているが、健診"
+  },
+  {
+    "line": 290,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "データファイル標準様式では西暦8桁となることから、"
+  },
+  {
+    "line": 291,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "データファイルへの格納時に西暦へ変換する必要が"
+  },
+  {
+    "line": 292,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "5 保険者情報 保険者番号 半角数字8桁 8"
+  },
+  {
+    "line": 293,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "6 利用券整理番号 半角数字11桁 11 YYS********（西暦下2桁/種別番号1桁/個人番号8"
+  },
+  {
+    "line": 294,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "桁）"
+  },
+  {
+    "line": 295,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "［S（種別番号）］"
+  },
+  {
+    "line": 296,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "2：特定保健指導（積極的支援）"
+  },
+  {
+    "line": 297,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "3：特定保健指導（動機付け支援）"
+  },
+  {
+    "line": 298,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "4：特定保健指導（動機付け支援相当）"
+  },
+  {
+    "line": 299,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※当日初回面接の集合契約の場合は、No.7「特定健"
+  },
+  {
+    "line": 300,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "康診査受診券整理番号」と同じ値を収録。"
+  },
+  {
+    "line": 301,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※3桁目は、2、3、4、5のいずれか。"
+  },
+  {
+    "line": 302,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "「年度＋種別番号＋個人番号8桁」より、数字11桁。"
+  },
+  {
+    "line": 303,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "7 特定健康診査受診券整理番号 半角数字11桁 11 YYS********（西暦下2桁/種別番号1桁/個人番号8"
+  },
+  {
+    "line": 304,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "桁）"
+  },
+  {
+    "line": 305,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "［S（種別番号）］"
+  },
+  {
+    "line": 306,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "1：特定健康診査"
+  },
+  {
+    "line": 307,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "5：特定健康診査・特定保健指導（セット券）"
+  },
+  {
+    "line": 308,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "「年度＋種別番号＋個人番号8桁」より、数字11桁。"
+  },
+  {
+    "line": 309,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "8 交付年月日 半角数字8桁 8 YYYYMMDD（西暦年/月/日）"
+  },
+  {
+    "line": 310,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "9 有効期限 半角数字8桁 8 YYYYMMDD（西暦年/月/日）"
+  },
+  {
+    "line": 311,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "10 特定保健指導区分 半角数字1桁 1 1：動機付け支援、2：積極的支援、3：動機付け支援相"
+  },
+  {
+    "line": 312,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "当"
+  },
+  {
+    "line": 313,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※No.7「特定健康診査受診券整理番号」の種別番号"
+  },
+  {
+    "line": 314,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が「5」のときは、スペースを収録。"
+  },
+  {
+    "line": 315,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "11 負担区分 半角数字1桁 1 1：利用者は負担なし、2：利用者は定額負担、3：利用"
+  },
+  {
+    "line": 316,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "者は定率負担、4:保険者は定額負担、5:利用者は保"
+  },
+  {
+    "line": 317,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "険者負担上限額以下の場合定率負担、6:受診者は"
+  },
+  {
+    "line": 318,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "保険者負担上限額以下の場合定額負担"
+  },
+  {
+    "line": 319,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※No.7「特定健康診査受診券整理番号」の種別番号"
+  },
+  {
+    "line": 320,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が「5」のときは、スペースを収録。"
+  },
+  {
+    "line": 321,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "12 負担内容(負担率・負担額) 半角数字6桁 6 No.11「負担区分」＝2から6の時に使用。"
+  },
+  {
+    "line": 322,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "＝2・4・6のとき、額"
+  },
+  {
+    "line": 323,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "＝3・5のとき、割合"
+  },
+  {
+    "line": 324,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "を収録。"
+  },
+  {
+    "line": 325,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 326,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "例．負担割合が８．６７％の場合、「008670」を収録。"
+  },
+  {
+    "line": 327,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※「1：利用者は負担なし」の場合は「000000」を収録。"
+  },
+  {
+    "line": 328,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※No.7「特定健康診査受診券整理番号」の種別番号"
+  },
+  {
+    "line": 329,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が「5」のときは、スペースを収録。"
+  },
+  {
+    "line": 330,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "13 負担内容(保険者負担上限額) 半角数字6桁 6 No.11「負担区分」＝4もしくは5の時に使用(金額を収"
+  },
+  {
+    "line": 331,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "録)。"
+  },
+  {
+    "line": 332,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 333,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※No.7「特定健康診査受診券整理番号」の種別番号"
+  },
+  {
+    "line": 334,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が「5」のときは、スペースを収録。"
+  },
+  {
+    "line": 335,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "No.11「負担区分」＝5の時に、保険者負担上限額はこ"
+  },
+  {
+    "line": 336,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "の欄に収録し、上限額以下の場合の受診者負担率"
+  },
+  {
+    "line": 337,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "はNo12に収録。"
+  },
+  {
+    "line": 338,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "14 セット券負担区分（動機付け支援） 半角数字1桁 1 1：利用者は負担なし、2：利用者は定額負担、3：利用"
+  },
+  {
+    "line": 339,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "者は定率負担、4:保険者は定額負担、5:利用者は保"
+  },
+  {
+    "line": 340,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "険者負担上限額以下の場合定率負担、6:受診者は"
+  },
+  {
+    "line": 341,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "保険者負担上限額以下の場合定額負担"
+  },
+  {
+    "line": 342,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※No.7「特定健康診査受診券整理番号」の種別番号"
+  },
+  {
+    "line": 343,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が「1」のときは、スペースを収録。"
+  },
+  {
+    "line": 344,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "15 セット券負担内容（動機付け支援）"
+  },
+  {
+    "line": 345,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "(負担率・負担額)"
+  },
+  {
+    "line": 346,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "半角数字6桁 6 No.14「セット券負担区分（動機付け支援）」＝2から6"
+  },
+  {
+    "line": 347,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "の時に使用。"
+  },
+  {
+    "line": 348,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "＝2・4・6のとき、額"
+  },
+  {
+    "line": 349,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "＝3・5のとき、割合"
+  },
+  {
+    "line": 350,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "を収録。"
+  },
+  {
+    "line": 351,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 352,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "例．負担割合が８．６７％の場合、「008670」を収録。"
+  },
+  {
+    "line": 353,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※「1：利用者は負担なし」の場合は「000000」を収録。"
+  },
+  {
+    "line": 354,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※No.7「特定健康診査受診券整理番号」の種別番号"
+  },
+  {
+    "line": 355,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が「1」のときは、スペースを収録。"
+  },
+  {
+    "line": 356,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "16 セット券負担内容（動機付け支援）"
+  },
+  {
+    "line": 357,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "(保険者負担上限額)"
+  },
+  {
+    "line": 358,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "半角数字6桁 6 No.14「セット券負担区分（動機付け支援）」＝4もしくは"
+  },
+  {
+    "line": 359,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "5の時に使用(金額を収録)。"
+  },
+  {
+    "line": 360,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 361,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※No.7「特定健康診査受診券整理番号」の種別番号"
+  },
+  {
+    "line": 362,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が「1」のときは、スペースを収録。"
+  },
+  {
+    "line": 363,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "17 セット券負担区分（積極的支援） 半角数字1桁 1 1：利用者は負担なし、2：利用者は定額負担、3：利用"
+  },
+  {
+    "line": 364,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "者は定率負担、4:保険者は定額負担、5:利用者は保"
+  },
+  {
+    "line": 365,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "険者負担上限額以下の場合定率負担、6:受診者は"
+  },
+  {
+    "line": 366,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "保険者負担上限額以下の場合定額負担"
+  },
+  {
+    "line": 367,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※No.7「特定健康診査受診券整理番号」の種別番号"
+  },
+  {
+    "line": 368,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が「1」のときは、スペースを収録。"
+  },
+  {
+    "line": 369,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "18 セット券負担内容（積極的支援）(負"
+  },
+  {
+    "line": 370,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "担率・負担額)"
+  },
+  {
+    "line": 371,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "半角数字6桁 6 No.17「セット券負担区分（積極的支援）」＝2から6の"
+  },
+  {
+    "line": 372,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "時に使用。"
+  },
+  {
+    "line": 373,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "＝2・4・6のとき、額"
+  },
+  {
+    "line": 374,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "＝3・5のとき、割合"
+  },
+  {
+    "line": 375,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "を収録。"
+  },
+  {
+    "line": 376,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 377,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "例．負担割合が８．６７％の場合、「008670」を収録。"
+  },
+  {
+    "line": 378,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※「1：利用者は負担なし」の場合は「000000」を収録。"
+  },
+  {
+    "line": 379,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※No.7「特定健康診査受診券整理番号」の種別番号"
+  },
+  {
+    "line": 380,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "が「1」のときは、スペースを収録。"
+  },
+  {
+    "line": 381,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "利用券情報"
+  },
+  {
+    "line": 382,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "固定長"
+  },
+  {
+    "line": 383,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "利用者情報"
+  },
+  {
+    "line": 384,
+    "pdf_page": 3,
+    "pdf_page_end": 4,
+    "text": "319 セット券負担内容（積極的支援）(保"
+  },
+  {
+    "line": 385,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "険者負担上限額)"
+  },
+  {
+    "line": 386,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角数字6桁 6 No.17「セット券負担区分（積極的支援）」＝4もしくは5"
+  },
+  {
+    "line": 387,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "の時に使用(金額を収録)。"
+  },
+  {
+    "line": 388,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "例．負担額が1万円の場合、「010000」を収録。"
+  },
+  {
+    "line": 389,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "※No.7「特定健康診査受診券整理番号」の種別番号"
+  },
+  {
+    "line": 390,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "が「1」のときは、スペースを収録。"
+  },
+  {
+    "line": 391,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "20 契約とりまとめ機関区分１ 半角数字1桁 1 1：国保ベース、2：国保ベース＋契約とりまとめ機関、"
+  },
+  {
+    "line": 392,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "3：国保ベース＋契約とりまとめ機関+個別契約、4：契"
+  },
+  {
+    "line": 393,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "約とりまとめ機関、5：契約とりまとめ機関+個別契約、"
+  },
+  {
+    "line": 394,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "6：個別契約のみ"
+  },
+  {
+    "line": 395,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "個別契約では利用券を必ずしも必要としないが、代"
+  },
+  {
+    "line": 396,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "行機関を通じて結果と決済を行う場合は利用券を発"
+  },
+  {
+    "line": 397,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "券。"
+  },
+  {
+    "line": 398,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "21 契約とりまとめ機関区分（全衛連に"
+  },
+  {
+    "line": 399,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "おける受診可否）"
+  },
+  {
+    "line": 400,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、全衛連にて利用が可能で"
+  },
+  {
+    "line": 401,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "あれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 402,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "22 代行機関番号（全衛連の場合） 半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 403,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "た各機関の番号を格納。No15が「0」の場合は空欄で"
+  },
+  {
+    "line": 404,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "可"
+  },
+  {
+    "line": 405,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "23 契約とりまとめ機関区分（結核予防"
+  },
+  {
+    "line": 406,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "会における受診可否）"
+  },
+  {
+    "line": 407,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、結核予防会にて利用が可"
+  },
+  {
+    "line": 408,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "能であれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 409,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "24 代行機関番号（結核予防会の場"
+  },
+  {
+    "line": 410,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "合）"
+  },
+  {
+    "line": 411,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 412,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "た各機関の番号を格納。No17が「0」の場合は空欄で"
+  },
+  {
+    "line": 413,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "可"
+  },
+  {
+    "line": 414,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "25 契約とりまとめ機関区分（人間ドッ"
+  },
+  {
+    "line": 415,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ク学会における受診可否）"
+  },
+  {
+    "line": 416,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、人間ドック学会にて利用"
+  },
+  {
+    "line": 417,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "が可能であれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 418,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "26 代行機関番号（人間ドック学会の場"
+  },
+  {
+    "line": 419,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "合）"
+  },
+  {
+    "line": 420,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 421,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "た各機関の番号を格納。No19が「0」の場合は空欄で"
+  },
+  {
+    "line": 422,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "可"
+  },
+  {
+    "line": 423,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "27 契約とりまとめ機関区分（予防医学"
+  },
+  {
+    "line": 424,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "事業中央会における受診可否）"
+  },
+  {
+    "line": 425,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、予防医学事業中央会にて"
+  },
+  {
+    "line": 426,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "利用が可能であれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 427,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "28 代行機関番号（予防医学事業中央"
+  },
+  {
+    "line": 428,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "会の場合）"
+  },
+  {
+    "line": 429,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 430,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "た各機関の番号を格納。No21が「0」の場合は空欄で"
+  },
+  {
+    "line": 431,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "可"
+  },
+  {
+    "line": 432,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "29 契約とりまとめ機関区分（日本総合"
+  },
+  {
+    "line": 433,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "健診医学会における受診可否）"
+  },
+  {
+    "line": 434,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、日本総合健診医学会にて"
+  },
+  {
+    "line": 435,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "利用が可能であれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 436,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "30 代行機関番号（日本総合健診医学"
+  },
+  {
+    "line": 437,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "会の場合）"
+  },
+  {
+    "line": 438,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 439,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "た各機関の番号を格納。No23が「0」の場合は空欄で"
+  },
+  {
+    "line": 440,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "可"
+  },
+  {
+    "line": 441,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "31 契約とりまとめ機関区分（全日本病"
+  },
+  {
+    "line": 442,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "院協会における受診可否）"
+  },
+  {
+    "line": 443,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、全日本病院協会にて利用"
+  },
+  {
+    "line": 444,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "が可能であれば｢1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 445,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "32 代行機関番号（全日本病院協会の"
+  },
+  {
+    "line": 446,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "場合）"
+  },
+  {
+    "line": 447,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 448,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "た各機関の番号を格納。No25が「0」の場合は空欄で"
+  },
+  {
+    "line": 449,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "可"
+  },
+  {
+    "line": 450,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "33 契約とりまとめ機関区分（東京都総"
+  },
+  {
+    "line": 451,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "合組合保健施設振興協会における"
+  },
+  {
+    "line": 452,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "受診可否）"
+  },
+  {
+    "line": 453,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、東京都総合組合保健施"
+  },
+  {
+    "line": 454,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "設振興協会にて利用が可能であれば｢1｣、不可なら"
+  },
+  {
+    "line": 455,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "「0」とする。"
+  },
+  {
+    "line": 456,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "34 代行機関番号（東京都総合組合保"
+  },
+  {
+    "line": 457,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "健施設振興協会の場合）"
+  },
+  {
+    "line": 458,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 459,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "た各機関の番号を格納。No27が「0」の場合は空欄で"
+  },
+  {
+    "line": 460,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "可"
+  },
+  {
+    "line": 461,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "35 契約とりまとめ機関区分（その他に"
+  },
+  {
+    "line": 462,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "おける受診可否）"
+  },
+  {
+    "line": 463,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "半角数字1桁 1 契約とりまとめ機関のうち、その他（全衛連、結核予"
+  },
+  {
+    "line": 464,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "防会、人間ドック学会、予防医学事業中央会、日本総"
+  },
+  {
+    "line": 465,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "合健診医学会、全日本病院協会、東京都総合組合"
+  },
+  {
+    "line": 466,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "保健施設振興協会 以外）にて利用が可能であれば｢"
+  },
+  {
+    "line": 467,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "1｣、不可なら「0」とする。"
+  },
+  {
+    "line": 468,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "36 代行機関番号（その他の場合） 半角英数8桁 8 結果データの送付先として、支払基金にて付番され"
+  },
+  {
+    "line": 469,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "た各機関の番号を格納。No29が「0」の場合は空欄で"
+  },
+  {
+    "line": 470,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "可"
+  },
+  {
+    "line": 471,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "－ （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 472,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "37 保険者名称 可変長 漢字 40 「特定健診データの電子的交換のためのファイル仕"
+  },
+  {
+    "line": 473,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "様（案）」の「特定健診機関名称」と同様にエリア設"
+  },
+  {
+    "line": 474,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "定。"
+  },
+  {
+    "line": 475,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "－ （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 476,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "38 保険者所在地 可変長 漢字 80 「特定健診データの電子的交換のためのファイル仕"
+  },
+  {
+    "line": 477,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "様（案）」の「特定健診機関所在地」と同様にエリア設"
+  },
+  {
+    "line": 478,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "定。"
+  },
+  {
+    "line": 479,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "－ （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 480,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "39 保険者電話番号 可変長 半角英数 15 「特定健診データの電子的交換のためのファイル仕"
+  },
+  {
+    "line": 481,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "様（案）」の「特定健診機関電話番号」と同様にエリア"
+  },
+  {
+    "line": 482,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "設定。"
+  },
+  {
+    "line": 483,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "－ 利用券情報 （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 484,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "40 契約とりまとめ機関区分（除外県） 可変長 半角英数 49 除外(あるいは限定)する都道府県番号を収録する。"
+  },
+  {
+    "line": 485,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "利用可能な県を列記する場合、冒頭に｢+｣を収録す"
+  },
+  {
+    "line": 486,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "る。"
+  },
+  {
+    "line": 487,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "利用対象外となる県を列記する場合、冒頭に｢-｣を収"
+  },
+  {
+    "line": 488,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "録する。"
+  },
+  {
+    "line": 489,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "例．東京都（番号「13」）のみ被扶養者がいる場合に"
+  },
+  {
+    "line": 490,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "は、「+13」を収録する。"
+  },
+  {
+    "line": 491,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "例．東京都（番号「13」）に被扶養者が一人もいない場"
+  },
+  {
+    "line": 492,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "合には、「-13」を収録する。"
+  },
+  {
+    "line": 493,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "例．東京都（番号「13」）、神奈川県（番号「14」）に被扶"
+  },
+  {
+    "line": 494,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "養者が一人もいない場合には、「-1314」を収録する。"
+  },
+  {
+    "line": 495,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "当然ながら、＋と－が混在することはなく、いずれか"
+  },
+  {
+    "line": 496,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "のみとなる。"
+  },
+  {
+    "line": 497,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "－ （区切り文字） 固定長 半角英数１桁 1 「,」を収録。 被保険者証ＱＲと同様の仕様。"
+  },
+  {
+    "line": 498,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "41 契約とりまとめ機関名 可変長 漢字 40 契約とりまとめ機関名称を収録する。 「特定健診データの電子的交換のためのファイル仕"
+  },
+  {
+    "line": 499,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "様（案）」の「特定健診機関名称」と同様にエリア設定"
+  },
+  {
+    "line": 500,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "(全角20文字）。"
+  },
+  {
+    "line": 501,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "合計（最大） 424 バイト"
+  },
+  {
+    "line": 502,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（うち、固定長 195 バイト ）"
+  },
+  {
+    "line": 503,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（うち、固定長(区切文字） 5 バイト ）"
+  },
+  {
+    "line": 504,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（うち、可変長 224 バイト ）"
+  },
+  {
+    "line": 505,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "※「代行機関名」は、入力領域がないこと等からコード化せず"
+  },
+  {
+    "line": 506,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "※「被保険者証の記号・番号」は、利用券の表記より削除"
+  },
+  {
+    "line": 507,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "集合契約を主に利用する被用者保険が、現状でも協"
+  },
+  {
+    "line": 508,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "約等の締結や、一括委託等を行う等により既存の全"
+  },
+  {
+    "line": 509,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "国ネットワークとして利用できるとりまとめ機関とし"
+  },
+  {
+    "line": 510,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "て、多くの保険者が利用している機関グループにつ"
+  },
+  {
+    "line": 511,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "いて領域を設定。"
+  },
+  {
+    "line": 512,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "これにより全国の多くの機関がカバーされることか"
+  },
+  {
+    "line": 513,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ら、コード化により文字入力等を回避。"
+  },
+  {
+    "line": 514,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "とりまとめ機関が代行機関を兼ねるケースも想定され"
+  },
+  {
+    "line": 515,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ることから、それぞれのとりまとめ機関別での送付先"
+  },
+  {
+    "line": 516,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "を設定（支払基金が入る場合はそれぞれの欄に支払"
+  },
+  {
+    "line": 517,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "基金の番号を入れておく）。項目・費用等により選択"
+  },
+  {
+    "line": 518,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "されたとりまとめ機関により、送付先が決定し、データ"
+  },
+  {
+    "line": 519,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "にその機関番号を格納"
+  },
+  {
+    "line": 520,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "※国保ベースのみの場合は送付先代行機関は支払"
+  },
+  {
+    "line": 521,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "基金(支払基金の番号が送付先欄に入る)、個別契約"
+  },
+  {
+    "line": 522,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "が優先される場合は送付先は保険者(保険者番号が"
+  },
+  {
+    "line": 523,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "送付先欄に入る)"
+  },
+  {
+    "line": 524,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "上記以外で、複数の契約とりまとめ機関との集合契"
+  },
+  {
+    "line": 525,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "約を利用する場合においても、利用する代行機関の"
+  },
+  {
+    "line": 526,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "数があまりに多くなると保険者の事務負担軽減につ"
+  },
+  {
+    "line": 527,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ながらないことから、代行機関はできる限り集約・一"
+  },
+  {
+    "line": 528,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "本化を図るのが保険者としての基本的な考え方とな"
+  },
+  {
+    "line": 529,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "るため、機関番号は1箇所分のみとしている。"
+  },
+  {
+    "line": 530,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "個別契約が混じる場合、この欄を使用"
+  },
+  {
+    "line": 531,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "保険者情報"
+  },
+  {
+    "line": 532,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "4"
+  }
+]

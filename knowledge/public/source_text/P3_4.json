@@ -1,0 +1,1790 @@
+[
+  {
+    "line": 0,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "283"
+  },
+  {
+    "line": 1,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "第４章 保健指導の評価"
+  },
+  {
+    "line": 2,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（１）保健指導における評価の意義"
+  },
+  {
+    "line": 3,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "保健指導の評価は、「健診・保健指導」事業の成果について評価を行うことで"
+  },
+  {
+    "line": 4,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "あり、本事業の最終目的である生活習慣病の有病者や予備群の減少状況等の観"
+  },
+  {
+    "line": 5,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "点から評価を行っていくことになる。"
+  },
+  {
+    "line": 6,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "このような｢健診・保健指導｣事業の最終評価は、生活習慣病の有病者や予備群"
+  },
+  {
+    "line": 7,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "の数、生活習慣病関連の医療費の推移等で評価されるものであるが、その成果が"
+  },
+  {
+    "line": 8,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "数値データとして現れるのは数年後になることが想定される。そこで、最終評価"
+  },
+  {
+    "line": 9,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "のみではなく、翌年以降の健診結果や生活習慣の改善状況等の短期間で評価が"
+  },
+  {
+    "line": 10,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "できる事項についても、評価を行っていくことが必要である。また、保健指導に"
+  },
+  {
+    "line": 11,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "おいてアプリケーション等を活用した場合は、アプリケーション等を評価でき"
+  },
+  {
+    "line": 12,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "るような情報（利用者の満足度、利用回数等）も収集していくことが望ましい。"
+  },
+  {
+    "line": 13,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "この評価方法としては三つの側面が考えられる。"
+  },
+  {
+    "line": 14,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "１点目は、「個人」を対象とした評価方法である。対象者個人を単位とした評"
+  },
+  {
+    "line": 15,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "価は、肥満度や検査データの改善度、また、行動目標の達成度、生活習慣の改善"
+  },
+  {
+    "line": 16,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "状況、階層化支援レベル、受診状況等から評価が可能である。この個人を単位と"
+  },
+  {
+    "line": 17,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "した評価は、保健指導方法をより効果的なものに改善することや、保健指導の質"
+  },
+  {
+    "line": 18,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "を向上させることに活用できる。"
+  },
+  {
+    "line": 19,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "２点目は、事業所単位や地域単位で、「集団」として評価する方法である。こ"
+  },
+  {
+    "line": 20,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "れは、健診結果の改善度や、禁煙や身体活動等の生活習慣に関する改善度、階層"
+  },
+  {
+    "line": 21,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "化支援レベルや平均体重の変化量、受診状況や要受診レベルの割合を、集団とし"
+  },
+  {
+    "line": 22,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "て評価することである。このような評価により、集団間の比較ができ、また、対"
+  },
+  {
+    "line": 23,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "象特性（年齢別等）ごとに分析することにより、健診・保健指導の成果があがっ"
+  },
+  {
+    "line": 24,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ている集団が判断でき、保健指導方法や事業の改善につなげることが可能とな"
+  },
+  {
+    "line": 25,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "る。"
+  },
+  {
+    "line": 26,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "３点目は、健診・保健指導の「事業」としての評価である。事業であるので、"
+  },
+  {
+    "line": 27,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "費用対効果や、対象者の満足度、対象者選定が適切であったか、プログラムの組"
+  },
+  {
+    "line": 28,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "み方は効果的であったか、医療機関への受診勧奨された者の受診率や保健指導"
+  },
+  {
+    "line": 29,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "の継続性、保健指導の質向上の仕組み等、事業ストラクチャー（構造）やプロセ"
+  },
+  {
+    "line": 30,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ス（過程）を評価することができる。このことにより、効果的、効率的な事業が"
+  },
+  {
+    "line": 31,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "行われているかの判断が可能となり、改善につなげることができる。"
+  },
+  {
+    "line": 32,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "このように保健指導の評価は、「個人」、「集団」、「事業」、「最終評価」"
+  },
+  {
+    "line": 33,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "を対象として行うものであるが、それぞれについて評価を行うとともに、事業全"
+  },
+  {
+    "line": 34,
+    "pdf_page": 1,
+    "pdf_page_end": 2,
+    "text": "体を総合的に評価することも重要である。284"
+  },
+  {
+    "line": 35,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（２）評価の観点"
+  },
+  {
+    "line": 36,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "評価は、一般的に、ストラクチャー（構造）、プロセス（過程）、アウトプッ"
+  },
+  {
+    "line": 37,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "ト（事業実施量）、アウトカム（結果）の観点から行う。健診・保健指導の最終"
+  },
+  {
+    "line": 38,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "的な評価はアウトカム（結果）で評価されることになるが、結果のみでは問題点"
+  },
+  {
+    "line": 39,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "が明らかにできず、改善方策が見いだせない場合が多い。そこで、結果に至る過"
+  },
+  {
+    "line": 40,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "程を評価し、事業の基盤である構造について評価することが必要となる。また、"
+  },
+  {
+    "line": 41,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "最終目標のアウトカム（結果）評価は指標によっては評価に数年間かかるものも"
+  },
+  {
+    "line": 42,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "あることから、アウトプット（事業実施量）の観点から評価を行うこともある。"
+  },
+  {
+    "line": 43,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "いずれも評価指標、評価手段、評価時期、評価基準について、明確にしておく"
+  },
+  {
+    "line": 44,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "ことが必要である。"
+  },
+  {
+    "line": 45,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "① ストラクチャー（構造）"
+  },
+  {
+    "line": 46,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "ストラクチャー（構造）評価は、保健事業を実施するための仕組みや体制を評"
+  },
+  {
+    "line": 47,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "価するものである。具体的な評価指標としては、保健指導に従事する職員の体制"
+  },
+  {
+    "line": 48,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（職種・職員数・職員の資質等）、保健指導の実施に係る予算、施設・設備の状"
+  },
+  {
+    "line": 49,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "況、他機関との連携体制、社会資源の活用状況、保健指導の質向上の仕組み等が"
+  },
+  {
+    "line": 50,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "ある。"
+  },
+  {
+    "line": 51,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "② プロセス（過程）"
+  },
+  {
+    "line": 52,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "プロセス（過程）評価は、事業の目的や目標の達成に向けた過程（手順）や活"
+  },
+  {
+    "line": 53,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "動状況を評価するものである。具体的な評価指標としては、保健指導の実施過程"
+  },
+  {
+    "line": 54,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "として、情報収集、アセスメント、問題の分析、目標の設定、方法（支援形態、"
+  },
+  {
+    "line": 55,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "教材、アプリケーション等の利用状況等）、保健指導実施者の態度、記録状況等"
+  },
+  {
+    "line": 56,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "がある。"
+  },
+  {
+    "line": 57,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "③ アウトプット（事業実施量）"
+  },
+  {
+    "line": 58,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "アウトプット（事業実施量）評価は、目的・目標の達成のために行われる事業"
+  },
+  {
+    "line": 59,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "の結果を評価するものである。具体的な評価指標としては、健診受診率、保健指"
+  },
+  {
+    "line": 60,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "導実施率、保健指導の継続率等がある。"
+  },
+  {
+    "line": 61,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "④ アウトカム（結果）"
+  },
+  {
+    "line": 62,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "アウトカム（結果）評価は、対象者の行動（態度、記録、満足度）、事業の目"
+  },
+  {
+    "line": 63,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "的・目標の達成度、また、成果の数値目標を評価するものである。具体的な評価"
+  },
+  {
+    "line": 64,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "指標としては、個別のアウトカムとして肥満度や血液検査等の健診結果の変化、"
+  },
+  {
+    "line": 65,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "集団でのアウトカムとして生活習慣病有病者割合や予備群、死亡率、要介護率、"
+  },
+  {
+    "line": 66,
+    "pdf_page": 2,
+    "pdf_page_end": 3,
+    "text": "医療費の変化等がある。また、職域では休業日数、長期休業率等がある。285"
+  },
+  {
+    "line": 67,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "（３）具体的な評価方法"
+  },
+  {
+    "line": 68,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "評価の対象ごとに区分した保健指導の評価方法は、以下のとおりであるが、評"
+  },
+  {
+    "line": 69,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "価指標、評価手段、評価時期等については、参考までに表８に整理している。"
+  },
+  {
+    "line": 70,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "① 「個人」に対する保健指導の評価"
+  },
+  {
+    "line": 71,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "対象者個人の評価は、適切な手段を用いて保健指導が提供されているか（プロ"
+  },
+  {
+    "line": 72,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "セス（過程）評価）、その結果、生活習慣に関して行動変容が認められたか、ま"
+  },
+  {
+    "line": 73,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "た健診結果と支援レベルに改善がみられたか（アウトカム（結果）評価）といっ"
+  },
+  {
+    "line": 74,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "た観点から行う。"
+  },
+  {
+    "line": 75,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "詳細な内容については、第４編第３章を参照されたい。"
+  },
+  {
+    "line": 76,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "保健指導の効果に関する評価は、対象者個人に対する評価であるとともに、保健"
+  },
+  {
+    "line": 77,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "指導実施者の指導技術に対する評価にもなるため、結果を整理して指導方法の"
+  },
+  {
+    "line": 78,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "改善につなげることが大切である。"
+  },
+  {
+    "line": 79,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "特定保健指導についてはその見える化を推進し、対象者の行動変容に係る情"
+  },
+  {
+    "line": 80,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "報等を収集して、保険者等がアウトカムの達成状況等を把握し、達成に至った要"
+  },
+  {
+    "line": 81,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "因の検討等を行って、対象者の特性に応じた質の高い保健指導を対象者に還元"
+  },
+  {
+    "line": 82,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "していく仕組みを構築していくことが重要である。"
+  },
+  {
+    "line": 83,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "② 「集団」に対する保健指導の評価"
+  },
+  {
+    "line": 84,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "個人への保健指導の成果を、集団として集積して評価することにより、保健指"
+  },
+  {
+    "line": 85,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "導を受けた対象者全体に対する成果が確認できる。集団の単位としては、地域や"
+  },
+  {
+    "line": 86,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "事業所単位、また、年齢や性別等が考えられ、それぞれに保健指導歴の有無やプ"
+  },
+  {
+    "line": 87,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ログラムごとに区分して、生活習慣に関する行動変容の改善状況、健診結果の改"
+  },
+  {
+    "line": 88,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "善度、また、生活習慣病関連の医療費の評価も行う。"
+  },
+  {
+    "line": 89,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "保健指導を受けたグループと受けなかったグループの比較により、保健指導"
+  },
+  {
+    "line": 90,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "の効果を確認することができる。例えば特定保健指導の場合は、生活習慣の変化"
+  },
+  {
+    "line": 91,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "をみることにより、性・年代別に改善しやすい項目に着目した行動目標を設定し、"
+  },
+  {
+    "line": 92,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "保健指導の方法（教材）等に活用することができる。"
+  },
+  {
+    "line": 93,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "集団としての評価結果は、保健指導プログラムの改善や保健指導実施者の資"
+  },
+  {
+    "line": 94,
+    "pdf_page": 3,
+    "pdf_page_end": 4,
+    "text": "質向上のための研修等にも活用する。286"
+  },
+  {
+    "line": 95,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "③ 「事業」に対する保健指導の評価"
+  },
+  {
+    "line": 96,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "保健指導は、個人への保健指導を通して、集団全体の健康状態の改善を意図し"
+  },
+  {
+    "line": 97,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ている。したがって保険者は、事業全体について評価を行う。事業の評価は、対"
+  },
+  {
+    "line": 98,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "象者把握、実施、評価の一連の過程について以下の観点から評価する。"
+  },
+  {
+    "line": 99,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "適切な資源を活用していたか、事業の目的遂行のために適切な人員体制・配"
+  },
+  {
+    "line": 100,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "置ができていたか（ストラクチャー（構造）評価）"
+  },
+  {
+    "line": 101,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "対象者を適切に選定し、適切な健診・保健指導等の方法を用いていたか（プ"
+  },
+  {
+    "line": 102,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ロセス（過程）評価"
+  },
+  {
+    "line": 103,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "対象者のうち何人に保健指導を実施したか（アウトプット（事業実施量）評"
+  },
+  {
+    "line": 104,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "価）"
+  },
+  {
+    "line": 105,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "望ましい結果を出していたか（アウトカム（結果）評価）"
+  },
+  {
+    "line": 106,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "事業評価が適正に実施されているか"
+  },
+  {
+    "line": 107,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "これらの評価は、保健指導プログラムごとに行い、問題点を明確にした上で改"
+  },
+  {
+    "line": 108,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "善を図っていく。保健指導を委託している保険者は、評価に必要なデータを委託"
+  },
+  {
+    "line": 109,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "先等から入手した上で、この事業としての評価を上記のような観点から丁寧に"
+  },
+  {
+    "line": 110,
+    "pdf_page": 4,
+    "pdf_page_end": 5,
+    "text": "行い、効果的な保健指導の実施につなげていくことが重要である。287"
+  },
+  {
+    "line": 111,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（４）評価の実施責任者"
+  },
+  {
+    "line": 112,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "特定保健指導の場合、評価の実施責任者は、保険者である。個人に対する保健"
+  },
+  {
+    "line": 113,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "指導の評価は、実施した保健指導の質を点検し、必要な改善方策を見いだし、内"
+  },
+  {
+    "line": 114,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "容の充実を図ることを目的としているため、保健指導実施者（委託事業者を含む）"
+  },
+  {
+    "line": 115,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "が実施責任者となる。"
+  },
+  {
+    "line": 116,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "集団に対する保健指導の評価は、保健指導を受けた個人を集団として集積し、"
+  },
+  {
+    "line": 117,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "全体の特徴を評価するため、保健指導実施者（委託先を含む）及び保険者が、評"
+  },
+  {
+    "line": 118,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "価の実施責任者となる。保健指導実施者に対する研修を行っている者もこの評"
+  },
+  {
+    "line": 119,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "価に対する責務を持つことになる。"
+  },
+  {
+    "line": 120,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "事業としての保健指導の評価は、「健診・保健指導」事業を企画する立場にあ"
+  },
+  {
+    "line": 121,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "る保険者がその評価の責任を持つ。特に保健指導を委託する場合には、委託先が"
+  },
+  {
+    "line": 122,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "行う保健指導の質を評価する必要があり、「特定保健指導調整責任者」の役割が"
+  },
+  {
+    "line": 123,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "重要である（詳細は「特定健康診査・特定保健指導の円滑な実施に向けた手引き」"
+  },
+  {
+    "line": 124,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "の「２-８-２評価実施者」を参照されたい）。保険者として事業評価を行うこと"
+  },
+  {
+    "line": 125,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "により、保健指導の運営体制の在り方や予算の見直し等、体制面への改善にも評"
+  },
+  {
+    "line": 126,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "価結果を活かすことが必要である。"
+  },
+  {
+    "line": 127,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "最終評価については、健診・保健指導の成果として、対象者全体における生活"
+  },
+  {
+    "line": 128,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "習慣病対策の評価（有病率、医療費等）を委託先等と情報共有し、今後に向けた"
+  },
+  {
+    "line": 129,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "効果的な事業展開につなげる。"
+  },
+  {
+    "line": 130,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "なお、保険者が保健事業の結果を自己評価する以外に、より客観的に評価する"
+  },
+  {
+    "line": 131,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ために、第三者による評価を行うことも有効である。"
+  },
+  {
+    "line": 132,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（５）評価の根拠となる資料"
+  },
+  {
+    "line": 133,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "保健指導の評価を根拠に基づいて、適切に行うためには、保健指導計画の作成"
+  },
+  {
+    "line": 134,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "段階で評価指標を決めておき、評価の根拠となる資料を、保健指導の実施過程で"
+  },
+  {
+    "line": 135,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "作成する必要がある。その資料は、保健指導の記録であり、健診データやレセプ"
+  },
+  {
+    "line": 136,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "トデータ等である。それらの資料等が必要時、確実に取り出せ、評価のための資"
+  },
+  {
+    "line": 137,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "料として活用できるように、システム等によるデータ入力及び管理の体制を整"
+  },
+  {
+    "line": 138,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "えておく必要がある。なお、保健指導の評価の根拠となる資料はいずれも個人情"
+  },
+  {
+    "line": 139,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "報であるため、個人情報保護法並びに各ガイドライン等に基づき、その管理体制"
+  },
+  {
+    "line": 140,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "については、実施責任者（特定保健指導の場合は保険者）が取り決め、管理する"
+  },
+  {
+    "line": 141,
+    "pdf_page": 5,
+    "pdf_page_end": 6,
+    "text": "必要がある。288"
+  },
+  {
+    "line": 142,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "（６）記録とデータ管理"
+  },
+  {
+    "line": 143,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "保健指導の記録の意義として、次の４点があげられる。"
+  },
+  {
+    "line": 144,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ａ対象者の状況を経時的に把握できること"
+  },
+  {
+    "line": 145,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ｂ経時的な結果から保健指導の評価ができること"
+  },
+  {
+    "line": 146,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ｃほかの保健指導実施者と情報を共有できること（担当者が変更となって"
+  },
+  {
+    "line": 147,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "も継続的な支援が可能）"
+  },
+  {
+    "line": 148,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ｄ対象者の求めに応じて閲覧可能であること"
+  },
+  {
+    "line": 149,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "内容は、対象者ごとに目標、モニタリングすべき指標（健診結果、具体的な行"
+  },
+  {
+    "line": 150,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "動等）、個別支援やグループ支援等で提供したサービスと対象者の状況等に加え"
+  },
+  {
+    "line": 151,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "て、行動変容に対する対象者の意欲、対象者が保健指導に期待していることの記"
+  },
+  {
+    "line": 152,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "録も必要である（可能であれば本人の言葉で記録する）。"
+  },
+  {
+    "line": 153,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "なお、これらの内容には、定量的に記録する内容と定性的に記録する内容があ"
+  },
+  {
+    "line": 154,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "るが、両者とも必要な内容である。定性的な記録の内容については、簡潔にかつ"
+  },
+  {
+    "line": 155,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "明確に記載していくことが重要となる。また、保健指導の内容や相手の語ったエ"
+  },
+  {
+    "line": 156,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ピソード等を記録して、対象者への次回以降の断続的な保健指導や保健指導内"
+  },
+  {
+    "line": 157,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "容の改善に役立てるよう事例を蓄積していくことが重要である。"
+  },
+  {
+    "line": 158,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "保健指導の記録は、保健指導の実施期間中だけでなく、翌年以降の保健指導や"
+  },
+  {
+    "line": 159,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "対象者選定にも活用されるものであり、特に、前年の評価者と次回の初回面接者"
+  },
+  {
+    "line": 160,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "が異なる場合は、前回の評価内容を踏まえた上で次回の初回面接に活かすこと"
+  },
+  {
+    "line": 161,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ができるよう、経年的な管理体制を整えることが望ましい。なお、途中で保健指"
+  },
+  {
+    "line": 162,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "導の担当者が変更になる場合は、支援に携わった者全員が対象者の最終的な状"
+  },
+  {
+    "line": 163,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "況を確認できるような体制を整えることが望ましい。保健指導実施機関には対"
+  },
+  {
+    "line": 164,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "象者の個人情報を適切に管理する責務があるが、保健指導の外部委託の状況に"
+  },
+  {
+    "line": 165,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "よっては、個人の保健指導の情報が複数の実施機関の間でやりとりされること"
+  },
+  {
+    "line": 166,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "も想定される。そのため個々の対象者に対しては、ほかの関連する実施機関との"
+  },
+  {
+    "line": 167,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "間で必要なデータを共有することの了解を得ることや、共有する具体的な項目"
+  },
+  {
+    "line": 168,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "について明記する等、データの共有及び受け渡しに関する事項についての取り"
+  },
+  {
+    "line": 169,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "決めを行うことも必要である。"
+  },
+  {
+    "line": 170,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "保健指導を外部委託している場合も含め、健診結果及び保健指導の記録の管"
+  },
+  {
+    "line": 171,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "理に当たっては、管理すべきデータ、整理すべきデータを決定し、可能な限り、"
+  },
+  {
+    "line": 172,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "データベースを作成して経年的に管理することが望ましい。特定保健指導にお"
+  },
+  {
+    "line": 173,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ける保健指導結果の保存年限の基本的考え方、具体的な保存年限、留意事項は、"
+  },
+  {
+    "line": 174,
+    "pdf_page": 6,
+    "pdf_page_end": 7,
+    "text": "特定健診と同様である（第２編第５章５－４参照）。289"
+  },
+  {
+    "line": 175,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "表 8 保健指導の評価方法（例）"
+  },
+  {
+    "line": 176,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "対象"
+  },
+  {
+    "line": 177,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "評価項目"
+  },
+  {
+    "line": 178,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（S）ストラクチャー"
+  },
+  {
+    "line": 179,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（P）プロセス"
+  },
+  {
+    "line": 180,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（OP）アウトプット"
+  },
+  {
+    "line": 181,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（OC）アウトカム"
+  },
+  {
+    "line": 182,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "評価指標 評価手段（根拠資"
+  },
+  {
+    "line": 183,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "料） 評価時期 評価責任者"
+  },
+  {
+    "line": 184,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "個人"
+  },
+  {
+    "line": 185,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（P）知識の獲得"
+  },
+  {
+    "line": 186,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（P）自己効力感 生活習慣改善状況"
+  },
+  {
+    "line": 187,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "行動変容ステージ（準備"
+  },
+  {
+    "line": 188,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "状態）の変化"
+  },
+  {
+    "line": 189,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "標準的な質問票、観察、"
+  },
+  {
+    "line": 190,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "自己管理シート、指導記"
+  },
+  {
+    "line": 191,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "録"
+  },
+  {
+    "line": 192,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "３か月後、"
+  },
+  {
+    "line": 193,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "６か月後、１年後"
+  },
+  {
+    "line": 194,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "保健指導実施"
+  },
+  {
+    "line": 195,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "者（委託先を"
+  },
+  {
+    "line": 196,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "含む）"
+  },
+  {
+    "line": 197,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（OC）意欲向上"
+  },
+  {
+    "line": 198,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（OC）運動・食事・喫煙・"
+  },
+  {
+    "line": 199,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "飲食等の行動変容"
+  },
+  {
+    "line": 200,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（OC）健診データの改善"
+  },
+  {
+    "line": 201,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "肥満度（腹囲・体重・BMI"
+  },
+  {
+    "line": 202,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "など）、血液検査(血糖・脂"
+  },
+  {
+    "line": 203,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "質)、ﾒﾀﾎﾞﾘｯｸｼﾝﾄﾞﾛｰﾑのﾘｽ"
+  },
+  {
+    "line": 204,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ｸ個数、禁煙"
+  },
+  {
+    "line": 205,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "健診データ"
+  },
+  {
+    "line": 206,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "１年後、積極的支"
+  },
+  {
+    "line": 207,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "援では計画した"
+  },
+  {
+    "line": 208,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "経過観察時"
+  },
+  {
+    "line": 209,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（３～６か月後）"
+  },
+  {
+    "line": 210,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "集団"
+  },
+  {
+    "line": 211,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（OC）運動・食事・喫煙・"
+  },
+  {
+    "line": 212,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "飲食等の行動変容 生活習慣改善状況"
+  },
+  {
+    "line": 213,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "標準的な質問票、観察"
+  },
+  {
+    "line": 214,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "自己管理シート １年後、３年後"
+  },
+  {
+    "line": 215,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "保健指導実施"
+  },
+  {
+    "line": 216,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "者（委託先を"
+  },
+  {
+    "line": 217,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "含む）及び保"
+  },
+  {
+    "line": 218,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "険者"
+  },
+  {
+    "line": 219,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（OC）対象者の健康状態"
+  },
+  {
+    "line": 220,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "の改善"
+  },
+  {
+    "line": 221,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "肥満度（腹囲・体重・BMI"
+  },
+  {
+    "line": 222,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "など）、血液検査(血糖・脂"
+  },
+  {
+    "line": 223,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "質)、ﾒﾀﾎﾞﾘｯｸｼﾝﾄﾞﾛｰﾑの有"
+  },
+  {
+    "line": 224,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "病者・予備群の割合、禁"
+  },
+  {
+    "line": 225,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "煙、(職域)休業日数・長期"
+  },
+  {
+    "line": 226,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "休業率"
+  },
+  {
+    "line": 227,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "健診データ、疾病統計"
+  },
+  {
+    "line": 228,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "１年後、３年後、"
+  },
+  {
+    "line": 229,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "５年後"
+  },
+  {
+    "line": 230,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（OC）対象者の生活習慣"
+  },
+  {
+    "line": 231,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "病関連医療費"
+  },
+  {
+    "line": 232,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "医療費 レセプト ３年後、５年後"
+  },
+  {
+    "line": 233,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "事業"
+  },
+  {
+    "line": 234,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（Ｐ）保健指導のスキル"
+  },
+  {
+    "line": 235,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（Ｐ）保健指導に用いた支"
+  },
+  {
+    "line": 236,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "援材料"
+  },
+  {
+    "line": 237,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（Ｐ）保健指導の記録"
+  },
+  {
+    "line": 238,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "生活習慣改善状況、保健"
+  },
+  {
+    "line": 239,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "指導実施者の態度、保健"
+  },
+  {
+    "line": 240,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "指導の実施過程、指導手"
+  },
+  {
+    "line": 241,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "段、記録状況"
+  },
+  {
+    "line": 242,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "指導過程（記録）の振り"
+  },
+  {
+    "line": 243,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "返り、カンファレンスピ"
+  },
+  {
+    "line": 244,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "アレビュー"
+  },
+  {
+    "line": 245,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "指導終了後にカ"
+  },
+  {
+    "line": 246,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ンファレンスを"
+  },
+  {
+    "line": 247,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "持つなどする"
+  },
+  {
+    "line": 248,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "保健指導実施"
+  },
+  {
+    "line": 249,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "者（委託先を"
+  },
+  {
+    "line": 250,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "含む）"
+  },
+  {
+    "line": 251,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（S）社会資源を有効に効"
+  },
+  {
+    "line": 252,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "率的に活用して、実施"
+  },
+  {
+    "line": 253,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "したか（委託の場合、"
+  },
+  {
+    "line": 254,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "委託先が提供する資"
+  },
+  {
+    "line": 255,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "源が適切であったか）"
+  },
+  {
+    "line": 256,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "社会資源（施設・人材・"
+  },
+  {
+    "line": 257,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "財源等）の活用状況、委"
+  },
+  {
+    "line": 258,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "託件数、委託率、他機関"
+  },
+  {
+    "line": 259,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "との連携体制"
+  },
+  {
+    "line": 260,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "社会資源の活用状況、委"
+  },
+  {
+    "line": 261,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "託状況"
+  },
+  {
+    "line": 262,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "１年後"
+  },
+  {
+    "line": 263,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "保険者"
+  },
+  {
+    "line": 264,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（P）対象者の選定は適切"
+  },
+  {
+    "line": 265,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "であったか"
+  },
+  {
+    "line": 266,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（P）対象者に対する支援"
+  },
+  {
+    "line": 267,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "方法の選択は適切で"
+  },
+  {
+    "line": 268,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "あったか"
+  },
+  {
+    "line": 269,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（P）委託先は適切であっ"
+  },
+  {
+    "line": 270,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "たか"
+  },
+  {
+    "line": 271,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "受診者に対する保健指導"
+  },
+  {
+    "line": 272,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "対象者の割合、指導手段、"
+  },
+  {
+    "line": 273,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "目標達成率、満足度、保"
+  },
+  {
+    "line": 274,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "健指導実施者の態度"
+  },
+  {
+    "line": 275,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "質問票、観察、"
+  },
+  {
+    "line": 276,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "アンケート １年後"
+  },
+  {
+    "line": 277,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（０P）各対象者に対する"
+  },
+  {
+    "line": 278,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "行動目標は適切に設"
+  },
+  {
+    "line": 279,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "定されたか、積極的に"
+  },
+  {
+    "line": 280,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "健診・保健指導を受け"
+  },
+  {
+    "line": 281,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ているか"
+  },
+  {
+    "line": 282,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "目標達成率、健診受診率、"
+  },
+  {
+    "line": 283,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "保健指導実施率"
+  },
+  {
+    "line": 284,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "質問票、観察、"
+  },
+  {
+    "line": 285,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "アンケート"
+  },
+  {
+    "line": 286,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "１年後"
+  },
+  {
+    "line": 287,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "最終"
+  },
+  {
+    "line": 288,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "評価"
+  },
+  {
+    "line": 289,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（OC）全体の健康状態の"
+  },
+  {
+    "line": 290,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "改善"
+  },
+  {
+    "line": 291,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "死亡率、要介護率、生活"
+  },
+  {
+    "line": 292,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "習慣病の有病者・予備群、"
+  },
+  {
+    "line": 293,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "有所見率など"
+  },
+  {
+    "line": 294,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "死亡、疾病統計、"
+  },
+  {
+    "line": 295,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "健診データ 毎年、５年後、"
+  },
+  {
+    "line": 296,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "１０年後 保険者"
+  },
+  {
+    "line": 297,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（OC）医療費適正化効果 生活習慣病関連医療費 レセプト"
+  }
+]

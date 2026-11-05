@@ -1,0 +1,872 @@
+[
+  {
+    "line": 0,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "66"
+  },
+  {
+    "line": 1,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "第５章 健診データ等の電子化"
+  },
+  {
+    "line": 2,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "５－１ 健診データ提出の電子的標準様式"
+  },
+  {
+    "line": 3,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（１）基本的考え方"
+  },
+  {
+    "line": 4,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 特定健診・特定保健指導においては、高確法に基づき、次のように健診デー"
+  },
+  {
+    "line": 5,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "タ等の授受がなされ得る。"
+  },
+  {
+    "line": 6,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＜健診データ等＞"
+  },
+  {
+    "line": 7,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "① 健診実施機関・保健指導実施機関→保険者"
+  },
+  {
+    "line": 8,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "②（被扶養者の健診を行った）保険者→（被扶養者所属の）保険者"
+  },
+  {
+    "line": 9,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "③（異動元の）保険者→（異動先の）保険者"
+  },
+  {
+    "line": 10,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "④ 労働安全衛生法に基づく健診を実施した事業者→（当該労働者所属の）"
+  },
+  {
+    "line": 11,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "保険者"
+  },
+  {
+    "line": 12,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "⑤ ほかの健診等を受けた被保険者・被扶養者→保険者"
+  },
+  {
+    "line": 13,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＜特定健診・特定保健指導の実施状況等＞"
+  },
+  {
+    "line": 14,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "⑥ 保険者→国"
+  },
+  {
+    "line": 15,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ このように、特定健診・特定保健指導においては関係者間で様々な情報のや"
+  },
+  {
+    "line": 16,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "りとりがあり、その際のデータは膨大で情報伝達経路も複雑である。そこで、"
+  },
+  {
+    "line": 17,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "データの互換性を確保し、継続的に多くのデータを扱えるようにするため、"
+  },
+  {
+    "line": 18,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "電子的な標準様式を国が設定している。"
+  },
+  {
+    "line": 19,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（２）留意事項"
+  },
+  {
+    "line": 20,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 健診データ等の授受の際には、個人情報の保護に十分に留意する。"
+  },
+  {
+    "line": 21,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 今後、人間ドック等他の健診データ等も、この電子的標準様式を基本とした"
+  },
+  {
+    "line": 22,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "形式で収集できるようにすることが望ましい。"
+  },
+  {
+    "line": 23,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 収集された電子的情報はバックアップのために、安全性の確保された複数の"
+  },
+  {
+    "line": 24,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "場所に保存されることが望ましい。"
+  },
+  {
+    "line": 25,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 保険者においては、被保険者の求めがあれば、健診結果を電子的に提供する"
+  },
+  {
+    "line": 26,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ことが望ましい。"
+  },
+  {
+    "line": 27,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": ""
+  },
+  {
+    "line": 28,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（３）具体的な様式"
+  },
+  {
+    "line": 29,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "データの提出様式については、第２編別紙７－１・別紙７－２・別紙７－３の"
+  },
+  {
+    "line": 30,
+    "pdf_page": 1,
+    "pdf_page_end": 2,
+    "text": "とおりとする。67"
+  },
+  {
+    "line": 31,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "５－２ 健診項目の標準コードの設定"
+  },
+  {
+    "line": 32,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（１）基本的考え方"
+  },
+  {
+    "line": 33,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ 特定健診においては、電子化された膨大な健診データ等が継続的に取り扱わ"
+  },
+  {
+    "line": 34,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "れることになる。その際に、健診項目や質問項目についても、標準的な表記"
+  },
+  {
+    "line": 35,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "方法で皆が統一的に使用しなければ、同一の検査等であるかどうかについて、"
+  },
+  {
+    "line": 36,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "電子的に判断できない。そのため、標準的な表記方法として健診項目や質問"
+  },
+  {
+    "line": 37,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "項目ごとに標準コードを設定する必要がある。"
+  },
+  {
+    "line": 38,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（２）具体的な標準コード"
+  },
+  {
+    "line": 39,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ 健診データは全て、日本臨床検査医学会が作成した JLAC10 コード又はこ"
+  },
+  {
+    "line": 40,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "のコード体系に準じて設定された 17 桁のコードを使用する。"
+  },
+  {
+    "line": 41,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ 今後新たに項目が追加される場合についても、JLAC10 コードに準じたコ"
+  },
+  {
+    "line": 42,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "ードを、日本臨床検査医学会と協議の上で設定する。"
+  },
+  {
+    "line": 43,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "※ 標準コード表については、ホームページ"
+  },
+  {
+    "line": 44,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000165280.html）"
+  },
+  {
+    "line": 45,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "より入手可能。"
+  },
+  {
+    "line": 46,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "【参考】"
+  },
+  {
+    "line": 47,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "基本的な健診項目の標準コードの例（ＪＬＡＣ10 １７桁コードを使用）"
+  },
+  {
+    "line": 48,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "健診項目 検査方法 ＪＬＡＣ１０コード"
+  },
+  {
+    "line": 49,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "中性脂肪"
+  },
+  {
+    "line": 50,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "可視吸光光度法"
+  },
+  {
+    "line": 51,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（酵素比色法・グリセロール消去）"
+  },
+  {
+    "line": 52,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "3F015000002327101"
+  },
+  {
+    "line": 53,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "紫外吸光光度法"
+  },
+  {
+    "line": 54,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（酵素比色法・グリセロール消去）"
+  },
+  {
+    "line": 55,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "3F015000002327201"
+  },
+  {
+    "line": 56,
+    "pdf_page": 2,
+    "pdf_page_end": 3,
+    "text": "その他 3F01500000239990168"
+  },
+  {
+    "line": 57,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "５－３ 健診機関・保健指導機関コードの設定"
+  },
+  {
+    "line": 58,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "（１）基本的考え方"
+  },
+  {
+    "line": 59,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "○ 保険者が管理する健診データ等は、健診機関ごとに特定のコードが収載され"
+  },
+  {
+    "line": 60,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ている。"
+  },
+  {
+    "line": 61,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "○ 生活習慣病有病者・予備群を確実に減らすためには、事業の評価及び健診デ"
+  },
+  {
+    "line": 62,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ータ等の十分な分析を行うことが必要であるため、健診機関・保健指導機関"
+  },
+  {
+    "line": 63,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ごとのデータ比較が可能となるよう、各健診機関、保健指導機関コードの設"
+  },
+  {
+    "line": 64,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "定が必要である。"
+  },
+  {
+    "line": 65,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "○ なお、医療機関の場合は、既にある保険医療機関コードを活用しており、健"
+  },
+  {
+    "line": 66,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "診機関コードについても下記のルールで設定が行われているため、別途独自"
+  },
+  {
+    "line": 67,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "にコードを設定しないようにする必要がある。"
+  },
+  {
+    "line": 68,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "【参考】健診機関・保健指導機関コード設定の考え方"
+  },
+  {
+    "line": 69,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※詳細は「特定健康診査・特定保健指導の円滑な実施に向けた手引き」（厚生労働省保険"
+  },
+  {
+    "line": 70,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "局 https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html"
+  },
+  {
+    "line": 71,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "）参照"
+  },
+  {
+    "line": 72,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "・健診機関には既存の保険医療機関コードを持つ医療機関が多く含まれるこ"
+  },
+  {
+    "line": 73,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "とから、このコード体系を活用することが合理的であり、「都道府県番号（2"
+  },
+  {
+    "line": 74,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "桁）＋機関区分コード（１桁）＋機関コード（６桁）＋チェックデジット（１"
+  },
+  {
+    "line": 75,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "桁）の計 1０桁」とする。"
+  },
+  {
+    "line": 76,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※二重発番の可能性を排除するため、発番する機関を一箇所とし、廃止番号や空き番号"
+  },
+  {
+    "line": 77,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "等の一元的な管理を行う必要がある。"
+  },
+  {
+    "line": 78,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "・前項のルールに従い、保険医療機関である場合は、機関コード及びチェック"
+  },
+  {
+    "line": 79,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "デジットの部分は、既存の保険医療機関コードをそのまま活用（機関区分コ"
+  },
+  {
+    "line": 80,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ードは医科を意味する１となる）。"
+  },
+  {
+    "line": 81,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "・保険医療機関のコードを有さない機関は、機関区分コード（１桁）＋機関コ"
+  },
+  {
+    "line": 82,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ード（６桁）の部分を、付番・一元管理する機関に申請しコードを付与され"
+  },
+  {
+    "line": 83,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "るものとする。"
+  },
+  {
+    "line": 84,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "・保険医療機関のコードを有さず、新たに健診・保健指導のみ実施する機関が、"
+  },
+  {
+    "line": 85,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "新規登録申請を行った場合は、機関区分コードを２とする。"
+  },
+  {
+    "line": 86,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "○ 健診機関コード情報の収集・台帳の整理に際しては、社会保険診療報酬支払"
+  },
+  {
+    "line": 87,
+    "pdf_page": 3,
+    "pdf_page_end": 4,
+    "text": "基金において発番されている 10 桁のコードを使用する必要がある。 69"
+  },
+  {
+    "line": 88,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "５－４ 健診結果の保存と活用について"
+  },
+  {
+    "line": 89,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（１）基本的考え方"
+  },
+  {
+    "line": 90,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "○ 保険者は、蓄積された健診データを使用することにより、効果的・効率的な"
+  },
+  {
+    "line": 91,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "健診・保健指導を実施することが可能となる。そのためにも、健診項目の取"
+  },
+  {
+    "line": 92,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "得については必須項目だけでなく全ての項目も含めて取得し、保存すること"
+  },
+  {
+    "line": 93,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "が求められる。また、被保険者・被扶養者は、生涯を通じた自己の健康管理"
+  },
+  {
+    "line": 94,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "の観点から、継続的な健診データの保存が望まれる。"
+  },
+  {
+    "line": 95,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "○ 健診データを保有すべき期間は 5 年間であるが、保険者や被保険者・被扶養"
+  },
+  {
+    "line": 96,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "者は、できる限り長期間、健診データを保存し参照できるようにすることが"
+  },
+  {
+    "line": 97,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "望ましい。"
+  },
+  {
+    "line": 98,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "○ 健診データについては、オンライン資格確認等システムを活用し、被保険者・"
+  },
+  {
+    "line": 99,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "被扶養者が保険者間を異動した場合においても、特定健診情報の医療保険者"
+  },
+  {
+    "line": 100,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "間での引継ぎが可能となったこと等を踏まえ、個人毎に整理して蓄積し、経"
+  },
+  {
+    "line": 101,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "年変化を確認できるようにすることが重要である。"
+  },
+  {
+    "line": 102,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "○ また健診データは、データヘルス計画の一環として集団の分析にも用いられ、"
+  },
+  {
+    "line": 103,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "集団特性や経年変化等の分析により、効果的・効率的な保健事業の実施を図"
+  },
+  {
+    "line": 104,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "るための施策に活用される。"
+  },
+  {
+    "line": 105,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "○ ただし、個人情報の保護に十分配慮する必要がある。"
+  },
+  {
+    "line": 106,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（２）具体的な保存年限"
+  },
+  {
+    "line": 107,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "○ 保険者は、特定健診の結果を、次のうちいずれか短い期間保存しなければな"
+  },
+  {
+    "line": 108,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "らない。"
+  },
+  {
+    "line": 109,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "① 記録の作成日の属する年度の翌年度から５年間を経過するまでの期間"
+  },
+  {
+    "line": 110,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "② 被保険者・被扶養者がほかの保険者に加入した日の属する年度の翌年度"
+  },
+  {
+    "line": 111,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "末までの期間"
+  },
+  {
+    "line": 112,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "○ 但し、上記（１）の観点から、40 歳から 74 歳までの被保険者・被扶養者"
+  },
+  {
+    "line": 113,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "が加入者となっている限りは、当該保険者が健診データを保存することが望"
+  },
+  {
+    "line": 114,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ましい。"
+  },
+  {
+    "line": 115,
+    "pdf_page": 4,
+    "pdf_page_end": 5,
+    "text": " 70"
+  },
+  {
+    "line": 116,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（３）留意事項"
+  },
+  {
+    "line": 117,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○ 被保険者でなくなった時以降は、空白期間ができるだけ生じないよう、次の"
+  },
+  {
+    "line": 118,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "保険者に引き継がれるまでか、例えば 1 年程度の一定期間が経過するまで"
+  },
+  {
+    "line": 119,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "保存する必要がある。"
+  },
+  {
+    "line": 120,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○ 被保険者が希望する場合には、40 歳以降の全データを次の保険者へ引き継"
+  },
+  {
+    "line": 121,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ぐ必要がある。"
+  },
+  {
+    "line": 122,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○ 本人が継続的に健診データを把握し、自ら健康管理に活用できるように、経"
+  },
+  {
+    "line": 123,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "年的にデータを蓄積できる仕組みの構築を検討し、そうした経年的データを"
+  },
+  {
+    "line": 124,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "保健指導に積極的にいかしていくことが望ましい。このことは集団の健康状"
+  },
+  {
+    "line": 125,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "態に関する分析、経年変化の分析等により、予防戦略の立案に資する。"
+  },
+  {
+    "line": 126,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（４）具体的な活用方法"
+  },
+  {
+    "line": 127,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○ 特定健診・特定保健指導の情報については、これらの業務改善における利活"
+  },
+  {
+    "line": 128,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "用だけでなく、National Data Base（NDB）等へ蓄積され、保健医療分野"
+  },
+  {
+    "line": 129,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "のビッグデータとして、疫学研究を含む医学研究等において、公益性を確保"
+  },
+  {
+    "line": 130,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "しつつ広く利活用されることが期待される。"
+  },
+  {
+    "line": 131,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 132,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "【参考】"
+  },
+  {
+    "line": 133,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "一意性を保って健診データ等を管理する際に"
+  },
+  {
+    "line": 134,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "個人の固有番号等を利用する場合の考え方"
+  },
+  {
+    "line": 135,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 136,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○ 既存の保険者番号（法別番号と都道府県番号を含んだ 8 桁の数字）と一意"
+  },
+  {
+    "line": 137,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "性のある個人の固有番号（例：現在被保険者・被扶養者が使用している被"
+  },
+  {
+    "line": 138,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "保険者の記号・番号、職員番号、健診整理番号等）を用いる。"
+  },
+  {
+    "line": 139,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○ 固有番号は、一度個人に発行した後は、その同じ番号を別の個人に再発行"
+  },
+  {
+    "line": 140,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "しないことが必要である。例えば、被保険者番号の場合は発行年度の西暦"
+  },
+  {
+    "line": 141,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "の下２桁を追加することで一意性を保つことができると考えられる。"
+  },
+  {
+    "line": 142,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○ 被保険者証の記号・番号が個人ごとの番号となっていない場合もあるた"
+  },
+  {
+    "line": 143,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "め、生年月日やカタカナ名等、ほかの項目と組み合わせて個人を識別する"
+  },
+  {
+    "line": 144,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "か、枝番号を追加することで対応することが考えられる。"
+  }
+]

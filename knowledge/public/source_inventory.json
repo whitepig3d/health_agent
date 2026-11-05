@@ -1,0 +1,368 @@
+[
+  {
+    "source_id": "HB43",
+    "title": "特定健康診査・特定保健指導の円滑な実施に向けた手引き",
+    "url": "https://www.mhlw.go.jp/content/12400000/001496685.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "QA20241025",
+    "title": "特定健康診査・特定保健指導に関するQ&A集",
+    "url": "https://www.mhlw.go.jp/content/12400000/001320648.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/newpage_35503.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "ANN11",
+    "title": "付属資料1-1 社会保険診療報酬支払基金への機関届の様式",
+    "url": "https://www.mhlw.go.jp/content/12400000/001349914.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "ANN14",
+    "title": "付属資料1-4 集合契約における標準的な契約書の例",
+    "url": "https://www.mhlw.go.jp/content/12400000/001081109.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "ANN15",
+    "title": "付属資料1-5 委任状",
+    "url": "https://www.mhlw.go.jp/content/12400000/001081113.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "ANN16",
+    "title": "付属資料1-6 集合契約における請求・決済の例",
+    "url": "https://www.mhlw.go.jp/content/12400000/001081115.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "ANN2",
+    "title": "付属資料2 QRコード収録項目",
+    "url": "https://www.mhlw.go.jp/content/12400000/001081117.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "PLAN4",
+    "title": "特定健康診査等実施計画作成の手引き",
+    "url": "https://www.mhlw.go.jp/content/12400000/001081779.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31133.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P3_3",
+    "title": "標準的な健診・保健指導プログラム 第3編第3章 保健指導の実施",
+    "url": "https://www.mhlw.go.jp/content/10900000/001206391.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P2_FB",
+    "title": "標準的な健診・保健指導プログラム 第2編別紙5・別添資料 判定値・フィードバック文例集",
+    "url": "https://www.mhlw.go.jp/content/10900000/001231392.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P2_Q",
+    "title": "標準的な健診・保健指導プログラム 第2編別紙3・4 標準的な質問票と検査実施方法",
+    "url": "https://www.mhlw.go.jp/content/10900000/001153030.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P1_1",
+    "title": "標準的な健診・保健指導プログラム 第1編第1章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001172491.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P1_2",
+    "title": "標準的な健診・保健指導プログラム 第1編第2章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081561.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P1_3",
+    "title": "標準的な健診・保健指導プログラム 第1編第3章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081562.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P1_APP",
+    "title": "標準的な健診・保健指導プログラム 第1編別紙",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081564.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P2_1",
+    "title": "標準的な健診・保健指導プログラム 第2編第1章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081566.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P2_2",
+    "title": "標準的な健診・保健指導プログラム 第2編第2章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001153023.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P2_3",
+    "title": "標準的な健診・保健指導プログラム 第2編第3章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081570.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P2_4",
+    "title": "標準的な健診・保健指導プログラム 第2編第4章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081574.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P2_5",
+    "title": "標準的な健診・保健指導プログラム 第2編第5章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081575.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P2_6",
+    "title": "標準的な健診・保健指導プログラム 第2編第6章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081577.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P2_APP12",
+    "title": "標準的な健診・保健指導プログラム 第2編別紙1・2",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081579.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P2_APP67",
+    "title": "標準的な健診・保健指導プログラム 第2編別紙6・7",
+    "url": "https://www.mhlw.go.jp/content/10900000/001172505.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P3_1",
+    "title": "標準的な健診・保健指導プログラム 第3編第1章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081589.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P3_2",
+    "title": "標準的な健診・保健指導プログラム 第3編第2章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081591.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P3_4",
+    "title": "標準的な健診・保健指導プログラム 第3編第4章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081596.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P3_5",
+    "title": "標準的な健診・保健指導プログラム 第3編第5章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081598.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P4_1",
+    "title": "標準的な健診・保健指導プログラム 第4編第1章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081601.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P4_2",
+    "title": "標準的な健診・保健指導プログラム 第4編第2章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081605.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P4_3",
+    "title": "標準的な健診・保健指導プログラム 第4編第3章",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081608.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P4_APP",
+    "title": "標準的な健診・保健指導プログラム 第4編別紙",
+    "url": "https://www.mhlw.go.jp/content/10900000/001153033.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P_ATTACH",
+    "title": "標準的な健診・保健指導プログラム 添付資料",
+    "url": "https://www.mhlw.go.jp/content/10900000/001172507.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "TRAINING",
+    "title": "標準的な健診・保健指導プログラム 健診・保健指導の研修ガイドライン",
+    "url": "https://www.mhlw.go.jp/content/10900000/001153034.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "SMOKING",
+    "title": "標準的な健診・保健指導プログラム 別添1 保健指導のための禁煙支援簡易マニュアル",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081632.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "ALCOHOL",
+    "title": "標準的な健診・保健指導プログラム 別添2 AUDITと評価結果に基づく減酒支援の手引き",
+    "url": "https://www.mhlw.go.jp/content/10900000/001215491.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "NONOBESE",
+    "title": "標準的な健診・保健指導プログラム 別添3 非肥満の脳・心血管疾患危険因子保有者への生活習慣改善指導",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081635.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "STAY",
+    "title": "標準的な健診・保健指導プログラム 別添4 宿泊型新保健指導プログラム",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081636.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "P_FORMS",
+    "title": "標準的な健診・保健指導プログラム 参考様式集",
+    "url": "https://www.mhlw.go.jp/content/10900000/001081627.pdf",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "captured_text",
+    "visual_reviewed": false
+  },
+  {
+    "source_id": "UNREAD_01",
+    "title": "付属資料1-2 ホームページ等への記載様式",
+    "url": "https://www.mhlw.go.jp/content/12400000/001081107.doc",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "unread_unsupported_format",
+    "reason": "Web取得ツールがこのOffice形式の本文取得に非対応。クラウド環境からの厚労省直接取得もHTTP403。本文は推測していない。"
+  },
+  {
+    "source_id": "UNREAD_02",
+    "title": "付属資料1-3 標準的な見積様式の例",
+    "url": "https://www.mhlw.go.jp/content/12400000/001081108.doc",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "unread_unsupported_format",
+    "reason": "Web取得ツールがこのOffice形式の本文取得に非対応。クラウド環境からの厚労省直接取得もHTTP403。本文は推測していない。"
+  },
+  {
+    "source_id": "UNREAD_03",
+    "title": "標準的な契約書の編集用Word",
+    "url": "https://www.mhlw.go.jp/content/12400000/001081111.doc",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "unread_unsupported_format",
+    "reason": "Web取得ツールがこのOffice形式の本文取得に非対応。クラウド環境からの厚労省直接取得もHTTP403。本文は推測していない。"
+  },
+  {
+    "source_id": "UNREAD_04",
+    "title": "委託元保険者一覧・実施機関一覧のExcel",
+    "url": "https://www.mhlw.go.jp/content/12400000/001081112.xlsx",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "unread_unsupported_format",
+    "reason": "Web取得ツールがこのOffice形式の本文取得に非対応。クラウド環境からの厚労省直接取得もHTTP403。本文は推測していない。"
+  },
+  {
+    "source_id": "UNREAD_05",
+    "title": "委任状の編集用Word",
+    "url": "https://www.mhlw.go.jp/content/12400000/001081114.docx",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "unread_unsupported_format",
+    "reason": "Web取得ツールがこのOffice形式の本文取得に非対応。クラウド環境からの厚労省直接取得もHTTP403。本文は推測していない。"
+  },
+  {
+    "source_id": "UNREAD_06",
+    "title": "医療機関受診時の持参用紙のWord",
+    "url": "https://www.mhlw.go.jp/content/10900000/001153035.docx",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "unread_unsupported_format",
+    "reason": "Web取得ツールがこのOffice形式の本文取得に非対応。クラウド環境からの厚労省直接取得もHTTP403。本文は推測していない。"
+  },
+  {
+    "source_id": "VIDEO",
+    "title": "第4期見直しの公式YouTube説明動画",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/handbook_31132.html",
+    "status": "not_transcribed",
+    "reason": "掲載リンクの存在のみ確認。動画の視聴・字幕抽出をしていないため根拠本文に使用していない。"
+  },
+  {
+    "source_id": "PROGRAM_COMBINED",
+    "title": "標準プログラムの合冊・表紙・目次",
+    "landing_page": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
+    "status": "not_separately_counted",
+    "reason": "全編の章別PDF・別紙等を収録。合冊と表紙・目次を別資料・別カードとして重複計上していない。"
+  }
+]

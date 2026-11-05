@@ -1,0 +1,6914 @@
+[
+  {
+    "line": 0,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "12"
+  },
+  {
+    "line": 1,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "別添４"
+  },
+  {
+    "line": 2,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "宿泊型新保健指導（スマート・ライフ・ステイ）プログラム"
+  },
+  {
+    "line": 3,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": ""
+  },
+  {
+    "line": 4,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "１．背景"
+  },
+  {
+    "line": 5,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ わが国では健康寿命延伸のため、特定保健指導などにより生活習慣病の予防"
+  },
+  {
+    "line": 6,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "に取り組んでいるが、さらに効果的かつ実現可能性の高い保健指導プログラ"
+  },
+  {
+    "line": 7,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ムの実施により、多くの国民が生活習慣病予防に取り組むことが必要である。"
+  },
+  {
+    "line": 8,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 「日本再興戦略」改訂 2014～未来への挑戦～のアクションプランの一つであ"
+  },
+  {
+    "line": 9,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "る戦略市場創造プランにおける、ヘルスケア産業を担う民間事業者等が創意工"
+  },
+  {
+    "line": 10,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "夫を発揮できる市場環境の整備として、「糖尿病が疑われる者等を対象として、"
+  },
+  {
+    "line": 11,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ホテル、旅館などの宿泊施設や地元観光資源等を活用して行う宿泊型新保健指"
+  },
+  {
+    "line": 12,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "導（スマート・ライフ・ステイ）プログラムを開発し、その普及促進を図る」"
+  },
+  {
+    "line": 13,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "とされた。本プログラムは厚生労働科学研究および国立研究開発法人日本医療"
+  },
+  {
+    "line": 14,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "研究開発機構委託研究「生活習慣病予防のための宿泊を伴う効果的な保健指導"
+  },
+  {
+    "line": 15,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "プログラムの開発に関する研究」により作成し、試行事業を経たうえで開発さ"
+  },
+  {
+    "line": 16,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "れたものである。"
+  },
+  {
+    "line": 17,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": ""
+  },
+  {
+    "line": 18,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "２．宿泊型新保健指導（スマート・ライフ・ステイ）プログラムのねらい"
+  },
+  {
+    "line": 19,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 宿泊を伴う保健指導を行うことにより、従来の保健指導よりもさらに効果的"
+  },
+  {
+    "line": 20,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "な保健指導を目指す。"
+  },
+  {
+    "line": 21,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 旅の持つ楽しさ・快適さの中で、体験学習を通じて糖尿病等の生活習慣病に"
+  },
+  {
+    "line": 22,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ついて本人の理解を深め、具体的かつ実現可能な行動計画を立てる。"
+  },
+  {
+    "line": 23,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 特に、これまでの保健指導で効果が出にくかった者や、健康への関心が低い者"
+  },
+  {
+    "line": 24,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "に対して提供する重点的な保健指導プログラムの新たな選択肢とする。"
+  },
+  {
+    "line": 25,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "○ 地域の社会資源（人材、施設、環境）を活用した多機関・多職種連携により、"
+  },
+  {
+    "line": 26,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "健康分野に限らず、地元産業や観光分野への波及効果を期待できる。"
+  },
+  {
+    "line": 27,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "３．宿泊型新保健指導（スマート・ライフ・ステイ）プログラムとは"
+  },
+  {
+    "line": 28,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（１）対象"
+  },
+  {
+    "line": 29,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "特定保健指導対象者及び糖尿病予備群の者等を対象とする。"
+  },
+  {
+    "line": 30,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＜推奨する対象者例＞"
+  },
+  {
+    "line": 31,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "①健診結果から選定された糖尿病予備群（非肥満者※を含む）"
+  },
+  {
+    "line": 32,
+    "pdf_page": 1,
+    "pdf_page_end": 2,
+    "text": "※非肥満者：特定保健指導階層化基準非該当者13"
+  },
+  {
+    "line": 33,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "②特定保健指導を実施したが、十分な効果が出なかった者"
+  },
+  {
+    "line": 34,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "③生活習慣病治療中の者"
+  },
+  {
+    "line": 35,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": ""
+  },
+  {
+    "line": 36,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "（２）多機関・多他職種連携"
+  },
+  {
+    "line": 37,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ 宿泊型新保健指導（スマート・ライフ・ステイ）プログラムは、糖尿病が疑"
+  },
+  {
+    "line": 38,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "われる者等を対象として、ホテル、旅館などの宿泊施設や地元観光資源等を"
+  },
+  {
+    "line": 39,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "活用して、医師、保健師、管理栄養士、健康運動指導士等の多職種が連携し"
+  },
+  {
+    "line": 40,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "て提供する新たな保健指導プログラムである。"
+  },
+  {
+    "line": 41,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ 十分な保健指導実績を持つ複数の専門職種が宿泊地にて、特定保健指導対象"
+  },
+  {
+    "line": 42,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "者及び糖尿病予備群等に対して保健指導を行う。"
+  },
+  {
+    "line": 43,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ プログラムの実施を通して、保健指導実施者と宿泊施設等の連携が深まるこ"
+  },
+  {
+    "line": 44,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "とにより、従来の枠組みを越えた多様な地域連携の強化と資源発掘、人材育"
+  },
+  {
+    "line": 45,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "成等を通して、健康な地域づくり推進に貢献することができる。"
+  },
+  {
+    "line": 46,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "○ 初期開発に要する準備時間や投資費用については、事業が継続され定常的に"
+  },
+  {
+    "line": 47,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "実施する体制が整うことで準備時間等を減らし、コストダウンすることが可"
+  },
+  {
+    "line": 48,
+    "pdf_page": 2,
+    "pdf_page_end": 3,
+    "text": "能である。14"
+  },
+  {
+    "line": 49,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "（３）体験を通じたグループ学習・個別対応の充実"
+  },
+  {
+    "line": 50,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "○ 座学だけではなく、グループ学習や体験学習を盛り込むことで効果を高める。"
+  },
+  {
+    "line": 51,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "○ 食事や運動の体験学習によって、普段の食生活との違いに気づき、日常生活"
+  },
+  {
+    "line": 52,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "における身体活動の維持について知識を習得するとともに、宿泊時の体験を"
+  },
+  {
+    "line": 53,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "通して動機付けし、具体的かつ実現可能な行動計画を立てる。"
+  },
+  {
+    "line": 54,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "○ グループ学習の一方で、個別面談時間を確保することにより、理解度・行動"
+  },
+  {
+    "line": 55,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "変容ステージ・生活背景に合わせた個別支援を行う。"
+  },
+  {
+    "line": 56,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "○ 治療の必要性が高いと考えられる人には、治療のイメージや想定される効果"
+  },
+  {
+    "line": 57,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "などの説明をおこない、確実な受療行動につなげる。"
+  },
+  {
+    "line": 58,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": ""
+  },
+  {
+    "line": 59,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "４．宿泊型新保健指導（スマート・ライフ・ステイ）プログラムの具体的な"
+  },
+  {
+    "line": 60,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "進め方（※「進捗管理シート」参照）"
+  },
+  {
+    "line": 61,
+    "pdf_page": 3,
+    "pdf_page_end": 4,
+    "text": "（１） プログラム全体の流れ15"
+  },
+  {
+    "line": 62,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": ""
+  },
+  {
+    "line": 63,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（２）体制づくり"
+  },
+  {
+    "line": 64,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "１）実施主体"
+  },
+  {
+    "line": 65,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "実施主体は、医療保険者、民間団体（※）又は自治体（以下、医療保険"
+  },
+  {
+    "line": 66,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "者等という）とする。"
+  },
+  {
+    "line": 67,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "なお、実施主体が直接保健指導を行わない場合は、保健指導機関等と連"
+  },
+  {
+    "line": 68,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "携し、共同で実施する体制を整えることが必要である。"
+  },
+  {
+    "line": 69,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "実施主体が宿泊施設を保有しない場合には、本事業の趣旨を理解した宿"
+  },
+  {
+    "line": 70,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "泊施設、観光事業者等と連携して実施する体制を整えることが必要である。"
+  },
+  {
+    "line": 71,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "※民間団体は、法人格を有する団体及び民間企業とする。"
+  },
+  {
+    "line": 72,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": ""
+  },
+  {
+    "line": 73,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "２）役割の明確化（※表「役割分担表」参照）"
+  },
+  {
+    "line": 74,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "①運営責任者：事業全体の進行管理、事業全体の分析・評価を行う事業運"
+  },
+  {
+    "line": 75,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "営面での責任者であり、プログラム管理者からプログラムに関する報"
+  },
+  {
+    "line": 76,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "告・連絡・相談を受ける立場にある。"
+  },
+  {
+    "line": 77,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "②プログラム管理者：プログラムの評価、必要に応じたプログラムの修正、"
+  },
+  {
+    "line": 78,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "トラブル等の対応が可能な者で、保健指導実施者の統括者として十分な"
+  },
+  {
+    "line": 79,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "経験を有する者（医師、保健師、管理栄養士等）である。運営責任者と"
+  },
+  {
+    "line": 80,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "プログラム管理者は同一者でないこと、プログラム管理者と保健指導実"
+  },
+  {
+    "line": 81,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "施者は同一者でないことが望ましい。特定保健指導におけるマネジメン"
+  },
+  {
+    "line": 82,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ト経験者が望ましい。"
+  },
+  {
+    "line": 83,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "③保健指導実施者：医師、保健師、管理栄養士等の多職種が複数連携して"
+  },
+  {
+    "line": 84,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "保健指導を行う。"
+  },
+  {
+    "line": 85,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": ""
+  },
+  {
+    "line": 86,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・糖尿病の正しい理解"
+  },
+  {
+    "line": 87,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・食生活の実践方法の習得"
+  },
+  {
+    "line": 88,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・運動の実践方法の習得"
+  },
+  {
+    "line": 89,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・血糖自己測定による"
+  },
+  {
+    "line": 90,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "運動の効果確認"
+  },
+  {
+    "line": 91,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・セルフモニタリング習慣の"
+  },
+  {
+    "line": 92,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "導入"
+  },
+  {
+    "line": 93,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・行動目標設定"
+  },
+  {
+    "line": 94,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "3か月後評価 6か月後評価 1年後評価"
+  },
+  {
+    "line": 95,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・身体測定"
+  },
+  {
+    "line": 96,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・血圧測定"
+  },
+  {
+    "line": 97,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・プログラムの満足度"
+  },
+  {
+    "line": 98,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・知識の変化"
+  },
+  {
+    "line": 99,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・行動変容ステージの変化"
+  },
+  {
+    "line": 100,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・身体測定"
+  },
+  {
+    "line": 101,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・アンケート"
+  },
+  {
+    "line": 102,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "食事・運動の実践、セルフモニタリング"
+  },
+  {
+    "line": 103,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "（継続的な支援）"
+  },
+  {
+    "line": 104,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "初回評価"
+  },
+  {
+    "line": 105,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・問診"
+  },
+  {
+    "line": 106,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・健診データ"
+  },
+  {
+    "line": 107,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "対象者"
+  },
+  {
+    "line": 108,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "募集"
+  },
+  {
+    "line": 109,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・身体測定"
+  },
+  {
+    "line": 110,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・アンケート"
+  },
+  {
+    "line": 111,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・問診"
+  },
+  {
+    "line": 112,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・健診データ"
+  },
+  {
+    "line": 113,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "・受療行動の変化"
+  },
+  {
+    "line": 114,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "宿泊型"
+  },
+  {
+    "line": 115,
+    "pdf_page": 4,
+    "pdf_page_end": 5,
+    "text": "プログラム16"
+  },
+  {
+    "line": 116,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（３）対象者選定、募集方法の決定"
+  },
+  {
+    "line": 117,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○医療保険者の健康課題を踏まえ、本プログラムの対象者選定基準を決定"
+  },
+  {
+    "line": 118,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "する。その際、医師等の専門家の助言を得ることが望ましい。"
+  },
+  {
+    "line": 119,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○医療保険者は特定保健指導やデータヘルス計画における保健事業の選択"
+  },
+  {
+    "line": 120,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "肢として本プログラムを活用することが可能である。"
+  },
+  {
+    "line": 121,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○観光協会や旅行会社等の観光分野から対象者募集の協力を得ることで、"
+  },
+  {
+    "line": 122,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "参加意欲を引き出すことにつながり得る。"
+  },
+  {
+    "line": 123,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○対象者の特性やニーズに応じて募集方法（チラシ、ＨＰ、電話等による"
+  },
+  {
+    "line": 124,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "参加勧奨）を検討し、参加しやすい体制を整える。"
+  },
+  {
+    "line": 125,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "○配偶者等対象者の家族のプログラム参加は、対象者への理解と実際の生活"
+  },
+  {
+    "line": 126,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "におけるサポートにおいても有用であるため、検討することが望ましい。"
+  },
+  {
+    "line": 127,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 128,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（４）プログラムの企画"
+  },
+  {
+    "line": 129,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 130,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 131,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 132,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 133,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 134,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 135,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 136,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 137,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 138,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 139,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": ""
+  },
+  {
+    "line": 140,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "１）オリエンテーション"
+  },
+  {
+    "line": 141,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "本プログラムの目的、達成目標を確認する。"
+  },
+  {
+    "line": 142,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "２）生活習慣病、特に糖尿病の発症・重症化予防に向けた生活習慣改善の重"
+  },
+  {
+    "line": 143,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "要性についての講話、検査値の見方"
+  },
+  {
+    "line": 144,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "糖尿病関連の検査値の見方を中心に、禁煙の情報提供も行う。合併症の"
+  },
+  {
+    "line": 145,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "怖さだけでなく、HbA1c を改善することの価値を説明する。肥満者には"
+  },
+  {
+    "line": 146,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "体重減量により改善可能な検査項目などを説明する。座学だけでなく、体"
+  },
+  {
+    "line": 147,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "験学習、個人相談、グループワーク等を組み入れ、対象者の改善意欲を高"
+  },
+  {
+    "line": 148,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "め、理解を深めることが必要である。"
+  },
+  {
+    "line": 149,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "健康チェック等"
+  },
+  {
+    "line": 150,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "問診確認"
+  },
+  {
+    "line": 151,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "体重測定等"
+  },
+  {
+    "line": 152,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "健康チェック等 体組成・血圧・血糖測定"
+  },
+  {
+    "line": 153,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "食事 ごはん計量・朝食"
+  },
+  {
+    "line": 154,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "運動講話"
+  },
+  {
+    "line": 155,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "運動実技"
+  },
+  {
+    "line": 156,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "講話"
+  },
+  {
+    "line": 157,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "「血糖値と運動」"
+  },
+  {
+    "line": 158,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "アクティビティ 国会議事堂見学"
+  },
+  {
+    "line": 159,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "食事講講話"
+  },
+  {
+    "line": 160,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "食事体験"
+  },
+  {
+    "line": 161,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "グループワーク"
+  },
+  {
+    "line": 162,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "昼食"
+  },
+  {
+    "line": 163,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "講話"
+  },
+  {
+    "line": 164,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "「血糖値と食事のお話」"
+  },
+  {
+    "line": 165,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "個別栄養相談"
+  },
+  {
+    "line": 166,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "講義"
+  },
+  {
+    "line": 167,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "グループワーク"
+  },
+  {
+    "line": 168,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "講話"
+  },
+  {
+    "line": 169,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "「口腔ケア・フットケア・禁煙に"
+  },
+  {
+    "line": 170,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ついて」"
+  },
+  {
+    "line": 171,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "アクティビティ"
+  },
+  {
+    "line": 172,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ビール記念館訪問"
+  },
+  {
+    "line": 173,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "適正飲酒プチ講話"
+  },
+  {
+    "line": 174,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "夜"
+  },
+  {
+    "line": 175,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "夕食"
+  },
+  {
+    "line": 176,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "食事講話"
+  },
+  {
+    "line": 177,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ヘルシー献立"
+  },
+  {
+    "line": 178,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "講話"
+  },
+  {
+    "line": 179,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "「バランスの良い食事」"
+  },
+  {
+    "line": 180,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "昼食"
+  },
+  {
+    "line": 181,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "グループワーク"
+  },
+  {
+    "line": 182,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "目標設定"
+  },
+  {
+    "line": 183,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "行動目標立案と発表"
+  },
+  {
+    "line": 184,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "継続支援について"
+  },
+  {
+    "line": 185,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "修了式"
+  },
+  {
+    "line": 186,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "午後"
+  },
+  {
+    "line": 187,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "１日目 2日目"
+  },
+  {
+    "line": 188,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "オリエンテーション"
+  },
+  {
+    "line": 189,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "健診結果の見方"
+  },
+  {
+    "line": 190,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "講話"
+  },
+  {
+    "line": 191,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "「糖尿病について」"
+  },
+  {
+    "line": 192,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "講義"
+  },
+  {
+    "line": 193,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "午前"
+  },
+  {
+    "line": 194,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "＜1 泊 2 日の例＞"
+  },
+  {
+    "line": 195,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "オリエンテーション 健康チェック等 セルフモニタリング 健康チェック等 セルフモニタリング"
+  },
+  {
+    "line": 196,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "健康チェック"
+  },
+  {
+    "line": 197,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "体重測定、腹囲測定"
+  },
+  {
+    "line": 198,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "運動 朝日を浴びて早朝ウォーキング 運動 朝日を浴びて早朝ウォーキング"
+  },
+  {
+    "line": 199,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "自己紹介・アイスブレイク 健康チェック等 血液検査 食事 朝食"
+  },
+  {
+    "line": 200,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "食事 朝食 個別面談"
+  },
+  {
+    "line": 201,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "運動"
+  },
+  {
+    "line": 202,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "気候性地形療法を活用したクア"
+  },
+  {
+    "line": 203,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "オルト健康ウォーキング"
+  },
+  {
+    "line": 204,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "・頑張らないで楽しく運動効果を"
+  },
+  {
+    "line": 205,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "高める"
+  },
+  {
+    "line": 206,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "・ウォーキング前後で唾液検査"
+  },
+  {
+    "line": 207,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "で"
+  },
+  {
+    "line": 208,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ストレスチェック"
+  },
+  {
+    "line": 209,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "アクティビティ"
+  },
+  {
+    "line": 210,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "オーロラ、ワインブドウ収穫体験"
+  },
+  {
+    "line": 211,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ワインラベル製作体験"
+  },
+  {
+    "line": 212,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "食事講座"
+  },
+  {
+    "line": 213,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "食事体験"
+  },
+  {
+    "line": 214,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "寺子屋講座（武家屋敷）"
+  },
+  {
+    "line": 215,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "・600kcalバランス弁当"
+  },
+  {
+    "line": 216,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "・体と心が喜ぶ食生活"
+  },
+  {
+    "line": 217,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "運動実習 旅館の中で運動実習"
+  },
+  {
+    "line": 218,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "グループワーク"
+  },
+  {
+    "line": 219,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "目標設定"
+  },
+  {
+    "line": 220,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "行動計画の立案"
+  },
+  {
+    "line": 221,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "グループワーク"
+  },
+  {
+    "line": 222,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "目標設定"
+  },
+  {
+    "line": 223,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "行動計画の立案"
+  },
+  {
+    "line": 224,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "温泉入浴"
+  },
+  {
+    "line": 225,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "フリータイム"
+  },
+  {
+    "line": 226,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "修了式"
+  },
+  {
+    "line": 227,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "夕食"
+  },
+  {
+    "line": 228,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "600kcalクアオルト膳"
+  },
+  {
+    "line": 229,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "・料理長解説"
+  },
+  {
+    "line": 230,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "・管理栄養士アドバイス"
+  },
+  {
+    "line": 231,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "夕食"
+  },
+  {
+    "line": 232,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "旬産旬消、山形の食を満喫"
+  },
+  {
+    "line": 233,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "食事指導"
+  },
+  {
+    "line": 234,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "運動 リラクセーション ヨガ アクティビティ 花笠踊り交流会"
+  },
+  {
+    "line": 235,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "健康チェック等 セルフモニタリング 健康チェック等 セルフモニタリング"
+  },
+  {
+    "line": 236,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "こんにゃく懐石料理"
+  },
+  {
+    "line": 237,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "１日目"
+  },
+  {
+    "line": 238,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "午後"
+  },
+  {
+    "line": 239,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "夜"
+  },
+  {
+    "line": 240,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "2日目 3日目"
+  },
+  {
+    "line": 241,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "アクティビティ"
+  },
+  {
+    "line": 242,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "フリータイムで自由選択"
+  },
+  {
+    "line": 243,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "・高原でのリラクセーション"
+  },
+  {
+    "line": 244,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "・木工教室"
+  },
+  {
+    "line": 245,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "・温泉観光"
+  },
+  {
+    "line": 246,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "健康チェック等"
+  },
+  {
+    "line": 247,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "午前"
+  },
+  {
+    "line": 248,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "アクティビティ 武家屋敷通りの散策"
+  },
+  {
+    "line": 249,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "昼食 600kcalクアオルト膳 食事"
+  },
+  {
+    "line": 250,
+    "pdf_page": 5,
+    "pdf_page_end": 6,
+    "text": "＜2 泊 3 日の例＞17"
+  },
+  {
+    "line": 251,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "３）食事"
+  },
+  {
+    "line": 252,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "宿泊中の食事を活用して、保健指導につなげる。特定保健指導における"
+  },
+  {
+    "line": 253,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "減量指導の方法、糖尿病療養指導の方法などを参照しつつ、適切な食事の"
+  },
+  {
+    "line": 254,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "とり方を指導する。食事の提供は、健康と食の関係、食の大切さを伝える"
+  },
+  {
+    "line": 255,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "格好の機会である。地元の食材を使い、旅ならではの食の楽しみの満足度"
+  },
+  {
+    "line": 256,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "を高めながら、進めることが望ましい。アルコール提供は禁止はしないが、"
+  },
+  {
+    "line": 257,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "積極的な促しは控える。保健指導の中で適正飲酒について解説しておく。"
+  },
+  {
+    "line": 258,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "その際、多量飲酒者の保健指導として、アルコール使用障害スクリーニン"
+  },
+  {
+    "line": 259,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "グ(AUDIT）を活用する。"
+  },
+  {
+    "line": 260,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "＜参考例＞"
+  },
+  {
+    "line": 261,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "「健康な食事（※）」に関する情報提供を行い、エネルギーやバ"
+  },
+  {
+    "line": 262,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ランス、塩分等を考慮した食事を体験する。"
+  },
+  {
+    "line": 263,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "※一食が主食、主菜（魚介類、肉類、卵類、大豆・大豆製品を主材料とす"
+  },
+  {
+    "line": 264,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "る）、副菜（緑黄色野菜を含む 2 種類以上の野菜を使用）で構成される。"
+  },
+  {
+    "line": 265,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "メニューの栄養成分を知らせ、エネルギーコントロール法を学"
+  },
+  {
+    "line": 266,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "習する。"
+  },
+  {
+    "line": 267,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "食事提供では、野菜めやす量、エネルギー量、バランス調整の"
+  },
+  {
+    "line": 268,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "めやすと共に、食べる順番や速さを体験する機会であることを"
+  },
+  {
+    "line": 269,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "指導する。"
+  },
+  {
+    "line": 270,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "料理長等より、塩分を控えた調理法のコツや旬の食材をうまく"
+  },
+  {
+    "line": 271,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "盛り込むコツなど、食生活の大切さを感じさせる話を提供して"
+  },
+  {
+    "line": 272,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "もらえると理想的である。"
+  },
+  {
+    "line": 273,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ご飯計量体験により適正な主食量を確認する。"
+  },
+  {
+    "line": 274,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "朝食バイキングなどの機会に食事の選択学習をする。盛りつけ"
+  },
+  {
+    "line": 275,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "例の提示やプレートに工夫を加える等、学習的要素を組み込"
+  },
+  {
+    "line": 276,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "む。"
+  },
+  {
+    "line": 277,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "血糖自己測定を組み合わせて、血糖変動を確認する。"
+  },
+  {
+    "line": 278,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "４）運動"
+  },
+  {
+    "line": 279,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "糖尿病予防・改善と運動・身体活動、座位行動の関連について、資料等"
+  },
+  {
+    "line": 280,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "を用いて科学的根拠を説明する。宿泊時に、宿泊施設の運動施設や周辺の"
+  },
+  {
+    "line": 281,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "公園等を活用した、身近な運動やアクティビティのプログラムを提供し、"
+  },
+  {
+    "line": 282,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "体験を通して運動・身体活動の具体的かつ実現可能な行動計画を立てる。"
+  },
+  {
+    "line": 283,
+    "pdf_page": 6,
+    "pdf_page_end": 7,
+    "text": "簡単な体力テスト（※）や運動の効果を実感できるような工夫を入れる18"
+  },
+  {
+    "line": 284,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ことが望ましい。血糖コントロール状態や合併症チェックの有無等にも"
+  },
+  {
+    "line": 285,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "留意し、対象者の体力や健康状態に合わせて運動強度を設定できること、当"
+  },
+  {
+    "line": 286,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "日の体調に合わせて運動強度・内容を調整できること等の配慮が必要となる。"
+  },
+  {
+    "line": 287,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "余暇時間も強度を考慮したアクティビティとする。"
+  },
+  {
+    "line": 288,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "※標準的な値を示すことのできる体力テスト項目の例：椅子の立ち座り（30 秒）、長座"
+  },
+  {
+    "line": 289,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "位体前屈、閉眼片足立ち（年齢により開眼）、握力、6 分間歩行、2 ステップテスト、"
+  },
+  {
+    "line": 290,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "立ち上がりテスト等。"
+  },
+  {
+    "line": 291,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "＜参考例＞"
+  },
+  {
+    "line": 292,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "周辺観光を兼ねたウォーキング、自然の中でのハイキングなど。"
+  },
+  {
+    "line": 293,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "運動施設（プール、ジム）を保有している施設ではその活用も推"
+  },
+  {
+    "line": 294,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "奨される。"
+  },
+  {
+    "line": 295,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "アクティビティ中に活動量計やスマートフォンのアプリ等を用"
+  },
+  {
+    "line": 296,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "いて、活動量や消費エネルギーの評価を行うなど、運動・身体活"
+  },
+  {
+    "line": 297,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "動の保健指導と内容の連続性があり、日常生活にも継続性をもた"
+  },
+  {
+    "line": 298,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "せられることが望ましい。"
+  },
+  {
+    "line": 299,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "５）観光、アクティビティ"
+  },
+  {
+    "line": 300,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "地域の豊かな自然や文化に触れ、保養、楽しみ、学び、自己開発を促す"
+  },
+  {
+    "line": 301,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "観光要素に加えて、健康の大切さ、健康への気づきにつながる体験型、交"
+  },
+  {
+    "line": 302,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "流型の観光、アクティビティ体験を提供することが必要である。地域の資"
+  },
+  {
+    "line": 303,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "源としては、温泉、森林、海洋環境、食、伝統文化、歴史遺産等のみなら"
+  },
+  {
+    "line": 304,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ず、これまで気付かれていなかった地域固有の資源を掘り起こし、新たに"
+  },
+  {
+    "line": 305,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "活用することで、地場産業の振興、新たな観光産業の創出など地域活性に"
+  },
+  {
+    "line": 306,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "繋がる。"
+  },
+  {
+    "line": 307,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "観光プログラムの進行等は、観光協会等の専門家や地元に詳しい地域"
+  },
+  {
+    "line": 308,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "のボランティアなどと連携してプログラムを実施できると良い。"
+  },
+  {
+    "line": 309,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "６）セルフモニタリング"
+  },
+  {
+    "line": 310,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "歩数計あるいは活動量計を準備し、セルフモニタリングの習慣づけを"
+  },
+  {
+    "line": 311,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "行う（※）。体重、血圧、腹囲を自己測定、記録のつけ方を実習する。"
+  },
+  {
+    "line": 312,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "※歩数計、活動量計：持参または携帯を活用する。どの機種にも対応できるよう準備"
+  },
+  {
+    "line": 313,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "する。可能であれば、本プログラム参加前より装着し、普段の活動量を認識することが"
+  },
+  {
+    "line": 314,
+    "pdf_page": 7,
+    "pdf_page_end": 8,
+    "text": "望ましい。19"
+  },
+  {
+    "line": 315,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "７）ブレインストーミング・グループワーク"
+  },
+  {
+    "line": 316,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "○ 宿泊当日の導入は、自己紹介やブレインストーミング等で、これから始"
+  },
+  {
+    "line": 317,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "まるプログラムへの意欲が高まるような雰囲気づくりに努める。"
+  },
+  {
+    "line": 318,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "○ 対象者の理解度や疑問を把握しつつ、グループダイナミクスを活用し、"
+  },
+  {
+    "line": 319,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "本音を引き出すと共に意欲を高める内容とする。"
+  },
+  {
+    "line": 320,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "○ グループワークは、最終段階で一括するより「振り返り」として随所に"
+  },
+  {
+    "line": 321,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "組みこむ方が効果的である。"
+  },
+  {
+    "line": 322,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "○ 終了後のコミュニティ・グループ（つながり）の形成支援も行うことが"
+  },
+  {
+    "line": 323,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "望ましい。"
+  },
+  {
+    "line": 324,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "８）行動目標、行動計画設定"
+  },
+  {
+    "line": 325,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "宿泊の最終日に、行動目標設定の時間を設ける。参加者が 70～80％く"
+  },
+  {
+    "line": 326,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "らい実施可能な目標とし、毎日評価できる内容が望ましい。実現可能性が"
+  },
+  {
+    "line": 327,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "低いと回答した場合には、実行しやすい改善事項はないか、さらに話し合"
+  },
+  {
+    "line": 328,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "う。"
+  },
+  {
+    "line": 329,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "９）継続的な支援"
+  },
+  {
+    "line": 330,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "○ 継続的な支援は特定保健指導の標準的なプログラムに準じて行う。（特"
+  },
+  {
+    "line": 331,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "定保健指導支援 A に相当するメール、電話、面談等）"
+  },
+  {
+    "line": 332,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "○ セルフモニタリングのツールを紹介し、継続支援の方法とスケジュール"
+  },
+  {
+    "line": 333,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "を確認する。連絡のつきやすい方法やルール（時間帯、伝言等）を確認す"
+  },
+  {
+    "line": 334,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "る。"
+  },
+  {
+    "line": 335,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "○ 継続支援に使用するモニタリングツールは、手書き記録用紙、エクセ"
+  },
+  {
+    "line": 336,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "ルデータ、スマホのアプリ等、対象者の最も継続しやすい方法を選択"
+  },
+  {
+    "line": 337,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "できることが望ましい。IoT を活用した保健指導等を積極的に取り入"
+  },
+  {
+    "line": 338,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "れ、対象者の継続意欲につながる保健指導方法を工夫することが必要"
+  },
+  {
+    "line": 339,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "である。"
+  },
+  {
+    "line": 340,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "○ 特定保健指導積極的支援該当者については、特定保健指導の標準的な"
+  },
+  {
+    "line": 341,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "プログラムに準じたポイント換算を行い、必要ポイントを達成できる"
+  },
+  {
+    "line": 342,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "計画をたてる。"
+  },
+  {
+    "line": 343,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "○ 宿泊時に立てた行動計画を継続的に支援する体制を整え、健康状態の"
+  },
+  {
+    "line": 344,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "改善を目指す。"
+  },
+  {
+    "line": 345,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "○ 受療勧奨を行った対象者については、受療の有無、薬物治療の状況等"
+  },
+  {
+    "line": 346,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "を確認する。"
+  },
+  {
+    "line": 347,
+    "pdf_page": 8,
+    "pdf_page_end": 9,
+    "text": "○ 行動変容継続のために、地域資源（例えば他の保健事業等）へのつなぎ20"
+  },
+  {
+    "line": 348,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "や情報提供を実施する。"
+  },
+  {
+    "line": 349,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "（５）プログラムの実施"
+  },
+  {
+    "line": 350,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○ プログラムが予定通りに進行しているかを確認する。"
+  },
+  {
+    "line": 351,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○ 天候や対象者の状態に応じて、修正や変更を行いながら、効果的かつ"
+  },
+  {
+    "line": 352,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "安全に実施する。"
+  },
+  {
+    "line": 353,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "○ アンケートの結果などを評価し、内容に応じて次回プログラムに反映す"
+  },
+  {
+    "line": 354,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "る。"
+  },
+  {
+    "line": 355,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": ""
+  },
+  {
+    "line": 356,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "（６）実施に関する留意事項"
+  },
+  {
+    "line": 357,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "１）宿泊地に求められる条件"
+  },
+  {
+    "line": 358,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "①実施意欲の高い宿泊施設の選定"
+  },
+  {
+    "line": 359,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・プログラムの目的を十分に理解し、宿泊環境の整備、食事の提供、運動"
+  },
+  {
+    "line": 360,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "環境の確保に協力的な施設であることが必要である。"
+  },
+  {
+    "line": 361,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・継続的に取り組む意欲のある施設であることが望ましい。"
+  },
+  {
+    "line": 362,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "②宿泊環境の整備"
+  },
+  {
+    "line": 363,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・禁煙室を積極的に利用できることが望ましい。"
+  },
+  {
+    "line": 364,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・受動喫煙防止対策が整備されていることが望ましい。"
+  },
+  {
+    "line": 365,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・会議室や座敷など、集団指導が可能なスペースがあると良い。"
+  },
+  {
+    "line": 366,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・個室希望などに対応できることが望ましい。"
+  },
+  {
+    "line": 367,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "③食事の提供"
+  },
+  {
+    "line": 368,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・食事は、食事に関する保健指導の内容と連動して提供でき、管理栄養士"
+  },
+  {
+    "line": 369,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "等が栄養価計算を行うためのレシピの提供などに協力できると良い。"
+  },
+  {
+    "line": 370,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・地元の食材や料理長の技・アイデアを十分に生かしつつ、エネルギーや"
+  },
+  {
+    "line": 371,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "バランス等を考慮した「健康な食事（※）」を 1 日 1 食程度は確保が"
+  },
+  {
+    "line": 372,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "できると良い。（※４．（４）３）参照）"
+  },
+  {
+    "line": 373,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "④運動環境"
+  },
+  {
+    "line": 374,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・運動・身体活動に関する保健指導の内容と連動し、身体活動を増やせる"
+  },
+  {
+    "line": 375,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "よう保健指導実施者と連携しながら場所の確保をすることが望ましい。"
+  },
+  {
+    "line": 376,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "・戸外での運動指導を想定している場合においては、天候が悪い場合に屋"
+  },
+  {
+    "line": 377,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "内への変更ができることが必要である。"
+  },
+  {
+    "line": 378,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "２）リスクマネジメント体制"
+  },
+  {
+    "line": 379,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "リスクマネジメントの観点から、プログラム実施前又は実施中は以下の"
+  },
+  {
+    "line": 380,
+    "pdf_page": 9,
+    "pdf_page_end": 10,
+    "text": "体制を整える必要がある。 21"
+  },
+  {
+    "line": 381,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 必要に応じて、事前に合併症のチェック（眼底、心電図、クレアチニン"
+  },
+  {
+    "line": 382,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "検査等）を済ませること。"
+  },
+  {
+    "line": 383,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 「参加前アンケート（※１）」、「身体活動のリスクに関するスクリーニ"
+  },
+  {
+    "line": 384,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "ングシート（※２）」及び「運動開始前のセルフチェックリスト（※３）」"
+  },
+  {
+    "line": 385,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "を実施し、各対象者の状態を確認することが必要である。"
+  },
+  {
+    "line": 386,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ プログラムの運動やアクティビティの運動強度や特徴を事前に把握し、"
+  },
+  {
+    "line": 387,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "参加者の疾病状況や現在の身体活動状況をふまえ、対応することが重"
+  },
+  {
+    "line": 388,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "要である。"
+  },
+  {
+    "line": 389,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 治療中の者については、かかりつけ医と連携し、服薬内容、食事・運動"
+  },
+  {
+    "line": 390,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "等の指示を確認することが望ましい（日本糖尿病協会編「糖尿病連携手"
+  },
+  {
+    "line": 391,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "帳」、「お薬手帳」等の活用等）。"
+  },
+  {
+    "line": 392,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 宿泊施設の日常の救急体制、事故対応の方法（連絡先や AED 等の設置"
+  },
+  {
+    "line": 393,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "場所等）を宿泊施設、プログラム管理者、保健指導実施者が事前に共有"
+  },
+  {
+    "line": 394,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "することが必要である。"
+  },
+  {
+    "line": 395,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 運動やフリータイムにおける緊急時への対応が可能な体制を構築する。"
+  },
+  {
+    "line": 396,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 救急体制を検討し、緊急連絡先等を定めておくことが必要である。"
+  },
+  {
+    "line": 397,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 緊急時への対応については、地域の医療機関等と連携を行うことが望"
+  },
+  {
+    "line": 398,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "ましい。"
+  },
+  {
+    "line": 399,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "○ 保険の加入について、プログラム参加中の事故等に対応できるよう、旅"
+  },
+  {
+    "line": 400,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "行業者賠償責任保険、レクリエーション保険等の傷害保険に加入する"
+  },
+  {
+    "line": 401,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "必要がある。"
+  },
+  {
+    "line": 402,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "※１：研究班ＨＰ掲載"
+  },
+  {
+    "line": 403,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "（https://ktsushita.com/index.php/healthguidance/#accommodationtype）"
+  },
+  {
+    "line": 404,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "※２、※３：健康づくりのための身体活動基準 2013"
+  },
+  {
+    "line": 405,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": ""
+  },
+  {
+    "line": 406,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "（７）評価"
+  },
+  {
+    "line": 407,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "保健指導を定量的・定性的に評価する仕組みを導入し、PDCA を回す"
+  },
+  {
+    "line": 408,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "保健事業とする。事業評価は下記を参考に行うことが望ましい。"
+  },
+  {
+    "line": 409,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "１）評価項目"
+  },
+  {
+    "line": 410,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "①身体状況、検査データ"
+  },
+  {
+    "line": 411,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "プログラム開始時、３か月後、６か月後の身体状況、検査データ、体"
+  },
+  {
+    "line": 412,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "力測定結果を評価する。（※４．（４）４）参照）"
+  },
+  {
+    "line": 413,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "②行動変容ステージ、生活習慣、自己効力感、受療・服薬情報、旅の満足"
+  },
+  {
+    "line": 414,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "度等プログラム参加前、終了時、3 か月後、6 か月後にアンケートを"
+  },
+  {
+    "line": 415,
+    "pdf_page": 10,
+    "pdf_page_end": 11,
+    "text": "実施する。22"
+  },
+  {
+    "line": 416,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "③プログラム内容に関すること"
+  },
+  {
+    "line": 417,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "保健指導実施者の職種、体力測定実施の有無、フリータイムアクティビ"
+  },
+  {
+    "line": 418,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "ティの種類、継続支援の方法・回数・ポイント数等。"
+  },
+  {
+    "line": 419,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "④上記の項目のほか、各プログラム内容についてのアンケート調査、体力、"
+  },
+  {
+    "line": 420,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "栄養摂取量調査等、実施主体が独自の視点で評価を実施する。"
+  },
+  {
+    "line": 421,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "２）次年度以降の評価"
+  },
+  {
+    "line": 422,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "①翌年度の標準的な質問票（※）、健診データを用いて、生活習慣、身体"
+  },
+  {
+    "line": 423,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "状況、検査データを宿泊型新保健指導（スマート・ライフ・ステイ）プロ"
+  },
+  {
+    "line": 424,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "グラムの参加前後で比較する。"
+  },
+  {
+    "line": 425,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "※特定健診以外の健診においては、「標準的な質問票」に類似するものを活用する。"
+  },
+  {
+    "line": 426,
+    "pdf_page": 11,
+    "pdf_page_end": 12,
+    "text": "②受療行動の変化23"
+  },
+  {
+    "line": 427,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "＜参考資料＞"
+  },
+  {
+    "line": 428,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・「進捗管理シート」"
+  },
+  {
+    "line": 429,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・「役割分担表」"
+  },
+  {
+    "line": 430,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "上記資料の他、教材や厚生労働省の試行事業に関することは研究班 HP 参照。"
+  },
+  {
+    "line": 431,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "（https://ktsushita.com/index.php/healthguidance/#accommodationtype）"
+  },
+  {
+    "line": 432,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "役割 具体的内容 共通する内容"
+  },
+  {
+    "line": 433,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "運営責任者"
+  },
+  {
+    "line": 434,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・多機関の連絡、調整等の統括責任を担う。"
+  },
+  {
+    "line": 435,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・契約等の事務手続を行う。"
+  },
+  {
+    "line": 436,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・プログラム管理者と実施方法について相談し、宿泊地等の確保、保健指導実施者の確保、その他全体"
+  },
+  {
+    "line": 437,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "スケジュール管理等を行う。"
+  },
+  {
+    "line": 438,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・宿泊施設、観光施設の予約等の事務的な手続きを行う。"
+  },
+  {
+    "line": 439,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・対象者を抽出する医療保険者と、契約・保険・健診データ等の取扱いに対する合意形成のもと、事務的"
+  },
+  {
+    "line": 440,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "な手続きを行う。"
+  },
+  {
+    "line": 441,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・特に、個人情報の取扱いに関しては、運営責任者はデータ管理者を指定し、情報を適正に管理すること"
+  },
+  {
+    "line": 442,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "が望ましい。"
+  },
+  {
+    "line": 443,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プログラム管理者"
+  },
+  {
+    "line": 444,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・プログラム管理者は、特定保健指導におけるマネジメント経験がある者が担うことが望ましい。"
+  },
+  {
+    "line": 445,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・宿泊地あるいは周辺の観光資源について、事前に視察・情報収集を行い、安全かつ効果的なプログラム"
+  },
+  {
+    "line": 446,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "内容について検討する。"
+  },
+  {
+    "line": 447,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・チーム形成された多機関の担当者と打合せを行い、参加者に提供する食事や運動プログラム、アクティ"
+  },
+  {
+    "line": 448,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ビティ内容を具体化する。"
+  },
+  {
+    "line": 449,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・トラブル発生、救急時の対応策について話し合い、連絡先一覧等のマニュアルを策定する。"
+  },
+  {
+    "line": 450,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・対象者選定基準の決定、保健指導内容の確定、保健指導教材の決定等を行う。"
+  },
+  {
+    "line": 451,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・プログラム作成にあたり、厚生労働省の標準プログラムやSLS研究班（※）の提供する資料や教材、"
+  },
+  {
+    "line": 452,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "関連学会のガイドラインを参考にすることが望ましい。"
+  },
+  {
+    "line": 453,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・「平成２７年度厚生労働省宿泊型新保健指導試行事業」において、先行実施した機関より情報収集した"
+  },
+  {
+    "line": 454,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "り、相談することが望ましい。"
+  },
+  {
+    "line": 455,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・プログラム全体の流れや留意事項が把握できる「運営マニュアル」を作成し、スタッフ間で共有する。"
+  },
+  {
+    "line": 456,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・保健指導実施者の統括として、研修会の開催、直接的指導、保健指導実施者の評価を行う。"
+  },
+  {
+    "line": 457,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "保健指導実施者"
+  },
+  {
+    "line": 458,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・宿泊当日あるいは継続的な支援において、対象者に対する直接的担当を担う。"
+  },
+  {
+    "line": 459,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・「糖尿病等の生活習慣病への理解」「食事」「運動」等、各種指導教材、保健指導マニュアルを作成する。"
+  },
+  {
+    "line": 460,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・保健指導実施者研修を通じて、各保健指導マニュアルを共有し、一貫性のある指導を心がけることが"
+  },
+  {
+    "line": 461,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "大切である。"
+  },
+  {
+    "line": 462,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・こまめなカンファレンスを行い（事前・宿泊当日・宿泊終了・継続支援時）、プログラム管理者へ報告、"
+  },
+  {
+    "line": 463,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "必要時プログラムの修正・改善に努める。"
+  },
+  {
+    "line": 464,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・対象者の健康状態に合わせ、必要時、個別対応等の配慮ができることが望ましい。"
+  },
+  {
+    "line": 465,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・プログラムの実施にあたり、宿"
+  },
+  {
+    "line": 466,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "泊施設や保険者等の関係機関"
+  },
+  {
+    "line": 467,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "と緊密な連携をとることが求め"
+  },
+  {
+    "line": 468,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "られる。"
+  },
+  {
+    "line": 469,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・対象者選定基準やプログラム"
+  },
+  {
+    "line": 470,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "内容について、医師などの専門"
+  },
+  {
+    "line": 471,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "家に相談し、助言を求めること"
+  },
+  {
+    "line": 472,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "が望ましい。"
+  },
+  {
+    "line": 473,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・円滑な運営のために、プログ"
+  },
+  {
+    "line": 474,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ラムの進捗状況を把握、管理す"
+  },
+  {
+    "line": 475,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ることが重要である。その際"
+  },
+  {
+    "line": 476,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "は、SLS研究班作成の「進捗管"
+  },
+  {
+    "line": 477,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "理ソフト」を参考・活用された"
+  },
+  {
+    "line": 478,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い。"
+  },
+  {
+    "line": 479,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・プログラム全体の結果につい"
+  },
+  {
+    "line": 480,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て、適正に分析・評価する必要"
+  },
+  {
+    "line": 481,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "があり、複数回実施の場合は、"
+  },
+  {
+    "line": 482,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "次回に修正点が反映されること"
+  },
+  {
+    "line": 483,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "が望ましい。"
+  },
+  {
+    "line": 484,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・保健指導記録を多職種間で共"
+  },
+  {
+    "line": 485,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "有し、連携した保健指導が行え"
+  },
+  {
+    "line": 486,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る体制が重要である。"
+  },
+  {
+    "line": 487,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プログラム事業評価シート プログラム名称（ ） 宿泊地（ ）（ 泊 日）"
+  },
+  {
+    "line": 488,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "実施主体 機関名（ ） 運営責任者（ ） プログラム管理者（ ）"
+  },
+  {
+    "line": 489,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "実施"
+  },
+  {
+    "line": 490,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "時期"
+  },
+  {
+    "line": 491,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": ""
+  },
+  {
+    "line": 492,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": ""
+  },
+  {
+    "line": 493,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "項目"
+  },
+  {
+    "line": 494,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "事業企画・立案 実施事業 評価"
+  },
+  {
+    "line": 495,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "全体企画案作成"
+  },
+  {
+    "line": 496,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "宿泊プログラム作成"
+  },
+  {
+    "line": 497,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "各種作業手順書作成"
+  },
+  {
+    "line": 498,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "宿泊プログラム"
+  },
+  {
+    "line": 499,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "運営準備"
+  },
+  {
+    "line": 500,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "宿 泊 プ ログ ラム"
+  },
+  {
+    "line": 501,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "保健指導準備"
+  },
+  {
+    "line": 502,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "宿 泊 プログラム"
+  },
+  {
+    "line": 503,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "実施中"
+  },
+  {
+    "line": 504,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "宿泊"
+  },
+  {
+    "line": 505,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "終 了 時"
+  },
+  {
+    "line": 506,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "継続"
+  },
+  {
+    "line": 507,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "支援"
+  },
+  {
+    "line": 508,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "中間"
+  },
+  {
+    "line": 509,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "支援"
+  },
+  {
+    "line": 510,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "終了"
+  },
+  {
+    "line": 511,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "支援"
+  },
+  {
+    "line": 512,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "事業評価 追跡"
+  },
+  {
+    "line": 513,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "No 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31"
+  },
+  {
+    "line": 514,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "実"
+  },
+  {
+    "line": 515,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施"
+  },
+  {
+    "line": 516,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "内"
+  },
+  {
+    "line": 517,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "容"
+  },
+  {
+    "line": 518,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": ""
+  },
+  {
+    "line": 519,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "各"
+  },
+  {
+    "line": 520,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "責"
+  },
+  {
+    "line": 521,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "任"
+  },
+  {
+    "line": 522,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "者"
+  },
+  {
+    "line": 523,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 524,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "設"
+  },
+  {
+    "line": 525,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "定"
+  },
+  {
+    "line": 526,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 527,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "、チ"
+  },
+  {
+    "line": 528,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ー"
+  },
+  {
+    "line": 529,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ム"
+  },
+  {
+    "line": 530,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "形"
+  },
+  {
+    "line": 531,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "成"
+  },
+  {
+    "line": 532,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 533,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "行"
+  },
+  {
+    "line": 534,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "って"
+  },
+  {
+    "line": 535,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 536,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 537,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プ"
+  },
+  {
+    "line": 538,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ロ"
+  },
+  {
+    "line": 539,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "グ"
+  },
+  {
+    "line": 540,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ラ"
+  },
+  {
+    "line": 541,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ム"
+  },
+  {
+    "line": 542,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "管"
+  },
+  {
+    "line": 543,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "理"
+  },
+  {
+    "line": 544,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "者"
+  },
+  {
+    "line": 545,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "と"
+  },
+  {
+    "line": 546,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "実"
+  },
+  {
+    "line": 547,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施"
+  },
+  {
+    "line": 548,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "方"
+  },
+  {
+    "line": 549,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "法"
+  },
+  {
+    "line": 550,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 551,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "相"
+  },
+  {
+    "line": 552,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "談"
+  },
+  {
+    "line": 553,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 554,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 555,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 556,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 557,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 558,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "宿"
+  },
+  {
+    "line": 559,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "泊"
+  },
+  {
+    "line": 560,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施"
+  },
+  {
+    "line": 561,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "設"
+  },
+  {
+    "line": 562,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・観"
+  },
+  {
+    "line": 563,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "光"
+  },
+  {
+    "line": 564,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施"
+  },
+  {
+    "line": 565,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "設"
+  },
+  {
+    "line": 566,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "と"
+  },
+  {
+    "line": 567,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 568,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "調"
+  },
+  {
+    "line": 569,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "整"
+  },
+  {
+    "line": 570,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 571,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 572,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 573,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 574,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 575,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "保"
+  },
+  {
+    "line": 576,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "険"
+  },
+  {
+    "line": 577,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "者"
+  },
+  {
+    "line": 578,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "と"
+  },
+  {
+    "line": 579,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 580,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "調"
+  },
+  {
+    "line": 581,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "整"
+  },
+  {
+    "line": 582,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 583,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 584,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 585,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 586,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 587,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "デ"
+  },
+  {
+    "line": 588,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ー"
+  },
+  {
+    "line": 589,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "タ"
+  },
+  {
+    "line": 590,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 591,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "取"
+  },
+  {
+    "line": 592,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "り"
+  },
+  {
+    "line": 593,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "扱"
+  },
+  {
+    "line": 594,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 595,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "に"
+  },
+  {
+    "line": 596,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "つ"
+  },
+  {
+    "line": 597,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 598,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 599,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "取"
+  },
+  {
+    "line": 600,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "り"
+  },
+  {
+    "line": 601,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "決"
+  },
+  {
+    "line": 602,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "め"
+  },
+  {
+    "line": 603,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 604,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 605,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 606,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 607,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 608,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "関"
+  },
+  {
+    "line": 609,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "係"
+  },
+  {
+    "line": 610,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "者"
+  },
+  {
+    "line": 611,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "と"
+  },
+  {
+    "line": 612,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "調"
+  },
+  {
+    "line": 613,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "整"
+  },
+  {
+    "line": 614,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 615,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 616,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ス"
+  },
+  {
+    "line": 617,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ケ"
+  },
+  {
+    "line": 618,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ジ"
+  },
+  {
+    "line": 619,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ュー"
+  },
+  {
+    "line": 620,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ル"
+  },
+  {
+    "line": 621,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 622,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "立"
+  },
+  {
+    "line": 623,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 624,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 625,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 626,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 627,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "事"
+  },
+  {
+    "line": 628,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "業"
+  },
+  {
+    "line": 629,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "に"
+  },
+  {
+    "line": 630,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "必"
+  },
+  {
+    "line": 631,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "要"
+  },
+  {
+    "line": 632,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "な"
+  },
+  {
+    "line": 633,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "予"
+  },
+  {
+    "line": 634,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "算"
+  },
+  {
+    "line": 635,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 636,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "取"
+  },
+  {
+    "line": 637,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "り"
+  },
+  {
+    "line": 638,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "決"
+  },
+  {
+    "line": 639,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "め"
+  },
+  {
+    "line": 640,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "、契"
+  },
+  {
+    "line": 641,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "約"
+  },
+  {
+    "line": 642,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 643,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "交"
+  },
+  {
+    "line": 644,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "わ"
+  },
+  {
+    "line": 645,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 646,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 647,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 648,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 649,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "宿"
+  },
+  {
+    "line": 650,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "泊"
+  },
+  {
+    "line": 651,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "型"
+  },
+  {
+    "line": 652,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 653,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "保"
+  },
+  {
+    "line": 654,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 655,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "指"
+  },
+  {
+    "line": 656,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "導"
+  },
+  {
+    "line": 657,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プ"
+  },
+  {
+    "line": 658,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ロ"
+  },
+  {
+    "line": 659,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "グ"
+  },
+  {
+    "line": 660,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ラ"
+  },
+  {
+    "line": 661,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ム"
+  },
+  {
+    "line": 662,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 663,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "立"
+  },
+  {
+    "line": 664,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "案"
+  },
+  {
+    "line": 665,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 666,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 667,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 668,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 669,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "観"
+  },
+  {
+    "line": 670,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "光"
+  },
+  {
+    "line": 671,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プ"
+  },
+  {
+    "line": 672,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ロ"
+  },
+  {
+    "line": 673,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "グ"
+  },
+  {
+    "line": 674,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ラ"
+  },
+  {
+    "line": 675,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ム"
+  },
+  {
+    "line": 676,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 677,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "立"
+  },
+  {
+    "line": 678,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "案"
+  },
+  {
+    "line": 679,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 680,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 681,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 682,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 683,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "継"
+  },
+  {
+    "line": 684,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "続"
+  },
+  {
+    "line": 685,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "支"
+  },
+  {
+    "line": 686,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "援"
+  },
+  {
+    "line": 687,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 688,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "方"
+  },
+  {
+    "line": 689,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "法"
+  },
+  {
+    "line": 690,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 691,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "確"
+  },
+  {
+    "line": 692,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "認"
+  },
+  {
+    "line": 693,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 694,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 695,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 696,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 697,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "評"
+  },
+  {
+    "line": 698,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "価"
+  },
+  {
+    "line": 699,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "方"
+  },
+  {
+    "line": 700,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "法"
+  },
+  {
+    "line": 701,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 702,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "確"
+  },
+  {
+    "line": 703,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "認"
+  },
+  {
+    "line": 704,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 705,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 706,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 707,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 708,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "宿"
+  },
+  {
+    "line": 709,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "泊"
+  },
+  {
+    "line": 710,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "型"
+  },
+  {
+    "line": 711,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "新"
+  },
+  {
+    "line": 712,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "保"
+  },
+  {
+    "line": 713,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 714,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "指"
+  },
+  {
+    "line": 715,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "導"
+  },
+  {
+    "line": 716,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プ"
+  },
+  {
+    "line": 717,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ロ"
+  },
+  {
+    "line": 718,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "グ"
+  },
+  {
+    "line": 719,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ラ"
+  },
+  {
+    "line": 720,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ム"
+  },
+  {
+    "line": 721,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 722,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "作"
+  },
+  {
+    "line": 723,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "業"
+  },
+  {
+    "line": 724,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "手"
+  },
+  {
+    "line": 725,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "順"
+  },
+  {
+    "line": 726,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "書"
+  },
+  {
+    "line": 727,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "や"
+  },
+  {
+    "line": 728,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "各"
+  },
+  {
+    "line": 729,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "種"
+  },
+  {
+    "line": 730,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "マ"
+  },
+  {
+    "line": 731,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ニ"
+  },
+  {
+    "line": 732,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ュア"
+  },
+  {
+    "line": 733,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ル"
+  },
+  {
+    "line": 734,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 735,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "作"
+  },
+  {
+    "line": 736,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "成"
+  },
+  {
+    "line": 737,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・用"
+  },
+  {
+    "line": 738,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "意"
+  },
+  {
+    "line": 739,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 740,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "、理"
+  },
+  {
+    "line": 741,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "解"
+  },
+  {
+    "line": 742,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 743,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "上"
+  },
+  {
+    "line": 744,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "運"
+  },
+  {
+    "line": 745,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "用"
+  },
+  {
+    "line": 746,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "が"
+  },
+  {
+    "line": 747,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "で"
+  },
+  {
+    "line": 748,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "き"
+  },
+  {
+    "line": 749,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 750,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "計"
+  },
+  {
+    "line": 751,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "画"
+  },
+  {
+    "line": 752,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "に"
+  },
+  {
+    "line": 753,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "基"
+  },
+  {
+    "line": 754,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "づ"
+  },
+  {
+    "line": 755,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 756,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "た"
+  },
+  {
+    "line": 757,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "参"
+  },
+  {
+    "line": 758,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "加"
+  },
+  {
+    "line": 759,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "者"
+  },
+  {
+    "line": 760,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 761,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "募"
+  },
+  {
+    "line": 762,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "集"
+  },
+  {
+    "line": 763,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 764,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 765,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 766,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 767,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 768,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "関"
+  },
+  {
+    "line": 769,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "係"
+  },
+  {
+    "line": 770,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "機"
+  },
+  {
+    "line": 771,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "関"
+  },
+  {
+    "line": 772,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "と"
+  },
+  {
+    "line": 773,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "連"
+  },
+  {
+    "line": 774,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "携"
+  },
+  {
+    "line": 775,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "調"
+  },
+  {
+    "line": 776,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "整"
+  },
+  {
+    "line": 777,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 778,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "上"
+  },
+  {
+    "line": 779,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "、実"
+  },
+  {
+    "line": 780,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施"
+  },
+  {
+    "line": 781,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "体"
+  },
+  {
+    "line": 782,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "制"
+  },
+  {
+    "line": 783,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 784,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "構"
+  },
+  {
+    "line": 785,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "築"
+  },
+  {
+    "line": 786,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 787,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 788,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 789,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 790,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "具"
+  },
+  {
+    "line": 791,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "体"
+  },
+  {
+    "line": 792,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "的"
+  },
+  {
+    "line": 793,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "な"
+  },
+  {
+    "line": 794,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "実"
+  },
+  {
+    "line": 795,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施"
+  },
+  {
+    "line": 796,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "手"
+  },
+  {
+    "line": 797,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "順"
+  },
+  {
+    "line": 798,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 799,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "明"
+  },
+  {
+    "line": 800,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ら"
+  },
+  {
+    "line": 801,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "か"
+  },
+  {
+    "line": 802,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "に"
+  },
+  {
+    "line": 803,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 804,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "、関"
+  },
+  {
+    "line": 805,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "係"
+  },
+  {
+    "line": 806,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "機"
+  },
+  {
+    "line": 807,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "関"
+  },
+  {
+    "line": 808,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "で"
+  },
+  {
+    "line": 809,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "情"
+  },
+  {
+    "line": 810,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "報"
+  },
+  {
+    "line": 811,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 812,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "共"
+  },
+  {
+    "line": 813,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "有"
+  },
+  {
+    "line": 814,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 815,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 816,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 817,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 818,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "保"
+  },
+  {
+    "line": 819,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "険"
+  },
+  {
+    "line": 820,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "加"
+  },
+  {
+    "line": 821,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "入"
+  },
+  {
+    "line": 822,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 823,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 824,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 825,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 826,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 827,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "保"
+  },
+  {
+    "line": 828,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 829,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "指"
+  },
+  {
+    "line": 830,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "導"
+  },
+  {
+    "line": 831,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "教"
+  },
+  {
+    "line": 832,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "材"
+  },
+  {
+    "line": 833,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 834,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "準"
+  },
+  {
+    "line": 835,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "備"
+  },
+  {
+    "line": 836,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・作"
+  },
+  {
+    "line": 837,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "成"
+  },
+  {
+    "line": 838,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 839,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 840,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 841,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 842,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 843,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "参"
+  },
+  {
+    "line": 844,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "加"
+  },
+  {
+    "line": 845,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "者"
+  },
+  {
+    "line": 846,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 847,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "情"
+  },
+  {
+    "line": 848,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "報"
+  },
+  {
+    "line": 849,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "収"
+  },
+  {
+    "line": 850,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "集"
+  },
+  {
+    "line": 851,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 852,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "行"
+  },
+  {
+    "line": 853,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "って"
+  },
+  {
+    "line": 854,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 855,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 856,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "事"
+  },
+  {
+    "line": 857,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "前"
+  },
+  {
+    "line": 858,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "カ"
+  },
+  {
+    "line": 859,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ン"
+  },
+  {
+    "line": 860,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "フ"
+  },
+  {
+    "line": 861,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ァレ"
+  },
+  {
+    "line": 862,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ン"
+  },
+  {
+    "line": 863,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ス"
+  },
+  {
+    "line": 864,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 865,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "実"
+  },
+  {
+    "line": 866,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施"
+  },
+  {
+    "line": 867,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 868,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 869,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 870,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 871,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "各"
+  },
+  {
+    "line": 872,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "機"
+  },
+  {
+    "line": 873,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "関"
+  },
+  {
+    "line": 874,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "で"
+  },
+  {
+    "line": 875,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "作"
+  },
+  {
+    "line": 876,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "成"
+  },
+  {
+    "line": 877,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 878,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "た『"
+  },
+  {
+    "line": 879,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "宿"
+  },
+  {
+    "line": 880,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "泊"
+  },
+  {
+    "line": 881,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "型"
+  },
+  {
+    "line": 882,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "新"
+  },
+  {
+    "line": 883,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "保"
+  },
+  {
+    "line": 884,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 885,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "指"
+  },
+  {
+    "line": 886,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "導"
+  },
+  {
+    "line": 887,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プ"
+  },
+  {
+    "line": 888,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ロ"
+  },
+  {
+    "line": 889,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "グ"
+  },
+  {
+    "line": 890,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ラ"
+  },
+  {
+    "line": 891,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ム"
+  },
+  {
+    "line": 892,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 893,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "作"
+  },
+  {
+    "line": 894,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "業"
+  },
+  {
+    "line": 895,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "手"
+  },
+  {
+    "line": 896,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "順"
+  },
+  {
+    "line": 897,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "書"
+  },
+  {
+    "line": 898,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "』に"
+  },
+  {
+    "line": 899,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "準"
+  },
+  {
+    "line": 900,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "じ"
+  },
+  {
+    "line": 901,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 902,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "、支"
+  },
+  {
+    "line": 903,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "援"
+  },
+  {
+    "line": 904,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 905,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "行"
+  },
+  {
+    "line": 906,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "って"
+  },
+  {
+    "line": 907,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 908,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 909,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "安"
+  },
+  {
+    "line": 910,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "全"
+  },
+  {
+    "line": 911,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "管"
+  },
+  {
+    "line": 912,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "理"
+  },
+  {
+    "line": 913,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "に"
+  },
+  {
+    "line": 914,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "留"
+  },
+  {
+    "line": 915,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "意"
+  },
+  {
+    "line": 916,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 917,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 918,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 919,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 920,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "個"
+  },
+  {
+    "line": 921,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "人"
+  },
+  {
+    "line": 922,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "情"
+  },
+  {
+    "line": 923,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "報"
+  },
+  {
+    "line": 924,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 925,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "適"
+  },
+  {
+    "line": 926,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "切"
+  },
+  {
+    "line": 927,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "に"
+  },
+  {
+    "line": 928,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "管"
+  },
+  {
+    "line": 929,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "理"
+  },
+  {
+    "line": 930,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 931,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 932,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 933,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 934,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "事"
+  },
+  {
+    "line": 935,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "後"
+  },
+  {
+    "line": 936,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "カ"
+  },
+  {
+    "line": 937,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ン"
+  },
+  {
+    "line": 938,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "フ"
+  },
+  {
+    "line": 939,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ァレ"
+  },
+  {
+    "line": 940,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ン"
+  },
+  {
+    "line": 941,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ス"
+  },
+  {
+    "line": 942,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 943,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "実"
+  },
+  {
+    "line": 944,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施"
+  },
+  {
+    "line": 945,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 946,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 947,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 948,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 949,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "宿"
+  },
+  {
+    "line": 950,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "泊"
+  },
+  {
+    "line": 951,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プ"
+  },
+  {
+    "line": 952,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ロ"
+  },
+  {
+    "line": 953,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "グ"
+  },
+  {
+    "line": 954,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ラ"
+  },
+  {
+    "line": 955,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ム"
+  },
+  {
+    "line": 956,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "内"
+  },
+  {
+    "line": 957,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "容"
+  },
+  {
+    "line": 958,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 959,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "見"
+  },
+  {
+    "line": 960,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "直"
+  },
+  {
+    "line": 961,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 962,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 963,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "行"
+  },
+  {
+    "line": 964,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "って"
+  },
+  {
+    "line": 965,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 966,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 967,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "「"
+  },
+  {
+    "line": 968,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "標"
+  },
+  {
+    "line": 969,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "準"
+  },
+  {
+    "line": 970,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "的"
+  },
+  {
+    "line": 971,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "な"
+  },
+  {
+    "line": 972,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 973,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "診"
+  },
+  {
+    "line": 974,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・保"
+  },
+  {
+    "line": 975,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 976,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "指"
+  },
+  {
+    "line": 977,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "導"
+  },
+  {
+    "line": 978,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プ"
+  },
+  {
+    "line": 979,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ロ"
+  },
+  {
+    "line": 980,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "グ"
+  },
+  {
+    "line": 981,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ラ"
+  },
+  {
+    "line": 982,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ム"
+  },
+  {
+    "line": 983,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "」"
+  },
+  {
+    "line": 984,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "（出"
+  },
+  {
+    "line": 985,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "典"
+  },
+  {
+    "line": 986,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "：厚"
+  },
+  {
+    "line": 987,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "生"
+  },
+  {
+    "line": 988,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "労"
+  },
+  {
+    "line": 989,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "働"
+  },
+  {
+    "line": 990,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "省"
+  },
+  {
+    "line": 991,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 992,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "康"
+  },
+  {
+    "line": 993,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "局"
+  },
+  {
+    "line": 994,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "）に"
+  },
+  {
+    "line": 995,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "準"
+  },
+  {
+    "line": 996,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "じ"
+  },
+  {
+    "line": 997,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 998,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "、継"
+  },
+  {
+    "line": 999,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "続"
+  },
+  {
+    "line": 1000,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "支"
+  },
+  {
+    "line": 1001,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "援"
+  },
+  {
+    "line": 1002,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 1003,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "行"
+  },
+  {
+    "line": 1004,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "って"
+  },
+  {
+    "line": 1005,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 1006,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 1007,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "「"
+  },
+  {
+    "line": 1008,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "標"
+  },
+  {
+    "line": 1009,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "準"
+  },
+  {
+    "line": 1010,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "的"
+  },
+  {
+    "line": 1011,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "な"
+  },
+  {
+    "line": 1012,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 1013,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "診"
+  },
+  {
+    "line": 1014,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・保"
+  },
+  {
+    "line": 1015,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 1016,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "指"
+  },
+  {
+    "line": 1017,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "導"
+  },
+  {
+    "line": 1018,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プ"
+  },
+  {
+    "line": 1019,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ロ"
+  },
+  {
+    "line": 1020,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "グ"
+  },
+  {
+    "line": 1021,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ラ"
+  },
+  {
+    "line": 1022,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ム"
+  },
+  {
+    "line": 1023,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "」"
+  },
+  {
+    "line": 1024,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "（出"
+  },
+  {
+    "line": 1025,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "典"
+  },
+  {
+    "line": 1026,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "：厚"
+  },
+  {
+    "line": 1027,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "生"
+  },
+  {
+    "line": 1028,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "労"
+  },
+  {
+    "line": 1029,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "働"
+  },
+  {
+    "line": 1030,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "省"
+  },
+  {
+    "line": 1031,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 1032,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "康"
+  },
+  {
+    "line": 1033,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "局"
+  },
+  {
+    "line": 1034,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "）に"
+  },
+  {
+    "line": 1035,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "準"
+  },
+  {
+    "line": 1036,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "じ"
+  },
+  {
+    "line": 1037,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 1038,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "、中"
+  },
+  {
+    "line": 1039,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "間"
+  },
+  {
+    "line": 1040,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "支"
+  },
+  {
+    "line": 1041,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "援"
+  },
+  {
+    "line": 1042,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・"
+  },
+  {
+    "line": 1043,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "評"
+  },
+  {
+    "line": 1044,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "価"
+  },
+  {
+    "line": 1045,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 1046,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "行"
+  },
+  {
+    "line": 1047,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "って"
+  },
+  {
+    "line": 1048,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 1049,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 1050,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "「"
+  },
+  {
+    "line": 1051,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "標"
+  },
+  {
+    "line": 1052,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "準"
+  },
+  {
+    "line": 1053,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "的"
+  },
+  {
+    "line": 1054,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "な"
+  },
+  {
+    "line": 1055,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 1056,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "診"
+  },
+  {
+    "line": 1057,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・保"
+  },
+  {
+    "line": 1058,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 1059,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "指"
+  },
+  {
+    "line": 1060,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "導"
+  },
+  {
+    "line": 1061,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "プ"
+  },
+  {
+    "line": 1062,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ロ"
+  },
+  {
+    "line": 1063,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "グ"
+  },
+  {
+    "line": 1064,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ラ"
+  },
+  {
+    "line": 1065,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ム"
+  },
+  {
+    "line": 1066,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "」"
+  },
+  {
+    "line": 1067,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "（出"
+  },
+  {
+    "line": 1068,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "典"
+  },
+  {
+    "line": 1069,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "：厚"
+  },
+  {
+    "line": 1070,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "生"
+  },
+  {
+    "line": 1071,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "労"
+  },
+  {
+    "line": 1072,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "働"
+  },
+  {
+    "line": 1073,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "省"
+  },
+  {
+    "line": 1074,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "健"
+  },
+  {
+    "line": 1075,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "康"
+  },
+  {
+    "line": 1076,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "局"
+  },
+  {
+    "line": 1077,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "）に"
+  },
+  {
+    "line": 1078,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "準"
+  },
+  {
+    "line": 1079,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "じ"
+  },
+  {
+    "line": 1080,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 1081,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "、最"
+  },
+  {
+    "line": 1082,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "終"
+  },
+  {
+    "line": 1083,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "支"
+  },
+  {
+    "line": 1084,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "援"
+  },
+  {
+    "line": 1085,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "・"
+  },
+  {
+    "line": 1086,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "評"
+  },
+  {
+    "line": 1087,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "価"
+  },
+  {
+    "line": 1088,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 1089,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "行"
+  },
+  {
+    "line": 1090,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "って"
+  },
+  {
+    "line": 1091,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 1092,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 1093,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "事"
+  },
+  {
+    "line": 1094,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "業"
+  },
+  {
+    "line": 1095,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "評"
+  },
+  {
+    "line": 1096,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "価"
+  },
+  {
+    "line": 1097,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 1098,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "実"
+  },
+  {
+    "line": 1099,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施"
+  },
+  {
+    "line": 1100,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 1101,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 1102,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 1103,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 1104,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "事"
+  },
+  {
+    "line": 1105,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "業"
+  },
+  {
+    "line": 1106,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "結"
+  },
+  {
+    "line": 1107,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "果"
+  },
+  {
+    "line": 1108,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 1109,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "と"
+  },
+  {
+    "line": 1110,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "り"
+  },
+  {
+    "line": 1111,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ま"
+  },
+  {
+    "line": 1112,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "と"
+  },
+  {
+    "line": 1113,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "め"
+  },
+  {
+    "line": 1114,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 1115,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 1116,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 1117,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "次"
+  },
+  {
+    "line": 1118,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "年"
+  },
+  {
+    "line": 1119,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "度"
+  },
+  {
+    "line": 1120,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "計"
+  },
+  {
+    "line": 1121,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "画"
+  },
+  {
+    "line": 1122,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "等"
+  },
+  {
+    "line": 1123,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "に"
+  },
+  {
+    "line": 1124,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "向"
+  },
+  {
+    "line": 1125,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "け"
+  },
+  {
+    "line": 1126,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "た"
+  },
+  {
+    "line": 1127,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "改"
+  },
+  {
+    "line": 1128,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "善"
+  },
+  {
+    "line": 1129,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "点"
+  },
+  {
+    "line": 1130,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 1131,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "明"
+  },
+  {
+    "line": 1132,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "確"
+  },
+  {
+    "line": 1133,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "に"
+  },
+  {
+    "line": 1134,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 1135,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 1136,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 1137,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 1138,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "1 年"
+  },
+  {
+    "line": 1139,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "後"
+  },
+  {
+    "line": 1140,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "の"
+  },
+  {
+    "line": 1141,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "評"
+  },
+  {
+    "line": 1142,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "価"
+  },
+  {
+    "line": 1143,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "を"
+  },
+  {
+    "line": 1144,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "実"
+  },
+  {
+    "line": 1145,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "施"
+  },
+  {
+    "line": 1146,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "し"
+  },
+  {
+    "line": 1147,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て"
+  },
+  {
+    "line": 1148,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "い"
+  },
+  {
+    "line": 1149,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "る"
+  },
+  {
+    "line": 1150,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "進捗"
+  },
+  {
+    "line": 1151,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "確認"
+  }
+]

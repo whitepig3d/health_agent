@@ -1,0 +1,2810 @@
+[
+  {
+    "line": 0,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "1"
+  },
+  {
+    "line": 1,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "別添１"
+  },
+  {
+    "line": 2,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "保健指導のための禁煙支援簡易マニュアル"
+  },
+  {
+    "line": 3,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "１．健診・保健指導での禁煙支援の取り組み方"
+  },
+  {
+    "line": 4,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "健診・保健指導の場での禁煙支援は、メタボリックシンドロームの有無やリスクの大小に"
+  },
+  {
+    "line": 5,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "関わらず、健診当日を含め、全ての喫煙者を対象として行うことが重要です。"
+  },
+  {
+    "line": 6,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "特定健診やがん検診の場など、禁煙支援の時間が十分に確保できない場合は「短時間支"
+  },
+  {
+    "line": 7,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "援」、事後指導の場など禁煙支援の時間が確保できる場合は「標準的支援」を行います。短"
+  },
+  {
+    "line": 8,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "時間支援については、できるだけ多くの喫煙者に働きかけを行うため、健診当日に行うこと"
+  },
+  {
+    "line": 9,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "を原則とします。喫煙に関するフィードバック文例集を参考に喫煙者に働きかけましょう"
+  },
+  {
+    "line": 10,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（「第２編健診別添資料 健診結果とその他必要な情報の提供（フィードバック）文例集」を"
+  },
+  {
+    "line": 11,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "参照）。短時間支援と標準的支援の流れを図１に示します。"
+  },
+  {
+    "line": 12,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "図１．短時間支援（ABR 方式）と標準的支援（ABC 方式）の流れ"
+  },
+  {
+    "line": 13,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "● 短時間支援は、「ABR 方式」で個別面接の形式で実施します。A（Ask）では、"
+  },
+  {
+    "line": 14,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "質問票を用いて喫煙状況を把握します。B（Brief advice）では、喫煙者全員を対"
+  },
+  {
+    "line": 15,
+    "pdf_page": 1,
+    "pdf_page_end": 2,
+    "text": "象に(1)禁煙の重要性を高めるアドバイスと(2)禁煙のための解決策の提案を行い2"
+  },
+  {
+    "line": 16,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "ます。R（Refer）では、準備期（1 ヵ月以内に禁煙しようと考えている）の喫煙"
+  },
+  {
+    "line": 17,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "者を対象に、禁煙治療のための医療機関等の紹介を行います。"
+  },
+  {
+    "line": 18,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "● 標準的支援は、「ABC 方式」で(1)初回の個別面接と(2)電話によるフォローアッ"
+  },
+  {
+    "line": 19,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "プの組合せで実施します。A（Ask）と B（Brief advice）の内容は、短時間支援"
+  },
+  {
+    "line": 20,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "と同様です。C（Cessation support）では、(1)初回の個別面接で、準備期の喫煙"
+  },
+  {
+    "line": 21,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "者を対象に、①禁煙開始日の設定、②禁煙実行のための問題解決カウンセリング、"
+  },
+  {
+    "line": 22,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "③禁煙治療のための医療機関等の紹介、を行います。"
+  },
+  {
+    "line": 23,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "禁煙開始日を設定した喫煙者には、初回面接後に禁煙実行・継続を支援するため"
+  },
+  {
+    "line": 24,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "の(2)電話によるフォローアップを行います。電話フォローアップを行う時期の目"
+  },
+  {
+    "line": 25,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "安は、初回の個別面接から 2 週間後、1 ヵ月後、2 ヵ月後、6 ヵ月後です。フォロ"
+  },
+  {
+    "line": 26,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "ーアップでは、①喫煙状況とその後の経過の確認、②禁煙継続のための問題解決カ"
+  },
+  {
+    "line": 27,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "ウンセリング（困難な状況をあらかじめ予想し、その解決策を一緒に検討する）を"
+  },
+  {
+    "line": 28,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "行います。"
+  },
+  {
+    "line": 29,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "短時間支援（ABR 方式）と標準的支援（ABC 方式）の特徴を表１aに示します。どのく"
+  },
+  {
+    "line": 30,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "らい時間が確保できるかによって、いずれの方式を採用するかを決めるとよいでしょう。"
+  },
+  {
+    "line": 31,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "表 1．短時間支援（ABR 方式）と標準的支援（ABC 方式）の内容"
+  },
+  {
+    "line": 32,
+    "pdf_page": 2,
+    "pdf_page_end": 3,
+    "text": "a ここに記載した所要時間は、個別面接や電話フォローアップにかかる時間の目安です。3"
+  },
+  {
+    "line": 33,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "禁煙支援の際に喫煙者に配布する教材を 2 種類作成しています。短時間支援（ABR 方"
+  },
+  {
+    "line": 34,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "式）では「喫煙者用リーフレット」、標準的支援（ABC 方式）では「喫煙者用ワークシー"
+  },
+  {
+    "line": 35,
+    "pdf_page": 3,
+    "pdf_page_end": 4,
+    "text": "ト」をご活用ください。4"
+  },
+  {
+    "line": 36,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "2．受動喫煙に関する情報提供"
+  },
+  {
+    "line": 37,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "禁煙支援に加えて、喫煙状況に関わらず、受診者全員に対して受動喫煙に関する情報提供"
+  },
+  {
+    "line": 38,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "を行います。前述した禁煙の短時間支援と同様、多くの受診者に情報提供ができるよう、健"
+  },
+  {
+    "line": 39,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "診当日に行うことを原則とします。情報提供の内容は、(1)受動喫煙による健康影響の説明"
+  },
+  {
+    "line": 40,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "と(2)受動喫煙を避けるためのアドバイス、を行います。図２に受動喫煙に関する情報提供"
+  },
+  {
+    "line": 41,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "の流れと内容を示します。"
+  },
+  {
+    "line": 42,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "喫煙に関するフィードバック文例集を参考に受診者全員に働きかけましょう。同文例集"
+  },
+  {
+    "line": 43,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "には、喫煙状況別の働きかけの文例を掲載しています。家庭や職場で受動喫煙の曝露を受け"
+  },
+  {
+    "line": 44,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ている非喫煙者に対しては、それを改善するために、家庭や職場で相談するように伝えまし"
+  },
+  {
+    "line": 45,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "ょう。"
+  },
+  {
+    "line": 46,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "非喫煙者だけでなく、喫煙者に対しても情報提供を行うのは、受動喫煙の害に関する正し"
+  },
+  {
+    "line": 47,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "い知識を喫煙者にも伝える必要があるからです。受動喫煙を防ぐためには、禁煙することが"
+  },
+  {
+    "line": 48,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "最善の解決策ですが、それができない場合は、たばこの煙を周囲の人に吸わせないよう、原"
+  },
+  {
+    "line": 49,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "則屋外で喫煙するよう呼びかけることが必要です。"
+  },
+  {
+    "line": 50,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "受動喫煙に関する情報提供の際に受診者に配布する「受動喫煙に関するリーフレット」を"
+  },
+  {
+    "line": 51,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "作成しています。時間がない場合はリーフレットの配布だけでも構いません。"
+  },
+  {
+    "line": 52,
+    "pdf_page": 4,
+    "pdf_page_end": 5,
+    "text": " 5"
+  },
+  {
+    "line": 53,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "図２．受動喫煙に関する情報提供の流れとその内容"
+  },
+  {
+    "line": 54,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "受"
+  },
+  {
+    "line": 55,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "動"
+  },
+  {
+    "line": 56,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "喫"
+  },
+  {
+    "line": 57,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "煙"
+  },
+  {
+    "line": 58,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "の"
+  },
+  {
+    "line": 59,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "曝"
+  },
+  {
+    "line": 60,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "露"
+  },
+  {
+    "line": 61,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "状"
+  },
+  {
+    "line": 62,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "況"
+  },
+  {
+    "line": 63,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "の"
+  },
+  {
+    "line": 64,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "把"
+  },
+  {
+    "line": 65,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "握"
+  },
+  {
+    "line": 66,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（質"
+  },
+  {
+    "line": 67,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "問"
+  },
+  {
+    "line": 68,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "票"
+  },
+  {
+    "line": 69,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "）"
+  },
+  {
+    "line": 70,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "健診当日"
+  },
+  {
+    "line": 71,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "受"
+  },
+  {
+    "line": 72,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "動"
+  },
+  {
+    "line": 73,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "喫"
+  },
+  {
+    "line": 74,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "煙"
+  },
+  {
+    "line": 75,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "に"
+  },
+  {
+    "line": 76,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "関"
+  },
+  {
+    "line": 77,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "す"
+  },
+  {
+    "line": 78,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "る"
+  },
+  {
+    "line": 79,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "情"
+  },
+  {
+    "line": 80,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "報"
+  },
+  {
+    "line": 81,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "提"
+  },
+  {
+    "line": 82,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "供"
+  },
+  {
+    "line": 83,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "全受診者"
+  },
+  {
+    "line": 84,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "を対象"
+  },
+  {
+    "line": 85,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "内 容"
+  },
+  {
+    "line": 86,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "回 数 1回（個別またはグループ）"
+  },
+  {
+    "line": 87,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "対 象 全ての受診者"
+  },
+  {
+    "line": 88,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "方 法 リーフレットの配布および簡単な説明*"
+  },
+  {
+    "line": 89,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "内 容 (1)受動喫煙に関する健康影響の説明"
+  },
+  {
+    "line": 90,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "(2)受動喫煙を避けるためのアドバイス"
+  },
+  {
+    "line": 91,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "情報提供"
+  },
+  {
+    "line": 92,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "の場"
+  },
+  {
+    "line": 93,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "各種健診や保健指導の場"
+  },
+  {
+    "line": 94,
+    "pdf_page": 5,
+    "pdf_page_end": 6,
+    "text": "* 時間がない場合はリーフレットの配布だけでも構いません6"
+  },
+  {
+    "line": 95,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "３．禁煙支援の実際－短時間支援（ABR 方式）"
+  },
+  {
+    "line": 96,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "短時間支援の ABR 方式の A（Ask）、B（Brief advice）、R（Refer）を解説します。"
+  },
+  {
+    "line": 97,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "喫煙状況の把握（Ask）"
+  },
+  {
+    "line": 98,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "まず、短時間支援（ABR 方式）の A（Ask）にあたる「喫煙状況の把握」の具体的方法"
+  },
+  {
+    "line": 99,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "について解説します。特定健診の「標準的な質問票」を用いて喫煙状況を確認します。"
+  },
+  {
+    "line": 100,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "質問８で「現在、たばこを習慣的に吸っている」に対して「はい」と回答した人が短時間"
+  },
+  {
+    "line": 101,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "支援の対象者となります。"
+  },
+  {
+    "line": 102,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ここでいう「習慣的に喫煙している者」とは、「これまでに合計 100 本以上、または 6"
+  },
+  {
+    "line": 103,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ヵ月以上吸っている者」であり、最近 1 ヵ月間も吸っている者です。"
+  },
+  {
+    "line": 104,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "加熱式たばこや電子たばこなどの新型たばこの使用者も喫煙者として扱います（「新型た"
+  },
+  {
+    "line": 105,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ばこに関する情報提供について」を参照）。"
+  },
+  {
+    "line": 106,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "短時間の禁煙アドバイス（Brief advice）"
+  },
+  {
+    "line": 107,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "短時間支援（ABR 方式）の中の B（Brief advice）にあたる「短時間の禁煙アドバイス」"
+  },
+  {
+    "line": 108,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "の具体的方法について解説します。"
+  },
+  {
+    "line": 109,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "ここでは、禁煙の関心度や健診結果にかかわらず、全喫煙者を対象に短時間の禁煙アドバ"
+  },
+  {
+    "line": 110,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "イスを行います。その内容は、(1)禁煙の重要性を高めるアドバイス（病歴や検査値、自覚"
+  },
+  {
+    "line": 111,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "症状、本人の関心事などを切り口に禁煙が重要であること）、(2)禁煙のための解決策の提案"
+  },
+  {
+    "line": 112,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "（禁煙には効果的な禁煙方法があること）です。"
+  },
+  {
+    "line": 113,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "禁煙に対して気持ちが高まっている喫煙者に対しては、禁煙の重要性を高めるアドバイ"
+  },
+  {
+    "line": 114,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "スよりも、禁煙のための解決策の提案にウエイトを置くことが一般に有用です。一方、まだ"
+  },
+  {
+    "line": 115,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "禁煙しようと考えていない喫煙者に対しては、個々人の喫煙者に合った情報提供で禁煙の"
+  },
+  {
+    "line": 116,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "重要性を高めることが大切です。しかし、禁煙しようと考えていない喫煙者においても、禁"
+  },
+  {
+    "line": 117,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "煙のための解決策の提案を行うことで、禁煙に対する動機が高まることも少なくないので、"
+  },
+  {
+    "line": 118,
+    "pdf_page": 6,
+    "pdf_page_end": 7,
+    "text": "忘れずに情報提供しましょう。7"
+  },
+  {
+    "line": 119,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（１）禁煙の重要性を高めるアドバイス"
+  },
+  {
+    "line": 120,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "質問票で喫煙状況を把握した喫煙者に対して、診察や問診、保健指導の場を活用して禁煙"
+  },
+  {
+    "line": 121,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "の重要性を伝えます。複数の保健医療関係者が連携をとりながら声をかけることが効果的"
+  },
+  {
+    "line": 122,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "です。"
+  },
+  {
+    "line": 123,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "まず、「禁煙する必要があること」をはっきりと伝え、さらに、「禁煙が優先順位の高い健"
+  },
+  {
+    "line": 124,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "康課題であること」を伝えます。"
+  },
+  {
+    "line": 125,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "喫煙者に病歴や検査値の異常、自覚症状がある場合は、それらと喫煙との関係を結びつけ"
+  },
+  {
+    "line": 126,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "て、喫煙の影響や禁煙の効果について説明します。喫煙関連疾患としては、がん、虚血性心"
+  },
+  {
+    "line": 127,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "疾患（異型狭心症を含む）、脳血管障害（脳梗塞、くも膜下出血）、糖尿病、COPD（慢性閉"
+  },
+  {
+    "line": 128,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "塞性肺疾患）、消化性潰瘍などがあります。喫煙に関連した検査値の異常としては、脂質異"
+  },
+  {
+    "line": 129,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "常b（HDL コレステロールの低下、LDL コレステロールやトリグリセライド（中性脂肪）"
+  },
+  {
+    "line": 130,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "の上昇）、糖代謝異常（血糖値や HbA1c の上昇、インスリン感受性の低下）、血球異常（多"
+  },
+  {
+    "line": 131,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "血症、白血球増多）などがあります。"
+  },
+  {
+    "line": 132,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "病歴や検査値に問題がない喫煙者に対しては、異常がないことを賞賛した上で、喫煙が取"
+  },
+  {
+    "line": 133,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "り組むべき重要な健康課題であることを伝えて禁煙を促しましょう。また、喫煙者本人の関"
+  },
+  {
+    "line": 134,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "心事や家族状況、生活背景などが把握できている場合は、それらを切り口として禁煙の重要"
+  },
+  {
+    "line": 135,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "性を高めるアドバイスをするとさらに効果が高まります。"
+  },
+  {
+    "line": 136,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ここでの働きかけは、喫煙者全員に対して行いますが、特に禁煙に対して気持ちが高まっ"
+  },
+  {
+    "line": 137,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ていない喫煙者に対しては、禁煙の重要性を高めることが大切です。個々人にあったメッセ"
+  },
+  {
+    "line": 138,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ージで喫煙者の気持ちが禁煙に対して高まるようアドバイスしましょう。"
+  },
+  {
+    "line": 139,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "（２）禁煙のための解決策の提案"
+  },
+  {
+    "line": 140,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "次に、禁煙治療を受ければ「比較的楽に」、「より確実に」、「あまりお金もかけずに」禁煙"
+  },
+  {
+    "line": 141,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "できることを伝えます。喫煙者の多くは、「禁煙は自分の力で解決しなければならない」「禁"
+  },
+  {
+    "line": 142,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "煙はつらく苦しい」と思い込んでいる傾向があります。禁煙は、治療を受けて薬を使うこと"
+  },
+  {
+    "line": 143,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "b 喫煙の血清脂質への影響のうち、HDL コレステロールについては喫煙で低下、禁煙で増加することが認められ、両"
+  },
+  {
+    "line": 144,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "者の関係は明らかです。また、中性脂肪や LDL コレステロールへの影響についても下記のメタアナリシス研究やここ"
+  },
+  {
+    "line": 145,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "2010 年の米国公衆衛生総監報告書において、喫煙との関係が指摘されています。"
+  },
+  {
+    "line": 146,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "・Craig WY, et al. BMJ 1989; 298: 784-788."
+  },
+  {
+    "line": 147,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "・U.S. Department of Health and Human Services. How Tobacco Smoke Causes Disease: The Biology"
+  },
+  {
+    "line": 148,
+    "pdf_page": 7,
+    "pdf_page_end": 8,
+    "text": "and Behavioral Basis for Smoking-Attributable Disease: A Report of the Surgeon General, 2010.8"
+  },
+  {
+    "line": 149,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "で、苦しまずに楽にやめることができるcdことを伝えます。これまでに何度も禁煙を失敗す"
+  },
+  {
+    "line": 150,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "るなど、禁煙に自信がない喫煙者に対して、禁煙のための効果的な解決策を情報提供するこ"
+  },
+  {
+    "line": 151,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "とは、禁煙に対する自信を高めることにつながり、有効です。"
+  },
+  {
+    "line": 152,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "禁煙に関心のない人に、いきなり禁煙の効果的な解決策について説明しても抵抗や反発"
+  },
+  {
+    "line": 153,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "を招くだけです。このような人に対しては、現在禁煙する気持ちがないことを保健指導実施"
+  },
+  {
+    "line": 154,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "者が受けとめ、「今後の禁煙のために覚えておかれるといいですよ」と前置きした上で情報"
+  },
+  {
+    "line": 155,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "提供するとよいでしょう。前置きをすることで相手は抵抗感なく耳を傾けてくれることが"
+  },
+  {
+    "line": 156,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "多くなります。"
+  },
+  {
+    "line": 157,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "＜新型たばこに関する情報提供について＞"
+  },
+  {
+    "line": 158,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "新型たばことして、大きく 2 種類の製品が国際的に流行しています。一つが、たばこの葉を"
+  },
+  {
+    "line": 159,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "加熱して吸引する加熱式たばこ（heat-not-burn tobacco）です。もう一つは、ニコチンを"
+  },
+  {
+    "line": 160,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "含んだ溶液を加熱吸引する電子たばこ（e-cigarette）です。"
+  },
+  {
+    "line": 161,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "加熱式たばこは、たばこ事業法の下でのたばこ製品の一つです。大手たばこ会社によって製"
+  },
+  {
+    "line": 162,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "品が開発され、わが国において先行発売されたため、急速に流行し始めています。一方、ニコ"
+  },
+  {
+    "line": 163,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "チンを含んだ電子たばこは、英米等の諸外国で流行していますが、わが国においては、医薬品"
+  },
+  {
+    "line": 164,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "医療機器等法の承認を得ずに発売することが禁止されているため、主に個人輸入の形で入手し"
+  },
+  {
+    "line": 165,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "たものが使用されています。ニコチンを含まない電子たばこについては、規制する法律がな"
+  },
+  {
+    "line": 166,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "く、わが国で広く販売されています。"
+  },
+  {
+    "line": 167,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "これらの新型たばこの長期使用に伴う健康影響については、まだ使用が開始されてからの年"
+  },
+  {
+    "line": 168,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "月が短いため、明らかではありません。しかし有害成分の分析結果から、加熱式たばこから発"
+  },
+  {
+    "line": 169,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "生する化学物質の種類は、紙巻たばこと比べほぼ変わらないものの、ニコチン以外の化学物質"
+  },
+  {
+    "line": 170,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "の量は少ないという学会報告eがあります。一方、電子たばこについては、紙巻たばこと比較し"
+  },
+  {
+    "line": 171,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "て、一部の有害成分が多く含まれるとの報告fがありますが、ニコチン以外の化学物質の量はは"
+  },
+  {
+    "line": 172,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "c Royal College of Physicians. Nicotine addiction in Britain. A report of the Tobacco Advisory Group of"
+  },
+  {
+    "line": 173,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "the Royal College of Physicians, London: Royal College of Physicians, 2000."
+  },
+  {
+    "line": 174,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "d 4 Nakamura, M., et al. Efficacy and tolerability of varenicline, an α4β2 nicotinic acetylcholine receptor"
+  },
+  {
+    "line": 175,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "partial agonist, in a 12-week, randomized, placebo-controlled, dose-response study with 40-week"
+  },
+  {
+    "line": 176,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "follow-up for smoking cessation in Japanese smokers. Clin Ther 2007; 29: 1040-1056."
+  },
+  {
+    "line": 177,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "e 稲葉, ほか. 新型タバコの成分分析. 第 26 回日本禁煙推進医師歯科医師連盟学術総会抄録集 2017; 26."
+  },
+  {
+    "line": 178,
+    "pdf_page": 8,
+    "pdf_page_end": 8,
+    "text": "f 太田, ほか. ハイドロキノンと 2,4-ジニトロフェニルヒドラジンを含浸させた二連シリカカートリッジを用いる電子"
+  },
+  {
+    "line": 179,
+    "pdf_page": 8,
+    "pdf_page_end": 9,
+    "text": "タバコから発生するカルボニル化合物の分析. 分析化学 2011; 60: 791-797.9"
+  },
+  {
+    "line": 180,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "るかに少なく、周囲への有害物質の曝露も同様に小さいことが報告ghされています。"
+  },
+  {
+    "line": 181,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "英国公衆衛生庁や英国王立内科学会は、電子たばこの使用は紙巻たばこと比べて約 95%"
+  },
+  {
+    "line": 182,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "害が少なく、紙巻たばこの使用を中止する効果があることから、紙巻たばこをやめたい、ま"
+  },
+  {
+    "line": 183,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "たはその健康影響を減らしたい喫煙者にむけて、禁煙補助薬と並んで積極的な電子たばこ"
+  },
+  {
+    "line": 184,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "の使用を勧めていますij。しかし、加熱式たばこについては、たばこ会社からの報告はある"
+  },
+  {
+    "line": 185,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "ものの、国際的なエビデンスが少なく、電子たばこと同様の効果があるのかどうか明らかで"
+  },
+  {
+    "line": 186,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "はないのが現状です。"
+  },
+  {
+    "line": 187,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "わが国において加熱式たばこを中心に流行している背景には、紙巻たばこに比べて害が"
+  },
+  {
+    "line": 188,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "少なく、周囲への受動喫煙を低減できるという喫煙者の期待があると考えられます。しかし、"
+  },
+  {
+    "line": 189,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "たばこに含まれる有害物質の曝露に安全域がないこと、紙巻たばこと併用した場合には健"
+  },
+  {
+    "line": 190,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "康影響の十分な低減を期待できないことから、新型たばこを単独で使用している場合であ"
+  },
+  {
+    "line": 191,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "っても、それをゴールとするのではなく、最終的にはその使用も中止するよう、情報提供や"
+  },
+  {
+    "line": 192,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "支援を行うことが重要です。"
+  },
+  {
+    "line": 193,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "禁煙治療のための医療機関等の紹介（Refer）"
+  },
+  {
+    "line": 194,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "短時間支援（ABR 方式）の中の R（Refer）にあたる「禁煙治療のための医療機関等の"
+  },
+  {
+    "line": 195,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "紹介」の具体的方法について解説します。"
+  },
+  {
+    "line": 196,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "禁煙に関心がある喫煙者や、短時間の禁煙アドバイスの結果、禁煙の動機が高まった喫煙"
+  },
+  {
+    "line": 197,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "者に対しては、禁煙治療の利用を勧め、禁煙治療が健康保険で受けられる医療機関を紹介し"
+  },
+  {
+    "line": 198,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "ます。禁煙治療を勧める理由は、自力に頼る方法に比べて禁煙を成功する可能性が高いkか"
+  },
+  {
+    "line": 199,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "らです。"
+  },
+  {
+    "line": 200,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "2016 年 4 月から健康保険による禁煙治療の条件が変わり、若年者のニコチン依存症患"
+  },
+  {
+    "line": 201,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "g Goniewicz ML, et al. Levels of selected carcinogens and toxicants in vapour from electronic cigarettes."
+  },
+  {
+    "line": 202,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "Tob Control 2014; 23: 133-139."
+  },
+  {
+    "line": 203,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "h Czogala J, et al. Secondhand exposure to vapors from electronic cigarettes. Nicotine Tob Res 2014;"
+  },
+  {
+    "line": 204,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "16: 655-662."
+  },
+  {
+    "line": 205,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "i McNeill A, et al. E-cigarettes: an evidence update. A report commissioned by Public Health England."
+  },
+  {
+    "line": 206,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "Public Health England, 2015."
+  },
+  {
+    "line": 207,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "j Royal College of Physicians. Nicotine without smoke: Tobacco harm reduction. 2016."
+  },
+  {
+    "line": 208,
+    "pdf_page": 9,
+    "pdf_page_end": 9,
+    "text": "k Kasza KA, et al. Effectiveness of stop-smoking medications: findings from the International Tobacco"
+  },
+  {
+    "line": 209,
+    "pdf_page": 9,
+    "pdf_page_end": 10,
+    "text": "Control (ITC) Four Country Survey. Addiction 2013; 108: 193-202.10"
+  },
+  {
+    "line": 210,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "者にも健康保険が適用されることになりました。具体的な保険適用の条件lは、１）35 歳以"
+  },
+  {
+    "line": 211,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "上の者については、1 日喫煙本数×喫煙年数が 200 以上であること、２）いますぐに禁煙"
+  },
+  {
+    "line": 212,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "したいと考えており、禁煙治療を受けることを文書により同意していること、３）ニコチン"
+  },
+  {
+    "line": 213,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "依存症のスクリーニングテスト（TDS）mでニコチン依存症と診断された者であること、で"
+  },
+  {
+    "line": 214,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "す。"
+  },
+  {
+    "line": 215,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "条件を満たさない場合や医療機関を受診する時間が取れない場合は、禁煙後の離脱症状"
+  },
+  {
+    "line": 216,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "を軽くするために、薬局・薬店で OTC 薬nのニコチンパッチやニコチンガムを購入して禁"
+  },
+  {
+    "line": 217,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "煙する方法を紹介しましょう。ニコチンパッチの OTC 薬は医療用医薬品のニコチンパッチ"
+  },
+  {
+    "line": 218,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "と比べて有効成分が高用量の剤形がないため、ニコチンの補充が不十分となる場合があり"
+  },
+  {
+    "line": 219,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "ます。OTC 薬で禁煙できなければ医療機関での禁煙治療を勧めます。また、健康保険を利"
+  },
+  {
+    "line": 220,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "用できる条件を満たさない場合でも、自由診療で禁煙治療を受けることができることを伝"
+  },
+  {
+    "line": 221,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "えましょう。特に喫煙本数が多く、OTC 薬では離脱症状が十分抑えられないヘビースモー"
+  },
+  {
+    "line": 222,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "カー、精神疾患など、医学的管理の必要性が高い合併症を有する喫煙患者に対しては、医療"
+  },
+  {
+    "line": 223,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "機関での治療につなげるように支援しましょう。"
+  },
+  {
+    "line": 224,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "禁煙治療が健康保険で受けられる医療機関は、日本禁煙学会のホームページから検索す"
+  },
+  {
+    "line": 225,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "ることができます。近隣の医療機関のリストを準備し、喫煙者に渡せるようにしておきまし"
+  },
+  {
+    "line": 226,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "ょう。"
+  },
+  {
+    "line": 227,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "● 健康保険で禁煙治療が受けられる医療機関の検索サイト"
+  },
+  {
+    "line": 228,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "日本禁煙学会"
+  },
+  {
+    "line": 229,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "http://www.nosmoke55.jp/nicotine/clinic.html"
+  },
+  {
+    "line": 230,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "l 平成 30 年 2 月末現在。"
+  },
+  {
+    "line": 231,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "m Tobacco Dependence Screener の略。精神医学的な見地からニコチン依存症を診断することを目的として開発"
+  },
+  {
+    "line": 232,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "された指標で、ニコチン依存症治療の保険適用の対象患者を抽出するために用いられている。"
+  },
+  {
+    "line": 233,
+    "pdf_page": 10,
+    "pdf_page_end": 10,
+    "text": "n Over the counter の略で、一般用医薬品のこと。薬局・薬店・ドラッグストアで処方箋を必要とせず、市販され"
+  },
+  {
+    "line": 234,
+    "pdf_page": 10,
+    "pdf_page_end": 11,
+    "text": "ている医薬品。11"
+  },
+  {
+    "line": 235,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "4. 禁煙支援の実際－標準的支援（ABC 方式）"
+  },
+  {
+    "line": 236,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "標準的支援（ABC 方式）の A（Ask：喫煙状況の把握）、B（Brief advice：短時間の禁"
+  },
+  {
+    "line": 237,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "煙アドバイス）、C（Cessation support）について解説します。"
+  },
+  {
+    "line": 238,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "B（Brief advice：短時間の禁煙アドバイス）は、前述した短時間支援（ABR 方式）と同"
+  },
+  {
+    "line": 239,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "様です。ここでは、A（Ask：喫煙状況の把握）と C（Cessation support）にあたる「禁"
+  },
+  {
+    "line": 240,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "煙実行・継続の支援」の具体的方法について解説します。"
+  },
+  {
+    "line": 241,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "喫煙状況の把握（Ask）"
+  },
+  {
+    "line": 242,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "まず、標準的支援（ABC 方式）の A（Ask）にあたる「喫煙状況の把握」の具体的方法"
+  },
+  {
+    "line": 243,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "について解説します。質問票を用いて喫煙状況や健康保険による禁煙治療の患者要件を満"
+  },
+  {
+    "line": 244,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "たしているかどうかを確認します。質問票を表２に示します。"
+  },
+  {
+    "line": 245,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "● Q1：喫煙者の把握"
+  },
+  {
+    "line": 246,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "喫煙者を特定するための質問項目です。"
+  },
+  {
+    "line": 247,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "「喫煙している」と回答した全ての人に次のステップで示す短時間の禁煙アドバ"
+  },
+  {
+    "line": 248,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "イスを行いましょう。また、禁煙していると回答した人には、禁煙していることを賞"
+  },
+  {
+    "line": 249,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "賛し、禁煙を継続するよう伝えましょう。なお、禁煙して 1 年以内の人に対しては、"
+  },
+  {
+    "line": 250,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "再喫煙防止のためのフォローアップを行いましょう。"
+  },
+  {
+    "line": 251,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "● Q2,3：受動喫煙の曝露状況の把握"
+  },
+  {
+    "line": 252,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "受動喫煙に関する曝露状況を調べるための質問項目です。職場や家庭におけるた"
+  },
+  {
+    "line": 253,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "ばこの煙の曝露状況を把握します。前述の「２．受動喫煙に関する情報提供」を参考"
+  },
+  {
+    "line": 254,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "に受診者全員に受動喫煙に関する情報提供を行いましょう。"
+  },
+  {
+    "line": 255,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "● Q4,5,7,8：健康保険による禁煙治療の受診条件の確認"
+  },
+  {
+    "line": 256,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "健康保険による禁煙治療の要件を満たしていることを確認します。"
+  },
+  {
+    "line": 257,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "① 35 歳以上の者については、1 日喫煙本数 × 喫煙年数が 200 以上であること"
+  },
+  {
+    "line": 258,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "② いますぐに禁煙したいと考えており、禁煙治療を受けることを文書により同意し"
+  },
+  {
+    "line": 259,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "ていること"
+  },
+  {
+    "line": 260,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "③ ニコチン依存症のスクリーニングテスト（TDS）でニコチン依存症と診断された"
+  },
+  {
+    "line": 261,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "者であること"
+  },
+  {
+    "line": 262,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "条件①は、Q4 と Q5 の回答結果から計算します。たとえば、喫煙本数が 1 日 10"
+  },
+  {
+    "line": 263,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "本で 30 年間喫煙している人は、10×30＝300 となり、200 を超えているので条"
+  },
+  {
+    "line": 264,
+    "pdf_page": 11,
+    "pdf_page_end": 11,
+    "text": "件を満たしていることになります。ただし、35 歳未満の喫煙者には、この条件は適"
+  },
+  {
+    "line": 265,
+    "pdf_page": 11,
+    "pdf_page_end": 12,
+    "text": "用されません。12"
+  },
+  {
+    "line": 266,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "条件②は、Q7 の喫煙のステージに関する質問の回答結果から確認します。Q7 の"
+  },
+  {
+    "line": 267,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "「直ちに（1 ヵ月以内に）禁煙しようと考えている」に回答していること（準備期の"
+  },
+  {
+    "line": 268,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "喫煙者）が条件になります。"
+  },
+  {
+    "line": 269,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "条件③は、Q8 の 10 項目の質問のうち、「はい」と回答した項目が 5 項目以上あ"
+  },
+  {
+    "line": 270,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "れば、ニコチン依存症と診断されるための条件を満たしていることになります。"
+  },
+  {
+    "line": 271,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "● Q4,6：ニコチン依存度の把握"
+  },
+  {
+    "line": 272,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "１日の喫煙本数と朝目覚めてから最初の 1 本を吸うまでの時間は、唾液中のコチ"
+  },
+  {
+    "line": 273,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ニン濃度や呼気中の一酸化炭素濃度との相関が強くo、これら 2 項目でニコチン依存"
+  },
+  {
+    "line": 274,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "度を簡易に判定することができます。また、これら 2 項目は、禁煙試行後の少なく"
+  },
+  {
+    "line": 275,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "とも1カ月間以上の禁煙継続率を予測する独立した要因pであることが報告されてい"
+  },
+  {
+    "line": 276,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ます。1 日喫煙本数が多いほど、また朝目覚めてから最初のたばこを吸う時間が短い"
+  },
+  {
+    "line": 277,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ほど、ニコチン依存度が高いと判定され o、禁煙外来への誘導を行う上で参考となり"
+  },
+  {
+    "line": 278,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "ます。ニコチン依存度が高いと判断する目安 o として、1 日喫煙本数が 21 本以上"
+  },
+  {
+    "line": 279,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "（特に 31 本以上）、朝目覚めてから最初の 1 本を吸うまでの時間が 30 分以内（特"
+  },
+  {
+    "line": 280,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "に 5 分以内）があげられます。"
+  },
+  {
+    "line": 281,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "● Q9：禁煙経験の把握"
+  },
+  {
+    "line": 282,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "禁煙経験の有無とこれまで最も長い禁煙期間を把握します。禁煙経験がある人に"
+  },
+  {
+    "line": 283,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "は、過去に用いた禁煙方法や出現した離脱症状の強さ、再喫煙のきっかけなどについ"
+  },
+  {
+    "line": 284,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "て確認しておきましょう。今回の禁煙支援に役立つ情報を得ることができます。"
+  },
+  {
+    "line": 285,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "● Q10：禁煙に対する自信"
+  },
+  {
+    "line": 286,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "禁煙に対する自信を０％から１００%の数値で把握します。「全く自信がない」を０%"
+  },
+  {
+    "line": 287,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "とし、「非常に自信がある」を１００%とした場合の自信の程度を明らかにします。禁"
+  },
+  {
+    "line": 288,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "煙の自信が低い人には、禁煙治療や禁煙補助薬についての情報提供のほか、後述する問"
+  },
+  {
+    "line": 289,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "題解決カウンセリングにより禁煙の自信を高めます。"
+  },
+  {
+    "line": 290,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": ""
+  },
+  {
+    "line": 291,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "o Heatherton TF, et al. Measuring the heaviness of smoking: using self-reported time to the first cigarette"
+  },
+  {
+    "line": 292,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "of the day and number of cigarettes smoked per day. Br J Addict 1989; 84: 791-799."
+  },
+  {
+    "line": 293,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "p Borland R, et al. The reliability and predictive validity of the Heaviness of Smoking Index and its two"
+  },
+  {
+    "line": 294,
+    "pdf_page": 12,
+    "pdf_page_end": 12,
+    "text": "components: findings from the International Tobacco Control Four Country study. Nicotine Tob Res"
+  },
+  {
+    "line": 295,
+    "pdf_page": 12,
+    "pdf_page_end": 13,
+    "text": "2010; 12: S45-50.13"
+  },
+  {
+    "line": 296,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "表 2．喫煙・受動喫煙に関する質問票"
+  },
+  {
+    "line": 297,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "喫煙・受動喫煙に関する質問票"
+  },
+  {
+    "line": 298,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "Q1.現在、たばこ（加熱式たばこ、電子たばこを含む）を習慣的に吸っていますか？"
+  },
+  {
+    "line": 299,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "「現在、習慣的に喫煙している者」とは、「これまでに合計 100 本以上、または 6 ヵ月以上吸っている者」で"
+  },
+  {
+    "line": 300,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "あり、最近 1 ヵ月間も吸っている者"
+  },
+  {
+    "line": 301,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "□吸う □やめた（ 年前/ ヵ月前） □もともと吸わない"
+  },
+  {
+    "line": 302,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": ""
+  },
+  {
+    "line": 303,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "Q2.職場において、この 1 ヵ月間に、自分以外の人が吸っていたたばこの煙を吸う機会がありましたか？"
+  },
+  {
+    "line": 304,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "□ほぼ毎日 □週に数回程度 □週に 1 回程度 □月に 1 回程度 □全くなかった □行かなかった"
+  },
+  {
+    "line": 305,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": ""
+  },
+  {
+    "line": 306,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "Q3.家庭において、この 1 ヵ月間に、自分以外の人が吸っていたたばこの煙を吸う機会がありましたか？"
+  },
+  {
+    "line": 307,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "□ほぼ毎日 □週に数回程度 □週に 1 回程度 □月に 1 回程度 □全くなかった"
+  },
+  {
+    "line": 308,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": ""
+  },
+  {
+    "line": 309,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "以下の質問は、吸うと回答した人のみお答え下さい。"
+  },
+  {
+    "line": 310,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": ""
+  },
+  {
+    "line": 311,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "Q4.1 日に平均して何本たばこを吸いますか？ 1 日（ ）本"
+  },
+  {
+    "line": 312,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": ""
+  },
+  {
+    "line": 313,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "Q5.習慣的にたばこを吸うようになってから何年間たばこを吸っていますか？（ ）年間"
+  },
+  {
+    "line": 314,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": ""
+  },
+  {
+    "line": 315,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "Q6.朝、目が覚めてからどのくらいの時間で最初のたばこを吸いますか？"
+  },
+  {
+    "line": 316,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "□5 分以下 □6～30 分 □31～60 分 □61 分以上"
+  },
+  {
+    "line": 317,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": ""
+  },
+  {
+    "line": 318,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "Q7.あなたは禁煙することにどのくらい関心がありますか？"
+  },
+  {
+    "line": 319,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "□関心がない"
+  },
+  {
+    "line": 320,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "□関心はあるが、今後 6 ヵ月以内に禁煙しようとは考えていない"
+  },
+  {
+    "line": 321,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "□今後 6 ヵ月以内に禁煙しようと考えているが、直ちに(1 ヵ月以内に)禁煙する考えはない"
+  },
+  {
+    "line": 322,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "□直ちに(1 ヵ月以内に)禁煙しようと考えている"
+  },
+  {
+    "line": 323,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "Q8.下記の質問を読んであてはまる項目に✓を入れてください。該当しない項目は「いいえ」とお答"
+  },
+  {
+    "line": 324,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "え下さい。"
+  },
+  {
+    "line": 325,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "設問内容"
+  },
+  {
+    "line": 326,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "はい"
+  },
+  {
+    "line": 327,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "1 点"
+  },
+  {
+    "line": 328,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "いいえ"
+  },
+  {
+    "line": 329,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "0 点"
+  },
+  {
+    "line": 330,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "問1. 自分が吸うつもりよりも、ずっと多くたばこを吸ってしまうことがありましたか。"
+  },
+  {
+    "line": 331,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "問2. 禁煙や本数を減らそうと試みて、できなかったことがありましたか。"
+  },
+  {
+    "line": 332,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "問3. 禁煙したり本数を減らそうとしたときに、たばこがほしくてほしくてたまらなくなることがあり"
+  },
+  {
+    "line": 333,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "ましたか。"
+  },
+  {
+    "line": 334,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "問4. 禁煙したり本数を減らしたときに、次のどれかがありましたか。（イライラ、神経質、落ちつか"
+  },
+  {
+    "line": 335,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "ない、集中しにくい、ゆううつ、頭痛、眠気、胃のむかつき、脈が遅い、手のふるえ、食欲また"
+  },
+  {
+    "line": 336,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "は体重増加）"
+  },
+  {
+    "line": 337,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "問5. 問 4 でうかがった症状を消すために、またたばこを吸い始めることがありましたか。"
+  },
+  {
+    "line": 338,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "問6. 重い病気にかかったときに、たばこはよくないとわかっているのに吸うことがありましたか。"
+  },
+  {
+    "line": 339,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "問7. たばこのために自分に健康問題が起きているとわかっていても、吸うことがありましたか。"
+  },
+  {
+    "line": 340,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "問8. たばこのために自分に精神的問題（注）が起きているとわかっていても、吸うことがありましたか。"
+  },
+  {
+    "line": 341,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "問9. 自分はたばこに依存していると感じることがありましたか。"
+  },
+  {
+    "line": 342,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "問10. たばこが吸えないような仕事やつきあいを避けることが何度かありましたか。"
+  },
+  {
+    "line": 343,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "（注）禁煙や本数を減らした時に出現する離脱症状（いわゆる禁断症状）ではなく、喫煙することによって神経質にな"
+  },
+  {
+    "line": 344,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "ったり、不安や抑うつなどの症状が出現している状態。 合 計"
+  },
+  {
+    "line": 345,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": ""
+  },
+  {
+    "line": 346,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "Q9.今までたばこをやめたことがありますか？"
+  },
+  {
+    "line": 347,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "□はい （ 回、最長 年間／ ヵ月 日間） □なし"
+  },
+  {
+    "line": 348,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": ""
+  },
+  {
+    "line": 349,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "Q10.たばこをやめることについてどの程度自信をもっていますか？「全く自信がない」を 0%、「大い"
+  },
+  {
+    "line": 350,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": "に自信がある」を 100%として、0～100%の間であてはまる数字をお書きください。 （ ）%"
+  },
+  {
+    "line": 351,
+    "pdf_page": 13,
+    "pdf_page_end": 13,
+    "text": ""
+  },
+  {
+    "line": 352,
+    "pdf_page": 13,
+    "pdf_page_end": 14,
+    "text": "氏 名 年齢（ ） 記入日 年 月 日 14"
+  },
+  {
+    "line": 353,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "禁煙実行・継続の支援（Cessation support）"
+  },
+  {
+    "line": 354,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "禁煙実行・継続の支援（Cessation support）は、(1)初回の個別面接と(2)電話によるフ"
+  },
+  {
+    "line": 355,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "ォローアップの２つから成ります。対象となる喫煙者は、質問票で直ちに（1 ヵ月以内に）"
+  },
+  {
+    "line": 356,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "禁煙しようと考えていると答えた喫煙者や、短時間の禁煙アドバイスの結果、禁煙の動機が"
+  },
+  {
+    "line": 357,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "高まった喫煙者です。目安として 10 分程度の時間をかけて面接を行い、禁煙に踏み出せる"
+  },
+  {
+    "line": 358,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "ように支援します。面接の結果、禁煙開始日を設定した喫煙者には、禁煙の実行の確認と継"
+  },
+  {
+    "line": 359,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "続の支援を行うために、(2)電話によるフォローアップを行いましょう。"
+  },
+  {
+    "line": 360,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "（１）初回の個別面接"
+  },
+  {
+    "line": 361,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "初回の個別面接では、①禁煙開始日の設定、②禁煙実行のための問題解決カウンセリング、"
+  },
+  {
+    "line": 362,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "③禁煙治療のための医療機関等の紹介、を行います。"
+  },
+  {
+    "line": 363,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "① 禁煙開始日の設定"
+  },
+  {
+    "line": 364,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "禁煙を開始する日は、喫煙者と話しあって具体的に決めます。禁煙開始日が決ま"
+  },
+  {
+    "line": 365,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "ったら、それまでに禁煙治療を利用するように伝えましょう。時間があれば禁煙宣"
+  },
+  {
+    "line": 366,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "言書を喫煙者と保健指導実施者の間で取り交わしておくと、本人の禁煙の決意を固"
+  },
+  {
+    "line": 367,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "めたり、保健指導実施者としてフォローアップを行う上で有用です。"
+  },
+  {
+    "line": 368,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "初回面接で禁煙開始日を設定した人には、6 ヵ月間にわたり計 4 回のフォローア"
+  },
+  {
+    "line": 369,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "ップを行います。フォローアップは、原則電話で行います。フォローアップの電話"
+  },
+  {
+    "line": 370,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "が通じやすい連絡先（携帯があれば携帯電話の番号）を確認し、電話に出やすい時"
+  },
+  {
+    "line": 371,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "間帯を把握しておきましょう。"
+  },
+  {
+    "line": 372,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "② 禁煙実行のための問題解決カウンセリング"
+  },
+  {
+    "line": 373,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "禁煙実行のための問題解決カウンセリングの内容は、禁煙に当たって喫煙者が不"
+  },
+  {
+    "line": 374,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "安に思っていることや心配していることを聞き出し、その解決策を喫煙者が保健指"
+  },
+  {
+    "line": 375,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "導実施者と共に考えることです。"
+  },
+  {
+    "line": 376,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "仕事をしている喫煙者では「禁煙するとイライラして仕事が手につかなくなるの"
+  },
+  {
+    "line": 377,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "では」とか、「禁煙しても仕事の付き合いでお酒を飲む機会が多いのですぐに吸って"
+  },
+  {
+    "line": 378,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "しまうのではないか」といった心配をする場合があります。その場合、本人が心配"
+  },
+  {
+    "line": 379,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "していることを受けとめ、イライラなどの禁煙後の離脱症状は概ね 2～4 週間で治"
+  },
+  {
+    "line": 380,
+    "pdf_page": 14,
+    "pdf_page_end": 14,
+    "text": "まること、禁煙補助薬を使えば離脱症状が軽減できることを伝えます。また、禁煙"
+  },
+  {
+    "line": 381,
+    "pdf_page": 14,
+    "pdf_page_end": 15,
+    "text": "してしばらくの間は、お酒を飲みに行くことを控えたり、外でお酒を飲む場合は、15"
+  },
+  {
+    "line": 382,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "できるだけたばこを吸わない人の隣の席に座る、周囲に禁煙宣言をするなど具体的"
+  },
+  {
+    "line": 383,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "な対処法を本人と話しあって決めておきましょう。"
+  },
+  {
+    "line": 384,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": ""
+  },
+  {
+    "line": 385,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "③ 禁煙治療のための医療機関等の紹介"
+  },
+  {
+    "line": 386,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "禁煙に関心がある喫煙者や、短時間の禁煙アドバイスの結果、禁煙の動機が高ま"
+  },
+  {
+    "line": 387,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "った喫煙者に対しては、禁煙治療の利用を勧め、禁煙治療が健康保険で受けられる"
+  },
+  {
+    "line": 388,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "医療機関を紹介します。詳細は、「禁煙治療のための医療機関等の紹介（Refer）」の"
+  },
+  {
+    "line": 389,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "項目を参照してください。特に「喫煙・受動喫煙に関する質問票」の Q4 と Q6 の"
+  },
+  {
+    "line": 390,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "回答結果から、ニコチン依存度が高いと判定された喫煙者には、禁煙治療を勧めま"
+  },
+  {
+    "line": 391,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "しょう。詳しくは「Q4,6：ニコチン依存度の把握」を参照してください。"
+  },
+  {
+    "line": 392,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "（２）電話によるフォローアップ"
+  },
+  {
+    "line": 393,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "初回の個別面接で禁煙開始日を設定した喫煙者には、禁煙が継続できるように電話によ"
+  },
+  {
+    "line": 394,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "るフォローアップを行います。電話によるフォローアップの時期の目安は、初回面接日から"
+  },
+  {
+    "line": 395,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "2 週間後、1 ヵ月後、2 ヵ月後、6 ヵ月後の計 4 回です。フォローアップに要する時間は、"
+  },
+  {
+    "line": 396,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "5 分程度です。"
+  },
+  {
+    "line": 397,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "電話によるフォローアップの内容や時間については、OTC 薬を使って禁煙している場合"
+  },
+  {
+    "line": 398,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "や自力で禁煙している場合は、カウンセリングを十分受けていないことが多いため、少し時"
+  },
+  {
+    "line": 399,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "間をかけて行います。一方、禁煙治療を利用している喫煙者は、医療機関で禁煙のためのカ"
+  },
+  {
+    "line": 400,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "ウンセリングやアドバイスを受けているため、特に問題がなければ禁煙の経過を確認し、禁"
+  },
+  {
+    "line": 401,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "煙が継続していることを賞賛したり、励ましたりする程度の内容となり、あまり時間をかけ"
+  },
+  {
+    "line": 402,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "ずにフォローアップを行うことができます。"
+  },
+  {
+    "line": 403,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "フォローアップの主な内容は、①喫煙状況とその後の経過の確認、②禁煙継続のための問"
+  },
+  {
+    "line": 404,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "題解決カウンセリングです。"
+  },
+  {
+    "line": 405,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": ""
+  },
+  {
+    "line": 406,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "① 喫煙状況とその後の経過の確認"
+  },
+  {
+    "line": 407,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "フォローアップではまず喫煙状況とその後の経過の確認を行います。初回の個別"
+  },
+  {
+    "line": 408,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "面接から 2 週間後にあたる 1 回目のフォローアップでは、本人が選択した禁煙の方"
+  },
+  {
+    "line": 409,
+    "pdf_page": 15,
+    "pdf_page_end": 15,
+    "text": "法と禁煙開始日を確認しておきます。禁煙治療を利用した場合は、禁煙ができると"
+  },
+  {
+    "line": 410,
+    "pdf_page": 15,
+    "pdf_page_end": 16,
+    "text": "自己判断で禁煙治療を中断してしまうこともあるので、12 週間の治療を完了した16"
+  },
+  {
+    "line": 411,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "方が禁煙成功率が高いことqを伝え、禁煙治療を完了するようにアドバイスします。"
+  },
+  {
+    "line": 412,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "OTC 薬を使っている場合には、離脱症状を十分に抑えられているかどうかを確"
+  },
+  {
+    "line": 413,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "認します。ニコチンガムは噛み方が間違っていると効果が低下するので、ニコチン"
+  },
+  {
+    "line": 414,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "ガムを使っていても効果を実感できていない場合には、まずは噛み方の確認と指導"
+  },
+  {
+    "line": 415,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "を行うことが重要です。喫煙本数が多い喫煙者の場合には、OTC 薬では離脱症状が"
+  },
+  {
+    "line": 416,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "十分に抑えられない可能性があります。その場合は、禁煙治療を受けるようにアド"
+  },
+  {
+    "line": 417,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "バイスします。"
+  },
+  {
+    "line": 418,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "禁煙ができている場合には「よくがんばりましたね」と禁煙に踏み出せたことや"
+  },
+  {
+    "line": 419,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "禁煙できていることについて賞賛します。この言葉は、喫煙者にとって何よりの励"
+  },
+  {
+    "line": 420,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "みとなります。"
+  },
+  {
+    "line": 421,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "禁煙して 1 ヵ月が経過すると禁煙がある程度安定してきますが、吸いたい気持ち"
+  },
+  {
+    "line": 422,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "はまだしばらく残ります。アルコール、過労や仕事上のストレス、気分の落ち込み"
+  },
+  {
+    "line": 423,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "など、ちょっとしたきっかけで喫煙は再開しやすいので、注意するように声をかけ"
+  },
+  {
+    "line": 424,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "ましょう。"
+  },
+  {
+    "line": 425,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "2 回目以降の電話でのフォローアップでは、本人が実感する禁煙の効果について"
+  },
+  {
+    "line": 426,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "聞き出しておきましょう。身体面の効果だけでなく、精神面や日常生活面において"
+  },
+  {
+    "line": 427,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "も禁煙の効果を確認し、禁煙継続の励みにしてもらいましょう。"
+  },
+  {
+    "line": 428,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "② 禁煙継続のための問題解決カウンセリング"
+  },
+  {
+    "line": 429,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "禁煙継続にあたって心配していることや不安に思っている点を聞き出し、禁煙が"
+  },
+  {
+    "line": 430,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "継続できるよう支援します。たとえば、禁煙してそれほど時間がたっていない人で"
+  },
+  {
+    "line": 431,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "は「たばこが吸いたいので、吸ってしまうのではないか」と心配することがありま"
+  },
+  {
+    "line": 432,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "す。まず、本人が心配していることを受けとめます。次に、離脱症状が改善しても"
+  },
+  {
+    "line": 433,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "吸いたい気持ちはしばらく残ること、しかし時間の経過とともに吸いたい気持ちが"
+  },
+  {
+    "line": 434,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "治まっていくことを伝えます。たばこを吸いたくなったら、深呼吸をしたり、水を"
+  },
+  {
+    "line": 435,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "飲んだりするなどの対処法を身につけることが有用であると伝え、禁煙を続ける自"
+  },
+  {
+    "line": 436,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "q 厚生労働省中央社会保険医療協議会総会: 診療報酬改定結果検証に係る特別調査（平成"
+  },
+  {
+    "line": 437,
+    "pdf_page": 16,
+    "pdf_page_end": 16,
+    "text": "21 年度調査）ニコチン依存症管理料算定保険医療機関における禁煙成功率の実態調査報"
+  },
+  {
+    "line": 438,
+    "pdf_page": 16,
+    "pdf_page_end": 17,
+    "text": "告書．平成 22 年 6 月 2 日17"
+  },
+  {
+    "line": 439,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "信が高まるよう話し合いを行います。禁煙できた日が増えていくにつれて、禁煙の"
+  },
+  {
+    "line": 440,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "自信は高まっていきます。「今日 1 日禁煙しよう」という気持ちで禁煙を続けるよ"
+  },
+  {
+    "line": 441,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "う支援しましょう。"
+  },
+  {
+    "line": 442,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "禁煙を継続できている場合は、禁煙後の体重増加の有無を確認しておきます。禁"
+  },
+  {
+    "line": 443,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "煙後の体重増加は、禁煙した人の約８割に見られますが、平均 2～3kg 程度rといわ"
+  },
+  {
+    "line": 444,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "れています。喫煙本数が多い人ほど体重が加しやすいといわれています。体重をで"
+  },
+  {
+    "line": 445,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "きるだけ増やしたくない場合は、禁煙補助薬の使用と、禁煙後比較的早い時期から"
+  },
+  {
+    "line": 446,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "運動に取り組むのがよいでしょう。運動としては、中等度の強度の運動（速歩、ジ"
+  },
+  {
+    "line": 447,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "ョギング、水泳など）sがお勧めです。食事については、禁煙直後からの過度な食事"
+  },
+  {
+    "line": 448,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "制限は、喫煙欲求を高める可能性があるｓので、禁煙が安定するのを待ちましょう。"
+  },
+  {
+    "line": 449,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "禁煙が安定してきたら、食生活の改善として、食べ過ぎを改善する、肉類や油料理"
+  },
+  {
+    "line": 450,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "などの高エネルギーの食事や間食を減らして、代わりに野菜や果物を増やす、飲酒"
+  },
+  {
+    "line": 451,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "量を減らすことなどを勧めましょう。"
+  },
+  {
+    "line": 452,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "＜禁煙に踏み出せなかった場合や再喫煙した場合の対応＞"
+  },
+  {
+    "line": 453,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "電話でのフォローアップで注意すべきことは、禁煙に踏み出せなかった場合や再喫"
+  },
+  {
+    "line": 454,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "煙した場合の対応です。禁煙に踏み出せなかった場合には、その理由を聞き出し、話し"
+  },
+  {
+    "line": 455,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "合いましょう。できれば再度禁煙開始日を設定して禁煙に踏み出せるように支援しま"
+  },
+  {
+    "line": 456,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "しょう。禁煙の自信が低い喫煙者には、禁煙治療を勧めましょう。"
+  },
+  {
+    "line": 457,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "一旦禁煙したが再びたばこを吸い始めた喫煙者に対しては、再喫煙のきっかけや禁"
+  },
+  {
+    "line": 458,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "煙の問題点を明らかにし、再挑戦を勧めるようにしましょう。喫煙を再開した者では、"
+  },
+  {
+    "line": 459,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "喫煙を再開したこと自体を問題にしてくじけたり、自己嫌悪に陥ったりする場合があ"
+  },
+  {
+    "line": 460,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "ります。禁煙した人が再喫煙することはよくあることであり、もう一度チャレンジする"
+  },
+  {
+    "line": 461,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "気持ちが重要であることを伝えましょう。"
+  },
+  {
+    "line": 462,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "r U.S. Department of Health and Human Services. The Health Benefits of Smoking Cessation: A Report"
+  },
+  {
+    "line": 463,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "of the Surgeon General. Atlanta: U.S. Department of Health and Human Services, Centers for Disease"
+  },
+  {
+    "line": 464,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Office"
+  },
+  {
+    "line": 465,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "on Smoking and Health, 1990."
+  },
+  {
+    "line": 466,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "s Fiore MC, et al. Treating tobacco use and dependence: 2008 update. Clinical Practice Guideline."
+  },
+  {
+    "line": 467,
+    "pdf_page": 17,
+    "pdf_page_end": 17,
+    "text": "Rockville: US Department ofHealth and Human Services. Public Health Service, 2008."
+  }
+]

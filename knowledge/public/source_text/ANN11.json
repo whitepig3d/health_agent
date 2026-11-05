@@ -1,0 +1,2090 @@
+[
+  {
+    "line": 0,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（特－様式第1号）"
+  },
+  {
+    "line": 1,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "特　定　健　診　・　特　定　保　健　指　導　機　関　届（保険医療機関）"
+  },
+  {
+    "line": 2,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "特定健診・特定保健指導機関として、下記のとおり届けます。"
+  },
+  {
+    "line": 3,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "令和 年 月 日"
+  },
+  {
+    "line": 4,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "住　所"
+  },
+  {
+    "line": 5,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "社会保険診療報酬支払基金　　　　　審査委員会事務局　御中 届出者"
+  },
+  {
+    "line": 6,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "氏　名"
+  },
+  {
+    "line": 7,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": " 国立病院・国立療養所・官公立・その他の公的"
+  },
+  {
+    "line": 8,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": " 大学病院(国立・公立・私立)"
+  },
+  {
+    "line": 9,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": " 独立行政法人国立病院機構"
+  },
+  {
+    "line": 10,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": " 医療法人 ・社会福祉法人・その他の法人・個人"
+  },
+  {
+    "line": 11,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "※１　本届の内容のうち、①から⑤の事項については支払基金のホームページ上で公開いたします。 Ａ４（210×297）"
+  },
+  {
+    "line": 12,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "　２　本届の内容のうち、個人情報に該当する事項については、社会保険診療報酬支払基金の業務に用いるものであり、個人情報保護法第18条第3項に定める場合のほか、"
+  },
+  {
+    "line": 13,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "　　本人の同意なくして他の利用目的に使用することはありません。"
+  },
+  {
+    "line": 14,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "　３　本届においてJIS第一、二水準以外の文字で記入されている場合は、JIS第一、二水準に置き換えて登録を行いホームページ上に公開いたします。"
+  },
+  {
+    "line": 15,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "　４　「⑪請求形態」欄のオンラインを選択された場合は、別途「電子情報処理組織の使用に関する届出」及び「電子証明書発行依頼書」の提出が必要となります。"
+  },
+  {
+    "line": 16,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 17,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "/"
+  },
+  {
+    "line": 18,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "令和 年 請 求 形 態"
+  },
+  {
+    "line": 19,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "（備考）"
+  },
+  {
+    "line": 20,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "日 ⑪"
+  },
+  {
+    "line": 21,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "口 座 名 義 人 ｶﾀｶﾅ"
+  },
+  {
+    "line": 22,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "⑩ 請 求 開 始 年 月 日 月"
+  },
+  {
+    "line": 23,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "⑨ 銀行 支店 当 座 ・ 普 通"
+  },
+  {
+    "line": 24,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "振 込 銀 行"
+  },
+  {
+    "line": 25,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ﾌﾘｶﾞﾅ 銀行コード ﾌﾘｶﾞﾅ 支店コード 科　目"
+  },
+  {
+    "line": 26,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "⑧ 受 領 者 名"
+  },
+  {
+    "line": 27,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ﾌﾘｶﾞﾅ 登"
+  },
+  {
+    "line": 28,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "録"
+  },
+  {
+    "line": 29,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "口 座 番 号"
+  },
+  {
+    "line": 30,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "確"
+  },
+  {
+    "line": 31,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "認"
+  },
+  {
+    "line": 32,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "＊ 受付印 ⑦ 請 求 者 名"
+  },
+  {
+    "line": 33,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ﾌﾘｶﾞﾅ ＊ 整理印"
+  },
+  {
+    "line": 34,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": " ⑦以降は、特定健診・特定保健指導の費用を支払基金に請求予定がある場合に記載してください。なお、他の代行機関へ費用を請求する予定がある場合は、それぞれの"
+  },
+  {
+    "line": 35,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "代行機関への届出が必要となります。"
+  },
+  {
+    "line": 36,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": " また、⑨については下記の□に✔を記入し「イ」の場合のみ⑨に記載願います。"
+  },
+  {
+    "line": 37,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "　　　ア　診療報酬と同一の口座に振込を希望する。"
+  },
+  {
+    "line": 38,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "　　　イ　下記口座に振込を希望する。"
+  },
+  {
+    "line": 39,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "⑥ 開 設 者 名"
+  },
+  {
+    "line": 40,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 41,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "⑤ 経 営 主 体 病 院 診 療 所"
+  },
+  {
+    "line": 42,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": " 官公立・その他の公的・医療法人"
+  },
+  {
+    "line": 43,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": " 社会福祉法人・その他の法人・個人"
+  },
+  {
+    "line": 44,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "④ ホームページアドレス"
+  },
+  {
+    "line": 45,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "h t t p s : /"
+  },
+  {
+    "line": 46,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 47,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "電話番号 ― ―"
+  },
+  {
+    "line": 48,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "③ 所 在 地"
+  },
+  {
+    "line": 49,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "郵便番号 ―"
+  },
+  {
+    "line": 50,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 51,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "① 特 定 健 診 ・ 特 定 保 健 指 導 機 関 コ ー ド"
+  },
+  {
+    "line": 52,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "② 名 称"
+  },
+  {
+    "line": 53,
+    "pdf_page": 1,
+    "pdf_page_end": 1,
+    "text": "機 関 の 種 別 ア 特定健診機関 イ 特定保健指導機関"
+  },
+  {
+    "line": 54,
+    "pdf_page": 1,
+    "pdf_page_end": 2,
+    "text": "ア 電子媒体（CD-R） イ 電子媒体（FD） ウ 電子媒体（MO） エ オンライン作　成　要　領"
+  },
+  {
+    "line": 55,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　１　本届出は、届出者が法人の場合は代表者から、その他の場合は開設者から、特定健診・特定保健指導機関の所在する審査委員会事務局へ届け出てください。"
+  },
+  {
+    "line": 56,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　２　「特定健診・特定保健指導機関コード」欄は、左から機関所在地の都道府県コード（別表「都道府県コード表」参照）を２桁、その後に「１」を記載後、"
+  },
+  {
+    "line": 57,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　　医療機関コードを記入してください。（都道府県コード（2桁）＋「１」（1桁）＋医療機関コード（7桁））"
+  },
+  {
+    "line": 58,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　３　「機関の種別」欄は、該当する項目の□に✔を記入してください。両方に該当する場合は、両方の□に✔を記入してください。"
+  },
+  {
+    "line": 59,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　４　「名称」欄は正式名称を、「所在地」欄は都道府県名から記入してください。"
+  },
+  {
+    "line": 60,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　　　なお、丁目・番地等については、次の例によってください。（例）東京都港区新橋2丁目1番3号　⇒　東京都港区新橋2-1-3"
+  },
+  {
+    "line": 61,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　５　「名称」、「所在地」、「ホームページアドレス」、「開設者名」、「請求者名」、「受領者名」及び「振込銀行支店」の各欄は、必ずフリガナを付してください。"
+  },
+  {
+    "line": 62,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　６　国の会計法又は都道府県市町村条例により歳入徴収官又は会計管理者を定めているもの以外で、開設者と請求者又は受領者が異なるときは、支払基金備付の"
+  },
+  {
+    "line": 63,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　　委任状を同時に提出してください。なお、開設者と請求者・受領者が同一人の場合は、請求者名及び受領者名欄には記入の必要はありません。"
+  },
+  {
+    "line": 64,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　７　ホームページアドレス欄は、「運営についての重要事項に関する規程」を公開しているホームページアドレスを記入してください。"
+  },
+  {
+    "line": 65,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　　　なお、ホームページ以外の方法で「運営についての重要事項に関する規程」を公開する場合は、本欄に記入せず、「備考」欄に「ホームページ開設せず」と記載願"
+  },
+  {
+    "line": 66,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　　います。"
+  },
+  {
+    "line": 67,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　８　「経営主体」欄は、該当文字を○で囲んでください。"
+  },
+  {
+    "line": 68,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　９　「振込銀行」欄は、開設者名義の口座番号及び口座名義人（カタカナ）を記入してください。ただし、開設者と受領者が異なる場合は、受領者名義の口座番号及び"
+  },
+  {
+    "line": 69,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　　　口座名義人（カタカナ）を記入してください。"
+  },
+  {
+    "line": 70,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "１０　「請求開始年月日」欄は、機関として特定健診・特定保健指導を開始する年月日を記入してください。"
+  },
+  {
+    "line": 71,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "１１　「請求形態」欄は、特定健診・特定保健指導データの授受方法について該当する項目の□に✔を記入してください。"
+  },
+  {
+    "line": 72,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "１２　届出内容に変更又は廃止が生じたときは、「特定健診・特定保健指導機関変更届」又は「特定健診・特定保健指導機関廃止届」により届け出てください。"
+  },
+  {
+    "line": 73,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "　　（届出書は、支払基金ホームページからダウンロードできます。また、最寄りの審査委員会事務局にも備え付けています。）"
+  },
+  {
+    "line": 74,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "１３　＊印欄は記入しないでください。"
+  },
+  {
+    "line": 75,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "別表"
+  },
+  {
+    "line": 76,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "都道府県コード表"
+  },
+  {
+    "line": 77,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "19"
+  },
+  {
+    "line": 78,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "静岡県"
+  },
+  {
+    "line": 79,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "愛知県"
+  },
+  {
+    "line": 80,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "島根県"
+  },
+  {
+    "line": 81,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "05"
+  },
+  {
+    "line": 82,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "和歌山県"
+  },
+  {
+    "line": 83,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "京都府"
+  },
+  {
+    "line": 84,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "大阪府"
+  },
+  {
+    "line": 85,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "20"
+  },
+  {
+    "line": 86,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "石川県 17"
+  },
+  {
+    "line": 87,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "福井県"
+  },
+  {
+    "line": 88,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "長野県"
+  },
+  {
+    "line": 89,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "18"
+  },
+  {
+    "line": 90,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "岩手県"
+  },
+  {
+    "line": 91,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "北海道"
+  },
+  {
+    "line": 92,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "青森県"
+  },
+  {
+    "line": 93,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "04"
+  },
+  {
+    "line": 94,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "01"
+  },
+  {
+    "line": 95,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "02"
+  },
+  {
+    "line": 96,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "03"
+  },
+  {
+    "line": 97,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "15"
+  },
+  {
+    "line": 98,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "富山県"
+  },
+  {
+    "line": 99,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "茨城県"
+  },
+  {
+    "line": 100,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "栃木県"
+  },
+  {
+    "line": 101,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "秋田県"
+  },
+  {
+    "line": 102,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "山形県"
+  },
+  {
+    "line": 103,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "新潟県"
+  },
+  {
+    "line": 104,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "山梨県"
+  },
+  {
+    "line": 105,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "福島県"
+  },
+  {
+    "line": 106,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "06"
+  },
+  {
+    "line": 107,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "群馬県"
+  },
+  {
+    "line": 108,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "埼玉県"
+  },
+  {
+    "line": 109,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "08"
+  },
+  {
+    "line": 110,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "09"
+  },
+  {
+    "line": 111,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "10"
+  },
+  {
+    "line": 112,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "07"
+  },
+  {
+    "line": 113,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "千葉県"
+  },
+  {
+    "line": 114,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "東京都"
+  },
+  {
+    "line": 115,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "宮城県 神奈川県"
+  },
+  {
+    "line": 116,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "11"
+  },
+  {
+    "line": 117,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "12"
+  },
+  {
+    "line": 118,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "13"
+  },
+  {
+    "line": 119,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "14"
+  },
+  {
+    "line": 120,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "16"
+  },
+  {
+    "line": 121,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "岡山県"
+  },
+  {
+    "line": 122,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "滋賀県"
+  },
+  {
+    "line": 123,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "鳥取県"
+  },
+  {
+    "line": 124,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "三重県"
+  },
+  {
+    "line": 125,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "岐阜県"
+  },
+  {
+    "line": 126,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "兵庫県"
+  },
+  {
+    "line": 127,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "奈良県"
+  },
+  {
+    "line": 128,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "31"
+  },
+  {
+    "line": 129,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "32"
+  },
+  {
+    "line": 130,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "25"
+  },
+  {
+    "line": 131,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "26"
+  },
+  {
+    "line": 132,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "27"
+  },
+  {
+    "line": 133,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "28"
+  },
+  {
+    "line": 134,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "高知県 39"
+  },
+  {
+    "line": 135,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "21"
+  },
+  {
+    "line": 136,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "22"
+  },
+  {
+    "line": 137,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "23"
+  },
+  {
+    "line": 138,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "24"
+  },
+  {
+    "line": 139,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "佐賀県"
+  },
+  {
+    "line": 140,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "長崎県"
+  },
+  {
+    "line": 141,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "33"
+  },
+  {
+    "line": 142,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "35"
+  },
+  {
+    "line": 143,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "36"
+  },
+  {
+    "line": 144,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "37"
+  },
+  {
+    "line": 145,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "38"
+  },
+  {
+    "line": 146,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "29"
+  },
+  {
+    "line": 147,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "30"
+  },
+  {
+    "line": 148,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "宮崎県"
+  },
+  {
+    "line": 149,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "鹿児島県"
+  },
+  {
+    "line": 150,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "大分県"
+  },
+  {
+    "line": 151,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "福岡県"
+  },
+  {
+    "line": 152,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "熊本県"
+  },
+  {
+    "line": 153,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "徳島県"
+  },
+  {
+    "line": 154,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "香川県"
+  },
+  {
+    "line": 155,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "愛媛県"
+  },
+  {
+    "line": 156,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "沖縄県"
+  },
+  {
+    "line": 157,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "34"
+  },
+  {
+    "line": 158,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "41"
+  },
+  {
+    "line": 159,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "42"
+  },
+  {
+    "line": 160,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "43"
+  },
+  {
+    "line": 161,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "44"
+  },
+  {
+    "line": 162,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "40"
+  },
+  {
+    "line": 163,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "広島県"
+  },
+  {
+    "line": 164,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "山口県 45"
+  },
+  {
+    "line": 165,
+    "pdf_page": 2,
+    "pdf_page_end": 2,
+    "text": "46"
+  },
+  {
+    "line": 166,
+    "pdf_page": 2,
+    "pdf_page_end": 3,
+    "text": "47（特－様式第2号）"
+  },
+  {
+    "line": 167,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "特　定　健　診　・　特　定　保　健　指　導　機　関　届（保険医療機関以外）"
+  },
+  {
+    "line": 168,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "令和 年 月 日"
+  },
+  {
+    "line": 169,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "住　所"
+  },
+  {
+    "line": 170,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "社会保険診療報酬支払基金　　　　　審査委員会事務局　御中 届出者"
+  },
+  {
+    "line": 171,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "氏　名"
+  },
+  {
+    "line": 172,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": " 都道府県・市町村・官公立・その他の公的・医療法人"
+  },
+  {
+    "line": 173,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": " 社会福祉法人・財団法人・ＮＰＯ・株式会社"
+  },
+  {
+    "line": 174,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": " その他の法人・個人"
+  },
+  {
+    "line": 175,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": " その他"
+  },
+  {
+    "line": 176,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "（基金使用欄）"
+  },
+  {
+    "line": 177,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "※１　本届の内容のうち、①から⑤の事項については支払基金のホームページ上で公開いたします。 Ａ４（210×297）"
+  },
+  {
+    "line": 178,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "　　　なお、決定した特定健診・特定保健指導機関コードについても支払基金ホームページ上で公開します。"
+  },
+  {
+    "line": 179,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "　２　本届の内容のうち、個人情報に該当する事項については、社会保険診療報酬支払基金の業務に用いるものであり、個人情報保護法第18条第3項に定める場合のほか、"
+  },
+  {
+    "line": 180,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "　　本人の同意なくして他の利用目的に使用することはありません。"
+  },
+  {
+    "line": 181,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "　３　本届においてJIS第一、二水準以外の文字で記入されている場合は、JIS第一、二水準に置き換えて登録を行いホームページ上に公開いたします。"
+  },
+  {
+    "line": 182,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "　４　「⑪請求形態」欄のオンラインを選択された場合は、別途「電子情報処理組織の使用に関する届出」及び「電子証明書発行依頼書」の提出が必要となります。"
+  },
+  {
+    "line": 183,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "特定健診・特定保健指導機関として、下記のとおり届けます。"
+  },
+  {
+    "line": 184,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "① 機 関 の 種 別"
+  },
+  {
+    "line": 185,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "② 名 称"
+  },
+  {
+    "line": 186,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 187,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "③ 所 在 地"
+  },
+  {
+    "line": 188,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "郵便番号 ― 電話番号 ― ―"
+  },
+  {
+    "line": 189,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 190,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "④ ホームページアドレス"
+  },
+  {
+    "line": 191,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 192,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "h t t p s : / /"
+  },
+  {
+    "line": 193,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "⑤ 経 営 主 体"
+  },
+  {
+    "line": 194,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "⑥ 開 設 者 名"
+  },
+  {
+    "line": 195,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 196,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": " ⑦以降は、特定健診・特定保健指導の費用を支払基金に請求予定がある場合に記載してください。なお、他の代行機関へ費用を請求する予定がある場合は、それぞれの"
+  },
+  {
+    "line": 197,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "代行機関への届出が必要となります。"
+  },
+  {
+    "line": 198,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "⑦ 請 求 者 名"
+  },
+  {
+    "line": 199,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ﾌﾘｶﾞﾅ ＊ 整理印 ＊ 受付印"
+  },
+  {
+    "line": 200,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "登"
+  },
+  {
+    "line": 201,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "⑧ 受 領 者 名 録"
+  },
+  {
+    "line": 202,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 203,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "⑨"
+  },
+  {
+    "line": 204,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "振 込 銀 行"
+  },
+  {
+    "line": 205,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ﾌﾘｶﾞﾅ 銀行コード ﾌﾘｶﾞﾅ 支店コード"
+  },
+  {
+    "line": 206,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "銀行 支店"
+  },
+  {
+    "line": 207,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "科　目 口 座 番 号"
+  },
+  {
+    "line": 208,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "確"
+  },
+  {
+    "line": 209,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "認"
+  },
+  {
+    "line": 210,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "口 座 名 義 人 ｶﾀｶﾅ"
+  },
+  {
+    "line": 211,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "当 座 ・ 普 通"
+  },
+  {
+    "line": 212,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "⑩ 請 求 開 始 年 月 日 令和 年 月 日 ⑪ 請 求 形 態"
+  },
+  {
+    "line": 213,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "（備考）"
+  },
+  {
+    "line": 214,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "＊決定特定健診・特定保健指導機関コード"
+  },
+  {
+    "line": 215,
+    "pdf_page": 3,
+    "pdf_page_end": 3,
+    "text": "ア 特定健診機関 イ 特定保健指導機関"
+  },
+  {
+    "line": 216,
+    "pdf_page": 3,
+    "pdf_page_end": 4,
+    "text": "ア 電子媒体（CD-R） イ 電子媒体（FD） ウ 電子媒体（MO） エ オンライン作　成　要　領"
+  },
+  {
+    "line": 217,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　１　本届出は、届出者が法人の場合は代表者から、その他の場合は開設者から、特定健診・特定保健指導機関の所在する審査委員会事務局へ届け出てください。"
+  },
+  {
+    "line": 218,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　２　「機関の種別」欄は、該当する項目の□に✔を記入してください。両方に該当する場合は、両方の□に✔を記入してください。"
+  },
+  {
+    "line": 219,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　３　「名称」欄は正式名称を、「所在地」欄は都道府県名から記入してください。"
+  },
+  {
+    "line": 220,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　　　なお、丁目・番地等については、次の例によってください。（例）東京都港区新橋2丁目1番3号　⇒　東京都港区新橋2-1-3"
+  },
+  {
+    "line": 221,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　４　「名称」、「所在地」、「ホームページアドレス」、「開設者名」、「請求者名」、「受領者名」及び「振込銀行支店」の各欄は、必ずフリガナを付してください。"
+  },
+  {
+    "line": 222,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　５　国の会計法又は都道府県市町村条例により歳入徴収官又は会計管理者を定めているもの以外で、開設者と請求者又は受領者が異なるときは、支払基金備付の"
+  },
+  {
+    "line": 223,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　　委任状を同時に提出してください。なお、開設者と請求者・受領者が同一人の場合は、請求者名及び受領者名欄には記入の必要はありません。"
+  },
+  {
+    "line": 224,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　６　ホームページアドレス欄は、「運営についての重要事項に関する規程」を公開しているホームページアドレスを記入してください。"
+  },
+  {
+    "line": 225,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　　　なお、ホームページ以外の方法で「運営についての重要事項に関する規程」を公開する場合は、本欄に記入せず、「備考」欄に「ホームページ開設せず」と記載願"
+  },
+  {
+    "line": 226,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　　います。"
+  },
+  {
+    "line": 227,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　７　「経営主体」欄は、該当文字を○で囲んでください。"
+  },
+  {
+    "line": 228,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　８　「振込銀行」欄は、開設者名義の口座番号及び口座名義人（カタカナ）を記入してください。ただし、開設者と受領者が異なる場合は、受領者名義の口座番号及び"
+  },
+  {
+    "line": 229,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": " 口座名義人（カタカナ）を記入してください。"
+  },
+  {
+    "line": 230,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　９　「請求開始年月日」欄は、機関として特定健診・特定保健指導を開始する年月日を記入してください。"
+  },
+  {
+    "line": 231,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "１０　「請求形態」欄は、特定健診・特定保健指導データの授受方法について該当する項目の□に✔を記入してください。"
+  },
+  {
+    "line": 232,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "１１　届出内容に変更又は廃止が生じたときは、「特定健診・特定保健指導機関変更届」又は「特定健診・特定保健指導機関廃止届」により届け出てください。"
+  },
+  {
+    "line": 233,
+    "pdf_page": 4,
+    "pdf_page_end": 4,
+    "text": "　　（届出書は、支払基金ホームページからダウンロードできます。また、最寄りの審査委員会事務局にも備え付けています。）"
+  },
+  {
+    "line": 234,
+    "pdf_page": 4,
+    "pdf_page_end": 5,
+    "text": "１２　＊印欄は記入しないでください。（特－様式第3号）"
+  },
+  {
+    "line": 235,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "特　定　健　診　・　特　定　保　健　指　導　機　関　変　更　届"
+  },
+  {
+    "line": 236,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "支払基金に届け出た内容のうち変更欄にチェックを入れた項目について変更し、下記のとおり届けます。"
+  },
+  {
+    "line": 237,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "社会保険診療報酬支払基金　　　　　審査委員会事務局　御中 令和 年 月 日"
+  },
+  {
+    "line": 238,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "住　所"
+  },
+  {
+    "line": 239,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "届出者"
+  },
+  {
+    "line": 240,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "氏　名"
+  },
+  {
+    "line": 241,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " 国立病院・国立療養所・官公立・その他の公的"
+  },
+  {
+    "line": 242,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " 大学病院(国立・公立・私立)"
+  },
+  {
+    "line": 243,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " 独立行政法人国立病院機構"
+  },
+  {
+    "line": 244,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " 医療法人 ・社会福祉法人"
+  },
+  {
+    "line": 245,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " その他の法人・個人"
+  },
+  {
+    "line": 246,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " 官公立・その他の公的・医療法人"
+  },
+  {
+    "line": 247,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " 社会福祉法人・その他の法人"
+  },
+  {
+    "line": 248,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " 個人"
+  },
+  {
+    "line": 249,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " 都道府県・市町村・官公立・その他の公的・医療法人"
+  },
+  {
+    "line": 250,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " 社会福祉法人・財団法人・ＮＰＯ・株式会社"
+  },
+  {
+    "line": 251,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " その他の法人・個人"
+  },
+  {
+    "line": 252,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": " その他"
+  },
+  {
+    "line": 253,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "（備考）"
+  },
+  {
+    "line": 254,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "※１　本届の内容のうち、①から⑤の事項については支払基金のホームページ上で公開いたします。 Ａ４（210×297）"
+  },
+  {
+    "line": 255,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "　２　本届の内容のうち、個人情報に該当する事項については、社会保険診療報酬支払基金の業務に用いるものであり、個人情報保護法第18条第3項に定める場合のほか、"
+  },
+  {
+    "line": 256,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "　　本人の同意なくして他の利用目的に使用することはありません。"
+  },
+  {
+    "line": 257,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "　３　本届においてJIS第一、二水準以外の文字で記入されている場合は、JIS第一、二水準に置き換えて登録を行いホームページ上に公開いたします。"
+  },
+  {
+    "line": 258,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "　４　「⑩請求形態」欄をオンラインに変更する場合は、別途「電子情報処理組織の使用に関する届出」及び「電子証明書発行依頼書」の提出が必要となります。"
+  },
+  {
+    "line": 259,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "変 更 年 月 日"
+  },
+  {
+    "line": 260,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "令和 年 月 日"
+  },
+  {
+    "line": 261,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "① 特定健診 ・特 定保 健指 導機 関コ ード 　変更 機関の種別"
+  },
+  {
+    "line": 262,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "変"
+  },
+  {
+    "line": 263,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "更 ② 名 称"
+  },
+  {
+    "line": 264,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 265,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "変"
+  },
+  {
+    "line": 266,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "更 ③ 所 在 地"
+  },
+  {
+    "line": 267,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "郵便番号 ― 電話番号 ―"
+  },
+  {
+    "line": 268,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 269,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "―"
+  },
+  {
+    "line": 270,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "変"
+  },
+  {
+    "line": 271,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "更 ④ ホームページアドレス"
+  },
+  {
+    "line": 272,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 273,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "変"
+  },
+  {
+    "line": 274,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "更"
+  },
+  {
+    "line": 275,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "⑤"
+  },
+  {
+    "line": 276,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "経"
+  },
+  {
+    "line": 277,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "営"
+  },
+  {
+    "line": 278,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "主"
+  },
+  {
+    "line": 279,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "体"
+  },
+  {
+    "line": 280,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "病　院 h t t p s : / /"
+  },
+  {
+    "line": 281,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "変"
+  },
+  {
+    "line": 282,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "更 ⑥ 開 設 者 名"
+  },
+  {
+    "line": 283,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 284,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "変 診療所"
+  },
+  {
+    "line": 285,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "更 ⑦ 請 求 者 名"
+  },
+  {
+    "line": 286,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 287,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "その他"
+  },
+  {
+    "line": 288,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "健診・"
+  },
+  {
+    "line": 289,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "保健指導"
+  },
+  {
+    "line": 290,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "機関"
+  },
+  {
+    "line": 291,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "変"
+  },
+  {
+    "line": 292,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "更 ⑧ 受 領 者 名"
+  },
+  {
+    "line": 293,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 294,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "変"
+  },
+  {
+    "line": 295,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "更 ⑨"
+  },
+  {
+    "line": 296,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "振 込 銀 行"
+  },
+  {
+    "line": 297,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ﾌﾘｶﾞﾅ 銀行コード ﾌﾘｶﾞﾅ 支店コード 科　目 口 座 番 号 ＊ 整理印 ＊ 受付印"
+  },
+  {
+    "line": 298,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "銀行 支店 当 座 ・ 普 通 登"
+  },
+  {
+    "line": 299,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "口 座 名 義 人 ｶﾀｶﾅ 録"
+  },
+  {
+    "line": 300,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "変"
+  },
+  {
+    "line": 301,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "更 ⑩ 請 求 形 態"
+  },
+  {
+    "line": 302,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "確"
+  },
+  {
+    "line": 303,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "認"
+  },
+  {
+    "line": 304,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ア 特定健診機関 イ 特定保健指導機関"
+  },
+  {
+    "line": 305,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "ア 電子媒体（CD-R）"
+  },
+  {
+    "line": 306,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "エ オンライン"
+  },
+  {
+    "line": 307,
+    "pdf_page": 5,
+    "pdf_page_end": 5,
+    "text": "イ 電子媒体（FD）"
+  },
+  {
+    "line": 308,
+    "pdf_page": 5,
+    "pdf_page_end": 6,
+    "text": "ウ 電子媒体（MO）作　成　要　領"
+  },
+  {
+    "line": 309,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "　１　本届出は、届出者が法人の場合は代表者から、その他の場合は開設者から、特定健診・特定保健指導機関の所在する審査委員会事務局へ届け出てください。"
+  },
+  {
+    "line": 310,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "　２　「変更年月日」欄は、届出項目の変更を行った日付を記入してください。"
+  },
+  {
+    "line": 311,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "　３　「変更□」欄は、変更のある項目に✔を記入し、変更後の情報を記入してください。"
+  },
+  {
+    "line": 312,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "　４　「特定健診・特定保健指導機関コード」欄、「名称」欄は変更がない場合も記入してください。"
+  },
+  {
+    "line": 313,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "　５　「名称」欄は正式名称を、「所在地」欄は都道府県名から記入してください。"
+  },
+  {
+    "line": 314,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "　　　なお、丁目・番地等については、次の例によってください。（例）東京都港区新橋2丁目1番3号　⇒　東京都港区新橋2-1-3"
+  },
+  {
+    "line": 315,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "　６　「名称」、「所在地」、「ホームページアドレス」、「開設者名」、「請求者名」、「受領者名」及び「振込銀行支店」の各欄は、必ずフリガナを付してください。"
+  },
+  {
+    "line": 316,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "　７　ホームページアドレス欄は、「運営についての重要事項に関する規程」を公開しているホームページアドレスを記入してください。"
+  },
+  {
+    "line": 317,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "　　　なお、ホームページ以外の方法で「運営についての重要事項に関する規程」を公開する場合は、本欄に記入せず、「備考」欄に「ホームページ開設せず」と"
+  },
+  {
+    "line": 318,
+    "pdf_page": 6,
+    "pdf_page_end": 6,
+    "text": "　　記載願います。"
+  },
+  {
+    "line": 319,
+    "pdf_page": 6,
+    "pdf_page_end": 7,
+    "text": "　８　＊印欄は記入しないでください。（特－様式第4号）"
+  },
+  {
+    "line": 320,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "特定健診・特定保健指導機関の廃止について、下記のとおり届けます。"
+  },
+  {
+    "line": 321,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "令和 年 月 日"
+  },
+  {
+    "line": 322,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "社会保険診療報酬支払基金 審査委員会事務局　御中"
+  },
+  {
+    "line": 323,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "住　所"
+  },
+  {
+    "line": 324,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "届出者"
+  },
+  {
+    "line": 325,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "氏　名"
+  },
+  {
+    "line": 326,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "廃止理由"
+  },
+  {
+    "line": 327,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "Ａ４（210×297）"
+  },
+  {
+    "line": 328,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "作　成　要　領"
+  },
+  {
+    "line": 329,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "　１　届出者が法人の場合は代表者から、その他の場合は開設者から届け出願います。"
+  },
+  {
+    "line": 330,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "　２　「廃止年月日」欄は、廃止した日付を記入してください。"
+  },
+  {
+    "line": 331,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "　３　「廃止理由」欄は、廃止となった理由を簡潔に記入してください。"
+  },
+  {
+    "line": 332,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "　４　＊印欄は記入しないでください。"
+  },
+  {
+    "line": 333,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "特　定　健　診　・　特　定　保　健　指　導　機　関　廃　止　届"
+  },
+  {
+    "line": 334,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "廃 止 年 月 日"
+  },
+  {
+    "line": 335,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "令和 年 月 日"
+  },
+  {
+    "line": 336,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "① 特定健診・特定保健指 導機関コード 機 関 の 種 別"
+  },
+  {
+    "line": 337,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "② 名 称"
+  },
+  {
+    "line": 338,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 339,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "③ 所 在 地"
+  },
+  {
+    "line": 340,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "郵便番号 ― 電話番号 ― ―"
+  },
+  {
+    "line": 341,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ﾌﾘｶﾞﾅ"
+  },
+  {
+    "line": 342,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "＊ 整理印 ＊ 受付印"
+  },
+  {
+    "line": 343,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "登"
+  },
+  {
+    "line": 344,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "録"
+  },
+  {
+    "line": 345,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "確"
+  },
+  {
+    "line": 346,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "認"
+  },
+  {
+    "line": 347,
+    "pdf_page": 7,
+    "pdf_page_end": 7,
+    "text": "ア 特定健診機関 イ 特定保健指導機関"
+  }
+]
