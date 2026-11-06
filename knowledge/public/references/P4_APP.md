@@ -111,3 +111,9 @@
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, operation:consent, operation:privacy, operation:program_evaluation, task:case_records, use:case_operations, use:organization
+
+**分類理由**：事業分析用の別紙と個人情報保護法の抜粋が同居し、個人データの第三者提供について同意原則と例外を記載する。
+
+**個人業務での参照範囲**：第三者提供の同意原則と法定例外の確認に限る。法令の現行条文を確認して適用し、分析指標の部分と分ける。

@@ -19,8 +19,12 @@
     },
     "source_excerpt_sha256": "6c712e5d680fee1a3753e73299673cf249a63d6742c2498c3ba8a374b75732c7",
     "tags": [
-      "contract",
-      "records"
+      "individual:relevant",
+      "operation:reporting",
+      "task:case_records",
+      "task:eligibility",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -37,7 +41,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00181"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「健診実施対象と実施率の分母を分ける」：個人の対象・除外・資格時点と、実施率報告上の扱いを分ける運用根拠。",
+      "individual_scope": "本文の対象者選定・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_002",
@@ -59,7 +69,12 @@
     },
     "source_excerpt_sha256": "000d4f6b04e86528b73e3d23114cff858b4f7b5e3ccaa57ff1942b26347ff6ef",
     "tags": [
-      "records"
+      "individual:relevant",
+      "operation:reporting",
+      "task:case_records",
+      "task:eligibility",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -76,7 +91,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00181"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「除外理由は証明できる形で確認する」：個人の対象・除外・資格時点と、実施率報告上の扱いを分ける運用根拠。",
+      "individual_scope": "本文の対象者選定・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_003",
@@ -98,7 +119,12 @@
     },
     "source_excerpt_sha256": "b32cbb3a29b73c279c404a6a1c9b994d189734e6029168f5e2b305e9eb25d6a3",
     "tags": [
-      "records"
+      "individual:relevant",
+      "operation:reporting",
+      "task:case_records",
+      "task:eligibility",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -115,7 +141,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00181"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「資格区分の基準日」：個人の対象・除外・資格時点と、実施率報告上の扱いを分ける運用根拠。",
+      "individual_scope": "本文の対象者選定・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_004",
@@ -137,11 +169,10 @@
     },
     "source_excerpt_sha256": "4028cb9c344a5e3beec7eb4c7f2f9b6635373f412846cfca855575dea11ab073",
     "tags": [
-      "waist",
-      "lipids",
-      "kidney",
-      "contract",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "task:eligibility",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -158,7 +189,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00265"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「基本健診項目の欠損と測定不能」：検査欠損時に個人の健診成立・補完を確認する内容。",
+      "individual_scope": "本文のアセスメント・対象者選定に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_005",
@@ -180,19 +217,11 @@
     },
     "source_excerpt_sha256": "0a6ccd31468e1b54949085edd42d2c460fd159d2d2e76b572cfe4a098b1f9bb4",
     "tags": [
-      "weight",
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "diet",
-      "kidney",
-      "liver",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -210,7 +239,13 @@
       "REF_HB43_L00265",
       "REF_HB43_L00319"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「腹囲測定を省略できる条件」：腹囲測定省略の条件を確認する内容。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_006",
@@ -232,19 +267,10 @@
     },
     "source_excerpt_sha256": "0a6ccd31468e1b54949085edd42d2c460fd159d2d2e76b572cfe4a098b1f9bb4",
     "tags": [
-      "weight",
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "diet",
-      "kidney",
-      "liver",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "topic:lipids",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -262,7 +288,13 @@
       "REF_HB43_L00265",
       "REF_HB43_L00319"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「LDLの代替としてのNon-HDL」：脂質検査の代替項目と採血条件を扱う。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_007",
@@ -284,17 +316,10 @@
     },
     "source_excerpt_sha256": "eaf042b565943ea169dc4b1eb4060d8674456e1ff633d2de1bad8a8c2197d2ab",
     "tags": [
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "diet",
-      "kidney",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "task:case_records",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -311,7 +336,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00319"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「詳細健診には医師の個別判断を記録する」：個人に追加検査を実施する判断・記録・実施日の要件。",
+      "individual_scope": "本文のアセスメント・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_008",
@@ -333,12 +364,10 @@
     },
     "source_excerpt_sha256": "fd465144d497bbdbfc9fa755dccad657d3723817f2e5c6121549c1a8dccd1cdc",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "kidney",
-      "evaluation"
+      "individual:relevant",
+      "task:assessment",
+      "task:case_records",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -355,7 +384,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00319"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「詳細健診の心電図・眼底検査の実施時期」：個人に追加検査を実施する判断・記録・実施日の要件。",
+      "individual_scope": "本文のアセスメント・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_009",
@@ -377,9 +412,10 @@
     },
     "source_excerpt_sha256": "db1846064fedba81b7e29111242566e045724c6292d5a63ba24f124ef2c30c4f",
     "tags": [
-      "smoking",
-      "contract",
-      "records"
+      "individual:relevant",
+      "task:case_records",
+      "task:eligibility",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -397,7 +433,13 @@
       "REF_HB43_L00319",
       "REF_HB43_L00374"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「事業者健診の結果を活用する条件」：個人の他法健診結果を特定健診に活用する条件。",
+      "individual_scope": "本文の対象者選定・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_010",
@@ -419,9 +461,11 @@
     },
     "source_excerpt_sha256": "9a8c7c9592fe6f0bb3bda0b6d82e6fad4dc8825a9e237fd43ffb0378882858cc",
     "tags": [
-      "consent",
-      "contract",
-      "records"
+      "individual:relevant",
+      "operation:contract",
+      "task:eligibility",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -438,7 +482,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00480"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「上乗せ健診と人間ドック」：人間ドック結果の活用条件と上乗せ検査の費用区分が混在する。",
+      "individual_scope": "人間ドック等を特定健診として扱う条件。契約・費用設定の部分は組織業務。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_011",
@@ -460,7 +510,9 @@
     },
     "source_excerpt_sha256": "741e207b4359cb2699a107919e1f0d8c2b57325c4c752337fc10f4bb32bc4756",
     "tags": [
-      "contract"
+      "individual:not_relevant",
+      "operation:contract",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -477,7 +529,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00510"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「市町村の健診を同時に実施する際の会計」：同時実施時の会計区分であり、個人の指導内容・実施判断ではない。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_012",
@@ -499,8 +557,11 @@
     },
     "source_excerpt_sha256": "90c808619285f79c22f08180acdb62c875291cef58c67e7f8dd65d66d8f4d224",
     "tags": [
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "operation:reporting",
+      "task:eligibility",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -517,7 +578,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00634"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「優先順位を下げても対象者の分母は変わらない」：個人の選定優先度と報告分母を区別する内容。",
+      "individual_scope": "本文の対象者選定に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_013",
@@ -538,7 +605,13 @@
       "extracted_line_end": 677
     },
     "source_excerpt_sha256": "911d35722e666b2e9bde24d0ca8ac239acf071314ac49c4a597fb940e968e774",
-    "tags": [],
+    "tags": [
+      "individual:relevant",
+      "task:eligibility",
+      "task:referral",
+      "use:case_operations",
+      "use:guidance"
+    ],
     "common": false,
     "conditions": [
       "保健指導の候補になっていても、医療機関への受診の検討を省略しない。診断基準として使わない。"
@@ -554,7 +627,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00665"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「受診勧奨と保健指導を混同しない」：受診勧奨と特定保健指導の実施判断を区別する。",
+      "individual_scope": "本文の受診勧奨・対象者選定に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_014",
@@ -576,9 +655,10 @@
     },
     "source_excerpt_sha256": "a8afdd0c94a4e375ec1c64a8a8ad0392a27fd56809401d7b8b01574ffc4db95e",
     "tags": [
-      "evaluation",
-      "contract",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "task:results_explanation",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -595,7 +675,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00679"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「結果説明は検査値・経年変化・個別リスクを含める」：本人に経年変化と個別リスクを説明する内容。",
+      "individual_scope": "本文の結果説明・アセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_015",
@@ -617,15 +703,12 @@
     },
     "source_excerpt_sha256": "dbc1835c45baa83b07dd53e625eb038ca8c92ed80bb09df801e4dd73f17c7fc2",
     "tags": [
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "diet",
-      "records"
+      "individual:relevant",
+      "task:eligibility",
+      "task:stratification",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -642,7 +725,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00807"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「階層化の入口となる腹囲・BMI」：腹囲とBMIによる階層化の入口を扱う。",
+      "individual_scope": "本文の階層化・対象者選定に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_016",
@@ -664,15 +753,12 @@
     },
     "source_excerpt_sha256": "dbc1835c45baa83b07dd53e625eb038ca8c92ed80bb09df801e4dd73f17c7fc2",
     "tags": [
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "diet",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "task:stratification",
+      "topic:glucose",
+      "topic:hba1c",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -689,7 +775,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00807"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「血糖リスクと測定条件」：血糖リスクの測定条件と判定基準を扱う。",
+      "individual_scope": "本文の階層化・アセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_017",
@@ -711,15 +803,11 @@
     },
     "source_excerpt_sha256": "dbc1835c45baa83b07dd53e625eb038ca8c92ed80bb09df801e4dd73f17c7fc2",
     "tags": [
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "diet",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "task:stratification",
+      "topic:lipids",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -736,7 +824,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00807"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「脂質リスクは採血条件でしきい値が異なる」：脂質リスクを採血条件別に判定する。",
+      "individual_scope": "本文の階層化・アセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_018",
@@ -758,15 +852,10 @@
     },
     "source_excerpt_sha256": "dbc1835c45baa83b07dd53e625eb038ca8c92ed80bb09df801e4dd73f17c7fc2",
     "tags": [
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "diet",
-      "records"
+      "individual:relevant",
+      "task:stratification",
+      "topic:blood_pressure",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -783,7 +872,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00807"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「血圧の階層化リスク」：血圧による追加リスクの判断。",
+      "individual_scope": "本文の階層化に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_019",
@@ -805,13 +900,12 @@
     },
     "source_excerpt_sha256": "b5cb28da78a7d53640ad7dd625049ac22a50783f7fda598474fbbb552080c0b8",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids",
-      "diet",
-      "consent",
-      "records"
+      "individual:relevant",
+      "operation:consent",
+      "task:assessment",
+      "task:eligibility",
+      "topic:medication",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -828,7 +922,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00807"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「服薬中の対象除外には再確認と同意」：服薬による対象除外の再確認と本人同意を扱う。",
+      "individual_scope": "本文の対象者選定・アセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_020",
@@ -850,8 +950,13 @@
     },
     "source_excerpt_sha256": "1e80619fc039f7f115b13e4213dfc3a3fcda79562f4d85163ce01f62b7967ab9",
     "tags": [
-      "glucose",
-      "records"
+      "individual:relevant",
+      "operation:reporting",
+      "task:eligibility",
+      "task:interruption_completion",
+      "topic:medication",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -868,7 +973,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00807"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「健診・指導開始後の服薬開始」：服薬開始後の個人の継続判断と実績報告の取扱い。",
+      "individual_scope": "本文の対象者選定・中断・終了に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_021",
@@ -890,10 +1001,12 @@
     },
     "source_excerpt_sha256": "b804e1404cab5a671944af2b3d0fdfe3f5b73ff0aac4009933d3d8af48fc5f75",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids"
+      "individual:relevant",
+      "task:assessment",
+      "task:case_records",
+      "topic:medication",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -910,7 +1023,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00807"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「他疾病で治療中の者は主治医と連携」：治療中の本人への支援を主治医と調整する。",
+      "individual_scope": "本文のアセスメント・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_022",
@@ -932,10 +1051,10 @@
     },
     "source_excerpt_sha256": "182e4f9f203cd766fe01b5c797e7569fb72ff897c284d749b292982c3f1414e3",
     "tags": [
-      "smoking",
-      "exercise",
-      "diet",
-      "sleep"
+      "individual:relevant",
+      "task:eligibility",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -952,7 +1071,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00950"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「制度対象外でも必要な保健指導を検討する」：制度対象外でも必要な個別支援を検討する範囲を示す。",
+      "individual_scope": "本文の対象者選定に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_023",
@@ -974,13 +1099,9 @@
     },
     "source_excerpt_sha256": "aa652281aa3cfad1ae4824d30ab44408fb513c5a305f5ed6296557b07cab048c",
     "tags": [
-      "weight",
-      "waist",
-      "smoking",
-      "exercise",
-      "ict",
-      "contract",
-      "records"
+      "individual:relevant",
+      "task:results_explanation",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -997,7 +1118,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00960"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「情報提供は健診受診者全員が対象」：健診受診者への情報提供の対象と方法。",
+      "individual_scope": "本文の結果説明に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_024",
@@ -1019,11 +1146,11 @@
     },
     "source_excerpt_sha256": "e30e253999438e226d18f513f827837c6d550e4fd3444f6b549af1c6b4986bf7",
     "tags": [
-      "weight",
-      "waist",
-      "smoking",
-      "exercise",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "task:referral",
+      "topic:medication",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -1040,7 +1167,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00960"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「非肥満・未受診・治療不良への支援」：非肥満・未受診・治療不良の者への具体的な支援方針。",
+      "individual_scope": "本文の受診勧奨・アセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_025",
@@ -1062,12 +1195,11 @@
     },
     "source_excerpt_sha256": "4172141a608ded932631148f56be64794375071a87aeddf2ad7ade9649023309",
     "tags": [
-      "smoking",
-      "exercise",
-      "diet",
-      "sleep",
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "task:initial_interview",
+      "task:outcome_evaluation",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -1084,7 +1216,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00993"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「動機付け支援の期間と初回面接」：動機付け支援の個人ごとの面接・評価要件。",
+      "individual_scope": "本文の初回面接・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_026",
@@ -1106,13 +1244,13 @@
     },
     "source_excerpt_sha256": "e57c68cbc9f6d4f84f3303df6442bbd680532c5e6d2f79437fd68f23743cd2ab",
     "tags": [
-      "smoking",
-      "exercise",
-      "diet",
-      "sleep",
-      "ict",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "operation:points",
+      "task:follow_up",
+      "task:initial_interview",
+      "task:outcome_evaluation",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -1129,7 +1267,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01036"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「積極的支援の期間とポイント」：積極的支援の期間・継続支援・ポイント要件。",
+      "individual_scope": "本文の初回面接・継続支援・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_027",
@@ -1151,11 +1295,9 @@
     },
     "source_excerpt_sha256": "f76f145bab7ad3826938ca0899208274567e9fdfe7f380023924750e75679f41",
     "tags": [
-      "smoking",
-      "exercise",
-      "diet",
-      "sleep",
-      "evaluation"
+      "individual:relevant",
+      "task:goal_planning",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -1172,7 +1314,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01036"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「行動目標は本人の選択を支える」：本人の選択を尊重した行動目標づくり。",
+      "individual_scope": "本文の目標・行動計画に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_028",
@@ -1194,8 +1342,10 @@
     },
     "source_excerpt_sha256": "1955322f3f360fa6339f5751f1686949936ac54edac30db13272d543f58dfa57",
     "tags": [
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:follow_up",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1212,7 +1362,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01036"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「同日支援と事務連絡のポイント」：同日支援と事務連絡の算定可否を区別する。",
+      "individual_scope": "本文の継続支援に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_029",
@@ -1234,14 +1390,12 @@
     },
     "source_excerpt_sha256": "b4b785735227419411df039b278c4127036fd6a0b5682d2490f8246599bdcbe5",
     "tags": [
-      "weight",
-      "waist",
-      "smoking",
-      "exercise",
-      "diet",
-      "sleep",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -1258,7 +1412,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01036"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「行動変容の評価は2か月以上の継続」：個人の行動目標と達成判定の条件を扱う。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_030",
@@ -1280,12 +1440,12 @@
     },
     "source_excerpt_sha256": "962afb7b79ae7dacd47521a62cab5aef5e75bbcaa881990778a3e6907ce25388",
     "tags": [
-      "weight",
-      "waist",
-      "smoking",
-      "exercise",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -1302,7 +1462,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01036"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「実践・評価可能な目標と達成条件の共有」：個人の行動目標と達成判定の条件を扱う。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_031",
@@ -1324,10 +1490,12 @@
     },
     "source_excerpt_sha256": "e76ab6aaef62b02bfe6251a3b216ed672a0cffb379b1878e13d3b6a9ed9db6df",
     "tags": [
-      "smoking",
-      "exercise",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -1344,7 +1512,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01036"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「達成済みの行動は新たな行動変容として評価しない」：個人の行動目標と達成判定の条件を扱う。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_032",
@@ -1366,14 +1540,12 @@
     },
     "source_excerpt_sha256": "e0eec2576bd037644c7bd6bb853d535bf085d575fe3474144795b44108911e4d",
     "tags": [
-      "weight",
-      "waist",
-      "smoking",
-      "exercise",
-      "diet",
-      "sleep",
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:outcome_evaluation",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1390,7 +1562,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01036"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「腹囲・体重のアウトカム評価」：腹囲・体重の減少による個人のアウトカム判定。",
+      "individual_scope": "本文の個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_033",
@@ -1412,14 +1590,12 @@
     },
     "source_excerpt_sha256": "e0eec2576bd037644c7bd6bb853d535bf085d575fe3474144795b44108911e4d",
     "tags": [
-      "weight",
-      "waist",
-      "smoking",
-      "exercise",
-      "diet",
-      "sleep",
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "operation:group",
+      "operation:points",
+      "operation:remote",
+      "task:follow_up",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1436,7 +1612,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01036"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「継続支援の形態別ポイント」：継続支援の形態による算定方法。",
+      "individual_scope": "本文の継続支援に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_034",
@@ -1458,9 +1640,10 @@
     },
     "source_excerpt_sha256": "bd4a2d33e2c49d1e44336f5238f750f81b668bf405c99a9d00abe91bdc31bc6b",
     "tags": [
-      "weight",
-      "waist",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:initial_interview",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1477,7 +1660,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01036"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「初回面接の早期実施ポイント」：初回面接時期によるポイント算定。",
+      "individual_scope": "本文の初回面接に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_035",
@@ -1499,8 +1688,10 @@
     },
     "source_excerpt_sha256": "a33d08578a1084106461e930a8d8b78f34f16354c2c0575ba0311a6ae445639a",
     "tags": [
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "operation:remote",
+      "task:outcome_evaluation",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1517,7 +1708,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01036"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「通信による実績評価は双方向で行う」：本人との双方向通信による評価要件。",
+      "individual_scope": "本文の個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_036",
@@ -1539,11 +1736,13 @@
     },
     "source_excerpt_sha256": "09dc2aa5c87881e874bdfa3d792b3b86aaea3cf17ca61e6e20e542c2956bbdc4",
     "tags": [
-      "weight",
-      "waist",
-      "evaluation",
-      "contract",
-      "records"
+      "individual:relevant",
+      "task:eligibility",
+      "task:outcome_evaluation",
+      "task:stratification",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1561,7 +1760,13 @@
       "REF_HB43_L01179",
       "REF_HB43_L01203"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「2年連続の積極的支援で改善した者」：連続該当者の2年目の支援方法を決める要件。",
+      "individual_scope": "本文の対象者選定・階層化・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_037",
@@ -1583,9 +1788,10 @@
     },
     "source_excerpt_sha256": "901b85d31912d64f0d6660b488273eb41ddbee3d1984809be07a07f08da65538",
     "tags": [
-      "evaluation",
-      "contract",
-      "records"
+      "individual:relevant",
+      "task:case_records",
+      "task:goal_planning",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1602,7 +1808,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01203"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「支援計画・実施報告の必要項目」：個人の支援計画・実施報告書の記載内容。",
+      "individual_scope": "本文の目標・行動計画・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_038",
@@ -1624,16 +1836,9 @@
     },
     "source_excerpt_sha256": "44509d86568ce6c0fa10f822471052ac3fec91505519e6a129f9a5eb3cbd9335",
     "tags": [
-      "weight",
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids",
-      "smoking",
-      "diet",
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "task:initial_interview",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1650,7 +1855,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01238"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「分割初回面接の適用と期限」：初回面接を分割する条件と期限。",
+      "individual_scope": "本文の初回面接に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_039",
@@ -1672,9 +1883,10 @@
     },
     "source_excerpt_sha256": "ceef08c4dcb0202d87c308f5895d9659d59746c6c779e42f4599a5b7ef81f155",
     "tags": [
-      "diet",
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "task:initial_interview",
+      "task:outcome_evaluation",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1691,7 +1903,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01238"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「分割実施の実績評価起算日」：分割面接後の個人の評価起算日。",
+      "individual_scope": "本文の初回面接・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_040",
@@ -1713,10 +1931,11 @@
     },
     "source_excerpt_sha256": "743da6415fc85781f4da8f059e8b3226eeb95ad14fd71e95de297419a882647b",
     "tags": [
-      "diet",
-      "evaluation",
-      "contract",
-      "records"
+      "individual:relevant",
+      "task:case_records",
+      "task:interruption_completion",
+      "task:outcome_evaluation",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1734,7 +1953,13 @@
       "REF_HB43_L01545",
       "REF_HB43_L01551"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「完了には実績評価の記録が必要」：個人の完了認定に必要な実績評価記録。",
+      "individual_scope": "本文の個人の実績評価・中断・終了・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_041",
@@ -1756,10 +1981,11 @@
     },
     "source_excerpt_sha256": "25ea29f5e908c9372212bb5a42aa874bc422540194d0e13ad1843db7140e5a42",
     "tags": [
-      "diet",
-      "evaluation",
-      "contract",
-      "records"
+      "individual:relevant",
+      "operation:staffing_training",
+      "task:case_records",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -1776,7 +2002,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01551"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「異なる機関での支援と調整責任者」：個別ケースの機関間引継ぎと調整責任者の配置。",
+      "individual_scope": "本文の個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_042",
@@ -1798,8 +2030,10 @@
     },
     "source_excerpt_sha256": "f4bdfe654339be8d607cc9752fb0ca972d158f5b19a95267edf73773417a1db9",
     "tags": [
-      "contract",
-      "records"
+      "individual:relevant",
+      "task:case_records",
+      "task:interruption_completion",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1816,7 +2050,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01581"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「脱落の認定と終了確定を分ける」：個人の脱落認定・終了確定の手順。",
+      "individual_scope": "本文の中断・終了・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_043",
@@ -1838,9 +2078,11 @@
     },
     "source_excerpt_sha256": "137f4c28a973ee39c6fa7596c7d6dccf6cc76bc6596b3af8ab0aa828d6d30dee",
     "tags": [
-      "ict",
-      "contract",
-      "records"
+      "individual:relevant",
+      "operation:contract",
+      "task:interruption_completion",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -1857,7 +2099,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01581"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「資格喪失時の指導・精算」：資格喪失後の個別支援終了と費用精算を区別する。",
+      "individual_scope": "本文の中断・終了に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_044",
@@ -1879,11 +2127,11 @@
     },
     "source_excerpt_sha256": "d47cce4a1ecf29af555f4ad377eea1499666941ce5d955c0dc88641f6e4ca664",
     "tags": [
-      "weight",
-      "waist",
-      "ict",
-      "contract",
-      "records"
+      "individual:relevant",
+      "operation:privacy",
+      "operation:remote",
+      "task:initial_interview",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1900,7 +2148,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01819"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「遠隔面接の環境・本人確認」：遠隔面接の実施環境と本人確認。",
+      "individual_scope": "本文の初回面接に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_045",
@@ -1922,8 +2176,12 @@
     },
     "source_excerpt_sha256": "13536fdbde886459bc6674c4cc6a72700154e6beec5eac45bd435c45d21b4f04",
     "tags": [
-      "ict",
-      "consent"
+      "individual:relevant",
+      "operation:consent",
+      "operation:privacy",
+      "operation:remote",
+      "task:initial_interview",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -1940,7 +2198,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01851"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「遠隔面接の録音録画と通信障害」：録音録画への同意、通信障害時の面接対応。",
+      "individual_scope": "本文の初回面接に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_046",
@@ -1962,8 +2226,13 @@
     },
     "source_excerpt_sha256": "d4652b65bda9f2f0c65a626c81c46a688ca7bbabe057d711a5214987304bd6bf",
     "tags": [
-      "ict",
-      "contract"
+      "individual:relevant",
+      "operation:consent",
+      "operation:contract",
+      "operation:remote",
+      "task:initial_interview",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -1980,7 +2249,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01860"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「遠隔支援の費用と事前説明」：遠隔利用の費用説明・同意と組織の費用分担。",
+      "individual_scope": "本文の初回面接に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_047",
@@ -2002,8 +2277,11 @@
     },
     "source_excerpt_sha256": "8877d96cb46ab27269317bd708113f18f7452c46edd66b2a150ebe51dd8bb8ce",
     "tags": [
-      "ict",
-      "consent"
+      "individual:relevant",
+      "operation:privacy",
+      "operation:remote",
+      "task:case_records",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2020,7 +2298,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01867"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「遠隔面接結果の共有と個別情報の保護」：遠隔面接後の個人の情報共有・保護。",
+      "individual_scope": "本文の個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_048",
@@ -2042,9 +2326,12 @@
     },
     "source_excerpt_sha256": "d1802a79463e9e3dee9cae3d0f8a416e431b13fe65e10983b73468e81a34ed6e",
     "tags": [
-      "consent",
-      "contract",
-      "records"
+      "individual:relevant",
+      "operation:consent",
+      "task:assessment",
+      "task:case_records",
+      "task:eligibility",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2061,7 +2348,13 @@
     "related_evidence_ids": [
       "REF_HB43_L01939"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「診療情報を健診結果へ活用する条件」：診療検査を本人の健診結果として活用する条件。",
+      "individual_scope": "本文の対象者選定・アセスメント・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_049",
@@ -2083,8 +2376,9 @@
     },
     "source_excerpt_sha256": "138c6f936fcd86a25b4c6d5127e91b3ca57838cad1bfb36b075bb15a3eb55775",
     "tags": [
-      "consent",
-      "contract"
+      "individual:not_relevant",
+      "operation:contract",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -2102,7 +2396,13 @@
       "REF_HB43_L02309",
       "REF_HB43_L02317"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「契約書と単価を明確にする」：契約書・単価・再委託条件を設定する組織業務。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_050",
@@ -2124,11 +2424,9 @@
     },
     "source_excerpt_sha256": "cb8f30a2de863ea24c4e3179af2038bb933d247dba135b07ee608e9bd6a5644e",
     "tags": [
-      "exercise",
-      "diet",
-      "evaluation",
-      "contract",
-      "records"
+      "individual:not_relevant",
+      "operation:contract",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -2145,7 +2443,13 @@
     "related_evidence_ids": [
       "REF_HB43_L02325"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「再委託の条件を事前確認する」：契約書・単価・再委託条件を設定する組織業務。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_051",
@@ -2167,9 +2471,10 @@
     },
     "source_excerpt_sha256": "cf44ed2c7c1c1e98b70bd8cba8c2e1b3a5f62401d1a8f47e598f169b378f02ca",
     "tags": [
-      "consent",
-      "contract",
-      "records"
+      "individual:not_relevant",
+      "operation:contract",
+      "operation:privacy",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -2186,7 +2491,13 @@
     "related_evidence_ids": [
       "REF_HB43_L02411"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「委託契約で個人情報保護を担保する」：委託契約に保護条項を設定する内容。個別の同意取得手順とは区別する。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_052",
@@ -2208,8 +2519,9 @@
     },
     "source_excerpt_sha256": "134b988618269d3ee21cd9d76adac0796bc2112b973d268205301c7437dcefc3",
     "tags": [
-      "contract",
-      "records"
+      "individual:not_relevant",
+      "operation:staffing_training",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -2226,7 +2538,13 @@
     "related_evidence_ids": [
       "REF_HB43_L02472"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「重要事項を公開する」：実施機関の重要事項の公開義務。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_053",
@@ -2248,13 +2566,10 @@
     },
     "source_excerpt_sha256": "bcbf8c4e26eefeeed1f27a4210b708bfd788f7b29ae9290ac3fc20f16223b5f2",
     "tags": [
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "evaluation",
-      "contract",
-      "records"
+      "individual:not_relevant",
+      "operation:contract",
+      "operation:program_evaluation",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -2274,7 +2589,13 @@
       "REF_HB43_L02941",
       "REF_HB43_L02976"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「委託先の基準遵守と質を評価する」：委託機関の基準遵守と事業の質を評価する内容。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_054",
@@ -2296,8 +2617,9 @@
     },
     "source_excerpt_sha256": "3d95b188d62255f35e60c19ebea39a48dac7f840f73ef214bdbf3e84e155d9fb",
     "tags": [
-      "evaluation",
-      "records"
+      "individual:not_relevant",
+      "operation:reporting",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -2316,7 +2638,13 @@
       "REF_HB43_L04431",
       "REF_HB43_L04440"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「標準データ形式の必要性」：組織間の標準データ形式を整える内容。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_055",
@@ -2338,9 +2666,12 @@
     },
     "source_excerpt_sha256": "4f40dee84b564ee592bc0571b158fec46d44cfabb449ffbbceeb802f27e2e5d5",
     "tags": [
-      "evaluation",
-      "contract",
-      "records"
+      "individual:relevant",
+      "operation:record_retention",
+      "operation:reporting",
+      "task:case_records",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -2357,7 +2688,13 @@
     "related_evidence_ids": [
       "REF_HB43_L04533"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「電子化の対象と個人記録を分ける」：個人記録として残す範囲と電子報告範囲を区別する。",
+      "individual_scope": "本文の個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_056",
@@ -2379,8 +2716,12 @@
     },
     "source_excerpt_sha256": "51aca72f77c43b77998327fc147990741b5e78100141ac183b40aa52fdcad7e3",
     "tags": [
-      "consent",
-      "records"
+      "individual:relevant",
+      "operation:privacy",
+      "operation:record_retention",
+      "task:case_records",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -2397,7 +2738,13 @@
     "related_evidence_ids": [
       "REF_HB43_L05329"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「健診・保健指導記録の保存期間」：個人の健診・指導記録の保存年限と管理に関する内容。",
+      "individual_scope": "本文の個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_057",
@@ -2419,7 +2766,9 @@
     },
     "source_excerpt_sha256": "deddd4c9587564f9623cdf66db92dd8b66b4e07b43cd9c531f50969a8d031795",
     "tags": [
-      "records"
+      "individual:not_relevant",
+      "operation:reporting",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -2437,7 +2786,13 @@
       "REF_HB43_L05685",
       "REF_HB43_L05691"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「実績報告の期限と様式」：保険者からの実績報告の期限・様式。個人の実績評価とは異なる。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_001",
@@ -2459,8 +2814,10 @@
     },
     "source_excerpt_sha256": "1bec84fecd7534021553f9edc10b3a4b3768ecc7d8497c246dc2cceb85e94a25",
     "tags": [
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "operation:remote",
+      "task:initial_interview",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2479,7 +2836,13 @@
       "REF_QA20241025_L00051",
       "REF_QA20241025_L00056"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「遠隔面接の接続・本人確認時間は算入しない」：遠隔面接の実質的な面接時間の算定。",
+      "individual_scope": "本文の初回面接に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_002",
@@ -2501,7 +2864,10 @@
     },
     "source_excerpt_sha256": "c98eb74249e8080ec53daeb4d0c04ffef152a25d7da0cde94e21b994d6ef5e44",
     "tags": [
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:initial_interview",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2519,7 +2885,13 @@
       "REF_QA20241025_L00056",
       "REF_QA20241025_L00060"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「初回面接を個別継続支援として二重計上しない」：初回面接のポイント計上と二重計上防止。",
+      "individual_scope": "本文の初回面接に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_003",
@@ -2541,7 +2913,10 @@
     },
     "source_excerpt_sha256": "dd0c2d515e2a231b50bac599f2c6932468ec2d8a2fb245eeca3fa13dca89f7b0",
     "tags": [
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:initial_interview",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2560,7 +2935,13 @@
       "REF_QA20241025_L00074",
       "REF_QA20241025_L00081"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「分割面接の早期実施は1回目で評価する」：初回面接のポイント計上と二重計上防止。",
+      "individual_scope": "本文の初回面接に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_004",
@@ -2582,9 +2963,13 @@
     },
     "source_excerpt_sha256": "cc331e1d3c925814e7ff8c2bf0f67cbf13f641cd721b1f098a8be1e4ec5c0a7a",
     "tags": [
-      "weight",
-      "waist",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2603,7 +2988,13 @@
       "REF_QA20241025_L00095",
       "REF_QA20241025_L00102"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「減量達成だけで初回面接時に終了しない」：個人の身体アウトカムと行動目標の評価要件。",
+      "individual_scope": "本文の個人の実績評価・目標・行動計画に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_005",
@@ -2625,9 +3016,13 @@
     },
     "source_excerpt_sha256": "a99e480d6ba286af009892043da82a5eed47e2d74103d68b3143aaf60d0662d3",
     "tags": [
-      "weight",
-      "waist",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2645,7 +3040,13 @@
       "REF_QA20241025_L00102",
       "REF_QA20241025_L00107"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「1cm・1kg減に0.012係数は使えない」：個人の身体アウトカムと行動目標の評価要件。",
+      "individual_scope": "本文の個人の実績評価・目標・行動計画に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_006",
@@ -2667,10 +3068,13 @@
     },
     "source_excerpt_sha256": "b8bc9acee24953a1c7eb175cf18fe06cf02edbdbe76fd43535c12bef32b843f9",
     "tags": [
-      "weight",
-      "waist",
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2688,7 +3092,13 @@
       "REF_QA20241025_L00107",
       "REF_QA20241025_L00113"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「体重・腹囲評価の客観性」：個人の身体アウトカムと行動目標の評価要件。",
+      "individual_scope": "本文の個人の実績評価・目標・行動計画に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_007",
@@ -2710,9 +3120,13 @@
     },
     "source_excerpt_sha256": "6d80beab207bbfe854a26b04f77070fdf3abeee24ea4d1e1a05a4eeaeac43efe",
     "tags": [
-      "weight",
-      "waist",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2732,7 +3146,13 @@
       "REF_QA20241025_L00130",
       "REF_QA20241025_L00135"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「身体アウトカムと行動目標の評価を区別する」：個人の身体アウトカムと行動目標の評価要件。",
+      "individual_scope": "本文の個人の実績評価・目標・行動計画に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_008",
@@ -2754,8 +3174,11 @@
     },
     "source_excerpt_sha256": "263774c8c0bcbde865b2f14e7b8aadcf898239c6695b838c13f35f8c23a8d9ff",
     "tags": [
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "operation:remote",
+      "task:follow_up",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2773,7 +3196,13 @@
       "REF_QA20241025_L00135",
       "REF_QA20241025_L00144"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「AI等による自動支援は支援ポイントの対象外」：自動応答や簡易なやりとりの支援ポイント算定可否。",
+      "individual_scope": "本文の継続支援に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_009",
@@ -2795,10 +3224,11 @@
     },
     "source_excerpt_sha256": "2495c01f9d46bfb5ac84d00203da9a02ed18c7f14a727b52a8a21007e25ae68e",
     "tags": [
-      "exercise",
-      "diet",
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "operation:remote",
+      "task:follow_up",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -2816,7 +3246,13 @@
       "REF_QA20241025_L00144",
       "REF_QA20241025_L00150"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「画像・絵文字だけのやりとりは算定しない」：自動応答や簡易なやりとりの支援ポイント算定可否。",
+      "individual_scope": "本文の継続支援に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_010",
@@ -2838,11 +3274,9 @@
     },
     "source_excerpt_sha256": "3df04079f30980bba65ac3af592d9c942200ba42ab8acbecacb6c8a8592bfebd",
     "tags": [
-      "weight",
-      "waist",
-      "exercise",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "task:goal_planning",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -2861,7 +3295,13 @@
       "REF_QA20241025_L00158",
       "REF_QA20241025_L00174"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「行動目標の例は本人に合わせて具体化する」：本人に合った具体的な目標設定。",
+      "individual_scope": "本文の目標・行動計画に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_011",
@@ -2883,10 +3323,13 @@
     },
     "source_excerpt_sha256": "bc19a7a033603a142cacb57d837af7c213f7b43e63037f56ba2308554560f76f",
     "tags": [
-      "weight",
-      "alcohol",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "topic:alcohol",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -2904,7 +3347,13 @@
       "REF_QA20241025_L00174",
       "REF_QA20241025_L00190"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「飲酒目標はその他の生活習慣に分類する」：飲酒行動目標の評価分類。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_012",
@@ -2926,8 +3375,13 @@
     },
     "source_excerpt_sha256": "1d33f386b5ba101f551b50ad8227542f61572ed62b9f8fc8a6e872b826ef8cc1",
     "tags": [
-      "sleep",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "topic:sleep",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -2945,7 +3399,13 @@
       "REF_QA20241025_L00190",
       "REF_QA20241025_L00196"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「休養の評価は個人の課題と生活環境に合わせる」：本人の生活課題に応じた休養目標の評価。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_013",
@@ -2967,11 +3427,14 @@
     },
     "source_excerpt_sha256": "b2fa50d5a6ac52dc3ce26f59e4c665cf60895bd8fffe1915f2804a0aca19c3a4",
     "tags": [
-      "weight",
-      "systolic_bp",
-      "diastolic_bp",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "topic:blood_pressure",
+      "topic:weight",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -2989,7 +3452,13 @@
       "REF_QA20241025_L00196",
       "REF_QA20241025_L00203"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「体重・血圧の記録習慣の評価」：体重・血圧の自己記録という行動目標の評価。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_014",
@@ -3011,12 +3480,12 @@
     },
     "source_excerpt_sha256": "6bd310e2f711201d8c5d8ef20878752202408f7c0efd4827d755195eddb8a072",
     "tags": [
-      "weight",
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "topic:diet",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -3034,7 +3503,13 @@
       "REF_QA20241025_L00203",
       "REF_QA20241025_L00211"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「減塩だけで食習慣のポイントとしない」：減塩目標だけで食習慣ポイントを算定しない条件。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_015",
@@ -3056,10 +3531,13 @@
     },
     "source_excerpt_sha256": "34b5c27e04a28a4899e54ff338eb85cb130070e357b414f77400a650d7d2a676",
     "tags": [
-      "weight",
-      "exercise",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "topic:diet",
+      "topic:physical_activity",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -3076,7 +3554,13 @@
     "related_evidence_ids": [
       "REF_QA20241025_L00223"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「分野別評価に必要な目標の水準」：食習慣・運動の行動目標に必要な達成水準。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_016",
@@ -3098,9 +3582,12 @@
     },
     "source_excerpt_sha256": "d8fd12206c3a645137d49187c45ddb09d8b82293e6354e44e35424f46689488f",
     "tags": [
-      "exercise",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3120,7 +3607,13 @@
       "REF_QA20241025_L00238",
       "REF_QA20241025_L00245"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「後付け目標や継ぎ足した継続期間は算定しない」：計画に定めた行動変容の継続期間・達成済み・複合目標の算定条件。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_017",
@@ -3142,8 +3635,13 @@
     },
     "source_excerpt_sha256": "b742fc3dc10012d773b93f8d99fc53d7f4c69f1f11cf6969399be2ab2c9840cf",
     "tags": [
-      "smoking",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "topic:smoking",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3163,7 +3661,13 @@
       "REF_QA20241025_L00260",
       "REF_QA20241025_L00263"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「禁煙の達成には全ての喫煙中止の継続が必要」：禁煙達成を評価する継続条件。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_018",
@@ -3185,11 +3689,12 @@
     },
     "source_excerpt_sha256": "95bc91dbf8cefd6b530062ae4feeab8fe128968058fc5c2689b212e4c22a25fc",
     "tags": [
-      "weight",
-      "waist",
-      "exercise",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3208,7 +3713,13 @@
       "REF_QA20241025_L00269",
       "REF_QA20241025_L00275"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「複合目標と2か月の継続期間」：計画に定めた行動変容の継続期間・達成済み・複合目標の算定条件。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P3_3_001",
@@ -3230,7 +3741,9 @@
     },
     "source_excerpt_sha256": "7d191205210b4ab531fb9fdae760bf3c1f76fd74e791592b8723cf44823c015e",
     "tags": [
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3247,7 +3760,13 @@
     "related_evidence_ids": [
       "REF_P3_3_L00030"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「面談前に資料と利用可能な資源を確認する」：面接・行動変容支援で本人に合わせて実践する技術。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P3_3_002",
@@ -3269,8 +3788,10 @@
     },
     "source_excerpt_sha256": "f92c71f950fa40b46d1557fd15aff61552d74f262d68bea915fecbcd02605a54",
     "tags": [
-      "ict",
-      "consent"
+      "individual:relevant",
+      "operation:consent",
+      "task:initial_interview",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3288,7 +3809,13 @@
       "REF_P3_3_L00049",
       "REF_P3_3_L00063"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「話しやすい雰囲気と信頼関係」：本人の同意を確認し信頼関係をつくる面接技術。",
+      "individual_scope": "本文の初回面接に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P3_3_003",
@@ -3310,12 +3837,9 @@
     },
     "source_excerpt_sha256": "bcd344f4de73a3d2515709bfdfc671bc79491cbb272306402786035553517ecf",
     "tags": [
-      "smoking",
-      "alcohol",
-      "exercise",
-      "diet",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3332,7 +3856,13 @@
     "related_evidence_ids": [
       "REF_P3_3_L00063"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「準備段階と生活習慣をアセスメントする」：面接・行動変容支援で本人に合わせて実践する技術。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P3_3_004",
@@ -3354,9 +3884,9 @@
     },
     "source_excerpt_sha256": "1bdeea8a81a22d55908b88116eb388cdc416a43adffd7ef68178313b6b715486",
     "tags": [
-      "alcohol",
-      "diet",
-      "sleep"
+      "individual:relevant",
+      "task:results_explanation",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3374,7 +3904,13 @@
       "REF_P3_3_L00089",
       "REF_P3_3_L00118"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「本人の気付きにつながる説明」：面接・行動変容支援で本人に合わせて実践する技術。",
+      "individual_scope": "本文の結果説明に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P3_3_005",
@@ -3396,14 +3932,9 @@
     },
     "source_excerpt_sha256": "16808cde25d6fc539e30b042de1b6668184473a91b3f59bf4d5a6e58a05c4990",
     "tags": [
-      "weight",
-      "waist",
-      "alcohol",
-      "exercise",
-      "diet",
-      "ict",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:goal_planning",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3421,7 +3952,13 @@
       "REF_P3_3_L00118",
       "REF_P3_3_L00178"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「教材は根拠と本人への適合性で選ぶ」：面接・行動変容支援で本人に合わせて実践する技術。",
+      "individual_scope": "本文の目標・行動計画に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P3_3_006",
@@ -3443,10 +3980,9 @@
     },
     "source_excerpt_sha256": "e72197243f7d18d74212bd189b017b23765289ef85f63dccb77eedff7ec2a781",
     "tags": [
-      "weight",
-      "diet",
-      "ict",
-      "records"
+      "individual:relevant",
+      "task:goal_planning",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3463,7 +3999,13 @@
     "related_evidence_ids": [
       "REF_P3_3_L00178"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「本人が選べる具体的な目標にする」：面接・行動変容支援で本人に合わせて実践する技術。",
+      "individual_scope": "本文の目標・行動計画に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P3_3_007",
@@ -3485,8 +4027,9 @@
     },
     "source_excerpt_sha256": "a9802f37392078b7e4e7794d76c0a37596a8e481f11a0722c0bba852788ab045",
     "tags": [
-      "ict",
-      "evaluation"
+      "individual:relevant",
+      "task:follow_up",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3504,7 +4047,13 @@
       "REF_P3_3_L00209",
       "REF_P3_3_L00238"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「継続フォローの方法を本人と確認する」：面接・行動変容支援で本人に合わせて実践する技術。",
+      "individual_scope": "本文の継続支援に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P3_3_008",
@@ -3526,9 +4075,9 @@
     },
     "source_excerpt_sha256": "f288c67aaa81f60f8ac3734f88fcd5db3a22e28c84dfa69527c87285edd5bde1",
     "tags": [
-      "weight",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:outcome_evaluation",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3546,7 +4095,13 @@
       "REF_P3_3_L00238",
       "REF_P3_3_L00256"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「目標達成と健診結果を振り返る」：面接・行動変容支援で本人に合わせて実践する技術。",
+      "individual_scope": "本文の個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P3_3_009",
@@ -3567,7 +4122,11 @@
       "extracted_line_end": 1510
     },
     "source_excerpt_sha256": "035198565a233326c736e56d11f5cf2acbc43101a9a3d09c0a26818055487028",
-    "tags": [],
+    "tags": [
+      "individual:relevant",
+      "task:interruption_completion",
+      "use:guidance"
+    ],
     "common": false,
     "conditions": [
       "未参加を意欲不足と決めつけず、時間・環境等の障壁を確認する。"
@@ -3584,7 +4143,13 @@
       "REF_P3_3_L01490",
       "REF_P3_3_L01510"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「未実施者・中断者の理由を把握する」：面接・行動変容支援で本人に合わせて実践する技術。",
+      "individual_scope": "本文の中断・終了に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P3_3_010",
@@ -3606,9 +4171,10 @@
     },
     "source_excerpt_sha256": "4ddfb1407a6bac12669fed57505b790f334fb4727d6d611ddd60a1bd88931131",
     "tags": [
-      "weight",
-      "exercise",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "task:follow_up",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3626,7 +4192,13 @@
       "REF_P3_3_L01510",
       "REF_P3_3_L01517"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「無関心期と再参加者に応じた支援」：面接・行動変容支援で本人に合わせて実践する技術。",
+      "individual_scope": "本文のアセスメント・継続支援に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_SMOKING_001",
@@ -3648,7 +4220,10 @@
     },
     "source_excerpt_sha256": "89c6569494710e277dd975a9bc56b4d00cec2d8068fddca006d83ab413da6866",
     "tags": [
-      "smoking"
+      "individual:relevant",
+      "task:results_explanation",
+      "topic:smoking",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3665,7 +4240,13 @@
     "related_evidence_ids": [
       "REF_SMOKING_L00000"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「喫煙者全員への禁煙支援」：喫煙者又は受動喫煙への説明と禁煙支援。",
+      "individual_scope": "本文の結果説明に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_SMOKING_002",
@@ -3687,7 +4268,11 @@
     },
     "source_excerpt_sha256": "3f59f0492293e2944251f051d4219d02841d257ca95db889dc3b9ff0a4de158a",
     "tags": [
-      "smoking"
+      "individual:relevant",
+      "task:follow_up",
+      "task:goal_planning",
+      "topic:smoking",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3704,7 +4289,13 @@
     "related_evidence_ids": [
       "REF_SMOKING_L00000"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「禁煙開始日とフォローアップ」：禁煙開始日の合意と継続フォロー。",
+      "individual_scope": "本文の目標・行動計画・継続支援に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_SMOKING_003",
@@ -3726,7 +4317,10 @@
     },
     "source_excerpt_sha256": "d65cc0f149d3424bc7e60d01191cf938578038a6a3dc7a8a0728ddc46c523b57",
     "tags": [
-      "smoking"
+      "individual:relevant",
+      "task:results_explanation",
+      "topic:smoking",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3743,7 +4337,13 @@
     "related_evidence_ids": [
       "REF_SMOKING_L00000"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「受動喫煙の情報提供は非喫煙者にも行う」：喫煙者又は受動喫煙への説明と禁煙支援。",
+      "individual_scope": "本文の結果説明に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_NONOBESE_001",
@@ -3765,16 +4365,15 @@
     },
     "source_excerpt_sha256": "14eb5802e0547b1b068ada34be319ce568e8d9549ff47f850ca29fa98056433c",
     "tags": [
-      "weight",
-      "systolic_bp",
-      "diastolic_bp",
-      "smoking",
-      "alcohol",
-      "exercise",
-      "diet",
-      "kidney",
-      "liver",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "task:goal_planning",
+      "topic:alcohol",
+      "topic:blood_pressure",
+      "topic:diet",
+      "topic:kidney",
+      "topic:physical_activity",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3791,7 +4390,13 @@
     "related_evidence_ids": [
       "REF_NONOBESE_L00000"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「非肥満の高血圧リスクと腎機能への配慮」：非肥満者の血圧改善と腎機能に配慮した支援。",
+      "individual_scope": "本文のアセスメント・目標・行動計画に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_FB_001",
@@ -3813,10 +4418,10 @@
     },
     "source_excerpt_sha256": "fc826a28afba1bcc2125c4f41420065b2ab5b649f5f0f2e5c797e6dc3a0da8e8",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids"
+      "individual:relevant",
+      "task:referral",
+      "task:results_explanation",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3833,7 +4438,13 @@
     "related_evidence_ids": [
       "REF_P2_FB_L00213"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「フィードバック文例を組み合わせる際の注意」：本人の検査所見に応じた説明・医療受診の案内。",
+      "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_FB_002",
@@ -3855,9 +4466,11 @@
     },
     "source_excerpt_sha256": "6172388644c49f000c93051d1b1be47b640ba8197715ee0b654ed9c1b70d10d8",
     "tags": [
-      "weight",
-      "systolic_bp",
-      "diastolic_bp"
+      "individual:relevant",
+      "task:referral",
+      "task:results_explanation",
+      "topic:blood_pressure",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3874,7 +4487,13 @@
     "related_evidence_ids": [
       "REF_P2_FB_L00213"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「高い血圧値を生活指導だけで処理しない」：本人の検査所見に応じた説明・医療受診の案内。",
+      "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_FB_003",
@@ -3896,16 +4515,11 @@
     },
     "source_excerpt_sha256": "fe5d3f26fa38441f6d24c4db504d5d1f6abf4653caf033acb97dd79eb255e788",
     "tags": [
-      "weight",
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids",
-      "smoking",
-      "exercise",
-      "kidney",
-      "records"
+      "individual:relevant",
+      "task:referral",
+      "task:results_explanation",
+      "topic:lipids",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3924,7 +4538,13 @@
       "REF_P2_FB_L00546",
       "REF_P2_FB_L00614"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「脂質の説明はLDL・TG・HDLを区別する」：本人の検査所見に応じた説明・医療受診の案内。",
+      "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_FB_004",
@@ -3946,19 +4566,14 @@
     },
     "source_excerpt_sha256": "61912b6e48630e25ccd304e0291d2c106136244fcf270b21561bbd51a6c5ce21",
     "tags": [
-      "weight",
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "alcohol",
-      "exercise",
-      "diet",
-      "kidney",
-      "records"
+      "individual:relevant",
+      "task:referral",
+      "task:results_explanation",
+      "topic:glucose",
+      "topic:hba1c",
+      "topic:medication",
+      "topic:weight",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -3976,7 +4591,13 @@
       "REF_P2_FB_L00668",
       "REF_P2_FB_L00798"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「血糖の説明は服薬・肥満・検査値の組合せで選ぶ」：本人の検査所見に応じた説明・医療受診の案内。",
+      "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_FB_005",
@@ -3998,10 +4619,12 @@
     },
     "source_excerpt_sha256": "bcbbd37b109ef459df6d2609e2e6655c2c7fa09099dc9c1a6cc0b49a9c91bb10",
     "tags": [
-      "weight",
-      "glucose",
-      "exercise",
-      "diet"
+      "individual:relevant",
+      "task:referral",
+      "task:results_explanation",
+      "topic:frailty",
+      "topic:glucose",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4018,7 +4641,13 @@
     "related_evidence_ids": [
       "REF_P2_FB_L00849"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「高齢者の血糖管理では低血糖等を考慮する」：本人の検査所見に応じた説明・医療受診の案内。",
+      "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_FB_006",
@@ -4040,13 +4669,11 @@
     },
     "source_excerpt_sha256": "fba2de4e8ec1782b4568f922c51be208c631102c531b42a5575566d33b457e08",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids",
-      "alcohol",
-      "diet",
-      "liver"
+      "individual:relevant",
+      "task:referral",
+      "task:results_explanation",
+      "topic:liver",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4063,7 +4690,13 @@
     "related_evidence_ids": [
       "REF_P2_FB_L00981"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「肝機能異常を生活習慣だけに帰属させない」：本人の検査所見に応じた説明・医療受診の案内。",
+      "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_FB_007",
@@ -4085,15 +4718,11 @@
     },
     "source_excerpt_sha256": "c39f88c7f548f4c71b8d78280f1c8bf4b5cf1705eb6fbca7c04d58eddbcfcebd",
     "tags": [
-      "weight",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids",
-      "smoking",
-      "exercise",
-      "diet",
-      "kidney"
+      "individual:relevant",
+      "task:referral",
+      "task:results_explanation",
+      "topic:kidney",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4111,7 +4740,13 @@
       "REF_P2_FB_L01062",
       "REF_P2_FB_L01123"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「尿蛋白だけの文例と腎機能を併せた文例を分ける」：本人の検査所見に応じた説明・医療受診の案内。",
+      "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_FB_008",
@@ -4133,16 +4768,11 @@
     },
     "source_excerpt_sha256": "cf995693df633341bb3dfe38438b4355cccbf00142e9e5331cee4253dcbcb26e",
     "tags": [
-      "weight",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids",
-      "smoking",
-      "exercise",
-      "diet",
-      "kidney",
-      "evaluation"
+      "individual:relevant",
+      "task:referral",
+      "task:results_explanation",
+      "topic:kidney",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4160,7 +4790,13 @@
       "REF_P2_FB_L01163",
       "REF_P2_FB_L01237"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「腎機能の説明ではeGFRと尿蛋白を併読する」：本人の検査所見に応じた説明・医療受診の案内。",
+      "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_FB_009",
@@ -4182,9 +4818,10 @@
     },
     "source_excerpt_sha256": "ebd2b7d4832bb5b20ce0ee5c130460a83e5bea4670522561b6a39af61a8fb888",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "records"
+      "individual:relevant",
+      "task:referral",
+      "task:results_explanation",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4202,7 +4839,13 @@
       "REF_P2_FB_L01295",
       "REF_P2_FB_L01360"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「心電図所見は医師の判定と受診につなぐ」：本人の検査所見に応じた説明・医療受診の案内。",
+      "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_FB_010",
@@ -4224,14 +4867,12 @@
     },
     "source_excerpt_sha256": "ba4b3f9ca141982146acfbe6de5a40b06e9c170fb7ee457c852212085383370c",
     "tags": [
-      "weight",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids",
-      "smoking",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:referral",
+      "task:results_explanation",
+      "topic:blood_pressure",
+      "topic:glucose",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4250,7 +4891,13 @@
       "REF_P2_FB_L01460",
       "REF_P2_FB_L01525"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「眼底の高血圧性変化と糖尿病網膜症を区別する」：本人の検査所見に応じた説明・医療受診の案内。",
+      "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_001",
@@ -4272,12 +4919,10 @@
     },
     "source_excerpt_sha256": "eb8978209f955fa0b52176a1afe644607e7106953fd5eb0b2758ef5385652500",
     "tags": [
-      "glucose",
-      "lipids",
-      "smoking",
-      "diet",
-      "oral",
-      "evaluation"
+      "individual:relevant",
+      "task:assessment",
+      "topic:smoking",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4294,7 +4939,13 @@
     "related_evidence_ids": [
       "REF_P2_Q_L00331"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「喫煙質問票では現在・過去の喫煙を区別する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_002",
@@ -4316,17 +4967,10 @@
     },
     "source_excerpt_sha256": "2fa3a5cff5d0f47c56c818863e83a89291e6b4f15426050142c13b0615ec4f2a",
     "tags": [
-      "weight",
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids",
-      "smoking",
-      "exercise",
-      "diet",
-      "sleep",
-      "evaluation"
+      "individual:relevant",
+      "task:assessment",
+      "topic:weight",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4343,7 +4987,13 @@
     "related_evidence_ids": [
       "REF_P2_Q_L00453"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「20歳時からの体重増加を確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_003",
@@ -4365,9 +5015,10 @@
     },
     "source_excerpt_sha256": "1174e2dbb78f203b48bc16b5f85a0a302088d016935fe54599e68636503fb36a",
     "tags": [
-      "weight",
-      "exercise",
-      "evaluation"
+      "individual:relevant",
+      "task:assessment",
+      "topic:physical_activity",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4385,7 +5036,13 @@
       "REF_P2_Q_L00560",
       "REF_P2_Q_L00610"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「運動習慣と日常生活の身体活動を分けて聞く」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_004",
@@ -4407,12 +5064,11 @@
     },
     "source_excerpt_sha256": "870b386999f36698f668e637ee87ad94cf4b8a5787d27670f18d62ba4d3e3882",
     "tags": [
-      "glucose",
-      "smoking",
-      "diet",
-      "oral",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "topic:diet",
+      "topic:oral",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4429,7 +5085,13 @@
     "related_evidence_ids": [
       "REF_P2_Q_L00673"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「噛みにくさを食事指導の前提として確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_005",
@@ -4451,12 +5113,10 @@
     },
     "source_excerpt_sha256": "bcf3e4ecd3a521fc4769c9b153c0b73f0c4fb148e5a8659c05dcbb87c55fbf46",
     "tags": [
-      "weight",
-      "glucose",
-      "diet",
-      "oral",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "topic:diet",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4473,7 +5133,13 @@
     "related_evidence_ids": [
       "REF_P2_Q_L00741"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「早食いの背景にある生活環境を聞く」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_006",
@@ -4495,14 +5161,11 @@
     },
     "source_excerpt_sha256": "b5b37dd592fc4b9c3f17c033505e9ce231e4ca847801c721d3c3a48883c2aab7",
     "tags": [
-      "weight",
-      "waist",
-      "glucose",
-      "lipids",
-      "diet",
-      "sleep",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "topic:diet",
+      "topic:sleep",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4520,7 +5183,13 @@
       "REF_P2_Q_L00826",
       "REF_P2_Q_L00886"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「遅い夕食は時刻・内容・生活背景を併せて聞く」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_007",
@@ -4542,14 +5211,10 @@
     },
     "source_excerpt_sha256": "5c268c95137156b363311f92e8dcb2f7b283f71f4975b4f36ba04890cb8bf429",
     "tags": [
-      "weight",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids",
-      "diet",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "topic:diet",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4567,7 +5232,13 @@
       "REF_P2_Q_L00886",
       "REF_P2_Q_L00960"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「間食と甘い飲み物を具体的に確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_008",
@@ -4589,12 +5260,10 @@
     },
     "source_excerpt_sha256": "f76bfff3fe0f4ad37ee5a6c8703a06b0ab057215b92858a27f8f10a7d26face4",
     "tags": [
-      "weight",
-      "glucose",
-      "diet",
-      "sleep",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "topic:diet",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4612,7 +5281,13 @@
       "REF_P2_Q_L01013",
       "REF_P2_Q_L01087"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「朝食欠食は実行を妨げる要因も確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_009",
@@ -4634,12 +5309,10 @@
     },
     "source_excerpt_sha256": "66b4f483510ead88a3da90193f4892ca58bb1c64b4ff16f82842bf5b1d69a3c0",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "lipids",
-      "alcohol",
-      "sleep",
-      "evaluation"
+      "individual:relevant",
+      "task:assessment",
+      "topic:alcohol",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4657,7 +5330,13 @@
       "REF_P2_Q_L01087",
       "REF_P2_Q_L01149"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「飲酒頻度と飲酒日の量を分けて把握する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_010",
@@ -4679,14 +5358,10 @@
     },
     "source_excerpt_sha256": "0d324c8943c1a78435b73df063ce6362c683be616d50af232d89840fe4b1e97c",
     "tags": [
-      "weight",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "exercise",
-      "diet",
-      "sleep",
-      "evaluation"
+      "individual:relevant",
+      "task:assessment",
+      "topic:sleep",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4703,7 +5378,13 @@
     "related_evidence_ids": [
       "REF_P2_Q_L01199"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「睡眠の量・質と眠気を確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_011",
@@ -4725,14 +5406,9 @@
     },
     "source_excerpt_sha256": "5b44bea1d1b465e5962317f130a190eaeb09b248df3f428bc5f4ec05c3f248cd",
     "tags": [
-      "weight",
-      "smoking",
-      "alcohol",
-      "exercise",
-      "diet",
-      "sleep",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4750,7 +5426,13 @@
       "REF_P2_Q_L01277",
       "REF_P2_Q_L01323"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「生活習慣改善の準備段階を記録する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_012",
@@ -4772,12 +5454,9 @@
     },
     "source_excerpt_sha256": "efc9e59d25412eb08c8ffc98122d204d901d1b3f87132810c97a3c596cecfa4d",
     "tags": [
-      "weight",
-      "waist",
-      "exercise",
-      "diet",
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -4795,7 +5474,13 @@
       "REF_P2_Q_L01323",
       "REF_P2_Q_L01406"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「過去の保健指導経験を確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_Q_013",
@@ -4817,11 +5502,10 @@
     },
     "source_excerpt_sha256": "0dcd02d915edd7d2e7100e2f79e0e57931e18599eef3a55d95ddfd3f60d0728a",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "lipids",
-      "liver",
-      "records"
+      "individual:relevant",
+      "task:assessment",
+      "topic:blood_pressure",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -4839,7 +5523,13 @@
       "REF_P2_Q_L01570",
       "REF_P2_Q_L01576"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「血圧測定は回数と平均の扱いを記録する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
+      "individual_scope": "本文のアセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_ANN14_001",
@@ -4861,7 +5551,9 @@
     },
     "source_excerpt_sha256": "67ddf3be8085b793c55c5dd238e6a29547d796e94885b0e472f98941e56729e2",
     "tags": [
-      "contract"
+      "individual:not_relevant",
+      "operation:contract",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -4878,7 +5570,13 @@
     "related_evidence_ids": [
       "REF_ANN14_L00000"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「標準契約書の例の適用範囲」：集合契約ひな型の適用範囲を説明する組織業務。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_ANN14_002",
@@ -4900,9 +5598,10 @@
     },
     "source_excerpt_sha256": "22d0f6ec4ff3a66093b31ab3276ec71b09831782bf25ebb68e157e337b93a9de",
     "tags": [
-      "consent",
-      "contract",
-      "records"
+      "individual:not_relevant",
+      "operation:contract",
+      "operation:privacy",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -4919,7 +5618,13 @@
     "related_evidence_ids": [
       "REF_ANN14_L00045"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「契約例の再委託・個人情報保護」：再委託・個人情報保護の契約条項を整備する内容。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_3_001",
@@ -4941,16 +5646,13 @@
     },
     "source_excerpt_sha256": "39df4b8f2c416ee3e6ff5d981a72d8af0ba18c57dd685826d67d2213b993777b",
     "tags": [
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "exercise",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "task:eligibility",
+      "task:stratification",
+      "topic:medication",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -4969,7 +5671,13 @@
       "REF_P2_3_L00058",
       "REF_P2_3_L00063"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「支援区分は腹囲・BMI、追加リスク、年齢の順に決める」：腹囲・BMI・服薬・年齢を順に確認して支援区分を決める。",
+      "individual_scope": "本文の対象者選定・階層化に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_3_002",
@@ -4991,14 +5699,13 @@
     },
     "source_excerpt_sha256": "e9e02e9afdfc17cd38404f023f22ba873b4d3ddf191a9ff8c2137908d4a16bef",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "task:stratification",
+      "topic:blood_pressure",
+      "topic:glucose",
+      "topic:hba1c",
+      "topic:lipids",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5015,7 +5722,13 @@
     "related_evidence_ids": [
       "REF_P2_3_L00016"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「追加リスクは血圧・脂質・血糖の領域ごとに数える」：血圧・脂質・血糖を領域ごとに数える判定規則。",
+      "individual_scope": "本文の階層化に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_3_003",
@@ -5037,12 +5750,10 @@
     },
     "source_excerpt_sha256": "d0a8171d94d9ff0de64f38cbb264bd87f3f2635c9aec5178141fa4013b87fc59",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking"
+      "individual:relevant",
+      "task:stratification",
+      "topic:smoking",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5059,7 +5770,13 @@
     "related_evidence_ids": [
       "REF_P2_3_L00016"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「喫煙は検査リスクが一つ以上あるときだけ加算する」：検査リスクがある場合だけ喫煙を追加する。",
+      "individual_scope": "本文の階層化に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_3_004",
@@ -5081,16 +5798,12 @@
     },
     "source_excerpt_sha256": "f274cb3333227fbd0b3e429c1f8eb32c54617c0c217938875d0ed668d875a069",
     "tags": [
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "exercise",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "task:stratification",
+      "topic:smoking",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5109,7 +5822,13 @@
       "REF_P2_3_L00058",
       "REF_P2_3_L00063"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「腹囲基準以上の支援区分：追加リスク2以上は積極的支援」：腹囲・BMI区分別の追加リスク数と喫煙条件による支援区分。",
+      "individual_scope": "本文の階層化に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_3_005",
@@ -5131,16 +5850,12 @@
     },
     "source_excerpt_sha256": "f274cb3333227fbd0b3e429c1f8eb32c54617c0c217938875d0ed668d875a069",
     "tags": [
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "hba1c",
-      "lipids",
-      "smoking",
-      "exercise",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "task:stratification",
+      "topic:smoking",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5159,7 +5874,13 @@
       "REF_P2_3_L00058",
       "REF_P2_3_L00063"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「腹囲基準未満・BMI25以上の支援区分：追加リスク3以上は積極的支援」：腹囲・BMI区分別の追加リスク数と喫煙条件による支援区分。",
+      "individual_scope": "本文の階層化に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_3_006",
@@ -5181,9 +5902,10 @@
     },
     "source_excerpt_sha256": "50eb4bec748db9e66b47c14ff74d587aab1e456d6e4c58edf123053f175ab481",
     "tags": [
-      "systolic_bp",
-      "diastolic_bp",
-      "exercise"
+      "individual:relevant",
+      "task:eligibility",
+      "task:stratification",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5200,7 +5922,13 @@
     "related_evidence_ids": [
       "REF_P2_3_L00063"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「65～74歳は積極的支援相当でも動機付け支援」：個人のリスク数・年齢から支援区分を確定する規則。",
+      "individual_scope": "本文の対象者選定・階層化に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_3_007",
@@ -5222,13 +5950,13 @@
     },
     "source_excerpt_sha256": "0894cd23a5468402d7e7403af83d64d05803cb7cd10b7910b18b3049b7475dcd",
     "tags": [
-      "waist",
-      "systolic_bp",
-      "diastolic_bp",
-      "glucose",
-      "lipids",
-      "smoking",
-      "diet"
+      "individual:relevant",
+      "task:assessment",
+      "task:goal_planning",
+      "topic:diet",
+      "topic:frailty",
+      "topic:oral",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -5245,7 +5973,13 @@
     "related_evidence_ids": [
       "REF_P2_3_L00083"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「65歳以上の支援では低栄養・口腔機能・フレイルも確認する」：高齢者の低栄養・口腔機能・フレイルに配慮する。",
+      "individual_scope": "本文のアセスメント・目標・行動計画に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_P2_3_008",
@@ -5267,10 +6001,13 @@
     },
     "source_excerpt_sha256": "d4dd6207c1a09bbe68495877d40762718cb231679ec4f094f281d2d5eea43b7a",
     "tags": [
-      "glucose",
-      "hba1c",
-      "diet",
-      "evaluation"
+      "individual:relevant",
+      "task:assessment",
+      "task:outcome_evaluation",
+      "topic:glucose",
+      "topic:hba1c",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -5287,7 +6024,13 @@
     "related_evidence_ids": [
       "REF_P2_3_L00016"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「HbA1cは当日の変化を示す指標ではない」：HbA1cが反映する時期と表記方式を踏まえた個人の評価。",
+      "individual_scope": "本文のアセスメント・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_058",
@@ -5309,12 +6052,10 @@
     },
     "source_excerpt_sha256": "ef5760d75b6d8baad19080478d44fab62b05fd081d37caf7e97735025dad5b6c",
     "tags": [
-      "waist",
-      "glucose",
-      "hba1c",
-      "smoking",
-      "contract",
-      "records"
+      "individual:relevant",
+      "task:case_records",
+      "task:stratification",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5331,7 +6072,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00580"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「メタボ判定と保健指導レベルを別々に記録する」：メタボ判定と保健指導レベルの個人記録を区別する。",
+      "individual_scope": "本文の階層化・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_059",
@@ -5353,9 +6100,12 @@
     },
     "source_excerpt_sha256": "27c01b30d4a9fd32403bc1220cf9b7d7906849a796d2de7a21f32e81e84a98e4",
     "tags": [
-      "waist",
-      "glucose",
-      "hba1c"
+      "individual:relevant",
+      "task:assessment",
+      "task:stratification",
+      "topic:glucose",
+      "topic:hba1c",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5372,7 +6122,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00580"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「メタボ判定と階層化では血糖の基準値が異なる」：メタボ判定と階層化の血糖基準の違い。",
+      "individual_scope": "本文の階層化・アセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_060",
@@ -5394,9 +6150,11 @@
     },
     "source_excerpt_sha256": "146043c5e4adce59b8b8400307a43a8d9d5440853752b4921c3b557a83445cc5",
     "tags": [
-      "waist",
-      "smoking",
-      "records"
+      "individual:relevant",
+      "task:stratification",
+      "topic:waist",
+      "topic:weight",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5413,7 +6171,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00580"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「腹囲欠損はBMIから支援区分を推定できても判定不能」：腹囲欠損時の判定不能を扱う。",
+      "individual_scope": "本文の階層化に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_061",
@@ -5435,9 +6199,12 @@
     },
     "source_excerpt_sha256": "146043c5e4adce59b8b8400307a43a8d9d5440853752b4921c3b557a83445cc5",
     "tags": [
-      "waist",
-      "smoking",
-      "records"
+      "individual:relevant",
+      "operation:reporting",
+      "task:assessment",
+      "task:stratification",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -5454,7 +6221,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00580"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「欠損で判定不能の場合は不足検査を補う」：個人の不足検査補完と実施率への算入条件。",
+      "individual_scope": "本文の階層化・アセスメントに関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_HB43_062",
@@ -5476,8 +6249,12 @@
     },
     "source_excerpt_sha256": "ab931749801c5e60bc5b4792a2ac0b224860d9e8c1d8b033663776b43151fab7",
     "tags": [
-      "contract",
-      "records"
+      "individual:relevant",
+      "operation:contract",
+      "task:case_records",
+      "task:stratification",
+      "use:case_operations",
+      "use:organization"
     ],
     "common": false,
     "conditions": [
@@ -5494,7 +6271,13 @@
     "related_evidence_ids": [
       "REF_HB43_L00580"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「階層化の責任と対象者リストの受渡しを決める」：個人の階層化結果を受渡し・確定する責任と委託の取決め。",
+      "individual_scope": "対象者の保健指導レベルの確定・受渡し。委託仕様の設定は組織業務。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_019",
@@ -5516,7 +6299,10 @@
     },
     "source_excerpt_sha256": "217f674b7c3798706316449ec9899b801d9836b9f0a53267ceb5f0e506249774",
     "tags": [
-      "waist"
+      "individual:relevant",
+      "task:stratification",
+      "topic:waist",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5534,7 +6320,13 @@
       "REF_QA20241025_L00591",
       "REF_QA20241025_L00599"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「健診後に腹囲が改善しても階層化は健診結果で行う」：健診後の改善と階層化に用いる時点の区別。",
+      "individual_scope": "本文の階層化に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_020",
@@ -5556,9 +6348,11 @@
     },
     "source_excerpt_sha256": "531a0615de7d357025d00b467743838c766f88a30a3dffd128a7b07c716e3b6e",
     "tags": [
-      "smoking",
-      "contract",
-      "records"
+      "individual:relevant",
+      "task:case_records",
+      "task:stratification",
+      "topic:smoking",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5575,7 +6369,13 @@
     "related_evidence_ids": [
       "REF_QA20241025_L00602"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「喫煙状況の記録誤りは委託先で修正する」：喫煙歴の記録誤りを訂正する運用。",
+      "individual_scope": "本文の階層化・個人の記録・情報連携に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_021",
@@ -5596,7 +6396,12 @@
       "extracted_line_end": 726
     },
     "source_excerpt_sha256": "5065b97ca56623e418d0611fa6c5c1eaa5dc3e9103d17dcba94ea7ae1e7d79c6",
-    "tags": [],
+    "tags": [
+      "individual:relevant",
+      "task:follow_up",
+      "task:initial_interview",
+      "use:case_operations"
+    ],
     "common": false,
     "conditions": [
       "分割面接の例外を、通常の初回面接と継続支援の同日実施全般へ拡張しない。"
@@ -5612,7 +6417,13 @@
     "related_evidence_ids": [
       "REF_QA20241025_L00721"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「初回面接と継続支援の同日実施には限定的な例外がある」：初回面接と一体の支援又は同日継続支援の取扱い。",
+      "individual_scope": "本文の初回面接・継続支援に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_022",
@@ -5633,7 +6444,13 @@
       "extracted_line_end": 735
     },
     "source_excerpt_sha256": "5cdccd965767c747d82b8e8597044d8660d268f074cfb0f5a5889971abee6da1",
-    "tags": [],
+    "tags": [
+      "individual:relevant",
+      "task:follow_up",
+      "task:initial_interview",
+      "use:case_operations",
+      "use:guidance"
+    ],
     "common": false,
     "conditions": [
       "対象者本人への直接の支援を行う。家族の協力や教材利用そのものを禁止する趣旨ではない。"
@@ -5650,7 +6467,13 @@
       "REF_QA20241025_L00727",
       "REF_QA20241025_L00731"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「家族の代弁や映像視聴だけで本人への支援に代えない」：本人への直接支援と教材・家族代弁を区別する。",
+      "individual_scope": "本文の初回面接・継続支援に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_023",
@@ -5671,7 +6494,12 @@
       "extracted_line_end": 753
     },
     "source_excerpt_sha256": "ffa917b57e5c17cb13a56f07b97e72e1eb15a7d3308bd84a6258d6ecb9c6f4a7",
-    "tags": [],
+    "tags": [
+      "individual:relevant",
+      "task:initial_interview",
+      "task:results_explanation",
+      "use:case_operations"
+    ],
     "common": false,
     "conditions": [
       "結果説明の実施記録だけで初回面接完了とせず、必要な支援内容を確認する。"
@@ -5687,7 +6515,13 @@
     "related_evidence_ids": [
       "REF_QA20241025_L00748"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「健診結果の対面説明だけでは初回面接にならない」：健診結果説明だけでは面接要件を満たさない。",
+      "individual_scope": "本文の初回面接・結果説明に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_024",
@@ -5709,7 +6543,11 @@
     },
     "source_excerpt_sha256": "678adf3d9c0d4ebd837ea3e2d603cfd4d33f9aff0f19a280a467f8e797fda54d",
     "tags": [
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:follow_up",
+      "task:initial_interview",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5726,7 +6564,13 @@
     "related_evidence_ids": [
       "REF_QA20241025_L00754"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「初回面接と一体の教材返信は継続支援ポイントにしない」：初回面接と一体の支援又は同日継続支援の取扱い。",
+      "individual_scope": "本文の初回面接・継続支援に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_025",
@@ -5747,7 +6591,12 @@
       "extracted_line_end": 766
     },
     "source_excerpt_sha256": "f2de596cd3801b7496e7d48ebdebe28bb4e5b6f13170a2ebdf6e67a2cd889546",
-    "tags": [],
+    "tags": [
+      "individual:relevant",
+      "operation:group",
+      "task:initial_interview",
+      "use:case_operations"
+    ],
     "common": false,
     "conditions": [
       "合同開催の可否だけでなく、それぞれの対象者に必要な初回面接内容を満たすか確認する。"
@@ -5763,7 +6612,13 @@
     "related_evidence_ids": [
       "REF_QA20241025_L00759"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「異なる支援区分の合同初回面接には個別対応の工夫が必要」：異なる支援区分の合同グループ面接の条件。",
+      "individual_scope": "本文の初回面接に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_026",
@@ -5785,8 +6640,9 @@
     },
     "source_excerpt_sha256": "3607fdffe0853668018678bb551e47c00ebe974869f1e7ec26d583bfc231ade0",
     "tags": [
-      "evaluation",
-      "records"
+      "individual:relevant",
+      "task:outcome_evaluation",
+      "use:case_operations"
     ],
     "common": false,
     "conditions": [
@@ -5803,7 +6659,13 @@
     "related_evidence_ids": [
       "REF_QA20241025_L00834"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「実績評価の3か月は週数ではなく暦月で計算する」：個人の実績評価時期を暦月で計算する。",
+      "individual_scope": "本文の個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   },
   {
     "evidence_id": "K_QA20241025_027",
@@ -5825,11 +6687,12 @@
     },
     "source_excerpt_sha256": "358eabb7040c0da6219da12c7bb2a0c675de7188d94c2333674348f588dd8c22",
     "tags": [
-      "smoking",
-      "exercise",
-      "diet",
-      "sleep",
-      "evaluation"
+      "individual:relevant",
+      "operation:points",
+      "task:goal_planning",
+      "task:outcome_evaluation",
+      "use:case_operations",
+      "use:guidance"
     ],
     "common": false,
     "conditions": [
@@ -5846,6 +6709,12 @@
     "related_evidence_ids": [
       "REF_QA20241025_L00282"
     ],
-    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。"
+    "editorial_note": "textは出典を要約した編集文。conditionsは適用条件と誤用防止の編集注記であり、原文の逐語引用ではない。source_excerptは抽出テキスト。",
+    "classification": {
+      "reason": "「計画前から2か月以上続く行動改善は達成済みとして扱う」：計画に定めた行動変容の継続期間・達成済み・複合目標の算定条件。",
+      "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
+      "status": "editorial_draft",
+      "taxonomy_version": "2026-11-06"
+    }
   }
 ]

@@ -63,6 +63,10 @@
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:not_relevant, operation:contract, operation:privacy, use:organization
+
+**分類理由**：「-1- 集合契約における標準的な契約書の例（代表保険者と地域医師会との場合） このひな型は、関係者間で、被用者保険による集合契約 B(各市町村における国保の実施機関との契約)におい て使用す」：集合契約のひな型、契約解除や個人情報保護に関する取決め。
+
 前後参照：REF_ANN14_L00045
 
 <a id="ref_ann14_l00045"></a>
@@ -201,6 +205,12 @@
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, operation:contract, task:case_records, task:eligibility, use:case_operations, use:organization
+
+**分類理由**：「（４）保険者が発行する有効期限内の資格確認書の確認 ２ 実施機関は、特定保健指導を実施する場合には、(a)実施機関に対して甲の発行する特定保 健指導利用券又は特定健診当日に初回面接を行う場合」：契約条文中に本人の利用券・保険資格・結果受渡しの確認を含む。
+
+**個人業務での参照範囲**：利用者の資格・利用券の確認と記録受渡しに関する条項。請求等の契約事務は別用途。
 
 前後参照：REF_ANN14_L00000, REF_ANN14_L00170
 
@@ -424,6 +434,12 @@
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, operation:contract, operation:privacy, task:assessment, task:case_records, task:results_explanation, use:case_operations, use:organization
+
+**分類理由**：契約の条文・別紙に、詳細検査の本人説明、実施理由の記録と結果に応じた情報提供を含む。
+
+**個人業務での参照範囲**：詳細検査を行う個人への説明・理由記録と結果通知時の情報提供。契約解除等の条文は組織業務。
+
 前後参照：REF_ANN14_L00045, REF_ANN14_L00378
 
 <a id="ref_ann14_l00378"></a>
@@ -440,6 +456,12 @@
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, operation:consent, operation:contract, operation:privacy, operation:record_retention, task:case_records, use:case_operations, use:organization
+
+**分類理由**：「(1) 乙及び実施機関は、この契約による業務を処理するために個人情報を収集するときは、 業務の目的を明確にするとともに、業務の目的を達成するために必要な範囲内で、適法か つ公正な手段により行」：委託契約の個人情報保護条項に、本人からの収集・同意・利用範囲を定める。
+
+**個人業務での参照範囲**：本人情報の収集、第三者提供、同意・目的外利用の制限。契約締結そのものは組織業務。
 
 前後参照：REF_ANN14_L00170, REF_ANN14_L00381
 
@@ -485,5 +507,11 @@
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, operation:consent, operation:contract, operation:privacy, operation:record_retention, task:case_records, use:case_operations, use:organization
+
+**分類理由**：「(2) 乙及び実施機関は、この契約による業務を処理するため個人情報を収集するときは、本 人から収集し、本人以外から収集するときは、本人の同意を得た上で収集しなければなら ない。 ４ 利用及び」：委託契約の個人情報保護条項に、本人からの収集・同意・利用範囲を定める。
+
+**個人業務での参照範囲**：本人情報の収集、第三者提供、同意・目的外利用の制限。契約締結そのものは組織業務。
 
 前後参照：REF_ANN14_L00378

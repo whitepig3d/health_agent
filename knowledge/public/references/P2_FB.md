@@ -231,6 +231,12 @@ HbA1c
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:assessment, task:referral, task:results_explanation, topic:blood_pressure, topic:glucose, topic:hba1c, topic:kidney, topic:lipids, topic:liver, use:case_operations, use:guidance
+
+**分類理由**：「125 別紙５ （見開き版は添付資料参照） 健診検査項目の保健指導判定値及び受診勧奨判定値 （注）受診勧奨判定値を超えるレベルの場合、健診受診者本人に健診結果を通知する等の対応の際には、 フ」：項目別の判定値表と本人へのフィードバック利用の説明。図表の値の適用は原本確認を要する。
+
+**個人業務での参照範囲**：本文のアセスメント・結果説明・受診勧奨に関する記載。
+
 前後参照：REF_P2_FB_L00213
 
 <a id="ref_p2_fb_l00213"></a>
@@ -334,6 +340,12 @@ HbA1c
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:blood_pressure, use:guidance
+
+**分類理由**：「別添資料 健診結果とその他必要な情報の提供 （フィードバック文例集） 【利用上の留意事項】 ○ 健診受診者ご本人に対して健診結果を通知する際、情報提供いただき たい内容を文例で示しました。医」：文例の利用条件と血圧所見に応じた本人への説明。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
+
 前後参照：REF_P2_FB_L00000, REF_P2_FB_L00302
 
 <a id="ref_p2_fb_l00302"></a>
@@ -416,6 +428,12 @@ HbA1c
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:blood_pressure, use:guidance
+
+**分類理由**：「動、お酒を減らす、減塩、野菜を多くして果物も適度に食べるなど、生活習慣の改善が 必要です。ご自身で生活習慣の改善に取り組まれる方法、特定保健指導を活用する方法、 保健センター等で健康相談や保」：文例の利用条件と血圧所見に応じた本人への説明。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
 
 前後参照：REF_P2_FB_L00213, REF_P2_FB_L00371
 
@@ -514,6 +532,12 @@ CKD，非弁膜症性心房細動の場合は， 高リスクであっても中�
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:assessment, task:referral, topic:blood_pressure, use:case_operations, use:guidance
+
+**分類理由**：「表１．成人における血圧値の分類 （日本高血圧学会：高血圧治療ガイドライン 2019） 表２．診察室血圧に基づいた脳心血管病リスク層別化 （日本高血圧学会：高血圧治療ガイドライン 2019） 」：血圧のリスク分類・管理計画の参考表。階層化とは別の臨床リスク評価であり原本表を確認する。
+
+**個人業務での参照範囲**：本文のアセスメント・受診勧奨に関する記載。
 
 前後参照：REF_P2_FB_L00302, REF_P2_FB_L00455
 
@@ -620,6 +644,12 @@ LDL-C が高くならないようにするために、飽和脂肪酸が多い�
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:goal_planning, task:referral, task:results_explanation, topic:diet, topic:lipids, topic:physical_activity, use:guidance
+
+**分類理由**：「脂質異常に関するフィードバック文例集 【健診判定と対応の分類】 健診判定 対応 肥満者の場合 非肥満者の場合 異 常 正 常 受診勧奨 判定値を 超えるレベル LDL-C ≧ 180mg/d」：脂質検査所見に応じた説明と生活習慣改善・受診の案内。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨・目標・行動計画に関する記載。
+
 前後参照：REF_P2_FB_L00371, REF_P2_FB_L00546
 
 <a id="ref_p2_fb_l00546"></a>
@@ -702,6 +732,12 @@ Non－HDL-Cと置き換えること。なお空腹時採血で総コレステロ
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:goal_planning, task:referral, task:results_explanation, topic:diet, topic:lipids, topic:physical_activity, use:guidance
+
+**分類理由**：「175mg/dL≦TG＜300mg/dL（随時採血） 脂質検査の結果、中性脂肪が高いことが分かりました。 総エネルギー摂取量を適正とし、身体活動量の増加や運動習慣を意識して、アルコー ルの過」：脂質検査所見に応じた説明と生活習慣改善・受診の案内。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨・目標・行動計画に関する記載。
+
 前後参照：REF_P2_FB_L00455, REF_P2_FB_L00614
 
 <a id="ref_p2_fb_l00614"></a>
@@ -769,6 +805,12 @@ DATA 90. Int J Cardiol. 2016; 220: 262-7.139
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:results_explanation, topic:lipids, use:guidance
+
+**分類理由**：「なリスクの判定を行うこと。 略号 LDL-C：LDL コレステロール（Low density lipoprotein コレステロール） Non-HDL-C：Non-HDL コレステロール （」：脂質指標の略語・意味の説明を含む。末尾の文献一覧は説明内容そのものではない。
+
+**個人業務での参照範囲**：Non-HDL等の脂質指標の説明。文献一覧を直接の指導文とみなさない。
 
 前後参照：REF_P2_FB_L00546, REF_P2_FB_L00668
 
@@ -914,6 +956,12 @@ HbA1c は血糖の 1～2 か月の平均的な高さを示す指標ですが、�
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:glucose, topic:hba1c, topic:medication, topic:weight, use:guidance
+
+**分類理由**：「血糖高値に関するフィードバック文例集 【健診判定と対応の分類】 健診判定 対応 空腹時血糖 随時血糖 （㎎/dＬ） HbA1c (NGSP ） （％） 肥満者の場合 非肥満者の場合 糖尿病 」：血糖・HbA1cと肥満・治療状況に応じたフィードバック。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
+
 前後参照：REF_P2_FB_L00614, REF_P2_FB_L00798
 
 <a id="ref_p2_fb_l00798"></a>
@@ -978,6 +1026,12 @@ HbA1c は血糖の 1～2 か月の平均的な高さを示す指標ですが、�
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:glucose, topic:hba1c, topic:medication, topic:weight, use:guidance
+
+**分類理由**：「⑤ の場合（肥満者・特定保健指導対象者） 空腹時血糖やＨｂＡ１ｃが正常域を超えており（糖尿病境界型に相当）、糖尿病の可 能性も否定できません。医療機関でブドウ糖負荷試験等の精密検査について相」：血糖・HbA1cと肥満・治療状況に応じたフィードバック。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
 
 前後参照：REF_P2_FB_L00668, REF_P2_FB_L00849
 
@@ -1044,6 +1098,12 @@ HbA1c は血糖の 1～2 か月の平均的な高さを示す指標ですが、�
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:assessment, task:results_explanation, topic:frailty, topic:glucose, topic:medication, topic:smoking, use:guidance
+
+**分類理由**：「【参考】高齢者に対するフィードバックについて ○ 高齢者における糖尿病の血糖マネジメントにおいては、低血糖の危険性、合併症や併存 症、認知機能や ADL を考慮して、下表のように目標が示され」：高齢者の低血糖・ADLへの配慮と、続く喫煙への説明を含む。
+
+**個人業務での参照範囲**：本文のアセスメント・結果説明に関する記載。
 
 前後参照：REF_P2_FB_L00798, REF_P2_FB_L00901
 
@@ -1138,6 +1198,12 @@ URL::https://www.mhlw.go.jp/content/10900000/000744289.pdf 2023 年 1 月 12 日
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:goal_planning, task:referral, topic:medication, topic:smoking, use:guidance
+
+**分類理由**：「２．禁煙のための効果的な解決策の提案 禁煙は自力でも可能ですが、禁煙外来や禁煙補助薬を利用すると、ニコチン切れの症 状を抑えることができるので比較的容易に、しかも自力に比べて 3～4 倍禁煙」：禁煙外来・補助薬等の解決策を本人に提案する。
+
+**個人業務での参照範囲**：本文の目標・行動計画・受診勧奨に関する記載。
 
 前後参照：REF_P2_FB_L00849, REF_P2_FB_L00981
 
@@ -1234,6 +1300,12 @@ NASH ：nonalcoholic steatohepatitis
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:alcohol, topic:liver, use:guidance
+
+**分類理由**：「肝機能検査に関するフィードバック文例集 【健診判定と対応の分類】 健診判定 AST 対応 （U/L） ALT （U/L） γ-GT （U/L） 異常 正常 受診勧奨判定値 を超えるレベル 5」：肝機能所見に応じた受診・生活習慣の説明。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
+
 前後参照：REF_P2_FB_L00901, REF_P2_FB_L01062
 
 <a id="ref_p2_fb_l01062"></a>
@@ -1309,6 +1381,12 @@ without impaired fasting glucose. Hepatol Res. 2018 Aug;48(9):708-716.150
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:kidney, use:guidance
+
+**分類理由**：「4. Targher G, Byrne CD, Lonardo A, Zoppini G, Barbui C. Non-alcoholic fatty liver disease and r」：尿蛋白・eGFR等の結果に応じた本人への説明文例。引用文献と説明本文を区別する。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
+
 前後参照：REF_P2_FB_L00981, REF_P2_FB_L01123
 
 <a id="ref_p2_fb_l01123"></a>
@@ -1362,6 +1440,12 @@ without impaired fasting glucose. Hepatol Res. 2018 Aug;48(9):708-716.150
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:kidney, use:guidance
+
+**分類理由**：「② 尿蛋白（±）：弱陽性の場合 今回の健診の結果、尿蛋白が弱陽性であることが分かりました。尿蛋白弱陽性は、確 定的ではありませんが、慢性腎臓病の存在を示唆するサインです。あなたは慢性腎臓病 」：尿蛋白・eGFR等の結果に応じた本人への説明文例。引用文献と説明本文を区別する。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
 
 前後参照：REF_P2_FB_L01062, REF_P2_FB_L01163
 
@@ -1451,6 +1535,12 @@ eGFR が低くなるほど腎臓の働きが低下しています。eGFR は健�
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:kidney, use:guidance
+
+**分類理由**：「尿蛋白及び血清クレアチニンに関するフィードバック文例集 ※血清クレアチニンを測定している場合に使用してください。 【健診判定と対応の分類】 健 診 判 定 （ eGFR の 単 位 : ml」：尿蛋白・eGFR等の結果に応じた本人への説明文例。引用文献と説明本文を区別する。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
+
 前後参照：REF_P2_FB_L01123, REF_P2_FB_L01237
 
 <a id="ref_p2_fb_l01237"></a>
@@ -1522,6 +1612,12 @@ kidney disease: A cluster-randomized trial. PLoS One. 2016 21;11(3):
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:kidney, use:guidance
+
+**分類理由**：「今回の健診の結果、腎機能の軽度の低下があり、尿蛋白が陰性であることが分かりま した。eGFR が 45 以上 60 未満の場合は、それだけで軽症の慢性腎臓病の存在を示す サインです。あなたは」：尿蛋白・eGFR等の結果に応じた本人への説明文例。引用文献と説明本文を区別する。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
 
 前後参照：REF_P2_FB_L01163, REF_P2_FB_L01295
 
@@ -1602,6 +1698,12 @@ RV5+SV1＞35mm 又は 2) RV6＋SV1 ＞35mm を示す者等。これらに ST-T �
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, use:guidance
+
+**分類理由**：「心電図検査に関するフィードバック文例集 【健診判定と対応の分類】 健診判定 対応 異 常 正 常 心房細動が疑われる場合 ① すぐに医療機関の受診を その他の不整脈が疑われる場合 ② 医療機」：心電図の所見に応じた受診の説明文例。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
+
 前後参照：REF_P2_FB_L01237, REF_P2_FB_L01360
 
 <a id="ref_p2_fb_l01360"></a>
@@ -1653,6 +1755,12 @@ DATA80). Am J Cardiol 107:1718-24, 2011.
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:assessment, task:referral, use:case_operations, use:guidance
+
+**分類理由**：「不整脈の既往や現病が疑われる者を選び出す際の医師の判断の補助としての問診例 不整脈に関する問診票(例) １. 今までに心房細動を指摘されたことがありますか。 （１. はい ２. いいえ ３.」：不整脈の既往・症状を確認する問診例。最終判断を医師が行う条件を含む。
+
+**個人業務での参照範囲**：本文のアセスメント・受診勧奨に関する記載。
 
 前後参照：REF_P2_FB_L01295, REF_P2_FB_L01398
 
@@ -1729,6 +1837,12 @@ of stroke in a Japanese provincial city: the Shibata Study. Stroke 1997; 28:45-5
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:blood_pressure, use:guidance
+
+**分類理由**：「眼底検査（高血圧性変化）に関するフィードバック文例集 【健診判定と対応の分類】 健診判定 対応 異 常 正 常 Scheie 分類 H3 以上、 Keith-Wagener 分類 IIb 以」：眼底の高血圧性変化についての説明と受診案内。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
 
 前後参照：REF_P2_FB_L01360, REF_P2_FB_L01460
 
@@ -1809,6 +1923,12 @@ of stroke in a Japanese provincial city: the Shibata Study. Stroke 1997; 28:45-5
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:blood_pressure, topic:glucose, use:guidance
+
+**分類理由**：「眼底検査（糖尿病網膜症）に関するフィードバック文例集 【健診判定と対応の分類】 糖尿病（高血糖）の者に対する対応 健診判定 主な所見 対応 異 常 正 常 増殖網膜症 新生血管、硝子体出 血」：糖尿病網膜症の所見に応じた説明・眼科受診案内。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
+
 前後参照：REF_P2_FB_L01398, REF_P2_FB_L01525
 
 <a id="ref_p2_fb_l01525"></a>
@@ -1850,6 +1970,12 @@ of stroke in a Japanese provincial city: the Shibata Study. Stroke 1997; 28:45-5
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:referral, task:results_explanation, topic:blood_pressure, topic:glucose, use:guidance
+
+**分類理由**：「糖尿病網膜症が始まっている可能性があります。このまま放置すると、眼底出血など により視力を低下させる危険性が高まります。血糖や血圧の管理により血管障害を進ま せないこと、年一回の眼科で精密な」：糖尿病網膜症の所見に応じた説明・眼科受診案内。
+
+**個人業務での参照範囲**：本文の結果説明・受診勧奨に関する記載。
 
 前後参照：REF_P2_FB_L01460, REF_P2_FB_L01553
 
@@ -1977,6 +2103,12 @@ TG＜空腹時 150mg/dL（随時 175mg/dL）
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
+**用途・話題タグ**：individual:relevant, task:case_records, task:referral, topic:blood_pressure, use:case_operations, use:guidance
+
+**分類理由**：「特定健康診査で血圧高値のため医療機関の受診を勧められています。 ※医療機関受診時に、この用紙をご持参ください。 収縮期血圧（ ）mmHg 拡張期血圧（ ）mmHg 健診判定 対応 肥満者の場」：血圧高値の本人が医療機関に持参する情報提供用紙。
+
+**個人業務での参照範囲**：本文の受診勧奨・個人の記録・情報連携に関する記載。
+
 前後参照：REF_P2_FB_L01525, REF_P2_FB_L01665
 
 <a id="ref_p2_fb_l01665"></a>
@@ -2072,5 +2204,11 @@ HbA1c
 ````
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
+
+**用途・話題タグ**：individual:relevant, task:case_records, task:referral, topic:glucose, topic:hba1c, use:case_operations, use:guidance
+
+**分類理由**：「特定健康診査で血糖高値のため医療機関の受診を勧められています。 ※医療機関受診時に、この用紙をご持参ください。 空腹時血糖（ ）mg/dl 随時血糖（ ）mg/dl HbA1c （ ）％（N」：血糖高値の本人が医療機関に持参する情報提供用紙。
+
+**個人業務での参照範囲**：本文の受診勧奨・個人の記録・情報連携に関する記載。
 
 前後参照：REF_P2_FB_L01553

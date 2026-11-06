@@ -11,6 +11,7 @@ import pathlib
 import re
 import unicodedata
 from collections import Counter
+from public_card_tags import apply_classifications, render_tag_guide
 
 ROOT = pathlib.Path(__file__).resolve().parents[1] / 'knowledge' / 'public'
 DATE = '2026-11-05'
@@ -24,12 +25,11 @@ def write_json(path, value):
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2)+'\n')
 
 SOURCE_MAP={s['source_id']:s for s in SOURCES}
-TOPICS={'weight':'体重|減量|肥満|エネルギー','waist':'腹囲|内臓脂肪','systolic_bp':'血圧|降圧','diastolic_bp':'血圧|降圧','glucose':'血糖|糖尿病','hba1c':'HbA1c|ＨｂＡ１ｃ|ヘモグロビンA','lipids':'脂質|コレステロール|中性脂肪','smoking':'喫煙|禁煙|たばこ','alcohol':'飲酒|アルコール|AUDIT','exercise':'運動|身体活動','diet':'食事|食習慣|栄養|食塩','sleep':'睡眠|休養','kidney':'腎|eGFR|蛋白|クレアチニン','liver':'肝|AST|ALT|γ','oral':'歯科|咀嚼|かむ','ict':'ICT|遠隔|電子メール|チャット|アプリ','evaluation':'評価|ポイント','consent':'同意|個人情報','contract':'契約|委託|決済','records':'データ|記録|報告|保存'}
 
 def excerpt(sid,a,b):
     return '\n'.join(r['text'] for r in ROWS[sid] if a<=r['line']<=b)
 
-def make_card(cid,sid,a,b,title,kind='source_excerpt',text=None,conditions=None,tags=None):
+def make_card(cid,sid,a,b,title,kind='source_excerpt',text=None,conditions=None):
     rows=[r for r in ROWS[sid] if a<=r['line']<=b]
     assert rows and rows[0]['line']==a and rows[-1]['line']==b,(cid,a,b)
     src=SOURCE_MAP[sid]
@@ -39,7 +39,7 @@ def make_card(cid,sid,a,b,title,kind='source_excerpt',text=None,conditions=None,
        section=f'{title}／PDF {p1}–{p2}ページ',publisher=src['publisher'],data_kind='public_source',
        card_type=kind,text=raw if text is None else text,source_excerpt=raw,
        source_location={'pdf_page_start':p1,'pdf_page_end':p2,'extracted_line_start':a,'extracted_line_end':b},
-       source_excerpt_sha256=digest(raw),tags=tags if tags is not None else [t for t,p in TOPICS.items() if re.search(p,title+' '+raw)],
+       source_excerpt_sha256=digest(raw),tags=[],
        common=False,conditions=conditions or ['当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。'],
        reviewed=False,review_scope='資料作成段階。専門職の医学・制度レビューおよび原本図表との目視照合は未実施。',
        review_status='draft',priority=10 if kind=='summary' else 100,accessed_on=DATE,
@@ -147,6 +147,8 @@ for card in REFERENCES:
         # Continuation text must not masquerade as an independently authored rule.
         card['title']=f"{SOURCE_MAP[card['source_id']]['title']}／PDF {loc['pdf_page_start']}–{loc['pdf_page_end']}／{card['title']}"
 
+apply_classifications(SUMMARIES + REFERENCES, ROOT)
+
 write_json(ROOT/'evidence_cards.json',SUMMARIES)
 write_json(ROOT/'reference_cards.json',REFERENCES)
 
@@ -156,6 +158,10 @@ def md_card(card, include_excerpt=False):
         f"出典：[原本PDF {loc['pdf_page_start']}–{loc['pdf_page_end']}ページ]({card['url']}) ｜ {card['edition']}", '',
         '**状態：専門職レビュー未実施**', '', ('````text\n'+card['text']+'\n````') if include_excerpt else card['text'], '',
         '**適用条件・編集注記**：'+' / '.join(card['conditions']), '']
+    result += ['**用途・話題タグ**：' + ', '.join(card['tags']), '',
+        '**分類理由**：' + card['classification']['reason'], '']
+    if card['classification']['individual_scope']:
+        result += ['**個人業務での参照範囲**：' + card['classification']['individual_scope'], '']
     if card['related_evidence_ids']:
         if include_excerpt:
             result+=['前後参照：'+', '.join(card['related_evidence_ids']),'']
@@ -179,7 +185,7 @@ for source in SOURCES:
             rendered += [f"<a id=\"{c['evidence_id'].lower()}\"></a>", md_card(c,True)]
     (ROOT/'references'/f'{sid}.md').write_text('\n'.join(rendered))
 index += ['', '## 要点カード', '']
-for c in SUMMARIES:index += [md_card(c)]
+for c in SUMMARIES:index += [f'<a id="{c["evidence_id"].lower()}"></a>', md_card(c)]
 (ROOT/'根拠カード一覧.md').write_text('\n'.join(index))
 report={
     'as_of':DATE,'source_count':len(SOURCES),'summary_card_count':len(SUMMARIES),
@@ -199,5 +205,6 @@ for source in SOURCES:
         uncovered_body_lines=sorted(captured-covered-excluded),
         excluded_front_matter_lines=sorted(excluded),sparse_text_pages=source['sparse_text_pages']))
 write_json(ROOT/'coverage.json',report)
+render_tag_guide(SUMMARIES + REFERENCES, ROOT)
 print(f"Built {len(SUMMARIES)} summaries + {len(REFERENCES)} reference cards from {len(SOURCES)} sources")
 

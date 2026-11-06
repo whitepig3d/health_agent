@@ -7,6 +7,7 @@ import pathlib
 import re
 from collections import Counter
 from urllib.parse import urlparse
+from public_card_tags import load_taxonomy, load_classifications, validate_classifications
 
 ROOT = pathlib.Path(__file__).resolve().parents[1] / 'knowledge' / 'public'
 
@@ -36,6 +37,15 @@ def main():
     summaries = json.loads((ROOT / 'evidence_cards.json').read_text())
     references = json.loads((ROOT / 'reference_cards.json').read_text())
     cards = summaries + references
+    taxonomy = load_taxonomy(ROOT)
+    ledger, _ = load_classifications(ROOT)
+    classifications = validate_classifications(cards, taxonomy, ledger)
+    for card in cards:
+        entry = classifications[card['evidence_id']]
+        check(card['tags'] == entry['tags'], f'Tag ledger mismatch: {card["evidence_id"]}')
+        expected_classification = {k: entry[k] for k in ('reason', 'individual_scope', 'status')}
+        expected_classification['taxonomy_version'] = taxonomy['version']
+        check(card['classification'] == expected_classification, f'Classification metadata mismatch: {card["evidence_id"]}')
     ids = [c['evidence_id'] for c in cards]
     check(len(ids) == len(set(ids)), 'Duplicate evidence ID')
     known_ids = set(ids)
@@ -87,6 +97,7 @@ def main():
     check(len(specs) == len(summaries), 'Editorial input count mismatch')
     print(f'OK: {len(sources)} sources, {len(summaries)} summaries, {len(references)} reference cards, {len(qa_cards)} Q&A.')
     print('Verified IDs, source URLs/editions, PDF page ranges, snapshot/excerpt hashes, extracted-line coverage, and draft-only state.')
+    print(f'Verified explicit classifications for all {len(cards)} cards against {len(taxonomy["tags"])} tag definitions.')
     print('This check does not establish medical validity, current legal applicability, or visual/PDF layout accuracy.')
 
 

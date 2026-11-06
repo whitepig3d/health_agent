@@ -1,0 +1,461 @@
+{
+  "schema_version": 1,
+  "version": "2026-11-06",
+  "status": "editorial_draft",
+  "tags": [
+    {
+      "id": "use:guidance",
+      "label": "本人への指導内容",
+      "include": "本人への説明、生活習慣改善、行動変容を支援する具体的内容",
+      "exclude": "研修の科目名や制度の目的に言及するだけ",
+      "example_ids": [
+        "K_P3_3_006"
+      ]
+    },
+    {
+      "id": "use:case_operations",
+      "label": "個別ケースの運用",
+      "include": "個人の対象判定、面接要件、評価、記録等の実施判断",
+      "exclude": "契約締結、補助金申請、集団集計のみ",
+      "example_ids": [
+        "K_P2_3_004"
+      ]
+    },
+    {
+      "id": "use:organization",
+      "label": "組織・保険者の業務",
+      "include": "契約、財務、体制整備、研修、事業計画、集団評価",
+      "exclude": "個別支援の実施要件だけ",
+      "example_ids": [
+        "K_HB43_049"
+      ]
+    },
+    {
+      "id": "individual:relevant",
+      "label": "個人業務の参照候補",
+      "include": "現行の個人支援又は個別運用に関する具体的内容を本文から確認できる",
+      "exclude": "組織業務のみ、旧制度履歴、抽出不足で具体的内容を確認できない",
+      "example_ids": [
+        "K_P2_3_004"
+      ]
+    },
+    {
+      "id": "individual:not_relevant",
+      "label": "個人業務の直接参照対象外",
+      "include": "組織事務、制度の背景、書誌情報、旧制度履歴等で具体的な個人業務根拠を含まない",
+      "exclude": "抽出不足で内容が判別できない場合はundetermined",
+      "example_ids": [
+        "K_HB43_057"
+      ]
+    },
+    {
+      "id": "individual:undetermined",
+      "label": "個人業務との関連を判定保留",
+      "include": "抽出不良、図表欠落又は文脈不足により個人業務の参照範囲を確定できない",
+      "exclude": "単に専門職レビュー前であることだけでは付けない",
+      "example_ids": [
+        "REF_ALCOHOL_L00000"
+      ]
+    },
+    {
+      "id": "task:eligibility",
+      "label": "対象者選定",
+      "include": "個人の年齢、資格、服薬、対象除外、健診結果の代替利用の判断",
+      "exclude": "集団の対象人数推計だけ",
+      "example_ids": [
+        "K_HB43_019"
+      ]
+    },
+    {
+      "id": "task:stratification",
+      "label": "階層化",
+      "include": "腹囲・BMI・追加リスク・年齢による支援区分の決定と判定不能の扱い",
+      "exclude": "メタボ判定だけ又は事業の支援区分別集計だけ",
+      "example_ids": [
+        "K_P2_3_004"
+      ]
+    },
+    {
+      "id": "task:assessment",
+      "label": "アセスメント",
+      "include": "問診、測定条件、既往・生活環境、準備状態の確認や検査結果の解釈",
+      "exclude": "集団分析や精度管理体制のみ",
+      "example_ids": [
+        "K_P3_3_003"
+      ]
+    },
+    {
+      "id": "task:results_explanation",
+      "label": "結果説明",
+      "include": "本人への健診結果の解説、通知内容、フィードバック",
+      "exclude": "実施率等の組織向け報告",
+      "example_ids": [
+        "K_HB43_014"
+      ]
+    },
+    {
+      "id": "task:referral",
+      "label": "受診勧奨",
+      "include": "医療機関受診の必要性、受診支援、未受診フォロー",
+      "exclude": "健診そのものへの一般的な受診勧奨のみ",
+      "example_ids": [
+        "K_HB43_013"
+      ]
+    },
+    {
+      "id": "task:initial_interview",
+      "label": "初回面接",
+      "include": "初回面接の内容、時間、分割、実施条件",
+      "exclude": "初回面接の語があるだけの会計・集計",
+      "example_ids": [
+        "K_HB43_038"
+      ]
+    },
+    {
+      "id": "task:goal_planning",
+      "label": "目標・行動計画",
+      "include": "本人の目標、行動計画、支援計画の設定・調整",
+      "exclude": "保険者全体の事業計画",
+      "example_ids": [
+        "K_P3_3_006"
+      ]
+    },
+    {
+      "id": "task:follow_up",
+      "label": "継続支援",
+      "include": "継続フォロー、セルフケア、行動維持、遠隔のやりとり",
+      "exclude": "支援回数の集団統計のみ",
+      "example_ids": [
+        "K_P3_3_007"
+      ]
+    },
+    {
+      "id": "task:outcome_evaluation",
+      "label": "個人の実績評価",
+      "include": "個人の目標達成、身体変化、評価時期・方法、完了要件",
+      "exclude": "事業の費用対効果や集団の改善率のみ",
+      "example_ids": [
+        "K_QA20241025_026"
+      ]
+    },
+    {
+      "id": "task:interruption_completion",
+      "label": "中断・終了",
+      "include": "未実施・脱落への対応、資格喪失、支援終了の判断",
+      "exclude": "脱落率の集団集計のみ",
+      "example_ids": [
+        "K_HB43_042"
+      ]
+    },
+    {
+      "id": "task:case_records",
+      "label": "個人の記録・情報連携",
+      "include": "個人の記録内容、訂正、引継ぎ、主治医等との情報共有",
+      "exclude": "組織の集計ファイル仕様のみ",
+      "example_ids": [
+        "K_HB43_037"
+      ]
+    },
+    {
+      "id": "topic:weight",
+      "label": "体重・肥満",
+      "include": "体重、BMI、肥満又は減量を扱う実質的内容",
+      "exclude": "エネルギーという単語のみ",
+      "example_ids": [
+        "K_HB43_032"
+      ]
+    },
+    {
+      "id": "topic:waist",
+      "label": "腹囲・内臓脂肪",
+      "include": "腹囲又は内臓脂肪の測定・解釈・改善",
+      "exclude": "腹囲が項目名として列挙されるだけ",
+      "example_ids": [
+        "K_HB43_015"
+      ]
+    },
+    {
+      "id": "topic:blood_pressure",
+      "label": "血圧",
+      "include": "血圧の測定、解釈、改善又は血圧リスク",
+      "exclude": "収縮期・拡張期の区別はタグから推定しない",
+      "example_ids": [
+        "K_HB43_018"
+      ]
+    },
+    {
+      "id": "topic:glucose",
+      "label": "血糖・糖尿病",
+      "include": "血糖・糖尿病の解釈、支援、リスク",
+      "exclude": "研究文献名に登場するだけ",
+      "example_ids": [
+        "K_HB43_016"
+      ]
+    },
+    {
+      "id": "topic:hba1c",
+      "label": "HbA1c",
+      "include": "HbA1c固有の基準、測定、時系列の解釈",
+      "exclude": "血糖という語のみ",
+      "example_ids": [
+        "K_P2_3_008"
+      ]
+    },
+    {
+      "id": "topic:lipids",
+      "label": "脂質",
+      "include": "脂質検査又は脂質異常への支援・リスク",
+      "exclude": "質問票の項目名の引用だけ",
+      "example_ids": [
+        "K_HB43_017"
+      ]
+    },
+    {
+      "id": "topic:kidney",
+      "label": "腎機能",
+      "include": "尿蛋白・eGFR等の解釈又は腎疾患への配慮",
+      "exclude": "蛋白という単語のみ",
+      "example_ids": [
+        "K_P2_FB_008"
+      ]
+    },
+    {
+      "id": "topic:liver",
+      "label": "肝機能",
+      "include": "肝機能の解釈又は肝疾患への配慮",
+      "exclude": "γ等の断片文字だけ",
+      "example_ids": [
+        "K_P2_FB_006"
+      ]
+    },
+    {
+      "id": "topic:diet",
+      "label": "食事・栄養",
+      "include": "食行動、食事量・内容、減塩、栄養状態の具体的な評価・支援",
+      "exclude": "管理栄養士という職種名だけ",
+      "example_ids": [
+        "K_P2_Q_006"
+      ]
+    },
+    {
+      "id": "topic:physical_activity",
+      "label": "身体活動・運動",
+      "include": "運動、身体活動、座位行動の具体的な評価・支援",
+      "exclude": "実施者の資格名だけ",
+      "example_ids": [
+        "K_P2_Q_003"
+      ]
+    },
+    {
+      "id": "topic:smoking",
+      "label": "喫煙・禁煙",
+      "include": "喫煙状況、追加リスク、禁煙・受動喫煙への対応",
+      "exclude": "施設基準に禁煙が列挙されるだけ",
+      "example_ids": [
+        "K_P2_3_003"
+      ]
+    },
+    {
+      "id": "topic:alcohol",
+      "label": "飲酒",
+      "include": "飲酒量・頻度、問題飲酒、減酒支援",
+      "exclude": "肝疾患の一般論に一度登場するだけ",
+      "example_ids": [
+        "K_P2_Q_009"
+      ]
+    },
+    {
+      "id": "topic:sleep",
+      "label": "睡眠・休養",
+      "include": "睡眠、休養、眠気の評価と支援",
+      "exclude": "夜間営業や面接時間帯だけ",
+      "example_ids": [
+        "K_P2_Q_010"
+      ]
+    },
+    {
+      "id": "topic:oral",
+      "label": "口腔・咀嚼",
+      "include": "口腔機能、歯科受診、噛みにくさに応じた支援",
+      "exclude": "食事一般のみ",
+      "example_ids": [
+        "K_P2_Q_004"
+      ]
+    },
+    {
+      "id": "topic:medication",
+      "label": "服薬・治療連携",
+      "include": "服薬による対象判断、服薬状況確認、主治医との調整",
+      "exclude": "薬剤という語を含む書誌情報のみ",
+      "example_ids": [
+        "K_HB43_019"
+      ]
+    },
+    {
+      "id": "topic:frailty",
+      "label": "フレイル・機能低下",
+      "include": "低栄養、口腔・認知・運動機能等の低下予防と個別配慮",
+      "exclude": "年齢が65歳以上というだけ",
+      "example_ids": [
+        "K_P2_3_007"
+      ]
+    },
+    {
+      "id": "operation:remote",
+      "label": "遠隔・通信支援",
+      "include": "遠隔面接、電話、メール、チャット、アプリによる支援の実施",
+      "exclude": "組織内の単なる電子データ送信",
+      "example_ids": [
+        "K_HB43_044"
+      ]
+    },
+    {
+      "id": "operation:group",
+      "label": "グループ支援",
+      "include": "対象者へのグループ面接・学習の実施",
+      "exclude": "職員研修のグループワーク",
+      "example_ids": [
+        "K_QA20241025_025"
+      ]
+    },
+    {
+      "id": "operation:consent",
+      "label": "同意",
+      "include": "本人への説明と同意取得・確認",
+      "exclude": "個人情報保護という一般論だけ",
+      "example_ids": [
+        "K_HB43_019"
+      ]
+    },
+    {
+      "id": "operation:privacy",
+      "label": "個人情報保護",
+      "include": "秘密保持、プライバシー、情報の安全管理",
+      "exclude": "本人同意があるという事実だけ",
+      "example_ids": [
+        "K_HB43_045"
+      ]
+    },
+    {
+      "id": "operation:points",
+      "label": "ポイント算定",
+      "include": "支援・アウトカムのポイント算定条件",
+      "exclude": "補助金基準単価や一般的な評価",
+      "example_ids": [
+        "K_HB43_033"
+      ]
+    },
+    {
+      "id": "operation:contract",
+      "label": "契約・委託",
+      "include": "委託、再委託、契約条件、費用精算、補助金等の財務",
+      "exclude": "個人の支援計画だけ",
+      "example_ids": [
+        "K_HB43_049"
+      ]
+    },
+    {
+      "id": "operation:record_retention",
+      "label": "記録保存",
+      "include": "記録の保存期間、保管、廃棄、保存体制",
+      "exclude": "個人記録の入力内容だけ",
+      "example_ids": [
+        "K_HB43_056"
+      ]
+    },
+    {
+      "id": "operation:reporting",
+      "label": "実績報告",
+      "include": "国等への実績報告、実施率分母・分子、報告用データ",
+      "exclude": "本人への評価結果の返却だけ",
+      "example_ids": [
+        "K_HB43_057"
+      ]
+    },
+    {
+      "id": "operation:program_evaluation",
+      "label": "事業評価",
+      "include": "集団・事業の評価、PDCA、目標値・効果の分析",
+      "exclude": "個人の実績評価だけ",
+      "example_ids": [
+        "K_HB43_053"
+      ]
+    },
+    {
+      "id": "operation:staffing_training",
+      "label": "実施体制・研修",
+      "include": "人員、資格、研修、施設、運営体制、実施者の能力育成",
+      "exclude": "個別面接の要件だけ",
+      "example_ids": [
+        "K_HB43_052"
+      ]
+    }
+  ],
+  "legacy_aliases": {
+    "weight": [
+      "topic:weight"
+    ],
+    "waist": [
+      "topic:waist"
+    ],
+    "glucose": [
+      "topic:glucose"
+    ],
+    "hba1c": [
+      "topic:hba1c"
+    ],
+    "lipids": [
+      "topic:lipids"
+    ],
+    "kidney": [
+      "topic:kidney"
+    ],
+    "liver": [
+      "topic:liver"
+    ],
+    "diet": [
+      "topic:diet"
+    ],
+    "smoking": [
+      "topic:smoking"
+    ],
+    "alcohol": [
+      "topic:alcohol"
+    ],
+    "sleep": [
+      "topic:sleep"
+    ],
+    "oral": [
+      "topic:oral"
+    ],
+    "systolic_bp": [
+      "topic:blood_pressure"
+    ],
+    "diastolic_bp": [
+      "topic:blood_pressure"
+    ],
+    "exercise": [
+      "topic:physical_activity"
+    ],
+    "evaluation": [
+      "task:outcome_evaluation",
+      "operation:points",
+      "operation:program_evaluation"
+    ],
+    "ict": [
+      "operation:remote"
+    ],
+    "consent": [
+      "operation:consent",
+      "operation:privacy"
+    ],
+    "contract": [
+      "operation:contract"
+    ],
+    "records": [
+      "task:case_records",
+      "operation:record_retention",
+      "operation:reporting"
+    ]
+  }
+}
