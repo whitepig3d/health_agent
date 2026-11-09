@@ -18,7 +18,9 @@
       "reason": "「健診実施対象と実施率の分母を分ける」：個人の対象・除外・資格時点と、実施率報告上の扱いを分ける運用根拠。",
       "individual_scope": "本文の対象者選定・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "9ac9996563ecbfbcb5b8d5c324686b6063f2e39f1b685a2716dc96ed0364fd5f"
+      "basis_sha256": "d6aee2ca6569db1363888801047096ff2147053ec1588f5c382e2315154955b7",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_002",
@@ -33,7 +35,9 @@
       "reason": "「除外理由は証明できる形で確認する」：個人の対象・除外・資格時点と、実施率報告上の扱いを分ける運用根拠。",
       "individual_scope": "本文の対象者選定・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "b70fd132fea165a370eb2e9b02e389deeb4c7810f609fd2682771a61008f6715"
+      "basis_sha256": "12541ec33850c9ee059a54a7a265c4353682bd66f3b84cdf62a57db717e9b597",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_003",
@@ -48,7 +52,9 @@
       "reason": "「資格区分の基準日」：個人の対象・除外・資格時点と、実施率報告上の扱いを分ける運用根拠。",
       "individual_scope": "本文の対象者選定・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "654a1026e462043da4c84f2cb316e9281e18228b394c9e1eb75fad2d42737753"
+      "basis_sha256": "2d6a8edf2655e0a6f66ea277ec34b4b7d3ff3e173691fb114c36afac47f9a6e3",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_004",
@@ -61,7 +67,9 @@
       "reason": "「基本健診項目の欠損と測定不能」：検査欠損時に個人の健診成立・補完を確認する内容。",
       "individual_scope": "本文のアセスメント・対象者選定に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "fc6169ee0e413dfb366579214ea74ae0911871738dcaef8ec70da9ec53e2a063"
+      "basis_sha256": "e2e9c409bc4b0d8385c713d2844fd68fa019e09c6913d484ea7667fd71227c25",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_005",
@@ -75,7 +83,9 @@
       "reason": "「腹囲測定を省略できる条件」：腹囲測定省略の条件を確認する内容。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "2290736de50b572617cfb33b3d210022ba7ba8b57209d79a84fc654138c08090"
+      "basis_sha256": "584113c672efc81fd5b9ab3c412c60ff954655b09ff43fedce04ca455ba538ec",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_006",
@@ -88,7 +98,9 @@
       "reason": "「LDLの代替としてのNon-HDL」：脂質検査の代替項目と採血条件を扱う。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "e8b4561fa86cf98421bf9c76798bb8d3aef9dc4304bf946bcab112ce8f6c040f"
+      "basis_sha256": "2822fb3bc72dad18ff3fa295f1bafb53dbc5bcf37aa0dd5dcefb0ad9c97c8a88",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_007",
@@ -101,7 +113,9 @@
       "reason": "「詳細健診には医師の個別判断を記録する」：個人に追加検査を実施する判断・記録・実施日の要件。",
       "individual_scope": "本文のアセスメント・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "fcd757c39a4017faa70577d455131850ad7feed9f5b694f56049c89439d4bd9d"
+      "basis_sha256": "0738c0bad1d8192b16f77e3939748d1ffd07a8135ce404723f107c370c2a9822",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_008",
@@ -114,7 +128,9 @@
       "reason": "「詳細健診の心電図・眼底検査の実施時期」：個人に追加検査を実施する判断・記録・実施日の要件。",
       "individual_scope": "本文のアセスメント・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "f018fa15b5859f95d7e01f1d7d41101ce941471e9fc32909b3ed3cc4f775174f"
+      "basis_sha256": "5aa1c6794525336dc9fb8467e781041695a472912c51407dc8475cd2eac225d4",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_009",
@@ -127,7 +143,9 @@
       "reason": "「事業者健診の結果を活用する条件」：個人の他法健診結果を特定健診に活用する条件。",
       "individual_scope": "本文の対象者選定・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "705e7740d92c72180efb156cd2a712a02c3d4f821a1fe4b4f719c9214dcbe2e1"
+      "basis_sha256": "7bfe57091df945fa857a9bcfd5bd8da80a3cbcdf63759492983e1e6eeedabfae",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_010",
@@ -141,7 +159,9 @@
       "reason": "「上乗せ健診と人間ドック」：人間ドック結果の活用条件と上乗せ検査の費用区分が混在する。",
       "individual_scope": "人間ドック等を特定健診として扱う条件。契約・費用設定の部分は組織業務。",
       "status": "editorial_draft",
-      "basis_sha256": "c99c4d9791620c5c6fd994e804a471c06cca14761d8aaba2d94f91343918551e"
+      "basis_sha256": "39904ec88ef138ebeb93c916d570412b29a9bfbf21679ba56f0c4e07b3cf8cc2",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_011",
@@ -153,7 +173,9 @@
       "reason": "「市町村の健診を同時に実施する際の会計」：同時実施時の会計区分であり、個人の指導内容・実施判断ではない。",
       "individual_scope": "",
       "status": "editorial_draft",
-      "basis_sha256": "cfed29020ad607c56e9417337de2262c7f3273fda90cb0d3d03e4ada2a3d2ddc"
+      "basis_sha256": "d2f41267949d95178f435f41c3202139716b1bdd418e5f5e33b28caa9991a69f",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_012",
@@ -167,7 +189,9 @@
       "reason": "「優先順位を下げても対象者の分母は変わらない」：個人の選定優先度と報告分母を区別する内容。",
       "individual_scope": "本文の対象者選定に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "ab6a410242cd8b2cdfbb5b61dea294115b4ab795cb0bb88a6a8224413ac887a1"
+      "basis_sha256": "c374faf271382cecc1ce5cab861ebb63dad41c9c7c5af8b569c94cec5436fae1",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_013",
@@ -181,7 +205,9 @@
       "reason": "「受診勧奨と保健指導を混同しない」：受診勧奨と特定保健指導の実施判断を区別する。",
       "individual_scope": "本文の受診勧奨・対象者選定に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "0cec111050108030fac198c998cd99e6a83e2688b400e9f309427e9df0917fa8"
+      "basis_sha256": "8c5fa7c1d800b578c95696f00d5b8c9ee01c3cfafc05fe081665668c6db4ff15",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_014",
@@ -194,7 +220,9 @@
       "reason": "「結果説明は検査値・経年変化・個別リスクを含める」：本人に経年変化と個別リスクを説明する内容。",
       "individual_scope": "本文の結果説明・アセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "bdcaa5fa030a36245bdb75496608568ea6f86654bd71da62ccd78e88b972cd72"
+      "basis_sha256": "dd5d593b98419d3c32e0557daa114c3decb3bb008be10e494a3d59777f668e3a",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_015",
@@ -209,7 +237,9 @@
       "reason": "「階層化の入口となる腹囲・BMI」：腹囲とBMIによる階層化の入口を扱う。",
       "individual_scope": "本文の階層化・対象者選定に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "60892b9e8e280766cf1005cc45c5e070f0f4c743eddf8b31b6d5011a2d4a56f7"
+      "basis_sha256": "9975fa79bf7e5841ac420ea795d4bf2de06faffc6518d1e4ac2cf80583631bdd",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_016",
@@ -224,7 +254,9 @@
       "reason": "「血糖リスクと測定条件」：血糖リスクの測定条件と判定基準を扱う。",
       "individual_scope": "本文の階層化・アセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "3944ba6a8e48ec9edcd8c666fcec0df7d38b0ed0313fa493e02f64b23a0c85f3"
+      "basis_sha256": "dd3b6291784332bc88a043d8df13d81a75894c96105dce6868db32fceeded7df",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_017",
@@ -238,7 +270,9 @@
       "reason": "「脂質リスクは採血条件でしきい値が異なる」：脂質リスクを採血条件別に判定する。",
       "individual_scope": "本文の階層化・アセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "5ef2ccf1df44f264323d099ef7c15d19823462ff94dd0a28f6a4ade99190b56f"
+      "basis_sha256": "6faae623703f0293a3c8fc4385fd56de41555e61acc5ab19bc832c0964255690",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_018",
@@ -251,7 +285,9 @@
       "reason": "「血圧の階層化リスク」：血圧による追加リスクの判断。",
       "individual_scope": "本文の階層化に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "437cb2571157182a80e68686bd68cafa2e36e7b3a6a8d6ba457608d8dec1580f"
+      "basis_sha256": "935d7b42b43db8b5f84cdb33621fceaa60ea8f37dda8f8192dbf9622e66f27e8",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_019",
@@ -266,7 +302,9 @@
       "reason": "「服薬中の対象除外には再確認と同意」：服薬による対象除外の再確認と本人同意を扱う。",
       "individual_scope": "本文の対象者選定・アセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "bb154cfaed8cfac752bf6e30eed7e709c43f557a3cb521243987ecc301805849"
+      "basis_sha256": "5e6222cd3423ae5ea95aacf2f16e1cacd383b8830123c1d43619fab88026c058",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_020",
@@ -282,7 +320,9 @@
       "reason": "「健診・指導開始後の服薬開始」：服薬開始後の個人の継続判断と実績報告の取扱い。",
       "individual_scope": "本文の対象者選定・中断・終了に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "24b1ac5b24217d3674949e033c054f79a30eede99cf23f8b2c52822780549511"
+      "basis_sha256": "db3415869f7ec6f6e203a98f1fb16083573f1d1611997f636e3031b7c057955e",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_021",
@@ -297,7 +337,9 @@
       "reason": "「他疾病で治療中の者は主治医と連携」：治療中の本人への支援を主治医と調整する。",
       "individual_scope": "本文のアセスメント・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "af18f82c434b130bc9426b2e78b2661b2b3572ecc31140f6a5e1deb7f32906a1"
+      "basis_sha256": "f6c4173337815c06230bf34cd6eb911b03c0f6f0558a39c0da6d77ababfcdeaf",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_022",
@@ -322,7 +364,9 @@
       "reason": "「情報提供は健診受診者全員が対象」：健診受診者への情報提供の対象と方法。",
       "individual_scope": "本文の結果説明に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "9402672ad7ed0bc29c2269d11f7cbc819bdf27faee1b16a5cf93e51af92c032f"
+      "basis_sha256": "9fd181fad87e2317c67ad03a1004ca4eaea0ce2e76fd8d87004ff750a773f823",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_024",
@@ -336,7 +380,9 @@
       "reason": "「非肥満・未受診・治療不良への支援」：非肥満・未受診・治療不良の者への具体的な支援方針。",
       "individual_scope": "本文の受診勧奨・アセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "9c0319d11049fefcdc5bc5f362166faa2fff899cc2695599704865c6a9790c34"
+      "basis_sha256": "212f95f2472136f84762bc56b5d4b9a9f521edf7bc1371bf4fb42c0028031c7c",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_025",
@@ -350,7 +396,9 @@
       "reason": "「動機付け支援の期間と初回面接」：動機付け支援の個人ごとの面接・評価要件。",
       "individual_scope": "本文の初回面接・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "5657f1dc1cb3c85d1fef5e38da9d58c335e33b0b14286902f35ae7036fae382e"
+      "basis_sha256": "8358c5acd12866bf7c4151157f92198dbebaa5c5a1de01abb0f80f5bd3ef5cef",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_026",
@@ -366,7 +414,9 @@
       "reason": "「積極的支援の期間とポイント」：積極的支援の期間・継続支援・ポイント要件。",
       "individual_scope": "本文の初回面接・継続支援・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "90db5cf75ce0b9225e91d2d906172f28f4ae1bdd70ad8a9c5e1347fd83de7978"
+      "basis_sha256": "7dc0d28bdb9a461e01c38422b101ff96701bee13a96b76c3b7e2d7aff5ed4865",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_027",
@@ -378,7 +428,9 @@
       "reason": "「行動目標は本人の選択を支える」：本人の選択を尊重した行動目標づくり。",
       "individual_scope": "本文の目標・行動計画に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "ba11705e5aa110364817ded00fe3de396efc6bfeceba8bcf4492adf086e6eb7a"
+      "basis_sha256": "2dc9d96ebc7e0a7006dc9530e5003b2d3a142f65ab7df8d4d26ebfb7759829f8",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_028",
@@ -391,7 +443,9 @@
       "reason": "「同日支援と事務連絡のポイント」：同日支援と事務連絡の算定可否を区別する。",
       "individual_scope": "本文の継続支援に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "0bec67ce860242eb7ae943ee0e5f8ad6ad1007b533ec1126d16b74978019d2d3"
+      "basis_sha256": "b74750bec2f23ef1e3c27045c0d5a776e6ff3a0f04916b5dcdd6edb085e5b279",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_029",
@@ -406,7 +460,9 @@
       "reason": "「行動変容の評価は2か月以上の継続」：個人の行動目標と達成判定の条件を扱う。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "3cbec8b4ace451cce97eb59fe111ab70d631411fc682dae36fe136db37d62e13"
+      "basis_sha256": "3607ca061c9610c07a4e21b3e4e283edc19251047fb092164310c96fb21f4482",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_030",
@@ -421,7 +477,9 @@
       "reason": "「実践・評価可能な目標と達成条件の共有」：個人の行動目標と達成判定の条件を扱う。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "9e9b3c4d2b3744fdec0ed7a4c79297a3b86686635203dbba08b55e2b4c7d2eb8"
+      "basis_sha256": "3a675ae447f931b2d7a2f9f4cb9825b9f2b451c22da9ef0c2b4c26fbb2da6afc",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_031",
@@ -436,7 +494,9 @@
       "reason": "「達成済みの行動は新たな行動変容として評価しない」：個人の行動目標と達成判定の条件を扱う。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "67180593a28013bf2834991592440c6c8ffcb5860fea567986cbf535ec097546"
+      "basis_sha256": "a0bd2220fa7bbc97fa4e1d83a1a14572ac3c85f21dfe180db97f35819bd72c4f",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_032",
@@ -451,7 +511,9 @@
       "reason": "「腹囲・体重のアウトカム評価」：腹囲・体重の減少による個人のアウトカム判定。",
       "individual_scope": "本文の個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "99627c2efb3785b520b9abc4e4c8947e360a9ede8a37151bc358d9fda35f72be"
+      "basis_sha256": "b9b0a5b601dcf4a619ff497afc83136bf8c6a64971e47300754b1daa2c39a79e",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_033",
@@ -466,7 +528,9 @@
       "reason": "「継続支援の形態別ポイント」：継続支援の形態による算定方法。",
       "individual_scope": "本文の継続支援に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "9d91e43cd8779d6c9c1f58c8497889ff3451741eb239686f85e9f99d8ab6acfd"
+      "basis_sha256": "4df3919667e7916364f7425b72e67ff6e186d449a6965f3523d7beb658d6b85e",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_034",
@@ -479,7 +543,9 @@
       "reason": "「初回面接の早期実施ポイント」：初回面接時期によるポイント算定。",
       "individual_scope": "本文の初回面接に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "81c020ced512ee484f8cc50401f4cab1a18d2032f8f75ee702ad13faa132442f"
+      "basis_sha256": "ce14a16b8883dbec8e240ace522e5496aed4d6d6e3678a6f2438af60be11dc2b",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_035",
@@ -492,7 +558,9 @@
       "reason": "「通信による実績評価は双方向で行う」：本人との双方向通信による評価要件。",
       "individual_scope": "本文の個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "b3688d9a211f6cab3f2a403c6ef768c16b82f39dfdbbd878bc5d96b93cfd53ba"
+      "basis_sha256": "d7f0e80976fdd5686a8eae424c1534d1ead9b99670b9a5df46ea30a10d5b1ec3",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_036",
@@ -508,7 +576,9 @@
       "reason": "「2年連続の積極的支援で改善した者」：連続該当者の2年目の支援方法を決める要件。",
       "individual_scope": "本文の対象者選定・階層化・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "c0df2ebeb88c0b8b03600f6d996fc0422d1261c4e06253faa31a56c6ab3d9b7b"
+      "basis_sha256": "2c609ee4bde3d0b05e3028fc808c6c1d8aeaf15f4a7a5c404fa53dbe127315a8",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_037",
@@ -521,7 +591,9 @@
       "reason": "「支援計画・実施報告の必要項目」：個人の支援計画・実施報告書の記載内容。",
       "individual_scope": "本文の目標・行動計画・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "d816eac1a31d29f2f3476a7d4e5e0ee3699b3c0d909c3d591f6274f297fe42f7"
+      "basis_sha256": "4514214085491e99ac3abbae5bb95e54c3ce5f453b44fda5e2020ff81f2da6c7",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_038",
@@ -533,7 +605,9 @@
       "reason": "「分割初回面接の適用と期限」：初回面接を分割する条件と期限。",
       "individual_scope": "本文の初回面接に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "c9723a4c82e9ba4ea60b2f73e1ae0692c95c5d2791283d1a8cc2d0f81bd93f7c"
+      "basis_sha256": "71adbb8d93476bede8b2bdbab704c5192c3f273ea118984b1bfeb4fcb044c5eb",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_039",
@@ -546,7 +620,9 @@
       "reason": "「分割実施の実績評価起算日」：分割面接後の個人の評価起算日。",
       "individual_scope": "本文の初回面接・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "755e583d3c0a25c08b500ed65d6d5d4083f8d46c7df9753c9d6142abc61a1ac6"
+      "basis_sha256": "91b9d84f8ac2b923708816963ad15ef0be4039df7b518c1b6fb902ab2b85afba",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_040",
@@ -560,7 +636,9 @@
       "reason": "「完了には実績評価の記録が必要」：個人の完了認定に必要な実績評価記録。",
       "individual_scope": "本文の個人の実績評価・中断・終了・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "a627a4e7c0d22aa3d33c2435f9cb026f96a6e458cb2b967140716be592211d81"
+      "basis_sha256": "ef5379e35d85666daba5b9505b8f8c88cf96d53f775974a94707a5ab802d3a1d",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_041",
@@ -574,7 +652,9 @@
       "reason": "「異なる機関での支援と調整責任者」：個別ケースの機関間引継ぎと調整責任者の配置。",
       "individual_scope": "本文の個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "d222836a63424fdbdbabdb3f05910b9162f85e7b760252e4f1912167721a0f71"
+      "basis_sha256": "d9641879527414126405d0d2700877a6d6cbbc1713a8134c10c3dc47b736cf92",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_042",
@@ -587,7 +667,9 @@
       "reason": "「脱落の認定と終了確定を分ける」：個人の脱落認定・終了確定の手順。",
       "individual_scope": "本文の中断・終了・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "5ad9af34e47724c3066bf064801b85b2f8e5062802bdddb9219cf421e0c99e0e"
+      "basis_sha256": "c2b99d5a8b0de3063a4302e993b39b01275950e42d5b3671ea89221473e0d5cf",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_043",
@@ -601,7 +683,9 @@
       "reason": "「資格喪失時の指導・精算」：資格喪失後の個別支援終了と費用精算を区別する。",
       "individual_scope": "本文の中断・終了に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "ed2d4019fb92d52df791335807b9d44bb8a062454aeaf2621797c9e34689897e"
+      "basis_sha256": "5dc23fa64fb191569049364117c0a0338991ab0a131207b066b6980db0821518",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_044",
@@ -615,7 +699,9 @@
       "reason": "「遠隔面接の環境・本人確認」：遠隔面接の実施環境と本人確認。",
       "individual_scope": "本文の初回面接に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "2ae8b4785a1efecd90f4c01d8d31de79e3dfc004dbccf58ef6f604ce0e952c70"
+      "basis_sha256": "e4c020ffb85e5c0243fb8bd5579cbfa5bf969eedc3ae37539af282aa30b82bd7",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_045",
@@ -630,7 +716,9 @@
       "reason": "「遠隔面接の録音録画と通信障害」：録音録画への同意、通信障害時の面接対応。",
       "individual_scope": "本文の初回面接に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "7dcef55414054572a0cbcd04d2cd5ace39c90ac107b38bdee137eac5ab56cd22"
+      "basis_sha256": "1cdf47ca4d1d63b80fe140a2bb505f37e1f9438ff6bdc550985f6b55679fe774",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_046",
@@ -646,7 +734,9 @@
       "reason": "「遠隔支援の費用と事前説明」：遠隔利用の費用説明・同意と組織の費用分担。",
       "individual_scope": "本文の初回面接に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "f12f1bd1816140ea04707a9883e6c069c0b0324637f5f36e5940bbe0b98e56ce"
+      "basis_sha256": "f5868d5430fa9f75ce6de4be963637cc56aab7cf0571d12ffdf77ddc63b24a2e",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_047",
@@ -660,7 +750,9 @@
       "reason": "「遠隔面接結果の共有と個別情報の保護」：遠隔面接後の個人の情報共有・保護。",
       "individual_scope": "本文の個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "dd7a1d873aeed658eb1211e27ac6ac26503f8feef960320fae3ce166e1472391"
+      "basis_sha256": "28501bd39be710da3d736416253bc1852ec6269067626a2fe6be33fe047f25c9",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_048",
@@ -675,7 +767,9 @@
       "reason": "「診療情報を健診結果へ活用する条件」：診療検査を本人の健診結果として活用する条件。",
       "individual_scope": "本文の対象者選定・アセスメント・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "2229f4c20842559703fd66e54de9a96c27d126071a4bc0a2210a67d3a6ad934e"
+      "basis_sha256": "ab6a1f866ce09052a98b9e3f50dcd19b54464a1fa51e8bfc39c796b5ef6a9d50",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_049",
@@ -687,7 +781,9 @@
       "reason": "「契約書と単価を明確にする」：契約書・単価・再委託条件を設定する組織業務。",
       "individual_scope": "",
       "status": "editorial_draft",
-      "basis_sha256": "6bb512ba03e6615cdfd3cfae235aa9064961baf23cde02601fed012bc41e73d6"
+      "basis_sha256": "ab3d38e2af891b63421e9b555e4e3341bc89fb341bed120217cca60707d17763",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_050",
@@ -699,7 +795,9 @@
       "reason": "「再委託の条件を事前確認する」：契約書・単価・再委託条件を設定する組織業務。",
       "individual_scope": "",
       "status": "editorial_draft",
-      "basis_sha256": "b274242e58be5f6625e8cdec54512f2c5826030a0bd582b5d4f906c1d0ae80e2"
+      "basis_sha256": "d82c10c87d5494dd2be9b964ffbc107ed5092013df789289029de9b7a035bd1e",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_051",
@@ -712,7 +810,9 @@
       "reason": "「委託契約で個人情報保護を担保する」：委託契約に保護条項を設定する内容。個別の同意取得手順とは区別する。",
       "individual_scope": "",
       "status": "editorial_draft",
-      "basis_sha256": "7d6db8f5e90adbb548a1ca003799657ca6c19e073f9521188c104bba3c75f7da"
+      "basis_sha256": "1d980f1c0a709d4980105222e40de99bc115c99de2419d878461ee51501e123a",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_052",
@@ -724,7 +824,9 @@
       "reason": "「重要事項を公開する」：実施機関の重要事項の公開義務。",
       "individual_scope": "",
       "status": "editorial_draft",
-      "basis_sha256": "dddea5682a468b227ee0f125bc11d66003ecb73728cc1d7525c09f6519c3dd04"
+      "basis_sha256": "d48d533998e426a0ccba65010bdbc14ee245d9819685f3ead9f968898dac9a21",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_053",
@@ -737,7 +839,9 @@
       "reason": "「委託先の基準遵守と質を評価する」：委託機関の基準遵守と事業の質を評価する内容。",
       "individual_scope": "",
       "status": "editorial_draft",
-      "basis_sha256": "1bb2c99511254bb08be481a6b4747124152908e24dbf3678c6e08b39945ce4b8"
+      "basis_sha256": "bd5a5d6f9eb8bd3391b24e717dbe1b38da9a853b00b6249e79b13a4c035b911f",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_054",
@@ -779,7 +883,9 @@
       "reason": "「健診・保健指導記録の保存期間」：個人の健診・指導記録の保存年限と管理に関する内容。",
       "individual_scope": "本文の個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "e4d8866374d3d7846dfbc84418fdaadddc8b06da764a67a29e21c2585b08e8ce"
+      "basis_sha256": "d14d3781529480ac73fe62511dea4471e665318cee886c3d2d9e8b103456124e",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_057",
@@ -804,7 +910,9 @@
       "reason": "「遠隔面接の接続・本人確認時間は算入しない」：遠隔面接の実質的な面接時間の算定。",
       "individual_scope": "本文の初回面接に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "d4b5257b52984e88a5b892015ef1dd405782fcd4484d33341cac434ee801d45b"
+      "basis_sha256": "30758f70e730e241b99b5f4717af60d615d8c301d84c79e4c4d0395ec943e4d3",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_002",
@@ -817,7 +925,9 @@
       "reason": "「初回面接を個別継続支援として二重計上しない」：初回面接のポイント計上と二重計上防止。",
       "individual_scope": "本文の初回面接に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "26e973a3b0bc991fb5f84d50acdbb3214c8b1c071f6b2ba66c0e90890b083c94"
+      "basis_sha256": "0cb78c1674446fa0317de4c689185273d0a72c4a643e3827964ef6a4d603251b",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_003",
@@ -830,7 +940,9 @@
       "reason": "「分割面接の早期実施は1回目で評価する」：初回面接のポイント計上と二重計上防止。",
       "individual_scope": "本文の初回面接に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "c58fd318499acd4a9f73297b8ebe3b4070f088b1f5c163a29f6cd255a11461fe"
+      "basis_sha256": "740403d5141724abfa0b1a16fd2ee95d4ccc0730f653700286ebc0c868724282",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_004",
@@ -846,7 +958,9 @@
       "reason": "「減量達成だけで初回面接時に終了しない」：個人の身体アウトカムと行動目標の評価要件。",
       "individual_scope": "本文の個人の実績評価・目標・行動計画に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "ae0ff16d77f30deb9188d547e0a0955a573e761bfc1a9ba32402c58bca41bff1"
+      "basis_sha256": "d919fb9236574d07e58147649d062c642d2465645658b1ba182ce554e8ee4b82",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_005",
@@ -862,7 +976,9 @@
       "reason": "「1cm・1kg減に0.012係数は使えない」：個人の身体アウトカムと行動目標の評価要件。",
       "individual_scope": "本文の個人の実績評価・目標・行動計画に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "82e9b7e01b4b521109c25cdabd78399c3d1956cd552362c032505f6d363bf47f"
+      "basis_sha256": "e9e631aa8dac457cf9f8e0d9b25ba2e4f1309238806b527f5737d79685ced360",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_006",
@@ -878,7 +994,9 @@
       "reason": "「体重・腹囲評価の客観性」：個人の身体アウトカムと行動目標の評価要件。",
       "individual_scope": "本文の個人の実績評価・目標・行動計画に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "87b690e40d18824de2e08e30e06a06ae63d62c5954279d04f6f32f14686378e8"
+      "basis_sha256": "8ad1d442aeabf5c469548bbe3c176c7af93b0d43ea91203b53c79cf348b88c91",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_007",
@@ -894,7 +1012,9 @@
       "reason": "「身体アウトカムと行動目標の評価を区別する」：個人の身体アウトカムと行動目標の評価要件。",
       "individual_scope": "本文の個人の実績評価・目標・行動計画に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "5d84070b2764b057946f2b3efda70f3a91aa2310919562323c718422555121f3"
+      "basis_sha256": "623836aa6742742b6c1498f7a8e9277ddbd3484cc03bbc1e482bf2dab3f7cf88",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_008",
@@ -908,7 +1028,9 @@
       "reason": "「AI等による自動支援は支援ポイントの対象外」：自動応答や簡易なやりとりの支援ポイント算定可否。",
       "individual_scope": "本文の継続支援に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "8c2d22c0553cd80203f3969a73776e2665d63c83a2167ef4eca37fbd43c3bce6"
+      "basis_sha256": "36671f215e5ea266cdc55ee71d3e8d5b34bf31e7a91492c38475c46d3fd9df0a",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_009",
@@ -922,7 +1044,9 @@
       "reason": "「画像・絵文字だけのやりとりは算定しない」：自動応答や簡易なやりとりの支援ポイント算定可否。",
       "individual_scope": "本文の継続支援に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "a9cf5e77e0af787627c62e18d4918320a0c0123b40b449b87b71c78047710710"
+      "basis_sha256": "80071e9093bb373cd9b44c762af11d5c10eec3752b00ed9d7c99ca9c2109f054",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_010",
@@ -934,7 +1058,9 @@
       "reason": "「行動目標の例は本人に合わせて具体化する」：本人に合った具体的な目標設定。",
       "individual_scope": "本文の目標・行動計画に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "d63d31d691322c6a905737ba3960a14639acb103bcf2f0a079cdcc0be0ef5510"
+      "basis_sha256": "413ee150c61762881cb4dfcd32d2b4c2c9bc09c52c0a88ca6271292473c0c611",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_011",
@@ -950,7 +1076,9 @@
       "reason": "「飲酒目標はその他の生活習慣に分類する」：飲酒行動目標の評価分類。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "c120fbadd8adc97ed96c1f93f0e99de942dd4ae1a83c706773d27c908590f2f4"
+      "basis_sha256": "0e7ab2604919e7a46392fa0ff38ca4c833bdcd990a369925a9df8f3ec78f8079",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_012",
@@ -966,7 +1094,9 @@
       "reason": "「休養の評価は個人の課題と生活環境に合わせる」：本人の生活課題に応じた休養目標の評価。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "7f57c4bcc03b763192ad82ea7c886a74cb6663157c3fde440fa283e8755829c9"
+      "basis_sha256": "2eeb3dec86407fbf880e193649c9b519ace32379b1a1afb11d54512ec097c272",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_013",
@@ -983,7 +1113,9 @@
       "reason": "「体重・血圧の記録習慣の評価」：体重・血圧の自己記録という行動目標の評価。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "eee17912ac2897beb7c33073b3f9c05c1d25a3e39fed2709178fc4a4b1d4aa95"
+      "basis_sha256": "c5780095885956867941d209def6351b6360dba467a4ab5707abc03d542f1538",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_014",
@@ -998,7 +1130,9 @@
       "reason": "「減塩だけで食習慣のポイントとしない」：減塩目標だけで食習慣ポイントを算定しない条件。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "532158413bf6805e2b5bf4a204f189263865f0909d67a8b8ee7bbaa861e0d004"
+      "basis_sha256": "95e43b3d6203eb1da8a6ecbc2a92e9e27ca003e0fc6da0db0e27d5bdcb2837a8",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_015",
@@ -1014,7 +1148,9 @@
       "reason": "「分野別評価に必要な目標の水準」：食習慣・運動の行動目標に必要な達成水準。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "81e751a26bc727da6798bae0a4dca8b6cc7077d0c5ca2dac70bdc5c0a861d4cf"
+      "basis_sha256": "01e480463eecfb4f601d12788713adb191ebc6415a84fa13d2a1366ad1e67237",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_016",
@@ -1029,7 +1165,9 @@
       "reason": "「後付け目標や継ぎ足した継続期間は算定しない」：計画に定めた行動変容の継続期間・達成済み・複合目標の算定条件。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "1da9b1a9cca88ee4d1efe0a41288bf2fb7ee2793b84f00452a45ebd5872ecb24"
+      "basis_sha256": "ba26154d04d8caad8d7fc1e7100e00fe5dee20b1fe2f0eb765de71a13a13db1b",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_017",
@@ -1045,7 +1183,9 @@
       "reason": "「禁煙の達成には全ての喫煙中止の継続が必要」：禁煙達成を評価する継続条件。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "b8b10775fb0b3aa9c6df1c6fb95fb8903e066d70c9eef7100df11d3c083296cb"
+      "basis_sha256": "c607eb54c02d15f598250eedb504aebf4c3ca568fc26dccadaeb8743ab123470",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_018",
@@ -1060,7 +1200,9 @@
       "reason": "「複合目標と2か月の継続期間」：計画に定めた行動変容の継続期間・達成済み・複合目標の算定条件。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "cadc6ac261cfcd667e63cc4bc81115459463aeb76fbb8e33d58a82b3fdf3cf16"
+      "basis_sha256": "39326be194ea890b5d70567c20355d81a8055a7c0efa97ff3721766d5eaba434",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P3_3_001",
@@ -1085,7 +1227,9 @@
       "reason": "「話しやすい雰囲気と信頼関係」：本人の同意を確認し信頼関係をつくる面接技術。",
       "individual_scope": "本文の初回面接に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "3b3ff8827bb8e695de706531133541c82a52dd746a9388b4a9d26cab682579c7"
+      "basis_sha256": "5958e3d9d383d4652b7028898a5bc7c404e43f8abf73aafa5dad6b8be3836c9b",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P3_3_003",
@@ -1097,7 +1241,9 @@
       "reason": "「準備段階と生活習慣をアセスメントする」：面接・行動変容支援で本人に合わせて実践する技術。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "03b7b3960c9b716a0cb9fc1ce23819bdf6c55eb59aa1b9859c75999ecba95385"
+      "basis_sha256": "3cfb6c5620d06ca409669874535e8b96c6a81916ab20b649d81b02c0108eced1",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P3_3_004",
@@ -1109,7 +1255,9 @@
       "reason": "「本人の気付きにつながる説明」：面接・行動変容支援で本人に合わせて実践する技術。",
       "individual_scope": "本文の結果説明に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "60c087e6f9e6325d5ea8068f4b5af8d6747b65e440937bfd6bc52c6e5aea4759"
+      "basis_sha256": "19491252de287da9dd256f38f3119a6863e4a497498cf509557904f06336c53e",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P3_3_005",
@@ -1121,7 +1269,9 @@
       "reason": "「教材は根拠と本人への適合性で選ぶ」：面接・行動変容支援で本人に合わせて実践する技術。",
       "individual_scope": "本文の目標・行動計画に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "8781d3038796ab98d5eed6e0559c1518aa26d692df4caf656d9a4d83323d43f1"
+      "basis_sha256": "decf4907c84c02a17a302c4714d45b4541effb041c70ca49d5288bbf3687b764",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P3_3_006",
@@ -1133,7 +1283,9 @@
       "reason": "「本人が選べる具体的な目標にする」：面接・行動変容支援で本人に合わせて実践する技術。",
       "individual_scope": "本文の目標・行動計画に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "6f0abd2d15369ec848dbe4313a9f9dfea0ee7a06a152af894c9215ae196d9588"
+      "basis_sha256": "a92515649986ca4c9a6ff14657e528a33bb7dd70b2ecf996b2708b26613b00d9",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P3_3_007",
@@ -1145,7 +1297,9 @@
       "reason": "「継続フォローの方法を本人と確認する」：面接・行動変容支援で本人に合わせて実践する技術。",
       "individual_scope": "本文の継続支援に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "4d871db6c13983eef6bb3315aed90106ee6a458017417de040cd5973167526ad"
+      "basis_sha256": "e33f0bf6eed548d765dd9736ab96228f166175fc4f879e46551e8997357989ec",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P3_3_008",
@@ -1157,7 +1311,9 @@
       "reason": "「目標達成と健診結果を振り返る」：面接・行動変容支援で本人に合わせて実践する技術。",
       "individual_scope": "本文の個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "55cd54efcd30b6a3d67186738fbad8916b3b0ad9055fd19f6696edaf96db9c20"
+      "basis_sha256": "44797a3b85dfba822eac9c73f07b350e0bb80f13c282d4a9635e535c8abf5794",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P3_3_009",
@@ -1169,7 +1325,9 @@
       "reason": "「未実施者・中断者の理由を把握する」：面接・行動変容支援で本人に合わせて実践する技術。",
       "individual_scope": "本文の中断・終了に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "9286be178db4841646e18894361659260fae7b1c873333d6977de4fc1f99a6d0"
+      "basis_sha256": "b9bc1849ef951d973ae2ec6bbbe2c891bda106ab64b166c90cfb0631e9af761f",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P3_3_010",
@@ -1182,7 +1340,9 @@
       "reason": "「無関心期と再参加者に応じた支援」：面接・行動変容支援で本人に合わせて実践する技術。",
       "individual_scope": "本文のアセスメント・継続支援に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "7ef8b9db55834ebd497a1c1eb097fb2ebcbef468cbfbf0bd4f7a6bed37bceda1"
+      "basis_sha256": "7102e4b0204669b0490bfd9f96cfa6c39162f0e1dd870096277f184bafa21e89",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_SMOKING_001",
@@ -1209,7 +1369,9 @@
       "reason": "「禁煙開始日とフォローアップ」：禁煙開始日の合意と継続フォロー。",
       "individual_scope": "本文の目標・行動計画・継続支援に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "167dd9f29c6b4fad6084e33e8add079d9ffc0d6920d74c4cd0dde8ff6a09d08f"
+      "basis_sha256": "9ebe0c628271989e9201a518634d2d60a44a889e8c4ed4534416f99dab107671",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_SMOKING_003",
@@ -1253,7 +1415,9 @@
       "reason": "「フィードバック文例を組み合わせる際の注意」：本人の検査所見に応じた説明・医療受診の案内。",
       "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "8a9b24653351b21b4f58736f75bfe84f167e65e6bca07d5884f71fd625084838"
+      "basis_sha256": "5b91565c8b564d37c24fb5ca85c32c792d005427c85f01dfe264d0dfe8a335f1",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_FB_002",
@@ -1267,7 +1431,9 @@
       "reason": "「高い血圧値を生活指導だけで処理しない」：本人の検査所見に応じた説明・医療受診の案内。",
       "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "7d80c7aebae4f365fe6b0b7b5afca5b9b527116efcffd279cb6cf953fd176229"
+      "basis_sha256": "6eba7fb5806a1c1693501c87e88854a753c43a69341e237e9ff4c1393da2e4ed",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_FB_003",
@@ -1281,7 +1447,9 @@
       "reason": "「脂質の説明はLDL・TG・HDLを区別する」：本人の検査所見に応じた説明・医療受診の案内。",
       "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "2bd5bfb6528ebb3906b15959952f42b0afdb49bda5425b7b480cfb56d3e31871"
+      "basis_sha256": "c238e7ccd9eb4769cd24b6ea0eed22ab6d34054038329b9d8ce2c2fb7de84eac",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_FB_004",
@@ -1298,7 +1466,9 @@
       "reason": "「血糖の説明は服薬・肥満・検査値の組合せで選ぶ」：本人の検査所見に応じた説明・医療受診の案内。",
       "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "2630b4e7afd7390ddbb54e84436b2333355fdc2c1ddd8847ecbdbe95fc94506e"
+      "basis_sha256": "28e9ff78c02c297a8f4501c13143ad2ede67b20802cdec600f4d194095d54f63",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_FB_005",
@@ -1313,7 +1483,9 @@
       "reason": "「高齢者の血糖管理では低血糖等を考慮する」：本人の検査所見に応じた説明・医療受診の案内。",
       "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "da9074037f144cbec9271ee6b16d406f243e7ac9b4192467aadf550d7dd8d739"
+      "basis_sha256": "52a2c40edbb7681c0a45488f4f09d0241b8ad2b8f376fc03ad2f30c0f72c52d8",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_FB_006",
@@ -1327,7 +1499,9 @@
       "reason": "「肝機能異常を生活習慣だけに帰属させない」：本人の検査所見に応じた説明・医療受診の案内。",
       "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "730ba1c45bb552ae25a96bcfe4c9f9782e225e29c5b97890735a0de3067e3f23"
+      "basis_sha256": "a5eb1b39cc05721e35ab5f766a7098431020a1f3820d1ccf62eff08e5e9713c5",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_FB_007",
@@ -1341,7 +1515,9 @@
       "reason": "「尿蛋白だけの文例と腎機能を併せた文例を分ける」：本人の検査所見に応じた説明・医療受診の案内。",
       "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "02122e7cab314c2f6e92e3fe7ffdc6f8ba73e57dd164583196234d4add3893a4"
+      "basis_sha256": "2a4e0eabef1736f1fe88329405b6d8022b1c05a3485bdc22e84c83f6574fbdd0",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_FB_008",
@@ -1355,7 +1531,9 @@
       "reason": "「腎機能の説明ではeGFRと尿蛋白を併読する」：本人の検査所見に応じた説明・医療受診の案内。",
       "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "77a7738a6f50d89417138d256e68813afcdc4b7b8daec136b2dfd165440c8b29"
+      "basis_sha256": "df1dc7e314be5df90b21770858abe224560795c67e461ecdae879068cab6440d",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_FB_009",
@@ -1368,7 +1546,9 @@
       "reason": "「心電図所見は医師の判定と受診につなぐ」：本人の検査所見に応じた説明・医療受診の案内。",
       "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "6d8d783b60ef754b8625eabf8dcdc873320067034031512a73fce488408b3866"
+      "basis_sha256": "da8d6dd79c29ec2fc26d5496b6d302c00f90d20f7108f5406ad19252372426ce",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_FB_010",
@@ -1383,7 +1563,9 @@
       "reason": "「眼底の高血圧性変化と糖尿病網膜症を区別する」：本人の検査所見に応じた説明・医療受診の案内。",
       "individual_scope": "本文の結果説明・受診勧奨に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "37e81e7f37e9e11571610291bdfba6f08ba6383d488453d7de4404d1864106b5"
+      "basis_sha256": "c077ccb99d2ab6c8cf9bcd3fd741105bfe1b9807b5e109693260b0d32cefe810",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_001",
@@ -1396,7 +1578,9 @@
       "reason": "「喫煙質問票では現在・過去の喫煙を区別する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "652792178e42113ef9f3150ae58e1913c01fabcbb038304fae3b4ae4cc3df46a"
+      "basis_sha256": "6903dde382527115c2ba080b750aa390e1a29e9afe86607e43cf0b1f429e6184",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_002",
@@ -1409,7 +1593,9 @@
       "reason": "「20歳時からの体重増加を確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "d3564911e4241aada14b1d45ad11da3a09c201052bd33d3050b879d440f35b82"
+      "basis_sha256": "0b9e73b6a836d787d6a5436905dd8919b7c38a8a521e4cba484a5372684f3a61",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_003",
@@ -1422,7 +1608,9 @@
       "reason": "「運動習慣と日常生活の身体活動を分けて聞く」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "ba563364a52e7e9a193dd18229364fb68b71ede8a879b1ff6cd7cd82e8dcded7"
+      "basis_sha256": "6f09e863d6d76f1e004497485c5a995ee010ba94797a96739c35b36051ae8416",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_004",
@@ -1436,7 +1624,9 @@
       "reason": "「噛みにくさを食事指導の前提として確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "b2dd435aabe2ab84266b61ac0b1d16b9032ebeacf777602c7c8a17599181b1e5"
+      "basis_sha256": "8feec60a496bf2964058a1bd7de106120e305fe79a04e7e18846a8d24e6f3b57",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_005",
@@ -1449,7 +1639,9 @@
       "reason": "「早食いの背景にある生活環境を聞く」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "92d7bf766383a240e275ecf32987ff108717c726953610733fadd18f0727abee"
+      "basis_sha256": "2c6c178fee893b002d45f75d8ad903e52a4ffcec74854a502dc0ad28fce9ba44",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_006",
@@ -1463,7 +1655,9 @@
       "reason": "「遅い夕食は時刻・内容・生活背景を併せて聞く」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "b1ce3a8017993c9788cce1ea01fab8b803af5850d0058bc0eb198a85d9c503f0"
+      "basis_sha256": "581c7a8998b3c416a1322c503d3a95d0cc15817e6d9906c9a22352904f2257a3",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_007",
@@ -1476,7 +1670,9 @@
       "reason": "「間食と甘い飲み物を具体的に確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "cdfdaa4e5867f3e92d9bc83faeee9c2f8830ff464af8066e8e0986485451a6d8"
+      "basis_sha256": "5e4a62733c5ff93d41159dd4266f54ae7a351f539fd4629a1ff46d3d6cd85256",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_008",
@@ -1489,7 +1685,9 @@
       "reason": "「朝食欠食は実行を妨げる要因も確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "11f76bf1fea3f5a66a0b86acfd39b3251299699b1e8e62ff0a6e62309e4ee9ee"
+      "basis_sha256": "77d832466efcd520a4f38d7ed2bc2112974f51c79dc3c8411cf89ae507546f02",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_009",
@@ -1502,7 +1700,9 @@
       "reason": "「飲酒頻度と飲酒日の量を分けて把握する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "fae48f6de79af1c74c3ad425fdb149ee98dbea0824fd2e6ab7610b8c79e9cdc5"
+      "basis_sha256": "eb9b6471c95ff06b288e757ccd729b113fbf364dd2239ba8fd8a2ccb6185eb77",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_010",
@@ -1515,7 +1715,9 @@
       "reason": "「睡眠の量・質と眠気を確認する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "44fe21b1ba89e2100f822d02892cbb9d793ed7df991e105fbe798925a00118c9"
+      "basis_sha256": "626651e16a36a4114b1d9696ee3bf285111cb62838a230eee564b4016157f314",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_011",
@@ -1527,7 +1729,9 @@
       "reason": "「生活習慣改善の準備段階を記録する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "1d995deb209d58659120ff68212083605d50c47d9c7f0252175be637ceaece88"
+      "basis_sha256": "bbe352fb60eb084040314be729655fd30894bfb8f2a797a76ae542324c47a789",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_Q_012",
@@ -1552,7 +1756,9 @@
       "reason": "「血圧測定は回数と平均の扱いを記録する」：個人への質問・測定結果の確認と回答に応じた支援上の留意点。",
       "individual_scope": "本文のアセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "aa933e47a49a083558c0dd30cf72456bfc6b6caa968397be5f44f811c2e759b2"
+      "basis_sha256": "33c1d46a862514b4e74c2ef87bdab41aba3a5ba7c57748982b71d878db8ff551",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_ANN14_001",
@@ -1564,7 +1770,9 @@
       "reason": "「標準契約書の例の適用範囲」：集合契約ひな型の適用範囲を説明する組織業務。",
       "individual_scope": "",
       "status": "editorial_draft",
-      "basis_sha256": "6b733d60b7d200f2077ab0a70c6789ad294faab64e23c25e08961186718d2b9f"
+      "basis_sha256": "b65c3a6415876a933e253ccfe44d40f054d14109d9b2143478d713029aff0733",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_ANN14_002",
@@ -1577,7 +1785,9 @@
       "reason": "「契約例の再委託・個人情報保護」：再委託・個人情報保護の契約条項を整備する内容。",
       "individual_scope": "",
       "status": "editorial_draft",
-      "basis_sha256": "c6a9a2ae78919502cd235bf949d186600269c7a01883483e541f864400e642da"
+      "basis_sha256": "80d70e0ad0ac13c166c61e86f4c1b5da98e99a07f6879f81d0c95c3c58e12d06",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_3_001",
@@ -1593,7 +1803,9 @@
       "reason": "「支援区分は腹囲・BMI、追加リスク、年齢の順に決める」：腹囲・BMI・服薬・年齢を順に確認して支援区分を決める。",
       "individual_scope": "本文の対象者選定・階層化に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "1f1c8ae1659ede07c1ad2aad5f6b1fb1c6ad12d44f5e3061843d6cbea9a431fc"
+      "basis_sha256": "5cf8f9884dfafc0548441fc5193b5035478d21c5c167a98e362b3062c6b5f544",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_3_002",
@@ -1609,7 +1821,9 @@
       "reason": "「追加リスクは血圧・脂質・血糖の領域ごとに数える」：血圧・脂質・血糖を領域ごとに数える判定規則。",
       "individual_scope": "本文の階層化に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "2ffbac9fde6546b8138be7bdf5ebd02a83c445a57979586c50690b61164f9686"
+      "basis_sha256": "f0718cd7a303823d75fd1dd85ef9ad3f515edaf6143473517cf103d67e99452d",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_3_003",
@@ -1622,7 +1836,9 @@
       "reason": "「喫煙は検査リスクが一つ以上あるときだけ加算する」：検査リスクがある場合だけ喫煙を追加する。",
       "individual_scope": "本文の階層化に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "8bc5ef572e5b503ec4e71202717219dcc3221878354d4af9158fc15152e5847a"
+      "basis_sha256": "cdf538a35cfcd3339559cca9e64ddc4ecb8e6ba48fbd307bdb03b58ddadcc49f",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_3_004",
@@ -1637,7 +1853,9 @@
       "reason": "「腹囲基準以上の支援区分：追加リスク2以上は積極的支援」：腹囲・BMI区分別の追加リスク数と喫煙条件による支援区分。",
       "individual_scope": "本文の階層化に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "f696a00c3aed3a769bb20c0dac7e9d43f814e8fe82b92fb9f06605932512533d"
+      "basis_sha256": "2d0577fd7cf75c3d4007a3d8095acf01c98405dc29d97a9fdb44f6ab85a5c69c",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_3_005",
@@ -1652,7 +1870,9 @@
       "reason": "「腹囲基準未満・BMI25以上の支援区分：追加リスク3以上は積極的支援」：腹囲・BMI区分別の追加リスク数と喫煙条件による支援区分。",
       "individual_scope": "本文の階層化に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "8c09a3fd7f0b53d9a0e11b9a4a097f2d851cd7c83b8d29dd3313a16834234591"
+      "basis_sha256": "6eb9eecd596da02fd52624941fca9b8ff30846878ad2f5c6f14a8f0b1cd35e3a",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_3_006",
@@ -1665,7 +1885,9 @@
       "reason": "「65～74歳は積極的支援相当でも動機付け支援」：個人のリスク数・年齢から支援区分を確定する規則。",
       "individual_scope": "本文の対象者選定・階層化に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "39047770dd23e0acabedf9518c37383c73476cc84c5ef6b08ff8bf4b37e5b50b"
+      "basis_sha256": "fec88c6418c56459995da47619f2a39113b929b93d104b6a164e944304c1ac56",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_P2_3_007",
@@ -1725,7 +1947,9 @@
       "reason": "「メタボ判定と階層化では血糖の基準値が異なる」：メタボ判定と階層化の血糖基準の違い。",
       "individual_scope": "本文の階層化・アセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "65dae19f84c72389a532608cacdd978485eafed6c4ab10f4b4e21f9fdbbc113d"
+      "basis_sha256": "c1fd217b4f3ea3369fecf3349c3035418e09bf3afebfbac1d18cd41c98862495",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_060",
@@ -1739,7 +1963,9 @@
       "reason": "「腹囲欠損はBMIから支援区分を推定できても判定不能」：腹囲欠損時の判定不能を扱う。",
       "individual_scope": "本文の階層化に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "7388729c72ef302a7aaff7f2fef0dce8cada688d9113aa767a68a49164444ed3"
+      "basis_sha256": "d18bb64263988462d3c079c314148a661a8fe33aa92ccb5e8e6a3afef788bdbd",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_061",
@@ -1754,7 +1980,9 @@
       "reason": "「欠損で判定不能の場合は不足検査を補う」：個人の不足検査補完と実施率への算入条件。",
       "individual_scope": "本文の階層化・アセスメントに関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "76f8c587abbcbc39d0fcefa0cb556d7afc416f08a27d43e581c2800d35469e07"
+      "basis_sha256": "6d47d9b6f2a3a4fd15efc42eb53e08475cad04326e6a014833e464358b3b6cea",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_HB43_062",
@@ -1769,7 +1997,9 @@
       "reason": "「階層化の責任と対象者リストの受渡しを決める」：個人の階層化結果を受渡し・確定する責任と委託の取決め。",
       "individual_scope": "対象者の保健指導レベルの確定・受渡し。委託仕様の設定は組織業務。",
       "status": "editorial_draft",
-      "basis_sha256": "1cebae2636450bb0a19e37c4fdb7b1d2f8d8256b0124d235f8303d1c80b0eb47"
+      "basis_sha256": "d1bd468cdb4d1db7ff60d28cedb61d9d6ee41892ed5d0c0f17ce542aad7efa50",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_019",
@@ -1782,7 +2012,9 @@
       "reason": "「健診後に腹囲が改善しても階層化は健診結果で行う」：健診後の改善と階層化に用いる時点の区別。",
       "individual_scope": "本文の階層化に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "ae79b96984977e9d9b15c62196dd4d39ec1dcd6e86e8d79b676cf35a8207745b"
+      "basis_sha256": "f54fab3a72bb117002b9a6ecf8bd16e87893167d29c3e82417edbf0fb6c65739",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_020",
@@ -1796,7 +2028,9 @@
       "reason": "「喫煙状況の記録誤りは委託先で修正する」：喫煙歴の記録誤りを訂正する運用。",
       "individual_scope": "本文の階層化・個人の記録・情報連携に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "2c6392b0d9f0fe9277960e353387df1412e4aa6b3fa93aadddcafbbc36fdeba3"
+      "basis_sha256": "7205d3b3c2a84af987eaedc5717ffcf6d0638aaae6243ec07df888bca4fee7d2",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_021",
@@ -1809,7 +2043,9 @@
       "reason": "「初回面接と継続支援の同日実施には限定的な例外がある」：初回面接と一体の支援又は同日継続支援の取扱い。",
       "individual_scope": "本文の初回面接・継続支援に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "525035edb82317b1030a88f6965efeb175b84064fac17a03ce550ba459de1f1b"
+      "basis_sha256": "6bcc66cc6c9cad6ef0c3a0d9b334a1642c74671c3b4816be0bb417908ae96e24",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_022",
@@ -1823,7 +2059,9 @@
       "reason": "「家族の代弁や映像視聴だけで本人への支援に代えない」：本人への直接支援と教材・家族代弁を区別する。",
       "individual_scope": "本文の初回面接・継続支援に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "102d097f6ff7bcc1135ad7e260f2286ef50a0e8c023284c930f1686425c9f6b8"
+      "basis_sha256": "4bacd259b109b85b3d601dfc2f1c727da5a8b4dea5824b49c08dc4a8b16b569b",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_023",
@@ -1836,7 +2074,9 @@
       "reason": "「健診結果の対面説明だけでは初回面接にならない」：健診結果説明だけでは面接要件を満たさない。",
       "individual_scope": "本文の初回面接・結果説明に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "b214f5b7d2c5334f522a90130fc924f5174a5f5795e9f3a8d46292265dad51b6"
+      "basis_sha256": "91e28d08ed8eb4f3392cac0627c0f0b9480c3dadf3c7cb259a460b6aa2fc3f4a",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_024",
@@ -1850,7 +2090,9 @@
       "reason": "「初回面接と一体の教材返信は継続支援ポイントにしない」：初回面接と一体の支援又は同日継続支援の取扱い。",
       "individual_scope": "本文の初回面接・継続支援に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "ae49059fab2807b13ac819014266cac6c48d77026ee4542ff249ddb695d79087"
+      "basis_sha256": "ff71a322abb954a02c2022eac55dc49253abd477e198e12519b8e19c5807a8fa",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_025",
@@ -1863,7 +2105,9 @@
       "reason": "「異なる支援区分の合同初回面接には個別対応の工夫が必要」：異なる支援区分の合同グループ面接の条件。",
       "individual_scope": "本文の初回面接に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "f0c4e8dfb61a3e620f37f3a14e5468df2440a39877d2e48898f3835923129886"
+      "basis_sha256": "a21b3f6fcaf030a1364195cba7f45ae707c59699c312d8881cb84ff819cc408b",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_026",
@@ -1875,7 +2119,9 @@
       "reason": "「実績評価の3か月は週数ではなく暦月で計算する」：個人の実績評価時期を暦月で計算する。",
       "individual_scope": "本文の個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "4031fec731c1019a9eb2b97163694e566f07b8b21873094f37f0dd294c75f1cd"
+      "basis_sha256": "6add82322bfb7cbfaa6f4050d32c8fa815f9506aa0add66241b5abec5db37584",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "K_QA20241025_027",
@@ -1890,7 +2136,9 @@
       "reason": "「計画前から2か月以上続く行動改善は達成済みとして扱う」：計画に定めた行動変容の継続期間・達成済み・複合目標の算定条件。",
       "individual_scope": "本文の目標・行動計画・個人の実績評価に関する記載。",
       "status": "editorial_draft",
-      "basis_sha256": "3e15209a116732e5f5eedea241613fb01a965b63917ed26ceb05e76550aaba27"
+      "basis_sha256": "1ccdc3447638a71d1a853081fc57911d607ea2bd86f9cac3df8816e3f22e4ec8",
+      "text_rechecked_on": "2026-11-09",
+      "text_recheck_note": "単独可読性のため対象・条件・参照語を明示。出典抜粋と既存の用途・話題分類を再照合し、主題・個人業務との関連判定は維持。"
     },
     {
       "evidence_id": "REF_HB43_L00143",
@@ -11570,6 +11818,360 @@
       "individual_scope": "",
       "status": "editorial_draft",
       "basis_sha256": "2217c9508aa979fbf554dc19d3d989ec3f7822d1d4dc5dcc89aaa77185f8a122"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "task:eligibility",
+        "task:stratification",
+        "topic:blood_pressure",
+        "topic:glucose",
+        "topic:lipids",
+        "topic:medication",
+        "use:case_operations"
+      ],
+      "reason": "「階層化：必要データの確認から支援区分の確定まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "階層化：必要データの確認から支援区分の確定までの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_01",
+      "basis_sha256": "6e35c42cef418ea861803729fb42d5afe5bfc911b5052d4b338bf13656c1d48c",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:follow_up",
+        "task:initial_interview",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "「動機付け支援・積極的支援：開始から終了までの全体像」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "動機付け支援・積極的支援：開始から終了までの全体像の本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_02",
+      "basis_sha256": "a198d14a922102c5aa97a16826faf79614307bbc608b1122d51bc1e6782838e6",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:group",
+        "operation:remote",
+        "task:initial_interview",
+        "use:case_operations"
+      ],
+      "reason": "「初回面接：担当者・内容・時間を満たして成立を判断する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "初回面接：担当者・内容・時間を満たして成立を判断するの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_03",
+      "basis_sha256": "86d94d6437c2a97a43b59d6e504cea2127bb0a83dc68034b5d8d21c1dfd3184e",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:goal_planning",
+        "task:initial_interview",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "「分割初回面接：見込み判定から計画完成・算定・評価まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "分割初回面接：見込み判定から計画完成・算定・評価までの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_04",
+      "basis_sha256": "cf9be874980cb5282f1ceb38ae5097091e8dd0d34fc6dcbd3bc8044ccb78d5e7",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "「積極的支援：アウトカム・プロセスを合わせたポイント総合判定」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "積極的支援：アウトカム・プロセスを合わせたポイント総合判定の本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_05",
+      "basis_sha256": "39e28b53d3f4d979da0887bfe7327b1d487ad586b2efebc2ca048b24a522a5cc",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:outcome_evaluation",
+        "topic:waist",
+        "topic:weight",
+        "use:case_operations"
+      ],
+      "reason": "「腹囲・体重アウトカム：測定から180・20・0ポイントを決める」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "腹囲・体重アウトカム：測定から180・20・0ポイントを決めるの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_06",
+      "basis_sha256": "eb53b548288eddb03bbd566eca2664de14687494c3837c3ca779c0b47d591cfe",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:goal_planning",
+        "task:outcome_evaluation",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "「行動変容目標：合意・変更から継続期間とポイントを評価する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "行動変容目標：合意・変更から継続期間とポイントを評価するの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_07",
+      "basis_sha256": "d838bf0e995fd44030a1e6f9eda501c89f1517f0f3cae0a76261c38bf53ffd36",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:follow_up",
+        "use:case_operations"
+      ],
+      "reason": "「継続支援：実施内容・担当・時間から算定可否を判断する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "継続支援：実施内容・担当・時間から算定可否を判断するの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_08",
+      "basis_sha256": "dcd8b5b2133f87e4877e847dc02248affc844dba27b59cb8c1c007c0905db3db",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:reporting",
+        "task:case_records",
+        "task:outcome_evaluation",
+        "use:case_operations",
+        "use:organization"
+      ],
+      "reason": "「実績評価：評価時期・完了・データ未取得を区別する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "実績評価：評価時期・完了・データ未取得を区別するの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_09",
+      "basis_sha256": "ef27a002797ebbfbfecae62ce69b38bf156a946ca90f5a31a6da0636a24c6ac6",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "task:eligibility",
+        "task:referral",
+        "topic:medication",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "「治療・服薬：対象除外・主治医連携・開始後の継続判断」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "治療・服薬：対象除外・主治医連携・開始後の継続判断の本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_10",
+      "basis_sha256": "31f2b3e35b812644e1f50f5595cd49dd8d4fbf9a353e29cfe200cb9848ea9ed8",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "task:case_records",
+        "task:interruption_completion",
+        "use:case_operations"
+      ],
+      "reason": "「中断・脱落・資格喪失：再開・中止・精算を決める」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "中断・脱落・資格喪失：再開・中止・精算を決めるの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_11",
+      "basis_sha256": "b615f2b1a8d701ac95102f4928c436c3e65823cbcbce265d12aabb42527d2aee",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "task:referral",
+        "task:results_explanation",
+        "topic:blood_pressure",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "「健診結果説明・受診勧奨：血圧と全検査に共通する進め方」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "健診結果説明・受診勧奨：血圧と全検査に共通する進め方の本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_12A",
+      "basis_sha256": "f60f4715707b0efa49b3d634566ec731a97d56583f9649ffc4f54da2040dc676",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "task:referral",
+        "task:results_explanation",
+        "topic:glucose",
+        "topic:hba1c",
+        "topic:lipids",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "「健診結果説明・受診勧奨：脂質・血糖の分岐」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "健診結果説明・受診勧奨：脂質・血糖の分岐の本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_12B",
+      "basis_sha256": "5c808fe3fa4b155c8fb4ee113c8ceb9d3e998b07ce1c2e8d423e36a9942dce04",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "task:referral",
+        "task:results_explanation",
+        "topic:kidney",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "「健診結果説明・受診勧奨：腎機能・尿蛋白の全分岐」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "健診結果説明・受診勧奨：腎機能・尿蛋白の全分岐の本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_12C",
+      "basis_sha256": "da0622376e9c4a5e6f259bb36da62db40c1d9dedf173a39cea27501c1fec6e75",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "task:referral",
+        "task:results_explanation",
+        "topic:liver",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "「健診結果説明・受診勧奨：肝機能・貧血・心電図・眼底」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "健診結果説明・受診勧奨：肝機能・貧血・心電図・眼底の本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_12D",
+      "basis_sha256": "24479331110ecd4719e56670d1d3bf4ad3d9096442d0cca1092fac794266aa35",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:consent",
+        "operation:points",
+        "operation:privacy",
+        "operation:remote",
+        "task:follow_up",
+        "task:initial_interview",
+        "use:case_operations"
+      ],
+      "reason": "「遠隔面接・支援：実施環境から算定・障害対応まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "遠隔面接・支援：実施環境から算定・障害対応までの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_13",
+      "basis_sha256": "129883ecd559d59b12e5b0dc772d8a85b23c75ada3487ae4603ec6bdb973223a",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "task:assessment",
+        "task:follow_up",
+        "task:goal_planning",
+        "use:guidance"
+      ],
+      "reason": "「アセスメントから本人の行動計画を作成する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "アセスメントから本人の行動計画を作成するの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_14",
+      "basis_sha256": "47c8f4f86374b339b85a20b2761a309adf670c4d568c8495a8640e5270efe541",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "task:assessment",
+        "task:follow_up",
+        "task:goal_planning",
+        "topic:smoking",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "「禁煙支援：全員への働きかけから実行・再挑戦・評価まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "禁煙支援：全員への働きかけから実行・再挑戦・評価までの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_15",
+      "basis_sha256": "457e8bb0ba1ccc24f909b11c0b7da35f88d378c9600b64eaaaebd63b593a33c6",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "task:assessment",
+        "task:goal_planning",
+        "task:stratification",
+        "topic:frailty",
+        "topic:medication",
+        "topic:oral",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "「高齢者への支援：年齢による区分と生活機能に応じた目標」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "高齢者への支援：年齢による区分と生活機能に応じた目標の本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_16",
+      "basis_sha256": "0244720de69c7097d991c6339b1512f5ace9ddfdda5a3a02a4fc194f3df65f9b",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:consent",
+        "task:case_records",
+        "task:eligibility",
+        "task:stratification",
+        "use:case_operations"
+      ],
+      "reason": "「他の健診・診療情報：特定健診として利用できるか確認する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "他の健診・診療情報：特定健診として利用できるか確認するの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_17",
+      "basis_sha256": "0c83bb4f0bfdb71746f41cdea379525828ab7bcadba14d76ba91e740b8e6b729",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:relevant",
+        "operation:privacy",
+        "operation:record_retention",
+        "task:case_records",
+        "task:outcome_evaluation",
+        "use:case_operations",
+        "use:organization"
+      ],
+      "reason": "「個別記録・機関間引継ぎ：一貫した指導と評価を継続する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "individual_scope": "個別記録・機関間引継ぎ：一貫した指導と評価を継続するの本文に記載した個別ケースの判断・説明・記録。",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_18",
+      "basis_sha256": "f1d5db147402f248fe2a9699c86da7dc59257909e5b601509f7f9c5d43b04783",
+      "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "tags": [
+        "individual:not_relevant",
+        "operation:contract",
+        "operation:privacy",
+        "operation:staffing_training",
+        "use:organization"
+      ],
+      "reason": "「委託・再委託：契約の成立条件と元請け・保険者の責任」の判断条件と手順を複数原文から統合。機関の契約・委託体制と責任を定める組織業務。",
+      "individual_scope": "",
+      "status": "editorial_draft",
+      "evidence_id": "I_SHG_19",
+      "basis_sha256": "7aaefebc50c28674a8416c81ec54848d1358263189e08c1acdda70cd30733544",
+      "text_rechecked_on": "2026-11-09"
     }
   ]
 }

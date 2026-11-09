@@ -12,7 +12,7 @@ from tools.search_public_cards import search_cards
 class PublicCardTagTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.cards = [c for filename in ('evidence_cards.json', 'reference_cards.json')
+        cls.cards = [c for filename in ('evidence_cards.json', 'integrated_cards.json', 'reference_cards.json')
                      for c in json.loads((ROOT / filename).read_text())]
         cls.taxonomy = load_taxonomy()
         cls.ledger, cls.entries = load_classifications()
@@ -22,7 +22,7 @@ class PublicCardTagTests(unittest.TestCase):
         return {c['evidence_id'] for c in search_cards(self.cards, self.taxonomy, **kwargs)}
 
     def test_complete_classification_and_unchanged_draft_gate(self):
-        self.assertEqual(len(self.cards), 843)
+        self.assertEqual(len(self.cards), 865)
         validate_classifications(self.cards, self.taxonomy, self.ledger)
         for c in self.cards:
             self.assertEqual(c['tags'], self.entries[c['evidence_id']]['tags'])
@@ -132,7 +132,7 @@ class PublicCardTagTests(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stderr)
         cards = json.loads(result.stdout)
         self.assertTrue(cards)
-        self.assertTrue(all(c['card_type'] == 'summary' for c in cards))
+        self.assertTrue(all(c['card_type'] in ('summary', 'integrated_summary') for c in cards))
         result = run('--kind', 'reference', '--individual-use', 'undetermined', '--json')
         self.assertEqual(result.returncode, 0, result.stderr)
         self.assertTrue(all(c['card_type'] != 'summary' for c in json.loads(result.stdout)))

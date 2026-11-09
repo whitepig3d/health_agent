@@ -13,7 +13,10 @@ def basis_hash(card):
     """Invalidate classification when its text, conditions or provenance changes."""
     fields = ('evidence_id', 'title', 'text', 'conditions', 'card_type',
               'source_excerpt_sha256', 'source_id', 'edition', 'source_location')
-    raw = json.dumps({k: card[k] for k in fields}, ensure_ascii=False, sort_keys=True)
+    basis = {k: card[k] for k in fields}
+    if card['card_type'] == 'integrated_summary':
+        basis.update({k: card[k] for k in ('citations', 'sections', 'related_detail_ids', 'theme_id')})
+    raw = json.dumps(basis, ensure_ascii=False, sort_keys=True)
     return hashlib.sha256(raw.encode()).hexdigest()
 
 
@@ -103,19 +106,19 @@ def render_tag_guide(cards, root=ROOT):
     """Render counts and definitions from the same inputs used by the builder."""
     taxonomy = load_taxonomy(root)
     ledger, entries = load_classifications(root)
-    summary = [c for c in cards if c['card_type'] == 'summary']
-    reference = [c for c in cards if c['card_type'] != 'summary']
+    summary = [c for c in cards if c['card_type'] in ('summary', 'integrated_summary')]
+    reference = [c for c in cards if c['card_type'] not in ('summary', 'integrated_summary')]
     counts = [Counter(t for c in group for t in c['tags']) for group in (summary, reference)]
     def cell(value):
         return value.replace('|', '\\|').replace('\n', ' ')
     def link(cid):
         card = next(c for c in cards if c['evidence_id'] == cid)
-        target = ('根拠カード一覧.md' if card['card_type'] == 'summary'
+        target = ('統合カード一覧.md' if card['card_type'] == 'integrated_summary' else '根拠カード一覧.md' if card['card_type'] == 'summary'
                   else f'references/{card["source_id"]}.md')
         return f'[{cid}]({target}#{cid.lower()})'
     lines = [
         '# 根拠カードのタグ整理・検索ガイド', '',
-        f'分類版：{taxonomy["version"]}。要点{len(summary)}枚・原文参照{len(reference)}枚、計{len(cards)}枚を対象に、5軸・{len(taxonomy["tags"])}タグを定義しています。', '',
+        f'分類版：{taxonomy["version"]}。要点{len(summary)}枚・原文参照{len(reference)}枚、計{len(cards)}枚（要点には統合カードを含む）を対象に、5軸・{len(taxonomy["tags"])}タグを定義しています。', '',
         '**「個人業務の参照候補」は、特定の本人への適用可・医学的承認済みを意味しません。** '
         '全カードは専門職レビュー前です。用途の分類、本人への適用条件（`conditions`）、レビュー状態（`reviewed`）を別々に確認してください。', '',
         '## 個人業務で使うための読み方', '',
@@ -164,7 +167,7 @@ def render_tag_guide(cards, root=ROOT):
     for old, targets in taxonomy['legacy_aliases'].items():
         lines.append(f'|`{old}`|{" / ".join(f"`{tag}`" for tag in targets)}|')
     lines += ['', '## 検索方法', '',
-        'リポジトリのルートで実行します。既定は要点のみ。`--kind reference` は原文のみ、`--kind all` は両方です。'
+        'リポジトリのルートで実行します。既定は詳細要点と統合カード。`--kind integrated` は統合のみ、`--kind detail` は詳細要点のみ、`--kind reference` は原文のみ、`--kind all` は全種類です。'
         '`--tag` は繰り返すとAND検索、旧名の分割先はその指定の内側でOR検索になります。'
         '用途・出典・ID・キーワードもAND条件です。不明なタグはエラーにします。'
         'キーワードは空白区切りのAND検索で、タイトル・本文・条件を対象とします（要点の出典抜粋や分類理由は対象外）。', '',

@@ -2,7 +2,7 @@
 """Rebuild draft evidence cards offline from captured public source text.
 
 No network access, clinical approval, or runtime selection is performed.
-Source snapshots and summary_specs.tsv are the editorial inputs.
+Source snapshots, summary_specs.tsv and integrated_specs.json are the editorial inputs.
 """
 import csv
 import hashlib
@@ -12,6 +12,7 @@ import re
 import unicodedata
 from collections import Counter
 from public_card_tags import apply_classifications, render_tag_guide
+from integrated_public_cards import build_integrated, validate_integrated, render_integrated_guide
 
 ROOT = pathlib.Path(__file__).resolve().parents[1] / 'knowledge' / 'public'
 DATE = '2026-11-05'
@@ -147,9 +148,15 @@ for card in REFERENCES:
         # Continuation text must not masquerade as an independently authored rule.
         card['title']=f"{SOURCE_MAP[card['source_id']]['title']}／PDF {loc['pdf_page_start']}–{loc['pdf_page_end']}／{card['title']}"
 
-apply_classifications(SUMMARIES + REFERENCES, ROOT)
+INTEGRATED_SPECS = json.loads((ROOT/'integrated_specs.json').read_text())
+INTEGRATED = build_integrated(INTEGRATED_SPECS, make_card, REFERENCES, SUMMARIES)
+ALL_CARDS = SUMMARIES + INTEGRATED + REFERENCES
+validate_integrated(INTEGRATED, INTEGRATED_SPECS, ALL_CARDS)
+apply_classifications(ALL_CARDS, ROOT)
 
 write_json(ROOT/'evidence_cards.json',SUMMARIES)
+write_json(ROOT/'integrated_cards.json',INTEGRATED)
+render_integrated_guide(INTEGRATED, ALL_CARDS, ROOT)
 write_json(ROOT/'reference_cards.json',REFERENCES)
 
 def md_card(card, include_excerpt=False):
@@ -189,7 +196,7 @@ for c in SUMMARIES:index += [f'<a id="{c["evidence_id"].lower()}"></a>', md_card
 (ROOT/'根拠カード一覧.md').write_text('\n'.join(index))
 report={
     'as_of':DATE,'source_count':len(SOURCES),'summary_card_count':len(SUMMARIES),
-    'reference_card_count':len(REFERENCES),'qa_card_count':sum(c['card_type']=='qa' for c in REFERENCES),
+    'integrated_card_count':len(INTEGRATED),'reference_card_count':len(REFERENCES),'qa_card_count':sum(c['card_type']=='qa' for c in REFERENCES),
     'expert_reviewed_card_count':0,'visual_reviewed_source_count':0,
     'sources':[]}
 for source in SOURCES:
@@ -205,6 +212,6 @@ for source in SOURCES:
         uncovered_body_lines=sorted(captured-covered-excluded),
         excluded_front_matter_lines=sorted(excluded),sparse_text_pages=source['sparse_text_pages']))
 write_json(ROOT/'coverage.json',report)
-render_tag_guide(SUMMARIES + REFERENCES, ROOT)
-print(f"Built {len(SUMMARIES)} summaries + {len(REFERENCES)} reference cards from {len(SOURCES)} sources")
+render_tag_guide(ALL_CARDS, ROOT)
+print(f"Built {len(SUMMARIES)} summaries + {len(INTEGRATED)} integrated + {len(REFERENCES)} reference cards from {len(SOURCES)} sources")
 

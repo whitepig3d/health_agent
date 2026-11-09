@@ -20,7 +20,7 @@ def search_cards(cards, taxonomy, *, query='', source=None, tags=(), individual_
         tag_groups.append({f'individual:{individual_use}'})
     results = []
     for card in cards:
-        if source and card['source_id'] != source:
+        if source and source not in {card['source_id'], *(c['source_id'] for c in card.get('citations', []))}:
             continue
         if evidence_id and card['evidence_id'] != evidence_id:
             continue
@@ -40,11 +40,12 @@ def main():
     parser.add_argument('--individual-use', choices=('relevant', 'not_relevant', 'undetermined'),
                         help='Relevance to individual work, not approval or patient applicability')
     parser.add_argument('--id', help='Exact evidence ID')
-    parser.add_argument('--kind', choices=('summary', 'reference', 'all'), default='summary')
+    parser.add_argument('--kind', choices=('summary', 'detail', 'integrated', 'reference', 'all'), default='summary')
     parser.add_argument('--json', action='store_true', help='Print complete matching records as JSON')
     args = parser.parse_args()
-    filenames = {'summary': ['evidence_cards.json'], 'reference': ['reference_cards.json'],
-                 'all': ['evidence_cards.json', 'reference_cards.json']}[args.kind]
+    filenames = {'summary': ['evidence_cards.json', 'integrated_cards.json'],
+                 'detail': ['evidence_cards.json'], 'integrated': ['integrated_cards.json'], 'reference': ['reference_cards.json'],
+                 'all': ['evidence_cards.json', 'integrated_cards.json', 'reference_cards.json']}[args.kind]
     cards = [card for filename in filenames for card in json.loads((ROOT / filename).read_text())]
     try:
         results = search_cards(cards, load_taxonomy(ROOT), query=args.query, source=args.source,
@@ -61,9 +62,13 @@ def main():
             print('分類理由：' + card['classification']['reason'])
             if card['classification']['individual_scope']:
                 print('個人業務での参照範囲：' + card['classification']['individual_scope'])
-            if card['card_type'] == 'summary':
+            if card['card_type'] in ('summary', 'integrated_summary'):
                 print(card['text'])
                 print('条件：' + ' / '.join(card['conditions']))
+                for citation in card.get('citations', []):
+                    print(f"出典 {citation['key']}：{citation['url']} — {citation['supports']}")
+                if card.get('related_detail_ids'):
+                    print('関連詳細カード：' + ', '.join(card['related_detail_ids']))
 
 
 if __name__ == '__main__':

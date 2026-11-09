@@ -9,6 +9,8 @@ from collections import Counter
 from urllib.parse import urlparse
 from public_card_tags import load_taxonomy, load_classifications, validate_classifications
 
+from integrated_public_cards import validate_integrated
+
 ROOT = pathlib.Path(__file__).resolve().parents[1] / 'knowledge' / 'public'
 
 
@@ -36,7 +38,10 @@ def main():
 
     summaries = json.loads((ROOT / 'evidence_cards.json').read_text())
     references = json.loads((ROOT / 'reference_cards.json').read_text())
-    cards = summaries + references
+    integrated = json.loads((ROOT / 'integrated_cards.json').read_text())
+    integrated_specs = json.loads((ROOT / 'integrated_specs.json').read_text())
+    cards = summaries + integrated + references
+    validate_integrated(integrated, integrated_specs, cards)
     taxonomy = load_taxonomy(ROOT)
     ledger, _ = load_classifications(ROOT)
     classifications = validate_classifications(cards, taxonomy, ledger)
@@ -49,7 +54,11 @@ def main():
     ids = [c['evidence_id'] for c in cards]
     check(len(ids) == len(set(ids)), 'Duplicate evidence ID')
     known_ids = set(ids)
-    for card in cards:
+    provenance_records = cards + [dict(citation, evidence_id=c['evidence_id'] + '/' + citation['key'],
+        reviewed=c['reviewed'], review_status=c['review_status'], common=c['common'],
+        conditions=c['conditions'], related_evidence_ids=[], text=citation['source_excerpt'], card_type='source_excerpt')
+        for c in integrated for citation in c['citations']]
+    for card in provenance_records:
         cid = card['evidence_id']
         check(card['source_id'] in source_map, f'Unknown source: {cid}')
         source = source_map[card['source_id']]
@@ -70,12 +79,13 @@ def main():
         check(all(eid in known_ids for eid in card['related_evidence_ids']), f'Broken related card ID: {cid}')
         check(isinstance(card['text'], str) and card['text'].strip(), f'Empty text: {cid}')
         check('turn' not in card['url'], f'Temporary web citation leaked: {cid}')
-        if card['card_type'] != 'summary':
+        if card['card_type'] not in ('summary', 'integrated_summary'):
             check(card['text'] == expected, f'Reference text changed: {cid}')
         if card['card_type'] == 'qa':
             check('（答）' in expected, f'Question without answer: {cid}')
 
     coverage = json.loads((ROOT / 'coverage.json').read_text())
+    check(coverage['integrated_card_count'] == len(integrated), 'Integrated count mismatch')
     check(coverage['summary_card_count'] == len(summaries), 'Summary count mismatch')
     check(coverage['reference_card_count'] == len(references), 'Reference count mismatch')
     for source in sources:
@@ -95,7 +105,7 @@ def main():
     with (ROOT / 'summary_specs.tsv').open(newline='') as f:
         specs = list(csv.DictReader(f, delimiter='\t'))
     check(len(specs) == len(summaries), 'Editorial input count mismatch')
-    print(f'OK: {len(sources)} sources, {len(summaries)} summaries, {len(references)} reference cards, {len(qa_cards)} Q&A.')
+    print(f'OK: {len(sources)} sources, {len(summaries)} summaries, {len(integrated)} integrated, {len(references)} reference cards, {len(qa_cards)} Q&A.')
     print('Verified IDs, source URLs/editions, PDF page ranges, snapshot/excerpt hashes, extracted-line coverage, and draft-only state.')
     print(f'Verified explicit classifications for all {len(cards)} cards against {len(taxonomy["tags"])} tag definitions.')
     print('This check does not establish medical validity, current legal applicability, or visual/PDF layout accuracy.')
