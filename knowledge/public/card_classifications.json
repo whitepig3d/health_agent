@@ -12384,28 +12384,14 @@
         "individual:relevant",
         "operation:points",
         "task:outcome_evaluation",
-        "use:case_operations"
-      ],
-      "reason": "HB43に記載されたHB43限定｜積極的支援のポイント判定の個別業務上の判断を扱う。",
-      "individual_scope": "HB43限定｜積極的支援のポイント判定の本文に明示した判断・支援・記録に限定。",
-      "status": "editorial_draft",
-      "basis_sha256": "94cec0bbf2e5d719fe614424d603b380e098da24690f7df017f3c11b4a009fbc",
-      "text_rechecked_on": "2026-11-11"
-    },
-    {
-      "evidence_id": "I_HB43_06",
-      "tags": [
-        "individual:relevant",
-        "operation:points",
-        "task:outcome_evaluation",
         "topic:waist",
         "topic:weight",
         "use:case_operations"
       ],
-      "reason": "HB43に記載されたHB43限定｜腹囲・体重アウトカムの個別業務上の判断を扱う。",
-      "individual_scope": "HB43限定｜腹囲・体重アウトカムの本文に明示した判断・支援・記録に限定。",
+      "reason": "HB43に基づき腹囲・体重の成果判定と積極的支援のポイント総合判定を一体で扱う。",
+      "individual_scope": "腹囲・体重の比較・算式・欠測時の扱い、行動変容と支援の点数を合わせた判定・記録。",
       "status": "editorial_draft",
-      "basis_sha256": "9f54cbb29d4694de1fabc99f1a91d794fbc5c325abe094dc65a400fa7f33d025",
+      "basis_sha256": "76579970fd861d5bf1238db9beba6160cf6593d4e8368ee2c18484431d89951a",
       "text_rechecked_on": "2026-11-11"
     },
     {

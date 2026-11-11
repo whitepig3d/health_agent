@@ -22,7 +22,7 @@ class PublicCardTagTests(unittest.TestCase):
         return {c['evidence_id'] for c in search_cards(self.cards, self.taxonomy, **kwargs)}
 
     def test_complete_classification_and_unchanged_draft_gate(self):
-        self.assertEqual(len(self.cards), 892)
+        self.assertEqual(len(self.cards), 891)
         validate_classifications(self.cards, self.taxonomy, self.ledger)
         for c in self.cards:
             self.assertEqual(c['tags'], self.entries[c['evidence_id']]['tags'])

@@ -34,7 +34,7 @@ class IntegratedCardTests(unittest.TestCase):
 
     def test_hb43_only_explanation_closure(self):
         selected = [c for c in self.integrated if c.get('source_policy') == 'HB43_only']
-        self.assertEqual(len(selected), 17)
+        self.assertEqual(len(selected), 16)
         details = {c['evidence_id']: c for c in self.all_cards}
         for c in selected:
             self.assertTrue(all(x['source_id'] == 'HB43' for x in c['citations']))
@@ -121,9 +121,9 @@ class IntegratedCardTests(unittest.TestCase):
     def test_cli_kinds_separate_and_default_includes_both(self):
         script = Path(__file__).resolve().parents[1] / 'tools/search_public_cards.py'
         for kind, expected, count in [('detail', {'summary'}, 146),
-                                      ('integrated', {'integrated_summary'}, 39),
-                                      ('summary', {'summary', 'integrated_summary'}, 185),
-                                      ('all', {'summary', 'integrated_summary', 'source_excerpt', 'qa', 'historical_reference'}, 892)]:
+                                      ('integrated', {'integrated_summary'}, 38),
+                                      ('summary', {'summary', 'integrated_summary'}, 184),
+                                      ('all', {'summary', 'integrated_summary', 'source_excerpt', 'qa', 'historical_reference'}, 891)]:
             with self.subTest(kind=kind):
                 result = subprocess.run([sys.executable, str(script), '--kind', kind, '--json'],
                                         capture_output=True, text=True, check=True)

@@ -106,7 +106,7 @@ def validate_integrated(cards, specs, all_cards):
 def render_integrated_guide(cards, all_cards, root):
     mapping = {c['evidence_id']: c for c in all_cards}
     lines = ['# 統合カード一覧', '',
-             f'編集日：2026年11月11日。複数出典版22枚とHB43限定版17枚、統合カード{len(cards)}枚。既存の詳細要点136枚にHB43要点10枚を追加。原文参照707枚は維持しています。', '',
+             f'編集日：2026年11月11日。複数出典版22枚とHB43限定版16枚、統合カード{len(cards)}枚。既存の詳細要点136枚にHB43要点10枚を追加。原文参照707枚は維持しています。', '',
              '全カードは専門職レビュー前の草案（reviewed=false、common=false）です。'
              '本文は収録版の原文を組み合わせた編集文であり、医療上の診断・承認を意味しません。'
              '記録項目には判断過程を追跡するための編集上の推奨を含みます。', '',
@@ -151,15 +151,15 @@ def render_hb43_guide(cards, all_cards, root):
     selected = [c for c in cards if c.get('source_policy') == 'HB43_only']
     details = {c['evidence_id']: c for c in all_cards if c['card_type'] == 'summary'}
     lines = ['# HB43限定版統合カードと説明用要点', '',
-             '2026年11月11日。既存の複数出典版22枚は維持し、レビュー対象だった17テーマに対応するHB43限定版を追加しました。', '',
+             '2026年11月11日。既存の複数出典版22枚は維持し、レビュー対象だった17テーマに対応するHB43限定版を追加しました。I_HB43_06（腹囲・体重）はI_HB43_05へ統合し、現在は16枚です。', '',
              '各限定版の全出典はHB43です。関連する詳細要点もすべてHB43かつindividual:relevantに限定します。'
              'ただしHB43が他資料を参照する判断はその範囲を明記しています。受診勧奨は医師による個別判断の手順、高齢者は65～74歳の制度区分と支援実施に範囲を絞り、他資料の数値・臨床条件を持ち込みません。', '',
              '詳細要点K_HB43_063～072を10枚追加。既存詳細を含む説明用要点の本文と統合本文を編集照合しました。'
              '参照の閉鎖性は機械検証しますが、意味上の網羅性は専門職の承認を得たものではありません。全カードは草案です。', '',
-             '今回のレビュー候補はHB43関連詳細64枚＋限定版17枚＝81枚です。通常の --source HB43 は旧複数出典版も含むため、限定版だけの検索には --hb43-only を使います。', '',
+             '今回のレビュー候補はHB43関連詳細64枚＋限定版16枚＝80枚です。通常の --source HB43 は旧複数出典版も含むため、限定版だけの検索には --hb43-only を使います。', '',
              '```bash', 'python tools/search_public_cards.py --kind integrated --hb43-only --individual-use relevant',
              'python tools/search_public_cards.py --kind detail --source HB43 --individual-use relevant', '```', '',
-             '前回のレビュー依頼スライド・Excelは71枚を対象とした旧版であり、今回の81枚とは対象が異なります。', '',
+             '前回のレビュー依頼スライド・Excelは71枚を対象とした旧版であり、今回の80枚とは対象が異なります。', '',
              '## 追加した詳細要点', '']
     for n in range(63,73):
         c=details[f'K_HB43_{n:03}'];lines += [f"### {c['evidence_id']} — {c['title']}", '', c['text'], '', f"[原本]({c['url']})", '']
