@@ -23,6 +23,9 @@ def build_integrated(specs, make_card, references, summaries):
                       spec['title'], 'integrated_summary', render_text(spec['sections']), spec['conditions'])
         c.update(citations=citations, sections=spec['sections'], theme_id=spec['theme_id'],
                  related_detail_ids=spec['related_detail_ids'], editorial_date='2026-11-09')
+        if spec.get('source_policy'):
+            c['source_policy'] = spec['source_policy']
+            c['editorial_date'] = spec['editorial_date']
         if not set(c['related_detail_ids']) <= known.keys():
             raise ValueError(f'Unknown detail card: {cid}')
         ref_ids = []
@@ -82,6 +85,19 @@ def validate_integrated(cards, specs, all_cards):
                              ref['source_location']['extracted_line_end'] >= source['line_start']
                              for source in s['sources'])]
         require(c['related_evidence_ids'] == c['related_detail_ids'] + expected_refs, 'Reference links mismatch')
+        if s.get('source_policy') == 'HB43_only':
+            require(c.get('source_policy') == 'HB43_only', 'Missing HB43 policy')
+            require(all(x['source_id'] == 'HB43' for x in c['citations']), 'Foreign source in HB43 card')
+            require(all(known[e]['source_id'] == 'HB43'
+                        for e in c['related_detail_ids']), 'HB43 detail closure')
+            require(set(x['key'] for x in c['citations']) == set(c['related_detail_ids']), 'Unexplained HB43 citation')
+            for citation in c['citations']:
+                detail = known[citation['key']]
+                require(citation['source_location'] == detail['source_location'] and
+                        citation['source_excerpt_sha256'] == detail['source_excerpt_sha256'], 'HB43 detail provenance mismatch')
+            for section in c['sections']:
+                require(bool(section.get('detail_ids')) and
+                        set(section['detail_ids']) <= set(c['related_detail_ids']), 'HB43 explanation missing')
         first = c['citations'][0]
         require(all(c[k] == first[k] for k in ('source_id', 'url', 'edition', 'source_location',
                                               'source_excerpt', 'source_excerpt_sha256')), 'Primary citation mismatch')
@@ -90,7 +106,7 @@ def validate_integrated(cards, specs, all_cards):
 def render_integrated_guide(cards, all_cards, root):
     mapping = {c['evidence_id']: c for c in all_cards}
     lines = ['# 統合カード一覧', '',
-             f'編集日：2026年11月9日。19テーマ・統合カード{len(cards)}枚。既存の詳細要点136枚と原文参照707枚は維持しています。', '',
+             f'編集日：2026年11月11日。複数出典版22枚とHB43限定版17枚、統合カード{len(cards)}枚。既存の詳細要点136枚にHB43要点10枚を追加。原文参照707枚は維持しています。', '',
              '全カードは専門職レビュー前の草案（reviewed=false、common=false）です。'
              '本文は収録版の原文を組み合わせた編集文であり、医療上の診断・承認を意味しません。'
              '記録項目には判断過程を追跡するための編集上の推奨を含みます。', '',
@@ -129,3 +145,27 @@ def render_integrated_guide(cards, all_cards, root):
                 f'[{eid}](references/{mapping[eid]["source_id"]}.md#{eid.lower()})'
                 for eid in c['related_evidence_ids'] if eid not in c['related_detail_ids']), '']
     (root / '統合カード一覧.md').write_text('\n'.join(lines))
+
+
+def render_hb43_guide(cards, all_cards, root):
+    selected = [c for c in cards if c.get('source_policy') == 'HB43_only']
+    details = {c['evidence_id']: c for c in all_cards if c['card_type'] == 'summary'}
+    lines = ['# HB43限定版統合カードと説明用要点', '',
+             '2026年11月11日。既存の複数出典版22枚は維持し、レビュー対象だった17テーマに対応するHB43限定版を追加しました。', '',
+             '各限定版の全出典はHB43です。関連する詳細要点もすべてHB43かつindividual:relevantに限定します。'
+             'ただしHB43が他資料を参照する判断はその範囲を明記しています。受診勧奨は医師による個別判断の手順、高齢者は65～74歳の制度区分と支援実施に範囲を絞り、他資料の数値・臨床条件を持ち込みません。', '',
+             '詳細要点K_HB43_063～072を10枚追加。既存詳細を含む説明用要点の本文と統合本文を編集照合しました。'
+             '参照の閉鎖性は機械検証しますが、意味上の網羅性は専門職の承認を得たものではありません。全カードは草案です。', '',
+             '今回のレビュー候補はHB43関連詳細64枚＋限定版17枚＝81枚です。通常の --source HB43 は旧複数出典版も含むため、限定版だけの検索には --hb43-only を使います。', '',
+             '```bash', 'python tools/search_public_cards.py --kind integrated --hb43-only --individual-use relevant',
+             'python tools/search_public_cards.py --kind detail --source HB43 --individual-use relevant', '```', '',
+             '前回のレビュー依頼スライド・Excelは71枚を対象とした旧版であり、今回の81枚とは対象が異なります。', '',
+             '## 追加した詳細要点', '']
+    for n in range(63,73):
+        c=details[f'K_HB43_{n:03}'];lines += [f"### {c['evidence_id']} — {c['title']}", '', c['text'], '', f"[原本]({c['url']})", '']
+    lines += ['## 限定版と説明用要点の対応', '']
+    for c in selected:
+        lines += [f"## {c['evidence_id']} — {c['title']}", '', c['text'], '',
+                  '説明用要点：'+', '.join(f"[{e}](根拠カード一覧.md#{e.lower()})" for e in c['related_detail_ids']), '',
+                  f"[全出典・分類](統合カード一覧.md#{c['evidence_id'].lower()})", '']
+    (root/'HB43限定統合カード.md').write_text('\n'.join(lines))

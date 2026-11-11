@@ -25,12 +25,31 @@ class IntegratedCardTests(unittest.TestCase):
     def test_themes_and_detail_provenance_are_complete(self):
         validate_integrated(self.integrated, self.specs, self.all_cards)
         self.assertEqual({c['theme_id'] for c in self.integrated}, set(range(1, 20)))
-        self.assertEqual(sum(c['theme_id'] == 12 for c in self.integrated), 4)
+        self.assertEqual(sum(c['theme_id'] == 12 for c in self.integrated), 5)
         for c in self.integrated:
             self.assertEqual(c['text'], render_text(c['sections']))
             self.assertTrue(c['related_detail_ids'])
             self.assertFalse(c['reviewed'])
             self.assertFalse(c['common'])
+
+    def test_hb43_only_explanation_closure(self):
+        selected = [c for c in self.integrated if c.get('source_policy') == 'HB43_only']
+        self.assertEqual(len(selected), 17)
+        details = {c['evidence_id']: c for c in self.all_cards}
+        for c in selected:
+            self.assertTrue(all(x['source_id'] == 'HB43' for x in c['citations']))
+            for eid in c['related_detail_ids']:
+                self.assertEqual(details[eid]['source_id'], 'HB43')
+                self.assertIn('individual:relevant', details[eid]['tags'])
+            self.assertEqual(set(c['related_detail_ids']), {x['key'] for x in c['citations']})
+        cards = copy.deepcopy(self.integrated)
+        card = next(c for c in cards if c.get('source_policy') == 'HB43_only')
+        card['sections'][0]['detail_ids'] = []
+        specs = copy.deepcopy(self.specs)
+        next(s for s in specs if s['evidence_id'] == card['evidence_id'])['sections'] = card['sections']
+        card['text'] = render_text(card['sections'])
+        with self.assertRaisesRegex(ValueError, 'explanation missing'):
+            validate_integrated(cards, specs, self.all_cards)
 
     def test_secondary_source_filter_and_combined_filters(self):
         # First source is P2_3; HB43 appears only in the additional citations.
@@ -60,7 +79,9 @@ class IntegratedCardTests(unittest.TestCase):
 
     def test_missing_theme_or_orphaned_sources_fail(self):
         specs = copy.deepcopy(self.specs)
-        specs[0]['theme_id'] = 2
+        for spec in specs:
+            if spec['theme_id'] == 1:
+                spec['theme_id'] = 2
         with self.assertRaisesRegex(ValueError, 'themes'):
             validate_integrated(self.integrated, specs, self.all_cards)
         cards = copy.deepcopy(self.integrated)
@@ -99,10 +120,10 @@ class IntegratedCardTests(unittest.TestCase):
 
     def test_cli_kinds_separate_and_default_includes_both(self):
         script = Path(__file__).resolve().parents[1] / 'tools/search_public_cards.py'
-        for kind, expected, count in [('detail', {'summary'}, 136),
-                                      ('integrated', {'integrated_summary'}, 22),
-                                      ('summary', {'summary', 'integrated_summary'}, 158),
-                                      ('all', {'summary', 'integrated_summary', 'source_excerpt', 'qa', 'historical_reference'}, 865)]:
+        for kind, expected, count in [('detail', {'summary'}, 146),
+                                      ('integrated', {'integrated_summary'}, 39),
+                                      ('summary', {'summary', 'integrated_summary'}, 185),
+                                      ('all', {'summary', 'integrated_summary', 'source_excerpt', 'qa', 'historical_reference'}, 892)]:
             with self.subTest(kind=kind):
                 result = subprocess.run([sys.executable, str(script), '--kind', kind, '--json'],
                                         capture_output=True, text=True, check=True)

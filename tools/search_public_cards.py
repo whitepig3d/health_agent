@@ -41,12 +41,15 @@ def main():
                         help='Relevance to individual work, not approval or patient applicability')
     parser.add_argument('--id', help='Exact evidence ID')
     parser.add_argument('--kind', choices=('summary', 'detail', 'integrated', 'reference', 'all'), default='summary')
+    parser.add_argument('--hb43-only', action='store_true', help='Only HB43-only integrated cards')
     parser.add_argument('--json', action='store_true', help='Print complete matching records as JSON')
     args = parser.parse_args()
     filenames = {'summary': ['evidence_cards.json', 'integrated_cards.json'],
                  'detail': ['evidence_cards.json'], 'integrated': ['integrated_cards.json'], 'reference': ['reference_cards.json'],
                  'all': ['evidence_cards.json', 'integrated_cards.json', 'reference_cards.json']}[args.kind]
     cards = [card for filename in filenames for card in json.loads((ROOT / filename).read_text())]
+    if args.hb43_only:
+        cards = [c for c in cards if c.get('source_policy') == 'HB43_only']
     try:
         results = search_cards(cards, load_taxonomy(ROOT), query=args.query, source=args.source,
                                tags=args.tag, individual_use=args.individual_use, evidence_id=args.id)

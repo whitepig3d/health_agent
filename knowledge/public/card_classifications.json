@@ -12172,6 +12172,416 @@
       "evidence_id": "I_SHG_19",
       "basis_sha256": "7aaefebc50c28674a8416c81ec54848d1358263189e08c1acdda70cd30733544",
       "text_rechecked_on": "2026-11-09"
+    },
+    {
+      "evidence_id": "K_HB43_063",
+      "tags": [
+        "individual:relevant",
+        "task:stratification",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43による階層化の全分岐の個別業務上の判断を扱う。",
+      "individual_scope": "HB43による階層化の全分岐の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "b7fcd376f0328cb899c2a4a50f096b03b57eedd30f62509edec921bca96cc29f",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "K_HB43_064",
+      "tags": [
+        "individual:relevant",
+        "task:stratification",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたBMI20未満の正規腹囲省略と対象外の扱いの個別業務上の判断を扱う。",
+      "individual_scope": "BMI20未満の正規腹囲省略と対象外の扱いの本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "f9da5c2a2e9443195cd43968480a55fb33dfe27081dfabfa485b9b41a937cc4f",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "K_HB43_065",
+      "tags": [
+        "individual:relevant",
+        "task:initial_interview",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載された初回面接で実施する支援と評価の内容の個別業務上の判断を扱う。",
+      "individual_scope": "初回面接で実施する支援と評価の内容の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "6f25fcc42f9cbe93a623f4f073bf4c592848b4d5558eac5269b38608710c93d1",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "K_HB43_066",
+      "tags": [
+        "individual:relevant",
+        "task:initial_interview",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載された分割初回面接の合計時間の個別業務上の判断を扱う。",
+      "individual_scope": "分割初回面接の合計時間の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "c672341ea397461251ab1e2c30a46eecc61221213cf8972f215a93f9a754081a",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "K_HB43_067",
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:goal_planning",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載された行動変容目標の合成・変更と分野別点数の個別業務上の判断を扱う。",
+      "individual_scope": "行動変容目標の合成・変更と分野別点数の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "347997c433b7283d4c22e3e0269b17ffe9bedcd7680e3ffd9a6cbaeb2b88d847",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "K_HB43_068",
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載された動機付け支援相当の2年目適用と翌年の制限の個別業務上の判断を扱う。",
+      "individual_scope": "動機付け支援相当の2年目適用と翌年の制限の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "afe98fb59e448f3fd324828e1971b0899cae694b0231b5fd6553b73c59e8baa6",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "K_HB43_069",
+      "tags": [
+        "individual:relevant",
+        "operation:staffing_training",
+        "task:initial_interview",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載された初回面接・計画・実績評価を担当する資格の個別業務上の判断を扱う。",
+      "individual_scope": "初回面接・計画・実績評価を担当する資格の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "01d227ae8ce36d380ddbb22c0d9f57314806e8772fd2f0d384a3aaa2705b0b86",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "K_HB43_070",
+      "tags": [
+        "individual:relevant",
+        "task:referral",
+        "task:results_explanation",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載された受診勧奨の医師判断と実施率の分母の個別業務上の判断を扱う。",
+      "individual_scope": "受診勧奨の医師判断と実施率の分母の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "08828dcee810580a97e3a45a4ec9772f5fee8b1ae12f06f1371733b39b6130a0",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "K_HB43_071",
+      "tags": [
+        "individual:relevant",
+        "operation:consent",
+        "task:eligibility",
+        "topic:medication",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載された服薬再確認の期限とコード・元の判定の扱いの個別業務上の判断を扱う。",
+      "individual_scope": "服薬再確認の期限とコード・元の判定の扱いの本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "0b66929513d785f895cd390adea8bee514ffda9f74beaca15bfa49a4d375e681",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "K_HB43_072",
+      "tags": [
+        "individual:relevant",
+        "task:case_records",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載された未評価時の契約と異機関評価の情報共有の個別業務上の判断を扱う。",
+      "individual_scope": "未評価時の契約と異機関評価の情報共有の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "8e687ac68a7a68cc96276e94deddead707602105a5ceeeeb90b9d0c528dc6b61",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_01",
+      "tags": [
+        "individual:relevant",
+        "task:eligibility",
+        "task:stratification",
+        "topic:blood_pressure",
+        "topic:glucose",
+        "topic:lipids",
+        "topic:medication",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43限定｜階層化の区分決定の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜階層化の区分決定の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "ccc60539ba581b3f1b0d94e8db91c6c595a530cc7949c6c0dfcc8340ad6aed28",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_02",
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:follow_up",
+        "task:initial_interview",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43限定｜支援開始から評価までの個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜支援開始から評価までの本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "662ab92561cfecabd4c4950f27147d0a61995a2b39eefa087d2f331b6d030c4e",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_03",
+      "tags": [
+        "individual:relevant",
+        "operation:group",
+        "operation:remote",
+        "task:initial_interview",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43限定｜初回面接の実施内容と担当資格の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜初回面接の実施内容と担当資格の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "bd7e43257c6bdd0ea6e917ddb1d4df6f983ed20423e4fa55b1d15423abf33b6b",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_04",
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:goal_planning",
+        "task:initial_interview",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43限定｜分割面接の時系列の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜分割面接の時系列の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "26bf3aaed26309b6d720547aa8314afbbd2a13a8ab258ec03bc12243e74dedf9",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_05",
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:outcome_evaluation",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43限定｜積極的支援のポイント判定の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜積極的支援のポイント判定の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "94cec0bbf2e5d719fe614424d603b380e098da24690f7df017f3c11b4a009fbc",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_06",
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:outcome_evaluation",
+        "topic:waist",
+        "topic:weight",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43限定｜腹囲・体重アウトカムの個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜腹囲・体重アウトカムの本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "9f54cbb29d4694de1fabc99f1a91d794fbc5c325abe094dc65a400fa7f33d025",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_07",
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:goal_planning",
+        "task:outcome_evaluation",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "HB43に記載されたHB43限定｜行動目標から評価までの個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜行動目標から評価までの本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "b4b07f0af8f1fe971ec9be6296819905184cd0ff8e8c6a7d24fcb397ae470608",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_08",
+      "tags": [
+        "individual:relevant",
+        "operation:points",
+        "task:follow_up",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43限定｜継続支援の実施と算定の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜継続支援の実施と算定の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "0bc1ec418cfc46a43300fd3ad7a5566fe3ea32ed3b0937515894b46d00e851d8",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_09",
+      "tags": [
+        "individual:relevant",
+        "operation:reporting",
+        "task:case_records",
+        "task:outcome_evaluation",
+        "use:case_operations",
+        "use:organization"
+      ],
+      "reason": "HB43に記載されたHB43限定｜実績評価と未評価の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜実績評価と未評価の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "57906674d0408e22e6b526919134263c786b7c88684c90e971aefe43d77fde7a",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_10",
+      "tags": [
+        "individual:relevant",
+        "task:eligibility",
+        "task:referral",
+        "topic:medication",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "HB43に記載されたHB43限定｜治療・服薬への対応の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜治療・服薬への対応の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "eca73be937d26aa4542e96a59e48d1362864d1cf1bdb1082e6bf7d0320b9d276",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_11",
+      "tags": [
+        "individual:relevant",
+        "task:case_records",
+        "task:interruption_completion",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43限定｜脱落・資格喪失の対応の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜脱落・資格喪失の対応の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "ebdb7d66884647aa17c0bd1fdf903844f66c40a7f4a9ff499318780f80312057",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_12",
+      "tags": [
+        "individual:relevant",
+        "task:referral",
+        "task:results_explanation",
+        "topic:blood_pressure",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "HB43に記載されたHB43限定｜結果説明と受診の必要性の判断の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜結果説明と受診の必要性の判断の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "34d3c92e012d48b0196db49090a8290fdde304ec4ef3c0986691cdd6fcb4d605",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_13",
+      "tags": [
+        "individual:relevant",
+        "operation:consent",
+        "operation:points",
+        "operation:privacy",
+        "operation:remote",
+        "task:follow_up",
+        "task:initial_interview",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43限定｜遠隔面接・支援の実施の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜遠隔面接・支援の実施の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "8a8f77be87e3f9cc364abea3e58a8dd9e69ee5896e60fc1f89278fe0347f856f",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_14",
+      "tags": [
+        "individual:relevant",
+        "task:assessment",
+        "task:follow_up",
+        "task:goal_planning",
+        "use:guidance"
+      ],
+      "reason": "HB43に記載されたHB43限定｜本人が選ぶ目標と支援計画の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜本人が選ぶ目標と支援計画の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "49a6cd634b31c3302c4a7389e462a44c831348c40edc4ea64887ffcae684e7bf",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_16",
+      "tags": [
+        "individual:relevant",
+        "task:assessment",
+        "task:goal_planning",
+        "task:stratification",
+        "topic:medication",
+        "use:case_operations",
+        "use:guidance"
+      ],
+      "reason": "HB43に記載されたHB43限定｜65～74歳の支援区分と実施の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜65～74歳の支援区分と実施の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "08d8b188f3f6949e54dc0a62943979b42c379261ba4125050768ba50f1daeff2",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_17",
+      "tags": [
+        "individual:relevant",
+        "operation:consent",
+        "task:case_records",
+        "task:eligibility",
+        "task:stratification",
+        "use:case_operations"
+      ],
+      "reason": "HB43に記載されたHB43限定｜他健診・診療情報の利用の個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜他健診・診療情報の利用の本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "e151560c586041f4320a140d2e82f6f881443ba22c61d9870cea31b8101c4167",
+      "text_rechecked_on": "2026-11-11"
+    },
+    {
+      "evidence_id": "I_HB43_18",
+      "tags": [
+        "individual:relevant",
+        "operation:privacy",
+        "operation:record_retention",
+        "task:case_records",
+        "task:outcome_evaluation",
+        "use:case_operations",
+        "use:organization"
+      ],
+      "reason": "HB43に記載されたHB43限定｜個別記録と機関間引継ぎの個別業務上の判断を扱う。",
+      "individual_scope": "HB43限定｜個別記録と機関間引継ぎの本文に明示した判断・支援・記録に限定。",
+      "status": "editorial_draft",
+      "basis_sha256": "559e66e88755380f59fe29238aba2711749ee3a714ae311cc90b3be7e53ee354",
+      "text_rechecked_on": "2026-11-11"
     }
   ]
 }

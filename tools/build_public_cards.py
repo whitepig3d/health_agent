@@ -12,7 +12,7 @@ import re
 import unicodedata
 from collections import Counter
 from public_card_tags import apply_classifications, render_tag_guide
-from integrated_public_cards import build_integrated, validate_integrated, render_integrated_guide
+from integrated_public_cards import build_integrated, validate_integrated, render_integrated_guide, render_hb43_guide
 
 ROOT = pathlib.Path(__file__).resolve().parents[1] / 'knowledge' / 'public'
 DATE = '2026-11-05'
@@ -157,6 +157,7 @@ apply_classifications(ALL_CARDS, ROOT)
 write_json(ROOT/'evidence_cards.json',SUMMARIES)
 write_json(ROOT/'integrated_cards.json',INTEGRATED)
 render_integrated_guide(INTEGRATED, ALL_CARDS, ROOT)
+render_hb43_guide(INTEGRATED, ALL_CARDS, ROOT)
 write_json(ROOT/'reference_cards.json',REFERENCES)
 
 def md_card(card, include_excerpt=False):

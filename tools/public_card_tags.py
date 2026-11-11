@@ -16,6 +16,8 @@ def basis_hash(card):
     basis = {k: card[k] for k in fields}
     if card['card_type'] == 'integrated_summary':
         basis.update({k: card[k] for k in ('citations', 'sections', 'related_detail_ids', 'theme_id')})
+    if card.get('source_policy'):
+        basis['source_policy'] = card['source_policy']
     raw = json.dumps(basis, ensure_ascii=False, sort_keys=True)
     return hashlib.sha256(raw.encode()).hexdigest()
 
