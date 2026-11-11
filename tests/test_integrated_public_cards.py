@@ -56,7 +56,7 @@ class IntegratedCardTests(unittest.TestCase):
         card = next(c for c in self.integrated if c['evidence_id'] == 'I_SHG_01')
         self.assertNotEqual(card['source_id'], 'HB43')
         found = search_cards(self.integrated, self.taxonomy, source='HB43',
-                             tags=['task:stratification', 'use:case_operations'],
+                             tags=['task:stratification', 'individual:relevant'],
                              individual_use='relevant', query='判定不能', evidence_id='I_SHG_01')
         self.assertEqual([c['evidence_id'] for c in found], ['I_SHG_01'])
         self.assertEqual(search_cards([card], self.taxonomy, source='ANN14'), [])

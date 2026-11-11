@@ -1,35 +1,8 @@
 {
   "schema_version": 1,
-  "version": "2026-11-06",
+  "version": "2026-11-11",
   "status": "editorial_draft",
   "tags": [
-    {
-      "id": "use:guidance",
-      "label": "本人への指導内容",
-      "include": "本人への説明、生活習慣改善、行動変容を支援する具体的内容",
-      "exclude": "研修の科目名や制度の目的に言及するだけ",
-      "example_ids": [
-        "K_P3_3_006"
-      ]
-    },
-    {
-      "id": "use:case_operations",
-      "label": "個別ケースの運用",
-      "include": "個人の対象判定、面接要件、評価、記録等の実施判断",
-      "exclude": "契約締結、補助金申請、集団集計のみ",
-      "example_ids": [
-        "K_P2_3_004"
-      ]
-    },
-    {
-      "id": "use:organization",
-      "label": "組織・保険者の業務",
-      "include": "契約、財務、体制整備、研修、事業計画、集団評価",
-      "exclude": "個別支援の実施要件だけ",
-      "example_ids": [
-        "K_HB43_049"
-      ]
-    },
     {
       "id": "individual:relevant",
       "label": "個人業務の参照候補",
@@ -55,105 +28,6 @@
       "exclude": "単に専門職レビュー前であることだけでは付けない",
       "example_ids": [
         "REF_ALCOHOL_L00000"
-      ]
-    },
-    {
-      "id": "task:eligibility",
-      "label": "対象者選定",
-      "include": "個人の年齢、資格、服薬、対象除外、健診結果の代替利用の判断",
-      "exclude": "集団の対象人数推計だけ",
-      "example_ids": [
-        "K_HB43_019"
-      ]
-    },
-    {
-      "id": "task:stratification",
-      "label": "階層化",
-      "include": "腹囲・BMI・追加リスク・年齢による支援区分の決定と判定不能の扱い",
-      "exclude": "メタボ判定だけ又は事業の支援区分別集計だけ",
-      "example_ids": [
-        "K_P2_3_004"
-      ]
-    },
-    {
-      "id": "task:assessment",
-      "label": "アセスメント",
-      "include": "問診、測定条件、既往・生活環境、準備状態の確認や検査結果の解釈",
-      "exclude": "集団分析や精度管理体制のみ",
-      "example_ids": [
-        "K_P3_3_003"
-      ]
-    },
-    {
-      "id": "task:results_explanation",
-      "label": "結果説明",
-      "include": "本人への健診結果の解説、通知内容、フィードバック",
-      "exclude": "実施率等の組織向け報告",
-      "example_ids": [
-        "K_HB43_014"
-      ]
-    },
-    {
-      "id": "task:referral",
-      "label": "受診勧奨",
-      "include": "医療機関受診の必要性、受診支援、未受診フォロー",
-      "exclude": "健診そのものへの一般的な受診勧奨のみ",
-      "example_ids": [
-        "K_HB43_013"
-      ]
-    },
-    {
-      "id": "task:initial_interview",
-      "label": "初回面接",
-      "include": "初回面接の内容、時間、分割、実施条件",
-      "exclude": "初回面接の語があるだけの会計・集計",
-      "example_ids": [
-        "K_HB43_038"
-      ]
-    },
-    {
-      "id": "task:goal_planning",
-      "label": "目標・行動計画",
-      "include": "本人の目標、行動計画、支援計画の設定・調整",
-      "exclude": "保険者全体の事業計画",
-      "example_ids": [
-        "K_P3_3_006"
-      ]
-    },
-    {
-      "id": "task:follow_up",
-      "label": "継続支援",
-      "include": "継続フォロー、セルフケア、行動維持、遠隔のやりとり",
-      "exclude": "支援回数の集団統計のみ",
-      "example_ids": [
-        "K_P3_3_007"
-      ]
-    },
-    {
-      "id": "task:outcome_evaluation",
-      "label": "個人の実績評価",
-      "include": "個人の目標達成、身体変化、評価時期・方法、完了要件",
-      "exclude": "事業の費用対効果や集団の改善率のみ",
-      "example_ids": [
-        "K_QA20241025_026"
-      ]
-    },
-    {
-      "id": "task:interruption_completion",
-      "label": "中断・終了",
-      "include": "未実施・脱落への対応、資格喪失、支援終了の判断",
-      "exclude": "脱落率の集団集計のみ",
-      "example_ids": [
-        "K_HB43_042"
-      ]
-    },
-    {
-      "id": "task:case_records",
-      "label": "個人の記録・情報連携",
-      "include": "個人の記録内容、訂正、引継ぎ、主治医等との情報共有",
-      "exclude": "組織の集計ファイル仕様のみ",
-      "example_ids": [
-        "K_HB43_037"
       ]
     },
     {
@@ -301,93 +175,255 @@
       ]
     },
     {
-      "id": "operation:remote",
-      "label": "遠隔・通信支援",
-      "include": "遠隔面接、電話、メール、チャット、アプリによる支援の実施",
-      "exclude": "組織内の単なる電子データ送信",
+      "id": "task:stratification",
+      "label": "階層化",
+      "include": "腹囲・BMI、追加リスク、欠測と支援区分の決定",
+      "exclude": "服薬対応のみ、健診項目の測定方法のみは別業務",
       "example_ids": [
-        "K_HB43_044"
+        "I_SHG_01",
+        "I_HB43_01"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_01",
+        "I_HB43_01"
       ]
     },
     {
-      "id": "operation:group",
-      "label": "グループ支援",
-      "include": "対象者へのグループ面接・学習の実施",
-      "exclude": "職員研修のグループワーク",
+      "id": "task:support_overview",
+      "label": "支援の実施全体像",
+      "include": "支援区分ごとの開始・継続・評価の流れと2年目の例外",
+      "exclude": "単一の面接・算定規則だけは各業務",
       "example_ids": [
-        "K_QA20241025_025"
+        "I_SHG_02",
+        "I_HB43_02"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_02",
+        "I_HB43_02"
       ]
     },
     {
-      "id": "operation:consent",
-      "label": "同意",
-      "include": "本人への説明と同意取得・確認",
-      "exclude": "個人情報保護という一般論だけ",
+      "id": "task:initial_interview",
+      "label": "初回面接の成立要件",
+      "include": "担当資格、必要内容、時間と面接としての成立",
+      "exclude": "分割の時系列は分割面接",
       "example_ids": [
-        "K_HB43_019"
+        "I_SHG_03",
+        "I_HB43_03"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_03",
+        "I_HB43_03"
       ]
     },
     {
-      "id": "operation:privacy",
-      "label": "個人情報保護",
-      "include": "秘密保持、プライバシー、情報の安全管理",
-      "exclude": "本人同意があるという事実だけ",
+      "id": "task:split_interview",
+      "label": "分割初回面接",
+      "include": "暫定計画から計画完成、期限・起算・分割時の算定",
+      "exclude": "通常面接の条件のみは初回面接",
       "example_ids": [
-        "K_HB43_045"
+        "I_SHG_04",
+        "I_HB43_04"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_04",
+        "I_HB43_04"
       ]
     },
     {
-      "id": "operation:points",
-      "label": "ポイント算定",
-      "include": "支援・アウトカムのポイント算定条件",
-      "exclude": "補助金基準単価や一般的な評価",
+      "id": "task:points_assessment",
+      "label": "積極的支援のポイント総合判定",
+      "include": "腹囲・体重アウトカム、早期実施、合計と算定全体の判定",
+      "exclude": "行動変容のみ・支援1回のみの算定は専用業務",
       "example_ids": [
-        "K_HB43_033"
+        "I_SHG_05",
+        "I_HB43_05"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_05",
+        "I_SHG_06",
+        "I_HB43_05"
       ]
     },
     {
-      "id": "operation:contract",
-      "label": "契約・委託",
-      "include": "委託、再委託、契約条件、費用精算、補助金等の財務",
-      "exclude": "個人の支援計画だけ",
+      "id": "task:behavior_change",
+      "label": "行動変容目標とポイント評価",
+      "include": "行動目標の設定条件・変更・継続期間・分野別成果点数",
+      "exclude": "一般的な計画作成はアセスメント・計画",
       "example_ids": [
-        "K_HB43_049"
+        "I_SHG_07",
+        "I_HB43_07"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_07",
+        "I_HB43_07"
       ]
     },
     {
-      "id": "operation:record_retention",
-      "label": "記録保存",
-      "include": "記録の保存期間、保管、廃棄、保存体制",
-      "exclude": "個人記録の入力内容だけ",
+      "id": "task:support_billing",
+      "label": "継続支援の算定可否",
+      "include": "支援形態・実時間・往復・同日重複・算定除外",
+      "exclude": "単なる継続支援の相談内容は計画又は全体像",
       "example_ids": [
-        "K_HB43_056"
+        "I_SHG_08",
+        "I_HB43_08"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_08",
+        "I_HB43_08"
       ]
     },
     {
-      "id": "operation:reporting",
-      "label": "実績報告",
-      "include": "国等への実績報告、実施率分母・分子、報告用データ",
-      "exclude": "本人への評価結果の返却だけ",
+      "id": "task:evaluation_completion",
+      "label": "実績評価・完了・未評価",
+      "include": "評価時期・方法・未取得・完了と報告への引渡し",
+      "exclude": "途中脱落や資格喪失は中断対応",
       "example_ids": [
-        "K_HB43_057"
+        "I_SHG_09",
+        "I_HB43_09"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_09",
+        "I_HB43_09"
       ]
     },
     {
-      "id": "operation:program_evaluation",
-      "label": "事業評価",
-      "include": "集団・事業の評価、PDCA、目標値・効果の分析",
-      "exclude": "個人の実績評価だけ",
+      "id": "task:treatment_medication",
+      "label": "治療・服薬状況への対応",
+      "include": "治療薬の確認、対象除外、主治医連携、開始後の継続",
+      "exclude": "服薬という語があるだけでは付与しない",
       "example_ids": [
-        "K_HB43_053"
+        "I_SHG_10",
+        "I_HB43_10"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_10",
+        "I_HB43_10"
       ]
     },
     {
-      "id": "operation:staffing_training",
-      "label": "実施体制・研修",
-      "include": "人員、資格、研修、施設、運営体制、実施者の能力育成",
-      "exclude": "個別面接の要件だけ",
+      "id": "task:interruption",
+      "label": "中断・脱落・資格喪失",
+      "include": "中止・再開・脱落通知・資格喪失・精算",
+      "exclude": "通常の完了判定は実績評価",
       "example_ids": [
-        "K_HB43_052"
+        "I_SHG_11",
+        "I_HB43_11"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_11",
+        "I_HB43_11"
+      ]
+    },
+    {
+      "id": "task:results_referral",
+      "label": "健診結果説明・受診勧奨",
+      "include": "結果の意味と医療受診の要否・時期・紹介",
+      "exclude": "階層化の判定値のみは階層化",
+      "example_ids": [
+        "I_SHG_12A",
+        "I_SHG_12B"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_12A",
+        "I_SHG_12B",
+        "I_SHG_12C",
+        "I_SHG_12D",
+        "I_HB43_12"
+      ]
+    },
+    {
+      "id": "task:remote_support",
+      "label": "遠隔面接・支援",
+      "include": "ICTの環境・本人確認・情報保護・障害・費用",
+      "exclude": "電子メールという実施手段への言及だけでは付与しない",
+      "example_ids": [
+        "I_SHG_13",
+        "I_HB43_13"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_13",
+        "I_HB43_13"
+      ]
+    },
+    {
+      "id": "task:assessment_planning",
+      "label": "アセスメント・行動計画",
+      "include": "生活背景・意欲・生活習慣の把握、自己決定と計画作成",
+      "exclude": "検査機器の測定条件や制度の対象判定だけは除外",
+      "example_ids": [
+        "I_SHG_14",
+        "I_HB43_14"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_14",
+        "I_HB43_14"
+      ]
+    },
+    {
+      "id": "task:smoking_support",
+      "label": "禁煙支援",
+      "include": "喫煙評価、開始・治療紹介・継続・再挑戦・受動喫煙",
+      "exclude": "階層化の喫煙加算だけは階層化",
+      "example_ids": [
+        "I_SHG_15"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_15"
+      ]
+    },
+    {
+      "id": "task:older_adult_support",
+      "label": "高齢者への支援",
+      "include": "65～74歳の区分例外、生活機能・栄養・低血糖への配慮",
+      "exclude": "年齢という語のみでは付与しない",
+      "example_ids": [
+        "I_SHG_16",
+        "I_HB43_16"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_16",
+        "I_HB43_16"
+      ]
+    },
+    {
+      "id": "task:health_check_data",
+      "label": "健診・診療情報の利用条件",
+      "include": "健診対象資格、検査の成立・省略・代替、他健診・診療情報の利用",
+      "exclude": "支援区分の決定は階層化",
+      "example_ids": [
+        "I_SHG_17",
+        "I_HB43_17"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_17",
+        "I_HB43_17"
+      ]
+    },
+    {
+      "id": "task:records_handoff",
+      "label": "個別記録・機関間引継ぎ",
+      "include": "個人の支援計画・評価の記録、機関連携・保存",
+      "exclude": "組織集計・実績報告だけは付与しない",
+      "example_ids": [
+        "I_SHG_18",
+        "I_HB43_18"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_18",
+        "I_HB43_18"
+      ]
+    },
+    {
+      "id": "task:outsourcing",
+      "label": "委託・再委託",
+      "include": "委託契約・実施体制・元請けの責任・監督",
+      "exclude": "個別ケースの精算や担当変更だけは除外",
+      "example_ids": [
+        "I_SHG_19"
+      ],
+      "integrated_card_ids": [
+        "I_SHG_19"
       ]
     }
   ],
@@ -437,25 +473,60 @@
     "exercise": [
       "topic:physical_activity"
     ],
-    "evaluation": [
-      "task:outcome_evaluation",
-      "operation:points",
-      "operation:program_evaluation"
+    "task:eligibility": [
+      "task:health_check_data",
+      "task:stratification",
+      "task:treatment_medication"
     ],
-    "ict": [
-      "operation:remote"
+    "task:assessment": [
+      "task:assessment_planning"
     ],
-    "consent": [
-      "operation:consent",
-      "operation:privacy"
+    "task:results_explanation": [
+      "task:results_referral"
     ],
-    "contract": [
-      "operation:contract"
+    "task:referral": [
+      "task:results_referral"
     ],
-    "records": [
-      "task:case_records",
-      "operation:record_retention",
-      "operation:reporting"
+    "task:goal_planning": [
+      "task:assessment_planning"
+    ],
+    "task:follow_up": [
+      "task:support_billing",
+      "task:assessment_planning",
+      "task:smoking_support"
+    ],
+    "task:outcome_evaluation": [
+      "task:points_assessment",
+      "task:behavior_change",
+      "task:evaluation_completion"
+    ],
+    "task:interruption_completion": [
+      "task:interruption",
+      "task:evaluation_completion"
+    ],
+    "task:case_records": [
+      "task:records_handoff"
     ]
-  }
+  },
+  "retired_tags": [
+    "consent",
+    "contract",
+    "evaluation",
+    "ict",
+    "operation:consent",
+    "operation:contract",
+    "operation:group",
+    "operation:points",
+    "operation:privacy",
+    "operation:program_evaluation",
+    "operation:record_retention",
+    "operation:remote",
+    "operation:reporting",
+    "operation:staffing_training",
+    "records",
+    "use:case_operations",
+    "use:guidance",
+    "use:organization"
+  ],
+  "task_policy": "統合カードには主業務taskを1つ、詳細要点と原文には具体的に説明する業務を複数付与可。組織集計・履歴等はtaskなし可。"
 }

@@ -33,7 +33,7 @@ class PublicCardTagTests(unittest.TestCase):
     def test_personal_workflows_are_retrievable(self):
         examples = {
             'stratification': 'K_P2_3_004', 'eligibility': 'K_HB43_019',
-            'referral': 'K_HB43_013', 'initial_interview': 'K_HB43_038',
+            'referral': 'K_HB43_013', 'split_interview': 'K_HB43_038',
             'goal_planning': 'K_P3_3_006', 'outcome_evaluation': 'K_QA20241025_026',
         }
         for task, cid in examples.items():
@@ -53,7 +53,7 @@ class PublicCardTagTests(unittest.TestCase):
 
     def test_mixed_reference_has_explicit_personal_scope(self):
         c = self.by_id['REF_HB43_L00580']
-        self.assertTrue({'use:organization', 'use:case_operations', 'individual:relevant'} <= set(c['tags']))
+        self.assertTrue({'task:stratification', 'individual:relevant'} <= set(c['tags']))
         self.assertIn('欠損', c['classification']['individual_scope'])
 
     def test_overbroad_topic_and_bp_duplication_removed(self):
@@ -66,9 +66,9 @@ class PublicCardTagTests(unittest.TestCase):
         for old, targets in self.taxonomy['legacy_aliases'].items():
             expected = set().union(*(self.search(tags=[target]) for target in targets))
             self.assertEqual(self.search(tags=[old]), expected)
-        result = self.search(tags=['evaluation', 'use:case_operations'], individual_use='relevant')
-        self.assertEqual(result, self.search(tags=['evaluation']) &
-                         self.search(tags=['use:case_operations']) & self.search(individual_use='relevant'))
+        result = self.search(tags=['task:outcome_evaluation', 'topic:weight'], individual_use='relevant')
+        self.assertEqual(result, self.search(tags=['task:outcome_evaluation']) &
+                         self.search(tags=['topic:weight']) & self.search(individual_use='relevant'))
         self.assertEqual(self.search(tags=['individual:not_relevant'], individual_use='relevant'), set())
 
     def test_combined_source_text_and_id(self):
@@ -80,6 +80,26 @@ class PublicCardTagTests(unittest.TestCase):
     def test_invalid_tags_fail_explicitly(self):
         with self.assertRaisesRegex(ValueError, 'Unknown tag'):
             self.search(tags=['topic:typo'])
+
+    def test_retired_namespaces_and_ambiguous_aliases_are_rejected(self):
+        for tag in ('use:guidance', 'operation:points', 'evaluation'):
+            with self.subTest(tag=tag), self.assertRaisesRegex(ValueError, 'Retired tag'):
+                self.search(tags=[tag])
+        for card in self.cards:
+            self.assertFalse(any(t.startswith(('use:', 'operation:')) for t in card['tags']))
+
+    def test_integrated_tasks_match_all_eighteen_definitions(self):
+        tasks = {d['id']: set(d['integrated_card_ids']) for d in self.taxonomy['tags']
+                 if d['id'].startswith('task:')}
+        self.assertEqual(len(tasks), 18)
+        for task, ids in tasks.items():
+            self.assertTrue(ids)
+            for cid in ids:
+                self.assertEqual({t for t in self.by_id[cid]['tags'] if t.startswith('task:')}, {task})
+        def change(ledger):
+            row = next(r for r in ledger['cards'] if r['evidence_id'] == 'I_HB43_05')
+            row['tags'] = [t for t in row['tags'] if not t.startswith('task:')]
+        self.assert_invalid_ledger(change)
 
     def assert_invalid_ledger(self, change):
         ledger = copy.deepcopy(self.ledger)
@@ -100,18 +120,18 @@ class PublicCardTagTests(unittest.TestCase):
         self.assert_invalid_ledger(lambda l: l['cards'][0].update(reason=' '))
         self.assert_invalid_ledger(lambda l: l['cards'][0].update(individual_scope=''))
 
-    def test_organization_cannot_be_marked_personal_by_flag_only(self):
+    def test_personal_relevance_requires_explicit_scope(self):
         def change(l):
             row = next(r for r in l['cards'] if r['evidence_id'] == 'K_HB43_057')
-            row['tags'] = ['individual:relevant', 'use:organization']
-            row['individual_scope'] = 'incorrect'
+            row['tags'] = ['individual:relevant']
+            row['individual_scope'] = ''
         self.assert_invalid_ledger(change)
 
     def test_history_cannot_be_promoted_to_current_personal_use(self):
         historical_id = next(c['evidence_id'] for c in self.cards if c['card_type'] == 'historical_reference')
         def change(l):
             row = next(r for r in l['cards'] if r['evidence_id'] == historical_id)
-            row['tags'] = ['individual:relevant', 'use:case_operations']
+            row['tags'] = ['individual:relevant']
             row['individual_scope'] = 'incorrect'
         self.assert_invalid_ledger(change)
 
@@ -128,7 +148,7 @@ class PublicCardTagTests(unittest.TestCase):
         def run(*args):
             return subprocess.run([sys.executable, str(script), *args], capture_output=True, text=True)
         result = run('--individual-use', 'relevant', '--tag', 'task:stratification',
-                     '--tag', 'use:case_operations', '--source', 'P2_3', '--json')
+                     '--tag', 'individual:relevant', '--source', 'P2_3', '--json')
         self.assertEqual(result.returncode, 0, result.stderr)
         cards = json.loads(result.stdout)
         self.assertTrue(cards)

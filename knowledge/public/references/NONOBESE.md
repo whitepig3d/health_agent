@@ -114,9 +114,9 @@
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
-**用途・話題タグ**：individual:relevant, task:assessment, task:goal_planning, topic:alcohol, topic:blood_pressure, topic:diet, topic:kidney, topic:physical_activity, topic:smoking, use:guidance
+**用途・話題タグ**：individual:relevant, task:assessment_planning, task:results_referral, topic:alcohol, topic:blood_pressure, topic:diet, topic:kidney, topic:physical_activity, topic:smoking
 
-**分類理由**：「1 別添３ 特定保健指導の対象とならない非肥満の脳・心血管疾患危険因子 保有者に対 する生活習慣の改善指導 ●危険因子ごとの生活習慣改善の要点 １．血圧 血圧を低下させるための生活習慣改善方」：非肥満者の血圧リスクに対する生活習慣支援と腎機能への配慮。
+**分類理由**：「1 別添３ 特定保健指導の対象とならない非肥満の脳・心血管疾患危険因子 保有者に対 する生活習慣の改善指導 ●危険因子ごとの生活習慣改善の要点 １．血圧 血圧を低下させるための生活習慣改善方」：非肥満者の血圧リスクに対する生活習慣支援と腎機能への配慮。 統合カードの業務単位に合わせ、アセスメント・行動計画・健診結果説明・受診勧奨へ分類。原文参照は対応する詳細要点の出典範囲と従来の編集分類を基に移行。原文全体の専門職再レビューではない。
 
 **個人業務での参照範囲**：本文のアセスメント・目標・行動計画に関する記載。
 
@@ -161,9 +161,9 @@
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
-**用途・話題タグ**：individual:relevant, task:assessment, task:goal_planning, task:referral, topic:alcohol, topic:diet, topic:lipids, topic:physical_activity, topic:smoking, use:guidance
+**用途・話題タグ**：individual:relevant, task:assessment_planning, task:results_referral, topic:alcohol, topic:diet, topic:lipids, topic:physical_activity, topic:smoking
 
-**分類理由**：「（１）高中性脂肪血症および低 HDL コレステロール血症 高中性脂肪血症及び低 HDL コレステロール血症は、一般に肥満度が高いほど 有所見率が高く、体重減少や運動により改善が期待できるが、」：非肥満者の脂質異常への支援と必要な医療への連携。
+**分類理由**：「（１）高中性脂肪血症および低 HDL コレステロール血症 高中性脂肪血症及び低 HDL コレステロール血症は、一般に肥満度が高いほど 有所見率が高く、体重減少や運動により改善が期待できるが、」：非肥満者の脂質異常への支援と必要な医療への連携。 統合カードの業務単位に合わせ、アセスメント・行動計画・健診結果説明・受診勧奨へ分類。原文参照は対応する詳細要点の出典範囲と従来の編集分類を基に移行。原文全体の専門職再レビューではない。
 
 **個人業務での参照範囲**：本文のアセスメント・目標・行動計画・受診勧奨に関する記載。
 
@@ -360,9 +360,9 @@ Behavior Questionnaire など様々なものがあり、目的に応じ使用す
 
 **適用条件・編集注記**：当該資料・章の対象、例外、脚注、適用年度を原本で確認した上で専門職が適用を判断する。
 
-**用途・話題タグ**：individual:relevant, task:assessment, task:goal_planning, task:referral, topic:alcohol, topic:diet, topic:lipids, topic:physical_activity, topic:smoking, use:guidance
+**用途・話題タグ**：individual:relevant, task:assessment_planning, task:results_referral, topic:alcohol, topic:diet, topic:lipids, topic:physical_activity, topic:smoking
 
-**分類理由**：「(2)高 LDL コレステロール血症 動脈硬化巣は必ずコレステロールを核として形成され、LDL コレステロール を低下させて冠動脈疾患等の動脈硬化性疾患を減少させるという治療法につい ては、」：非肥満者の脂質異常への支援と必要な医療への連携。
+**分類理由**：「(2)高 LDL コレステロール血症 動脈硬化巣は必ずコレステロールを核として形成され、LDL コレステロール を低下させて冠動脈疾患等の動脈硬化性疾患を減少させるという治療法につい ては、」：非肥満者の脂質異常への支援と必要な医療への連携。 統合カードの業務単位に合わせ、アセスメント・行動計画・健診結果説明・受診勧奨へ分類。原文参照は対応する詳細要点の出典範囲と従来の編集分類を基に移行。原文全体の専門職再レビューではない。
 
 **個人業務での参照範囲**：本文のアセスメント・目標・行動計画・受診勧奨に関する記載。
 

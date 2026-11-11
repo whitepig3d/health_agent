@@ -20,13 +20,11 @@
     "source_excerpt_sha256": "39df4b8f2c416ee3e6ff5d981a72d8af0ba18c57dd685826d67d2213b993777b",
     "tags": [
       "individual:relevant",
-      "task:eligibility",
       "task:stratification",
       "topic:blood_pressure",
       "topic:glucose",
       "topic:lipids",
-      "topic:medication",
-      "use:case_operations"
+      "topic:medication"
     ],
     "common": false,
     "conditions": [
@@ -462,10 +460,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「階層化：必要データの確認から支援区分の確定まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「階層化：必要データの確認から支援区分の確定まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、階層化へ分類。",
       "individual_scope": "階層化：必要データの確認から支援区分の確定までの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -489,11 +487,7 @@
     "source_excerpt_sha256": "4172141a608ded932631148f56be64794375071a87aeddf2ad7ade9649023309",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:follow_up",
-      "task:initial_interview",
-      "task:outcome_evaluation",
-      "use:case_operations"
+      "task:support_overview"
     ],
     "common": false,
     "conditions": [
@@ -800,10 +794,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「動機付け支援・積極的支援：開始から終了までの全体像」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「動機付け支援・積極的支援：開始から終了までの全体像」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、支援の実施全体像へ分類。",
       "individual_scope": "動機付け支援・積極的支援：開始から終了までの全体像の本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -827,10 +821,7 @@
     "source_excerpt_sha256": "4172141a608ded932631148f56be64794375071a87aeddf2ad7ade9649023309",
     "tags": [
       "individual:relevant",
-      "operation:group",
-      "operation:remote",
-      "task:initial_interview",
-      "use:case_operations"
+      "task:initial_interview"
     ],
     "common": false,
     "conditions": [
@@ -1098,10 +1089,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「初回面接：担当者・内容・時間を満たして成立を判断する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「初回面接：担当者・内容・時間を満たして成立を判断する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、初回面接の成立要件へ分類。",
       "individual_scope": "初回面接：担当者・内容・時間を満たして成立を判断するの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -1125,11 +1116,7 @@
     "source_excerpt_sha256": "44509d86568ce6c0fa10f822471052ac3fec91505519e6a129f9a5eb3cbd9335",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:goal_planning",
-      "task:initial_interview",
-      "task:outcome_evaluation",
-      "use:case_operations"
+      "task:split_interview"
     ],
     "common": false,
     "conditions": [
@@ -1331,10 +1318,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「分割初回面接：見込み判定から計画完成・算定・評価まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「分割初回面接：見込み判定から計画完成・算定・評価まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、分割初回面接へ分類。",
       "individual_scope": "分割初回面接：見込み判定から計画完成・算定・評価までの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -1358,9 +1345,7 @@
     "source_excerpt_sha256": "1955322f3f360fa6339f5751f1686949936ac54edac30db13272d543f58dfa57",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:outcome_evaluation",
-      "use:case_operations"
+      "task:points_assessment"
     ],
     "common": false,
     "conditions": [
@@ -1808,10 +1793,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「積極的支援：アウトカム・プロセスを合わせたポイント総合判定」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「積極的支援：アウトカム・プロセスを合わせたポイント総合判定」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、積極的支援のポイント総合判定へ分類。",
       "individual_scope": "積極的支援：アウトカム・プロセスを合わせたポイント総合判定の本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -1835,11 +1820,9 @@
     "source_excerpt_sha256": "e0eec2576bd037644c7bd6bb853d535bf085d575fe3474144795b44108911e4d",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:outcome_evaluation",
+      "task:points_assessment",
       "topic:waist",
-      "topic:weight",
-      "use:case_operations"
+      "topic:weight"
     ],
     "common": false,
     "conditions": [
@@ -2004,10 +1987,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「腹囲・体重アウトカム：測定から180・20・0ポイントを決める」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「腹囲・体重アウトカム：測定から180・20・0ポイントを決める」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、積極的支援のポイント総合判定へ分類。",
       "individual_scope": "腹囲・体重アウトカム：測定から180・20・0ポイントを決めるの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -2031,11 +2014,7 @@
     "source_excerpt_sha256": "b4b785735227419411df039b278c4127036fd6a0b5682d2490f8246599bdcbe5",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:goal_planning",
-      "task:outcome_evaluation",
-      "use:case_operations",
-      "use:guidance"
+      "task:behavior_change"
     ],
     "common": false,
     "conditions": [
@@ -2396,10 +2375,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「行動変容目標：合意・変更から継続期間とポイントを評価する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「行動変容目標：合意・変更から継続期間とポイントを評価する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、行動変容目標とポイント評価へ分類。",
       "individual_scope": "行動変容目標：合意・変更から継続期間とポイントを評価するの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -2423,9 +2402,7 @@
     "source_excerpt_sha256": "1955322f3f360fa6339f5751f1686949936ac54edac30db13272d543f58dfa57",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:follow_up",
-      "use:case_operations"
+      "task:support_billing"
     ],
     "common": false,
     "conditions": [
@@ -2693,10 +2670,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「継続支援：実施内容・担当・時間から算定可否を判断する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「継続支援：実施内容・担当・時間から算定可否を判断する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、継続支援の算定可否へ分類。",
       "individual_scope": "継続支援：実施内容・担当・時間から算定可否を判断するの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -2720,11 +2697,7 @@
     "source_excerpt_sha256": "4172141a608ded932631148f56be64794375071a87aeddf2ad7ade9649023309",
     "tags": [
       "individual:relevant",
-      "operation:reporting",
-      "task:case_records",
-      "task:outcome_evaluation",
-      "use:case_operations",
-      "use:organization"
+      "task:evaluation_completion"
     ],
     "common": false,
     "conditions": [
@@ -2967,10 +2940,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「実績評価：評価時期・完了・データ未取得を区別する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「実績評価：評価時期・完了・データ未取得を区別する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、実績評価・完了・未評価へ分類。",
       "individual_scope": "実績評価：評価時期・完了・データ未取得を区別するの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -2994,11 +2967,8 @@
     "source_excerpt_sha256": "b5cb28da78a7d53640ad7dd625049ac22a50783f7fda598474fbbb552080c0b8",
     "tags": [
       "individual:relevant",
-      "task:eligibility",
-      "task:referral",
-      "topic:medication",
-      "use:case_operations",
-      "use:guidance"
+      "task:treatment_medication",
+      "topic:medication"
     ],
     "common": false,
     "conditions": [
@@ -3220,10 +3190,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「治療・服薬：対象除外・主治医連携・開始後の継続判断」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「治療・服薬：対象除外・主治医連携・開始後の継続判断」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、治療・服薬状況への対応へ分類。",
       "individual_scope": "治療・服薬：対象除外・主治医連携・開始後の継続判断の本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -3247,9 +3217,7 @@
     "source_excerpt_sha256": "f4bdfe654339be8d607cc9752fb0ca972d158f5b19a95267edf73773417a1db9",
     "tags": [
       "individual:relevant",
-      "task:case_records",
-      "task:interruption_completion",
-      "use:case_operations"
+      "task:interruption"
     ],
     "common": false,
     "conditions": [
@@ -3384,10 +3352,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「中断・脱落・資格喪失：再開・中止・精算を決める」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「中断・脱落・資格喪失：再開・中止・精算を決める」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、中断・脱落・資格喪失へ分類。",
       "individual_scope": "中断・脱落・資格喪失：再開・中止・精算を決めるの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -3411,11 +3379,8 @@
     "source_excerpt_sha256": "911d35722e666b2e9bde24d0ca8ac239acf071314ac49c4a597fb940e968e774",
     "tags": [
       "individual:relevant",
-      "task:referral",
-      "task:results_explanation",
-      "topic:blood_pressure",
-      "use:case_operations",
-      "use:guidance"
+      "task:results_referral",
+      "topic:blood_pressure"
     ],
     "common": false,
     "conditions": [
@@ -3616,10 +3581,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「健診結果説明・受診勧奨：血圧と全検査に共通する進め方」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「健診結果説明・受診勧奨：血圧と全検査に共通する進め方」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、健診結果説明・受診勧奨へ分類。",
       "individual_scope": "健診結果説明・受診勧奨：血圧と全検査に共通する進め方の本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -3643,13 +3608,10 @@
     "source_excerpt_sha256": "fe5d3f26fa38441f6d24c4db504d5d1f6abf4653caf033acb97dd79eb255e788",
     "tags": [
       "individual:relevant",
-      "task:referral",
-      "task:results_explanation",
+      "task:results_referral",
       "topic:glucose",
       "topic:hba1c",
-      "topic:lipids",
-      "use:case_operations",
-      "use:guidance"
+      "topic:lipids"
     ],
     "common": false,
     "conditions": [
@@ -3807,10 +3769,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「健診結果説明・受診勧奨：脂質・血糖の分岐」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「健診結果説明・受診勧奨：脂質・血糖の分岐」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、健診結果説明・受診勧奨へ分類。",
       "individual_scope": "健診結果説明・受診勧奨：脂質・血糖の分岐の本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -3834,11 +3796,8 @@
     "source_excerpt_sha256": "c39f88c7f548f4c71b8d78280f1c8bf4b5cf1705eb6fbca7c04d58eddbcfcebd",
     "tags": [
       "individual:relevant",
-      "task:referral",
-      "task:results_explanation",
-      "topic:kidney",
-      "use:case_operations",
-      "use:guidance"
+      "task:results_referral",
+      "topic:kidney"
     ],
     "common": false,
     "conditions": [
@@ -3954,10 +3913,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「健診結果説明・受診勧奨：腎機能・尿蛋白の全分岐」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「健診結果説明・受診勧奨：腎機能・尿蛋白の全分岐」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、健診結果説明・受診勧奨へ分類。",
       "individual_scope": "健診結果説明・受診勧奨：腎機能・尿蛋白の全分岐の本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -3981,11 +3940,8 @@
     "source_excerpt_sha256": "fba2de4e8ec1782b4568f922c51be208c631102c531b42a5575566d33b457e08",
     "tags": [
       "individual:relevant",
-      "task:referral",
-      "task:results_explanation",
-      "topic:liver",
-      "use:case_operations",
-      "use:guidance"
+      "task:results_referral",
+      "topic:liver"
     ],
     "common": false,
     "conditions": [
@@ -4183,10 +4139,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「健診結果説明・受診勧奨：肝機能・貧血・心電図・眼底」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「健診結果説明・受診勧奨：肝機能・貧血・心電図・眼底」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、健診結果説明・受診勧奨へ分類。",
       "individual_scope": "健診結果説明・受診勧奨：肝機能・貧血・心電図・眼底の本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -4210,13 +4166,7 @@
     "source_excerpt_sha256": "d47cce4a1ecf29af555f4ad377eea1499666941ce5d955c0dc88641f6e4ca664",
     "tags": [
       "individual:relevant",
-      "operation:consent",
-      "operation:points",
-      "operation:privacy",
-      "operation:remote",
-      "task:follow_up",
-      "task:initial_interview",
-      "use:case_operations"
+      "task:remote_support"
     ],
     "common": false,
     "conditions": [
@@ -4484,10 +4434,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「遠隔面接・支援：実施環境から算定・障害対応まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「遠隔面接・支援：実施環境から算定・障害対応まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、遠隔面接・支援へ分類。",
       "individual_scope": "遠隔面接・支援：実施環境から算定・障害対応までの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -4511,10 +4461,7 @@
     "source_excerpt_sha256": "7d191205210b4ab531fb9fdae760bf3c1f76fd74e791592b8723cf44823c015e",
     "tags": [
       "individual:relevant",
-      "task:assessment",
-      "task:follow_up",
-      "task:goal_planning",
-      "use:guidance"
+      "task:assessment_planning"
     ],
     "common": false,
     "conditions": [
@@ -4871,10 +4818,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「アセスメントから本人の行動計画を作成する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「アセスメントから本人の行動計画を作成する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、アセスメント・行動計画へ分類。",
       "individual_scope": "アセスメントから本人の行動計画を作成するの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -4898,12 +4845,8 @@
     "source_excerpt_sha256": "89c6569494710e277dd975a9bc56b4d00cec2d8068fddca006d83ab413da6866",
     "tags": [
       "individual:relevant",
-      "task:assessment",
-      "task:follow_up",
-      "task:goal_planning",
-      "topic:smoking",
-      "use:case_operations",
-      "use:guidance"
+      "task:smoking_support",
+      "topic:smoking"
     ],
     "common": false,
     "conditions": [
@@ -5127,10 +5070,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「禁煙支援：全員への働きかけから実行・再挑戦・評価まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「禁煙支援：全員への働きかけから実行・再挑戦・評価まで」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、禁煙支援へ分類。",
       "individual_scope": "禁煙支援：全員への働きかけから実行・再挑戦・評価までの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -5154,14 +5097,10 @@
     "source_excerpt_sha256": "50eb4bec748db9e66b47c14ff74d587aab1e456d6e4c58edf123053f175ab481",
     "tags": [
       "individual:relevant",
-      "task:assessment",
-      "task:goal_planning",
-      "task:stratification",
+      "task:older_adult_support",
       "topic:frailty",
       "topic:medication",
-      "topic:oral",
-      "use:case_operations",
-      "use:guidance"
+      "topic:oral"
     ],
     "common": false,
     "conditions": [
@@ -5358,10 +5297,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「高齢者への支援：年齢による区分と生活機能に応じた目標」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「高齢者への支援：年齢による区分と生活機能に応じた目標」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、高齢者への支援へ分類。",
       "individual_scope": "高齢者への支援：年齢による区分と生活機能に応じた目標の本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -5385,11 +5324,7 @@
     "source_excerpt_sha256": "4028cb9c344a5e3beec7eb4c7f2f9b6635373f412846cfca855575dea11ab073",
     "tags": [
       "individual:relevant",
-      "operation:consent",
-      "task:case_records",
-      "task:eligibility",
-      "task:stratification",
-      "use:case_operations"
+      "task:health_check_data"
     ],
     "common": false,
     "conditions": [
@@ -5737,10 +5672,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「他の健診・診療情報：特定健診として利用できるか確認する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「他の健診・診療情報：特定健診として利用できるか確認する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、健診・診療情報の利用条件へ分類。",
       "individual_scope": "他の健診・診療情報：特定健診として利用できるか確認するの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -5764,12 +5699,7 @@
     "source_excerpt_sha256": "901b85d31912d64f0d6660b488273eb41ddbee3d1984809be07a07f08da65538",
     "tags": [
       "individual:relevant",
-      "operation:privacy",
-      "operation:record_retention",
-      "task:case_records",
-      "task:outcome_evaluation",
-      "use:case_operations",
-      "use:organization"
+      "task:records_handoff"
     ],
     "common": false,
     "conditions": [
@@ -5994,10 +5924,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「個別記録・機関間引継ぎ：一貫した指導と評価を継続する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。",
+      "reason": "「個別記録・機関間引継ぎ：一貫した指導と評価を継続する」の判断条件と手順を複数原文から統合。個別ケースでの判断・支援に具体的に用いる内容。 統合カードの業務単位に合わせ、個別記録・機関間引継ぎへ分類。",
       "individual_scope": "個別記録・機関間引継ぎ：一貫した指導と評価を継続するの本文に記載した個別ケースの判断・説明・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -6021,10 +5951,7 @@
     "source_excerpt_sha256": "138c6f936fcd86a25b4c6d5127e91b3ca57838cad1bfb36b075bb15a3eb55775",
     "tags": [
       "individual:not_relevant",
-      "operation:contract",
-      "operation:privacy",
-      "operation:staffing_training",
-      "use:organization"
+      "task:outsourcing"
     ],
     "common": false,
     "conditions": [
@@ -6315,10 +6242,10 @@
     "editorial_date": "2026-11-09",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "「委託・再委託：契約の成立条件と元請け・保険者の責任」の判断条件と手順を複数原文から統合。機関の契約・委託体制と責任を定める組織業務。",
+      "reason": "「委託・再委託：契約の成立条件と元請け・保険者の責任」の判断条件と手順を複数原文から統合。機関の契約・委託体制と責任を定める組織業務。 統合カードの業務単位に合わせ、委託・再委託へ分類。",
       "individual_scope": "",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -6342,13 +6269,11 @@
     "source_excerpt_sha256": "6c712e5d680fee1a3753e73299673cf249a63d6742c2498c3ba8a374b75732c7",
     "tags": [
       "individual:relevant",
-      "task:eligibility",
       "task:stratification",
       "topic:blood_pressure",
       "topic:glucose",
       "topic:lipids",
-      "topic:medication",
-      "use:case_operations"
+      "topic:medication"
     ],
     "common": false,
     "conditions": [
@@ -6687,10 +6612,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜階層化の区分決定の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜階層化の区分決定の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、階層化へ分類。",
       "individual_scope": "HB43限定｜階層化の区分決定の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -6714,11 +6639,7 @@
     "source_excerpt_sha256": "4172141a608ded932631148f56be64794375071a87aeddf2ad7ade9649023309",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:follow_up",
-      "task:initial_interview",
-      "task:outcome_evaluation",
-      "use:case_operations"
+      "task:support_overview"
     ],
     "common": false,
     "conditions": [
@@ -7085,10 +7006,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜支援開始から評価までの個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜支援開始から評価までの個別業務上の判断を扱う。 統合カードの業務単位に合わせ、支援の実施全体像へ分類。",
       "individual_scope": "HB43限定｜支援開始から評価までの本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -7112,10 +7033,7 @@
     "source_excerpt_sha256": "4172141a608ded932631148f56be64794375071a87aeddf2ad7ade9649023309",
     "tags": [
       "individual:relevant",
-      "operation:group",
-      "operation:remote",
-      "task:initial_interview",
-      "use:case_operations"
+      "task:initial_interview"
     ],
     "common": false,
     "conditions": [
@@ -7329,10 +7247,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜初回面接の実施内容と担当資格の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜初回面接の実施内容と担当資格の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、初回面接の成立要件へ分類。",
       "individual_scope": "HB43限定｜初回面接の実施内容と担当資格の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -7356,11 +7274,7 @@
     "source_excerpt_sha256": "bd4a2d33e2c49d1e44336f5238f750f81b668bf405c99a9d00abe91bdc31bc6b",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:goal_planning",
-      "task:initial_interview",
-      "task:outcome_evaluation",
-      "use:case_operations"
+      "task:split_interview"
     ],
     "common": false,
     "conditions": [
@@ -7522,10 +7436,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜分割面接の時系列の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜分割面接の時系列の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、分割初回面接へ分類。",
       "individual_scope": "HB43限定｜分割面接の時系列の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -7549,11 +7463,9 @@
     "source_excerpt_sha256": "e57c68cbc9f6d4f84f3303df6442bbd680532c5e6d2f79437fd68f23743cd2ab",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:outcome_evaluation",
+      "task:points_assessment",
       "topic:waist",
-      "topic:weight",
-      "use:case_operations"
+      "topic:weight"
     ],
     "common": false,
     "conditions": [
@@ -7790,10 +7702,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に基づき腹囲・体重の成果判定と積極的支援のポイント総合判定を一体で扱う。",
+      "reason": "HB43に基づき腹囲・体重の成果判定と積極的支援のポイント総合判定を一体で扱う。 統合カードの業務単位に合わせ、積極的支援のポイント総合判定へ分類。",
       "individual_scope": "腹囲・体重の比較・算式・欠測時の扱い、行動変容と支援の点数を合わせた判定・記録。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -7817,11 +7729,7 @@
     "source_excerpt_sha256": "b4b785735227419411df039b278c4127036fd6a0b5682d2490f8246599bdcbe5",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:goal_planning",
-      "task:outcome_evaluation",
-      "use:case_operations",
-      "use:guidance"
+      "task:behavior_change"
     ],
     "common": false,
     "conditions": [
@@ -7982,10 +7890,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜行動目標から評価までの個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜行動目標から評価までの個別業務上の判断を扱う。 統合カードの業務単位に合わせ、行動変容目標とポイント評価へ分類。",
       "individual_scope": "HB43限定｜行動目標から評価までの本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -8009,9 +7917,7 @@
     "source_excerpt_sha256": "1955322f3f360fa6339f5751f1686949936ac54edac30db13272d543f58dfa57",
     "tags": [
       "individual:relevant",
-      "operation:points",
-      "task:follow_up",
-      "use:case_operations"
+      "task:support_billing"
     ],
     "common": false,
     "conditions": [
@@ -8148,10 +8054,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜継続支援の実施と算定の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜継続支援の実施と算定の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、継続支援の算定可否へ分類。",
       "individual_scope": "HB43限定｜継続支援の実施と算定の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -8175,11 +8081,7 @@
     "source_excerpt_sha256": "a33d08578a1084106461e930a8d8b78f34f16354c2c0575ba0311a6ae445639a",
     "tags": [
       "individual:relevant",
-      "operation:reporting",
-      "task:case_records",
-      "task:outcome_evaluation",
-      "use:case_operations",
-      "use:organization"
+      "task:evaluation_completion"
     ],
     "common": false,
     "conditions": [
@@ -8370,10 +8272,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜実績評価と未評価の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜実績評価と未評価の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、実績評価・完了・未評価へ分類。",
       "individual_scope": "HB43限定｜実績評価と未評価の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -8397,11 +8299,8 @@
     "source_excerpt_sha256": "b5cb28da78a7d53640ad7dd625049ac22a50783f7fda598474fbbb552080c0b8",
     "tags": [
       "individual:relevant",
-      "task:eligibility",
-      "task:referral",
-      "topic:medication",
-      "use:case_operations",
-      "use:guidance"
+      "task:treatment_medication",
+      "topic:medication"
     ],
     "common": false,
     "conditions": [
@@ -8588,10 +8487,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜治療・服薬への対応の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜治療・服薬への対応の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、治療・服薬状況への対応へ分類。",
       "individual_scope": "HB43限定｜治療・服薬への対応の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -8615,9 +8514,7 @@
     "source_excerpt_sha256": "f4bdfe654339be8d607cc9752fb0ca972d158f5b19a95267edf73773417a1db9",
     "tags": [
       "individual:relevant",
-      "task:case_records",
-      "task:interruption_completion",
-      "use:case_operations"
+      "task:interruption"
     ],
     "common": false,
     "conditions": [
@@ -8728,10 +8625,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜脱落・資格喪失の対応の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜脱落・資格喪失の対応の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、中断・脱落・資格喪失へ分類。",
       "individual_scope": "HB43限定｜脱落・資格喪失の対応の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -8755,11 +8652,8 @@
     "source_excerpt_sha256": "911d35722e666b2e9bde24d0ca8ac239acf071314ac49c4a597fb940e968e774",
     "tags": [
       "individual:relevant",
-      "task:referral",
-      "task:results_explanation",
-      "topic:blood_pressure",
-      "use:case_operations",
-      "use:guidance"
+      "task:results_referral",
+      "topic:blood_pressure"
     ],
     "common": false,
     "conditions": [
@@ -8947,10 +8841,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜結果説明と受診の必要性の判断の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜結果説明と受診の必要性の判断の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、健診結果説明・受診勧奨へ分類。",
       "individual_scope": "HB43限定｜結果説明と受診の必要性の判断の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -8974,13 +8868,7 @@
     "source_excerpt_sha256": "d47cce4a1ecf29af555f4ad377eea1499666941ce5d955c0dc88641f6e4ca664",
     "tags": [
       "individual:relevant",
-      "operation:consent",
-      "operation:points",
-      "operation:privacy",
-      "operation:remote",
-      "task:follow_up",
-      "task:initial_interview",
-      "use:case_operations"
+      "task:remote_support"
     ],
     "common": false,
     "conditions": [
@@ -9144,10 +9032,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜遠隔面接・支援の実施の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜遠隔面接・支援の実施の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、遠隔面接・支援へ分類。",
       "individual_scope": "HB43限定｜遠隔面接・支援の実施の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -9171,10 +9059,7 @@
     "source_excerpt_sha256": "f76f145bab7ad3826938ca0899208274567e9fdfe7f380023924750e75679f41",
     "tags": [
       "individual:relevant",
-      "task:assessment",
-      "task:follow_up",
-      "task:goal_planning",
-      "use:guidance"
+      "task:assessment_planning"
     ],
     "common": false,
     "conditions": [
@@ -9337,10 +9222,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜本人が選ぶ目標と支援計画の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜本人が選ぶ目標と支援計画の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、アセスメント・行動計画へ分類。",
       "individual_scope": "HB43限定｜本人が選ぶ目標と支援計画の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -9364,12 +9249,8 @@
     "source_excerpt_sha256": "6c712e5d680fee1a3753e73299673cf249a63d6742c2498c3ba8a374b75732c7",
     "tags": [
       "individual:relevant",
-      "task:assessment",
-      "task:goal_planning",
-      "task:stratification",
-      "topic:medication",
-      "use:case_operations",
-      "use:guidance"
+      "task:older_adult_support",
+      "topic:medication"
     ],
     "common": false,
     "conditions": [
@@ -9583,10 +9464,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜65～74歳の支援区分と実施の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜65～74歳の支援区分と実施の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、高齢者への支援へ分類。",
       "individual_scope": "HB43限定｜65～74歳の支援区分と実施の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -9610,11 +9491,7 @@
     "source_excerpt_sha256": "4028cb9c344a5e3beec7eb4c7f2f9b6635373f412846cfca855575dea11ab073",
     "tags": [
       "individual:relevant",
-      "operation:consent",
-      "task:case_records",
-      "task:eligibility",
-      "task:stratification",
-      "use:case_operations"
+      "task:health_check_data"
     ],
     "common": false,
     "conditions": [
@@ -9880,10 +9757,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜他健診・診療情報の利用の個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜他健診・診療情報の利用の個別業務上の判断を扱う。 統合カードの業務単位に合わせ、健診・診療情報の利用条件へ分類。",
       "individual_scope": "HB43限定｜他健診・診療情報の利用の本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   },
   {
@@ -9907,12 +9784,7 @@
     "source_excerpt_sha256": "901b85d31912d64f0d6660b488273eb41ddbee3d1984809be07a07f08da65538",
     "tags": [
       "individual:relevant",
-      "operation:privacy",
-      "operation:record_retention",
-      "task:case_records",
-      "task:outcome_evaluation",
-      "use:case_operations",
-      "use:organization"
+      "task:records_handoff"
     ],
     "common": false,
     "conditions": [
@@ -10128,10 +10000,10 @@
     "source_policy": "HB43_only",
     "editorial_note": "複数原文を判断手順として再構成した編集草案。citationsが全出典、単一出典欄は第一出典。記録項目には判断を追跡するための編集上の推奨を含み、一律の法定必須項目とはしない。",
     "classification": {
-      "reason": "HB43に記載されたHB43限定｜個別記録と機関間引継ぎの個別業務上の判断を扱う。",
+      "reason": "HB43に記載されたHB43限定｜個別記録と機関間引継ぎの個別業務上の判断を扱う。 統合カードの業務単位に合わせ、個別記録・機関間引継ぎへ分類。",
       "individual_scope": "HB43限定｜個別記録と機関間引継ぎの本文に明示した判断・支援・記録に限定。",
       "status": "editorial_draft",
-      "taxonomy_version": "2026-11-06"
+      "taxonomy_version": "2026-11-11"
     }
   }
 ]
